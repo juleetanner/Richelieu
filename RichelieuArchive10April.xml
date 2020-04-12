@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <teiCorpus version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -335,10 +334,10 @@
                   </occupation>
                </person>
                <person xml:id="MX">
-                  <!-- Unknown male correspondents -->
+		 <ab>Unknown male correspondent</ab>
                </person>
                <person xml:id="FX">
-                  <!-- Unknown female correspontents -->
+                  <ab>Unknown female correspontent</ab>
                </person>
             </listPerson>
             <listPlace>
@@ -465,6 +464,26 @@
             </listPlace>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+	<listPrefixDef>
+	  <desc>Images specified on <att>facs</att> should use just
+	  the name of the image file without a path or its extension.
+	  Note that the match pattern here constrains filenames to be
+	  those that could be used as an XML name.</desc>
+	  <prefixDef ident="pi"
+		     matchPattern="(\i\c+)+"
+		     replacementPattern="images/small/$1.jpg"/>
+	  <prefixDef ident="pi"
+		     matchPattern="(\i\c+)+"
+		     replacementPattern="images/medium/$1.jpg"/>
+	  <prefixDef ident="pi"
+		     matchPattern="(\i\c+)+"
+		     replacementPattern="images/large/$1.jpg"/>
+	  <prefixDef ident="pi"
+		     matchPattern="(\i\c+)+"
+		     replacementPattern="images/thumbnail/$1.jpg"/>
+	</listPrefixDef>
+      </encodingDesc>
    </teiHeader>
 
    <TEI xml:id="letter1">
@@ -526,7 +545,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="Vialart_letters_Page_01"/>
+            <pb facs="pi:Vialart_letters_Page_01"/>
             <opener>
                <salute><choice>
                      <orig>Monsievr</orig>
@@ -563,7 +582,7 @@
                &amp; <persName ref="#Argenson">d'Argençon</persName>.</p>
             <p>Les ordres necessaires pour vos munitions de guerre sont donnez de telle sorte, que
                vous en aurez tout contentement. </p>
-            <pb facs="Vialart_letters_Page_02"/>
+            <pb facs="pi:Vialart_letters_Page_02"/>
             <p>Les Troupes que vous ne desirez pas qui soient licentiées selon que vous l'<choice>
                   <orig>auez</orig>
                   <reg>avez</reg>
@@ -734,7 +753,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="Vialart_letters_Page_02"/>
+            <pb facs="pi:Vialart_letters_Page_02"/>
             <opener><salute><choice>
                      <orig>Monseignevr</orig>
                      <reg>Monseigneur</reg>
@@ -815,7 +834,7 @@
                   <orig>seruy</orig>
                   <reg>servy</reg>
                </choice> pour la campagne prochaine, ces quatre mil hommes valans mieux que deux
-               fois autant <pb facs="Vialart_letters_Page_03"/>de ceux qui passeront au Printemps;
+               fois autant <pb facs="pi:Vialart_letters_Page_03"/>de ceux qui passeront au Printemps;
                mais <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
@@ -1026,7 +1045,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="Vialart_letters_Page_03"/>
+            <pb facs="pi:Vialart_letters_Page_03"/>
             <opener><salute><choice>
                      <orig>Monseignevr</orig>
                      <reg>Monseigneur</reg>
@@ -1050,7 +1069,7 @@
                </choice>'aye esté extremement marry de sa perte, <choice>
                   <orig>i</orig>
                   <reg>j</reg>
-               </choice>'en ay esté plus sensiblement<pb facs="Vialart_letters_Page_04"/> touché, à
+               </choice>'en ay esté plus sensiblement<pb facs="pi:Vialart_letters_Page_04"/> touché, à
                cause de la douleur que vous en <choice>
                   <orig>receuez</orig>
                   <reg>recevez</reg>
@@ -1224,7 +1243,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="Vialart_letters_Page_04"/>
+            <pb facs="pi:Vialart_letters_Page_04"/>
             <p>Minentissimo &amp; Reuerendissimo S. mio Patron Colmo ho pagato affet- tionamente Mr
                d'Hemery signifie à V. Eminenza lamia singolar deuo- ltione &amp; come hotolte le
                speranze de miei auanzamenti, con 8. Maiesta nella gratia é protettione di V.
@@ -1291,7 +1310,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="Vialart_letters_Page_05"/>
+            <pb facs="pi:Vialart_letters_Page_05"/>
             <opener><salute><choice>
                      <orig>Monseignevr</orig>
                      <reg>Monseigneur</reg>
@@ -1529,7 +1548,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="Vialart_letters_Page_06"/>
+            <pb facs="pi:Vialart_letters_Page_06"/>
             <opener><salute>Eminentissimo e <choice>
                      <orig>Reuerendissimo</orig>
                      <reg>Reverendissimo</reg>
@@ -1622,7 +1641,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="Vialart_letters_Page_06"/>
+            <pb facs="pi:Vialart_letters_Page_06"/>
             <opener><salute><choice>
                      <orig>Monsievr</orig>
                      <reg>Monsieur</reg>
@@ -1647,7 +1666,7 @@
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> vous en dois rendre ces ceremonies, &amp; remerciemens, qui partent de la
-               plus veritable &amp; <pb facs="Vialart_letters_Page_07"/>sincere reconnoissance dont
+               plus veritable &amp; <pb facs="pi:Vialart_letters_Page_07"/>sincere reconnoissance dont
                on puisse <choice>
                   <orig>receuoir</orig>
                   <reg>recevoir</reg>
@@ -1747,7 +1766,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="Vialart_letters_Page_07"/>
+            <pb facs="pi:Vialart_letters_Page_07"/>
             <opener><salute><choice>
                      <orig>Monsievr</orig>
                      <reg>Monsieur</reg>
@@ -1929,7 +1948,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="Vialart_letters_Page_08"/>
+            <pb facs="pi:Vialart_letters_Page_08"/>
             <opener><salute><choice>
                      <orig>Monseignevr</orig>
                      <reg>Monseigneur</reg>
@@ -2157,7 +2176,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="Vialart_letters_Page_09"/>
+            <pb facs="pi:Vialart_letters_Page_09"/>
             <opener>
                <salute><choice>
                      <orig>Monseignevr</orig>
@@ -2320,7 +2339,7 @@
                </choice> pars pour aller faire vn tour dans nos quartiers, &amp; pour establir
                Monsieur de la Tour dans Cazal, on y trauaille en diligence, tant aux fortifications,
                qu'à la fon- derie, &amp; à mettre les prouisions dans la Citadelle que vous m'auez
-               commandé; <pb facs="Vialart_letters_Page_10"/><choice>
+               commandé; <pb facs="pi:Vialart_letters_Page_10"/><choice>
                   <orig>Ie</orig>
                   <reg>Je</reg>
                </choice> vous ay enuoyé les Plans du Pont de Sture, &amp; de la despense par estima-
@@ -2431,9 +2450,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99912_116105v_0002-hpr.jpg"/>
+            <pb facs="pi:MLM99912_116105v_0002-hpr"/>
             <p>[Transcription to come.]</p>
-            <pb facs="MLM99911_116105v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99911_116105v_0001-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2499,9 +2518,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99919_126971v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99919_126971v_0001-hpr"/>
             <p>[Transcription to come.]</p>
-            <pb facs="MLM99920_126971v_0002-hpr.jpg"/>
+            <pb facs="pi:MLM99920_126971v_0002-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2563,7 +2582,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99908_101568v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99908_101568v_0001-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2601,7 +2620,7 @@
                         <note>1 p.</note>
                      </adminInfo>
                      <surrogates>
-                        <ptr n="1" facs="MLM99910_103601v_0001-hpr.jpg"/>
+                        <ptr n="1" facs="pi:MLM99910_103601v_0001-hpr"/>
                      </surrogates>
                   </additional>
                </msDesc>
@@ -2628,7 +2647,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99910_103601v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99910_103601v_0001-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2695,9 +2714,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99917_126906v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99917_126906v_0001-hpr"/>
             <p>[Transcription to come.]</p>
-            <pb facs="MLM99918_126906v_0002-hpr.jpg"/>
+            <pb facs="pi:MLM99918_126906v_0002-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2739,8 +2758,8 @@
                         <note>1 p.</note>
                      </adminInfo>
                      <surrogates>
-                        <ptr n="1" facs="MLM99923_132070v_0001-hpr.jpg"/>
-                        <ptr n="2" facs="MLM99924_132070v_0002-hpr.jpg"/>
+                        <ptr n="1" facs="pi:MLM99923_132070v_0001-hpr"/>
+                        <ptr n="2" facs="pi:MLM99924_132070v_0002-hpr"/>
                      </surrogates>
                   </additional>
                </msDesc>
@@ -2767,9 +2786,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99923_132070v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99923_132070v_0001-hpr"/>
             <p>[Transcription to come.]</p>
-            <pb facs="MLM99924_132070v_0002-hpr.jpg"/>
+            <pb facs="pi:MLM99924_132070v_0002-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2835,9 +2854,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99934_190649v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99934_190649v_0001-hpr"/>
             <p>[Transcription to come.]</p>
-            <pb facs="MLM99934_190649v_0002-hpr.jpg"/>
+            <pb facs="pi:MLM99934_190649v_0002-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2879,8 +2898,8 @@
                         <note>4 pp.</note>
                      </adminInfo>
                      <surrogates>
-                        <ptr n="1" facs="MLM99921_130530v_0001-hpr.jpg"/>
-                        <ptr n="2" facs="MLM99922_130530v_0002-hpr.jpg"/>
+                        <ptr n="1" facs="pi:MLM99921_130530v_0001-hpr"/>
+                        <ptr n="2" facs="pi:MLM99922_130530v_0002-hpr"/>
                      </surrogates>
                   </additional>
                </msDesc>
@@ -2908,7 +2927,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99921_130530v_0001-hpr.jpg" n="1r"/>
+            <pb facs="pi:MLM99921_130530v_0001-hpr" n="1r"/>
             <opener>
                <dateline>4 Octob 1622</dateline>
                <salute>Monseigneur,</salute>
@@ -2942,7 +2961,7 @@
                   <reg>doivent</reg>
                </choice> rechercher les grandes dignites comme des moyens necessaires pour faire de
                grandes choses, et s'ils les laissent usurper par les meschans, Ils trahissent <pb
-                  facs="MLM99922_130530v_0002-hpr.jpg" n="2v"/> le monde qui attand son repos de
+                  facs="pi:MLM99922_130530v_0002-hpr" n="2v"/> le monde qui attand son repos de
                leur vigilance.</p>
             <p>Pardonnés moy donc si Je vous dy que nous nous passerons plus aysement de vostre
                modestie que des autres qualities que le Ciel vous a donnees, et que vous ne Seauries
@@ -2966,7 +2985,7 @@
                   <orig>acheuer</orig>
                   <reg>achever</reg>
                </choice> les victoires des Roys par la ruyne de l'herezie. Toute la Chrestiente vous
-               demande <pb facs="MLM99922_130530v_0002-hpr.jpg" n="3r"/> a cet effet vos <choice>
+               demande <pb facs="pi:MLM99922_130530v_0002-hpr" n="3r"/> a cet effet vos <choice>
                   <orig>ouurages</orig>
                   <reg>ouvrages</reg>
                </choice> pour une derniere Instruction, et la paix generalle des consciences: Et
@@ -2991,7 +3010,7 @@
                </choice> des ames que c'est la seule puissance a qui elles veulent se sousmettre. Si
                Je puis esperer, Monseigneur, d'estre connu d'un autre siecle que le nostre, et que
                mon nom aille Jusqu'a la posterité, elle scaura que cete consideration m'obligea
-               premierement de reche- <pb facs="MLM99921_130530v_0001-hpr.jpg" n="4v"/> rcher vostre
+               premierement de reche- <pb facs="pi:MLM99921_130530v_0001-hpr" n="4v"/> rcher vostre
                connoissance, et que vous ayant ouÿ parler vous gaignastes si absolument mon Esprit
                et mon affection, que despuis ce temps la Je vous regarday tousjours comme un homme
                extraordinaire, et fus passionnement.</p>
@@ -3045,8 +3064,8 @@
                         <note>2 pp.</note>
                      </adminInfo>
                      <surrogates>
-                        <ptr n="1" facs="MLM99927_136119v_0001-hpr.jpg"/>
-                        <ptr n="2" facs="MLM99928_136119v_0002-hpr.jpg"/>
+                        <ptr n="1" facs="pi:MLM99927_136119v_0001-hpr"/>
+                        <ptr n="2" facs="pi:MLM99928_136119v_0002-hpr"/>
                      </surrogates>
                   </additional>
                </msDesc>
@@ -3072,9 +3091,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99927_136119v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99927_136119v_0001-hpr"/>
             <p>[Transcription to come.]</p>
-            <pb facs="MLM99928_136119v_0002-hpr.jpg"/>
+            <pb facs="pi:MLM99928_136119v_0002-hpr"/>
          </body>
       </text>
    </TEI>
@@ -3139,9 +3158,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99932_136121v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99932_136121v_0001-hpr"/>
             <p>[Transcription to come.]</p>
-            <pb facs="MLM99933_136121v_0002-hpr.jpg"/>
+            <pb facs="pi:MLM99933_136121v_0002-hpr"/>
          </body>
       </text>
    </TEI>
@@ -3206,9 +3225,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99930_136120v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99930_136120v_0001-hpr"/>
             <p>[Transcription to come.]</p>
-            <pb facs="MLM99931_136120v_0002-hpr.jpg"/>
+            <pb facs="pi:MLM99931_136120v_0002-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -3270,7 +3289,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99925_136118v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99925_136118v_0001-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -3331,7 +3350,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99913_117073v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99913_117073v_0001-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -3394,7 +3413,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99915_120604v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99915_120604v_0001-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -3461,9 +3480,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="MLM99936_200045v_0001-hpr.jpg"/>
+            <pb facs="pi:MLM99936_200045v_0001-hpr"/>
             <p>[Transcription to come.]</p>
-            <pb facs="MLM99937_200045v_0002-hpr.jpg"/>
+            <pb facs="pi:MLM99937_200045v_0002-hpr"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
