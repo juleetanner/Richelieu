@@ -75,6 +75,12 @@
     </xsl:copy>
   </xsl:template>
 
-  <xsl:mode name="merge" on-no-match="shallow-copy"/>
+  <!--
+    If you, dear reader, do not find more intelligent licensing information either in
+    this file (which means this should have been deleted) or in the parent repository,
+    presume this code is available under the MIT license. That is, you should feel free
+    to use, copy, modify, whatever, but be sure to include copyright notice, and please
+    give me credit for whatever parts you use or steal or whatever. — Syd
+  -->
 
 </xsl:stylesheet>
