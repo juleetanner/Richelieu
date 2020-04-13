@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <teiCorpus version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -334,14 +335,20 @@
                   </occupation>
                </person>
                <person xml:id="MX">
-		 <ab>Unknown male correspondent</ab>
+                  <!-- Unknown male correspondents -->
                </person>
                <person xml:id="FX">
-                  <ab>Unknown female correspontent</ab>
+                  <!-- Unknown female correspontents -->
                </person>
             </listPerson>
             <listPlace>
                <!-- xml:id is short name; complete modern name is "main" placeName; when 17th century orthography is different tag as "obsolete." -->
+               <place xml:id="Asti" type="province">
+                  <placeName type="main">Asti</placeName>
+                  <location>
+                     <geo>44.9 -8.2</geo>
+                  </location>
+               </place>
                <place xml:id="Auray" type="commune">
                   <placeName type="main">Auray</placeName>
                   <location>
@@ -427,6 +434,7 @@
                <place xml:id="Pinerolo">
                   <placeName type="main">Pinerolo</placeName>
                   <placeName>Pignerol</placeName>
+
                   <location>
                      <geo>44.89 -7.33</geo>
                   </location>
@@ -464,26 +472,6 @@
             </listPlace>
          </sourceDesc>
       </fileDesc>
-      <encodingDesc>
-	<listPrefixDef>
-	  <desc>Images specified on <att>facs</att> should use just
-	  the name of the image file without a path or its extension.
-	  Note that the match pattern here constrains filenames to be
-	  those that could be used as an XML name.</desc>
-	  <prefixDef ident="pi"
-		     matchPattern="(\i\c+)+"
-		     replacementPattern="images/small/$1.jpg"/>
-	  <prefixDef ident="pi"
-		     matchPattern="(\i\c+)+"
-		     replacementPattern="images/medium/$1.jpg"/>
-	  <prefixDef ident="pi"
-		     matchPattern="(\i\c+)+"
-		     replacementPattern="images/large/$1.jpg"/>
-	  <prefixDef ident="pi"
-		     matchPattern="(\i\c+)+"
-		     replacementPattern="images/thumbnail/$1.jpg"/>
-	</listPrefixDef>
-      </encodingDesc>
    </teiHeader>
 
    <TEI xml:id="letter1">
@@ -545,7 +533,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:Vialart_letters_Page_01"/>
+            <pb facs="Vialart_letters_Page_01"/>
             <opener>
                <salute><choice>
                      <orig>Monsievr</orig>
@@ -582,7 +570,7 @@
                &amp; <persName ref="#Argenson">d'Argençon</persName>.</p>
             <p>Les ordres necessaires pour vos munitions de guerre sont donnez de telle sorte, que
                vous en aurez tout contentement. </p>
-            <pb facs="pi:Vialart_letters_Page_02"/>
+            <pb facs="Vialart_letters_Page_02"/>
             <p>Les Troupes que vous ne desirez pas qui soient licentiées selon que vous l'<choice>
                   <orig>auez</orig>
                   <reg>avez</reg>
@@ -661,7 +649,11 @@
                </choice> les yeux, &amp; luy fasse penser au peril où elle est, comme elle est
                obligée.</p>
             <p><persName ref="#Tommaso">Monsieur le Prince<certainty locus="name" degree=".6"
-                  /></persName> arriuera demain à Paris, <choice>
+                  /></persName>
+               <choice>
+                  <orig>arriuera</orig>
+                  <reg>arrivera</reg>
+               </choice> demain à Paris, <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> l'attens <choice>
@@ -753,7 +745,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:Vialart_letters_Page_02"/>
+            <pb facs="Vialart_letters_Page_02"/>
             <opener><salute><choice>
                      <orig>Monseignevr</orig>
                      <reg>Monseigneur</reg>
@@ -834,7 +826,7 @@
                   <orig>seruy</orig>
                   <reg>servy</reg>
                </choice> pour la campagne prochaine, ces quatre mil hommes valans mieux que deux
-               fois autant <pb facs="pi:Vialart_letters_Page_03"/>de ceux qui passeront au Printemps;
+               fois autant <pb facs="Vialart_letters_Page_03"/>de ceux qui passeront au Printemps;
                mais <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
@@ -1045,7 +1037,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:Vialart_letters_Page_03"/>
+            <pb facs="Vialart_letters_Page_03"/>
             <opener><salute><choice>
                      <orig>Monseignevr</orig>
                      <reg>Monseigneur</reg>
@@ -1069,7 +1061,7 @@
                </choice>'aye esté extremement marry de sa perte, <choice>
                   <orig>i</orig>
                   <reg>j</reg>
-               </choice>'en ay esté plus sensiblement<pb facs="pi:Vialart_letters_Page_04"/> touché, à
+               </choice>'en ay esté plus sensiblement<pb facs="Vialart_letters_Page_04"/> touché, à
                cause de la douleur que vous en <choice>
                   <orig>receuez</orig>
                   <reg>recevez</reg>
@@ -1243,7 +1235,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:Vialart_letters_Page_04"/>
+            <pb facs="Vialart_letters_Page_04"/>
             <p>Minentissimo &amp; Reuerendissimo S. mio Patron Colmo ho pagato affet- tionamente Mr
                d'Hemery signifie à V. Eminenza lamia singolar deuo- ltione &amp; come hotolte le
                speranze de miei auanzamenti, con 8. Maiesta nella gratia é protettione di V.
@@ -1310,7 +1302,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:Vialart_letters_Page_05"/>
+            <pb facs="Vialart_letters_Page_05"/>
             <opener><salute><choice>
                      <orig>Monseignevr</orig>
                      <reg>Monseigneur</reg>
@@ -1548,7 +1540,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:Vialart_letters_Page_06"/>
+            <pb facs="Vialart_letters_Page_06"/>
             <opener><salute>Eminentissimo e <choice>
                      <orig>Reuerendissimo</orig>
                      <reg>Reverendissimo</reg>
@@ -1641,7 +1633,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:Vialart_letters_Page_06"/>
+            <pb facs="Vialart_letters_Page_06"/>
             <opener><salute><choice>
                      <orig>Monsievr</orig>
                      <reg>Monsieur</reg>
@@ -1666,7 +1658,7 @@
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> vous en dois rendre ces ceremonies, &amp; remerciemens, qui partent de la
-               plus veritable &amp; <pb facs="pi:Vialart_letters_Page_07"/>sincere reconnoissance dont
+               plus veritable &amp; <pb facs="Vialart_letters_Page_07"/>sincere reconnoissance dont
                on puisse <choice>
                   <orig>receuoir</orig>
                   <reg>recevoir</reg>
@@ -1766,7 +1758,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:Vialart_letters_Page_07"/>
+            <pb facs="Vialart_letters_Page_07"/>
             <opener><salute><choice>
                      <orig>Monsievr</orig>
                      <reg>Monsieur</reg>
@@ -1948,7 +1940,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:Vialart_letters_Page_08"/>
+            <pb facs="Vialart_letters_Page_08"/>
             <opener><salute><choice>
                      <orig>Monseignevr</orig>
                      <reg>Monseigneur</reg>
@@ -2176,7 +2168,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:Vialart_letters_Page_09"/>
+            <pb facs="Vialart_letters_Page_09"/>
             <opener>
                <salute><choice>
                      <orig>Monseignevr</orig>
@@ -2319,57 +2311,104 @@
                </choice> huict mil hommes de pied, &amp; deux mil cinq cens <choice>
                   <orig>cheuaux</orig>
                   <reg>chevaux</reg>
-               </choice>, nous n'aurons rien à craindre iusques au mois d'Auril que le reste de nos
-               Troupes passeroit. Mais <choice>
+               </choice>, nous n'aurons rien à craindre <choice>
+                  <orig>iusques</orig>
+                  <reg>jusques</reg>
+               </choice> au mois d'<orig>Auril</orig><reg>Avril</reg> que le reste de nos Troupes
+               passeroit. Mais <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> croy, Monsiegneur, qu'il ne faut pas faire passer les deux ou trois mil
                cheuaux, si on n'a dequoy les payer, parce qu'ils ne sçauroiont subsister autrement ;
-               Et il seroit inutile de les enuoyer, tout mon principal soin est de bien traiter
-               l'Infanterie, afin de retirer les François qui sont parmy les Ennemis, &amp; oster le
-               dégoust que les soldats ont en Italie.</p>
-            <p>Messieurs de Palluau &amp; d'Estrade diront à Vostre Eminence ce que i'espere de
-               pouuoir faire, si nous auons de l'Infanterie, <choice>
+               Et il seroit inutile de les <choice>
+                  <orig>enuoyer</orig>
+                  <reg>envoyer</reg>
+               </choice>, tout mon principal soin est de bien traiter l'Infanterie, afin de retirer
+               les François qui sont parmy les Ennemis, &amp; oster le dégoust que les soldats ont
+               en Italie.</p>
+            <p>Messieurs de <persName ref="#Palluau">Palluau</persName> &amp; d'<persName
+                  ref="#Estrades">Estrade</persName> diront à Vostre Eminence ce que <choice>
+                  <orig>i</orig>
+                  <reg>j</reg>
+               </choice>'espere de <choice>
+                  <orig>pouuoir</orig>
+                  <reg>pouvoir</reg>
+               </choice> faire, si nous <choice>
+                  <orig>auons</orig>
+                  <reg>avons</reg>
+               </choice> de l'Infanterie, <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
-               </choice> m'asseure que s'il en passe nous ser- uirons au gré de Vostre Eminence.</p>
+               </choice> m'asseure que s'il en passe nous <choice>
+                  <orig>seruirons</orig>
+                  <reg>servirons</reg>
+               </choice> au gré de Vostre Eminence.</p>
             <p><choice>
                   <orig>Ie</orig>
                   <reg>Je</reg>
-               </choice> pars pour aller faire vn tour dans nos quartiers, &amp; pour establir
-               Monsieur de la Tour dans Cazal, on y trauaille en diligence, tant aux fortifications,
-               qu'à la fon- derie, &amp; à mettre les prouisions dans la Citadelle que vous m'auez
-               commandé; <pb facs="pi:Vialart_letters_Page_10"/><choice>
+               </choice> pars pour aller faire <choice>
+                  <orig>vn</orig>
+                  <reg>un</reg>
+               </choice> tour dans nos quartiers, &amp; pour establir <persName ref="#Turenne"
+                  >Monsieur de la Tour</persName> dans <placeName ref="#Casale">Cazal</placeName>,
+               on y <choice>
+                  <orig>trauaille</orig>
+                  <reg>travaille</reg>
+               </choice> en diligence, tant aux fortifications, qu'à la fonderie, &amp; à mettre les <choice>
+                  <orig>prouisions</orig>
+                  <reg>provisions</reg>
+               </choice> dans la Citadelle que vous m'<choice>
+                  <orig>auez</orig>
+                  <reg>avez</reg>
+               </choice> commandé; <pb facs="Vialart_letters_Page_10"/><choice>
                   <orig>Ie</orig>
                   <reg>Je</reg>
-               </choice> vous ay enuoyé les Plans du Pont de Sture, &amp; de la despense par estima-
-               tion.</p>
-            <p>Le Magazin du foing sera fait dans la fin de Février, nous le faisons à Cazal, Ast
-               &amp; Turin. Enfin, Monsiegneur, <choice>
+               </choice> vous ay <choice>
+                  <orig>enuoyé</orig>
+                  <reg>envoyé</reg>
+               </choice> les Plans du Pont de Sture, &amp; de la despense par estima- tion.</p>
+            <p>Le Magazin du foing sera fait dans la fin de Février, nous le faisons à <placeName
+                  ref="#Casale">Cazal</placeName>, <placeName ref="#Asti">Ast</placeName> &amp;
+                  <placeName ref="#Turin">Turin</placeName>. Enfin, Monsiegneur, <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
-               </choice> ne perdray pas vn moment de temps pour sa- tis-faire aux ordres qu'il vous
-               a pleu m'enuoyer.</p>
-            <p>Madame a enuoyé le Pere Monot à Mommelian, ainsi que <choice>
+               </choice> ne perdray pas <choice>
+                  <orig>vn</orig>
+                  <reg>un</reg>
+               </choice> moment de temps pour satis-faire aux ordres qu'il vous a pleu m'<choice>
+                  <orig>enuoyer</orig>
+                  <reg>envoyer</reg>
+               </choice>.</p>
+            <p>Madame a <choice>
+                  <orig>enuoyé</orig>
+                  <reg>envoyé</reg>
+               </choice> le <persName ref="#PMonod">Pere Monot</persName> à <placeName
+                  ref="#Montmelian">Mommelian</placeName>, ainsi que <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
-               </choice> vous l'ay mandé, elle dit qu'elle veut suyure vos conseils, &amp; que vous
-               soyez son protecteur, vous le iugerez mieux par les effects, que par ce que <choice>
+               </choice> vous l'ay mandé, elle dit qu'elle veut <choice>
+                  <orig>suyure</orig>
+                  <reg>suyvre</reg>
+               </choice> vos conseils, &amp; que vous soyez son protecteur, vous le <choice>
+                  <orig>iugerez</orig>
+                  <reg>jugerez</reg>
+               </choice> mieux par les effects, que par ce que <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> vous en sçaurois dire, la bonté que V. Eminence de vouloir tesmoigner à
-               Monsieur le Prince l'honneur qu'elle m'a fait de me croire son tres-humble seruiteur
+                  <persName ref="#Tommaso">Monsieur le Prince<certainty locus="name" degree=".6"
+                  /></persName> l'honneur qu'elle m'a fait de me croire son tres-humble <choice><orig>seruiteur</orig><reg>serviteur</reg></choice>
                est extraordinaire, &amp; ce sont des soins dont il n'y a que vous seul qui se peut
-               aduiser pour moy, <choice>
+               <choice><orig>aduiser</orig><reg>adviser</reg></choice> pour moy, <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
-               </choice> n'aurois iamais fait, si <choice>
+               </choice> n'aurois <choice><orig>iamais</orig><reg>jamais</reg></choice> fait, si <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> vous voulois rendre graces tres-humble, autant de fois que <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
-               </choice> vous ay des nou- uelles obligations ; <choice>
+               </choice> vous ay des <choice><orig>nouuelles</orig><reg>nouvelles</reg></choice> obligations ; <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> me contente de vous dire, Monseigneur, que <choice>
@@ -2378,14 +2417,14 @@
                </choice> suis à vous, &amp; que <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
-               </choice> n'auray iamais tant de ioye, que lors que <choice>
+               </choice> n'auray <choice><orig>iamais</orig><reg>jamais</reg></choice> tant de <choice><orig>ioye</orig><reg>joye</reg></choice>, que lors que <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> vous pourray tesmoigner que <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> suis, &amp;c.</p>
-            <closer><dateline>A Turin ce 17. Ianuier 1639.</dateline></closer>
+            <closer><dateline>A Turin ce 17. <choice><orig>Ianuier</orig><reg>Janvier</reg></choice> 1639.</dateline></closer>
          </body>
       </text>
    </TEI>
@@ -2450,9 +2489,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99912_116105v_0002-hpr"/>
+            <pb facs="MLM99912_116105v_0002-hpr.jpg"/>
             <p>[Transcription to come.]</p>
-            <pb facs="pi:MLM99911_116105v_0001-hpr"/>
+            <pb facs="MLM99911_116105v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2518,9 +2557,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99919_126971v_0001-hpr"/>
+            <pb facs="MLM99919_126971v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
-            <pb facs="pi:MLM99920_126971v_0002-hpr"/>
+            <pb facs="MLM99920_126971v_0002-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2582,7 +2621,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99908_101568v_0001-hpr"/>
+            <pb facs="MLM99908_101568v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2620,7 +2659,7 @@
                         <note>1 p.</note>
                      </adminInfo>
                      <surrogates>
-                        <ptr n="1" facs="pi:MLM99910_103601v_0001-hpr"/>
+                        <ptr n="1" facs="MLM99910_103601v_0001-hpr.jpg"/>
                      </surrogates>
                   </additional>
                </msDesc>
@@ -2647,7 +2686,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99910_103601v_0001-hpr"/>
+            <pb facs="MLM99910_103601v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2714,9 +2753,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99917_126906v_0001-hpr"/>
+            <pb facs="MLM99917_126906v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
-            <pb facs="pi:MLM99918_126906v_0002-hpr"/>
+            <pb facs="MLM99918_126906v_0002-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2758,8 +2797,8 @@
                         <note>1 p.</note>
                      </adminInfo>
                      <surrogates>
-                        <ptr n="1" facs="pi:MLM99923_132070v_0001-hpr"/>
-                        <ptr n="2" facs="pi:MLM99924_132070v_0002-hpr"/>
+                        <ptr n="1" facs="MLM99923_132070v_0001-hpr.jpg"/>
+                        <ptr n="2" facs="MLM99924_132070v_0002-hpr.jpg"/>
                      </surrogates>
                   </additional>
                </msDesc>
@@ -2786,9 +2825,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99923_132070v_0001-hpr"/>
+            <pb facs="MLM99923_132070v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
-            <pb facs="pi:MLM99924_132070v_0002-hpr"/>
+            <pb facs="MLM99924_132070v_0002-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2854,9 +2893,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99934_190649v_0001-hpr"/>
+            <pb facs="MLM99934_190649v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
-            <pb facs="pi:MLM99934_190649v_0002-hpr"/>
+            <pb facs="MLM99934_190649v_0002-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -2898,8 +2937,8 @@
                         <note>4 pp.</note>
                      </adminInfo>
                      <surrogates>
-                        <ptr n="1" facs="pi:MLM99921_130530v_0001-hpr"/>
-                        <ptr n="2" facs="pi:MLM99922_130530v_0002-hpr"/>
+                        <ptr n="1" facs="MLM99921_130530v_0001-hpr.jpg"/>
+                        <ptr n="2" facs="MLM99922_130530v_0002-hpr.jpg"/>
                      </surrogates>
                   </additional>
                </msDesc>
@@ -2927,7 +2966,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99921_130530v_0001-hpr" n="1r"/>
+            <pb facs="MLM99921_130530v_0001-hpr.jpg" n="1r"/>
             <opener>
                <dateline>4 Octob 1622</dateline>
                <salute>Monseigneur,</salute>
@@ -2961,7 +3000,7 @@
                   <reg>doivent</reg>
                </choice> rechercher les grandes dignites comme des moyens necessaires pour faire de
                grandes choses, et s'ils les laissent usurper par les meschans, Ils trahissent <pb
-                  facs="pi:MLM99922_130530v_0002-hpr" n="2v"/> le monde qui attand son repos de
+                  facs="MLM99922_130530v_0002-hpr.jpg" n="2v"/> le monde qui attand son repos de
                leur vigilance.</p>
             <p>Pardonnés moy donc si Je vous dy que nous nous passerons plus aysement de vostre
                modestie que des autres qualities que le Ciel vous a donnees, et que vous ne Seauries
@@ -2985,7 +3024,7 @@
                   <orig>acheuer</orig>
                   <reg>achever</reg>
                </choice> les victoires des Roys par la ruyne de l'herezie. Toute la Chrestiente vous
-               demande <pb facs="pi:MLM99922_130530v_0002-hpr" n="3r"/> a cet effet vos <choice>
+               demande <pb facs="MLM99922_130530v_0002-hpr.jpg" n="3r"/> a cet effet vos <choice>
                   <orig>ouurages</orig>
                   <reg>ouvrages</reg>
                </choice> pour une derniere Instruction, et la paix generalle des consciences: Et
@@ -3010,7 +3049,7 @@
                </choice> des ames que c'est la seule puissance a qui elles veulent se sousmettre. Si
                Je puis esperer, Monseigneur, d'estre connu d'un autre siecle que le nostre, et que
                mon nom aille Jusqu'a la posterité, elle scaura que cete consideration m'obligea
-               premierement de reche- <pb facs="pi:MLM99921_130530v_0001-hpr" n="4v"/> rcher vostre
+               premierement de reche- <pb facs="MLM99921_130530v_0001-hpr.jpg" n="4v"/> rcher vostre
                connoissance, et que vous ayant ouÿ parler vous gaignastes si absolument mon Esprit
                et mon affection, que despuis ce temps la Je vous regarday tousjours comme un homme
                extraordinaire, et fus passionnement.</p>
@@ -3064,8 +3103,8 @@
                         <note>2 pp.</note>
                      </adminInfo>
                      <surrogates>
-                        <ptr n="1" facs="pi:MLM99927_136119v_0001-hpr"/>
-                        <ptr n="2" facs="pi:MLM99928_136119v_0002-hpr"/>
+                        <ptr n="1" facs="MLM99927_136119v_0001-hpr.jpg"/>
+                        <ptr n="2" facs="MLM99928_136119v_0002-hpr.jpg"/>
                      </surrogates>
                   </additional>
                </msDesc>
@@ -3091,9 +3130,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99927_136119v_0001-hpr"/>
+            <pb facs="MLM99927_136119v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
-            <pb facs="pi:MLM99928_136119v_0002-hpr"/>
+            <pb facs="MLM99928_136119v_0002-hpr.jpg"/>
          </body>
       </text>
    </TEI>
@@ -3158,9 +3197,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99932_136121v_0001-hpr"/>
+            <pb facs="MLM99932_136121v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
-            <pb facs="pi:MLM99933_136121v_0002-hpr"/>
+            <pb facs="MLM99933_136121v_0002-hpr.jpg"/>
          </body>
       </text>
    </TEI>
@@ -3225,9 +3264,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99930_136120v_0001-hpr"/>
+            <pb facs="MLM99930_136120v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
-            <pb facs="pi:MLM99931_136120v_0002-hpr"/>
+            <pb facs="MLM99931_136120v_0002-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -3289,7 +3328,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99925_136118v_0001-hpr"/>
+            <pb facs="MLM99925_136118v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -3350,7 +3389,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99913_117073v_0001-hpr"/>
+            <pb facs="MLM99913_117073v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -3413,7 +3452,7 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99915_120604v_0001-hpr"/>
+            <pb facs="MLM99915_120604v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
@@ -3480,9 +3519,9 @@
       </teiHeader>
       <text>
          <body>
-            <pb facs="pi:MLM99936_200045v_0001-hpr"/>
+            <pb facs="MLM99936_200045v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
-            <pb facs="pi:MLM99937_200045v_0002-hpr"/>
+            <pb facs="MLM99937_200045v_0002-hpr.jpg"/>
             <p>[Transcription to come.]</p>
          </body>
       </text>
