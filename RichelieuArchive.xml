@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <teiCorpus version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -81,449 +80,452 @@
                   </monogr>
                </biblStruct>
             </listBibl>
-            <listPerson>
-               <person xml:id="SB">
-                  <persName>Syd Bauman</persName>
-               </person>
-               <person xml:id="JT">
-                  <persName>Julee Tanner</persName>
-               </person>
-               <person xml:id="Aglie">
-                  <persName type="main">San Martino d'Agliè, Filippo, conte</persName>
-                  <persName>Comte d'Aglie</persName>
-                  <idno type="VIAF">62659363</idno>
-                  <birth when="1604"/>
-                  <death when="1667"/>
-                  <note>The favorite of and advisor to Christine of France during her
-                     regency.</note>
-               </person>
-               <person xml:id="Alvin">
-                  <persName>Halluin, Charles de Schomberg d'</persName>
-                  <!-- confirm this is the same person -->
-                  <idno type="VIAF">308694769</idno>
-                  <birth when="1601-02-16"/>
-                  <death when="1656-06-06"/>
-               </person>
-               <person xml:id="Argenson">
-                  <persName type="main">Argenson, René de Voyer, comte d'</persName>
-                  <persName>Argençon, René de Voyer, comte d'</persName>
-                  <idno type="VIAF">64063641</idno>
-                  <birth when="1596"/>
-                  <death when="1651"/>
-                  <note>A lawyer, councillor of state, and inspector of French forces under
-                     Richelieu.</note>
-               </person>
-               <person xml:id="Balzac">
-                  <persName type="main">Balzac, Jean-Louis Guez de</persName>
-                  <idno type="VIAF">54143917</idno>
-                  <birth when="1597-05-31"/>
-                  <death when="1654-02-18"/>
-                  <note>A writer of popular epistolary essays and founding member of the <hi
-                        rend="italic">Académie française</hi>.</note>
-               </person>
-               <person xml:id="Bertier">
-                  <persName type="main">Bertier de Montrave, Jean de</persName>
-                  <idno type="VIAF">193883924</idno>
-                  <birth when="1575"/>
-                  <death when="1653"/>
-                  <note>First president of the parliament of Toulouse, from 1632 until at least
-                     1649. In 1632 he helped put down the rebellion of <persName ref="#Montmorency"
-                        >Henri II de Montmorency</persName></note>
-               </person>
-               <person xml:id="Beziers"/>
-               <person xml:id="Charles1">
-                  <persName type="main">Charles I, king of England</persName>
-                  <idno type="VIAF">67750325</idno>
-                  <birth when="1600-11-19"/>
-                  <death when="1649-01-13"/>
-                  <note>The Stuart king of England, Scotland, and Ireland from 1625 until his
-                     execution in 1649. In the same year he ascended the throne, Charles married
-                     Henrietta Maria, Louis XIII's sister, a marriage that had been negotiated by
-                     Richelieu. The marriage is regarded as the first diplomatic success of the
-                     cardinal, then an equal member in the king's council (Levi, p. 81).</note>
-               </person>
-               <person xml:id="Chavigny">
-                  <persName type="main">Bouthillier-Chavigny, Claude, comte de</persName>
-                  <persName>Chavigny</persName>
-                  <idno type="VIAF">150877448</idno>
-                  <birth when="1581"/>
-                  <death when="1652"/>
-                  <note>Appointed by Richelieu to secretary of state from 1628 and superintendant of
-                     finances from 1632, offices he held until the death of Louis XIII in 1642.
-                     Richelieu also sent him on many diplomatic missions, sometimes with <persName
-                        ref="#PereJ">Père Joseph</persName>.</note>
-               </person>
-               <person xml:id="Christine">
-                  <persName type="main">Christine, duchess of Savoy</persName>
-                  <persName>Christine of France</persName>
-                  <idno type="VIAF">86438866</idno>
-                  <birth when="1606-02-10"/>
-                  <death when="1663-12-27"/>
-                  <note>Sister of Louis XIII and wife of Victor Amadeus I, Duke of Savoy. At her
-                     husband's death in 1637 until 1648 she was regent of Savoy.</note>
-               </person>
-               <person xml:id="Emery">
-                  <persName type="main">Emery, Michel Particelli, sieur d'</persName>
-                  <persName>Hemery, Michel Particelli, sieur d'</persName>
-                  <idno type="VIAF">8935394</idno>
-                  <birth when="1596"/>
-                  <death when="1650"/>
-                  <note>An advisor to Richelieu and member of banking family originally from
-                     Lucca.</note>
-               </person>
-               <person xml:id="Epernon">
-                  <persName type="main">Épernon, Bernard de Nogaret de La Valette d'</persName>
-                  <idno type="VIAF">64281075</idno>
-                  <birth when="1592"/>
-                  <death when="1661-07-26"/>
-                  <note>A French general and brother of Cardinal de La Valette.</note>
-               </person>
-               <person xml:id="Epinay">
-                  <persName type="main">Saint-Luc, Timoléon d'Epinay, marquis de</persName>
-                  <idno type="VIAF">314930167</idno>
-                  <birth when="1580"/>
-                  <death when="1644"/>
-                  <note>Named vice-admiral in 1622 and marshal of France in 1627.</note>
-               </person>
-               <person xml:id="Estrades">
-                  <persName type="main">Estrades, Godefroi Louis, comte d'</persName>
-                  <persName>Estrade</persName>
-                  <idno type="VIAF">64115268</idno>
-                  <birth when="1607"/>
-                  <death when="1686"/>
-                  <note/>
-               </person>
-               <person xml:id="Estrées">
-                  <persName type="main">Estrées, Francois Annibal de Coeuvres, maréchal
-                     d'</persName>
-                  <idno type="VIAF">19831371</idno>
-                  <birth when="1573"/>
-                  <death when="1670-05-05"/>
-                  <note>Named marshal of France in 1626. After his military career he entered
-                     diplomacy, and was French envoy to Rome from 1636 to 1648.</note>
-               </person>
-               <person xml:id="Ferdinando2">
-                  <persName type="main">Ferdinando II, Grand-Duke of Tuscany</persName>
-                  <idno type="VIAF">59056232</idno>
-                  <birth when="1610"/>
-                  <death when="1670"/>
-                  <note>Grand duke of Tuscany from 1621 to 1670; friend and protector of Galileo
-                     Galilei.</note>
-               </person>
-               <person xml:id="Gregory15">
-                  <persName type="main">Gregory XV, Pope</persName>
-                  <persName>Ludovisi, Alessandro</persName>
-                  <idno type="VIAF">49321911</idno>
-                  <birth when="1554-01-09"/>
-                  <death when="1623-07-08"/>
-                  <note/>
-               </person>
-               <person xml:id="HenriettaMaria">
-                  <persName type="main">Henrietta Maria, queen consort of Charles I, king of
-                     England</persName>
-                  <idno type="VIAF">52930938</idno>
-                  <birth when="1609-11-25"/>
-                  <death when="1669-09-10"/>
-               </person>
-               <person xml:id="Hepburn">
-                  <persName type="main">Hepburn, James, sir</persName>
-                  <idno type="Wikisource"
-                     >https://en.wikisource.org/wiki/Hepburn,_James_(d.1637)_(DNB00)</idno>
-                  <birth/>
-                  <death when="1637"/>
-               </person>
-               <person xml:id="Hospital">
-                  <persName type="main">Hallier, Francois de l'Hospital, comte du</persName>
-                  <idno type="VIAF">17326341</idno>
-                  <birth when="1583"/>
-                  <death when="1660"/>
-               </person>
-               <person xml:id="PJoseph"> </person>
-               <person xml:id="Louis13">
-                  <persName type="main">Louis XIII, king of France</persName>
-                  <idno type="VIAF">64008583</idno>
-                  <birth when="1601-09-27"/>
-                  <death when="1643-05-14"/>
-               </person>
-               <person xml:id="Maurice">
-                  <persName type="main">Saint-Maurice, Thomas-François Chabod, marquis de</persName>
-                  <idno type="VIAF">10793302</idno>
-                  <birth when="1583"/>
-                  <death when="1653"/>
-               </person>
-               <person xml:id="Maurizio">
-                  <persName type="main">Maurizio, prince and cardinal of Savoy</persName>
-                  <persName>Prince Maurice of Savoy</persName>
-                  <idno type="VIAF">3700537</idno>
-                  <birth when="1593-01-10"/>
-                  <death when="1657-10-04"/>
-                  <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637,
-                     Maurizio and his brother, Tommaso Francesco, prince of Carignano, attempted to
-                     claim the regency from Christine of France.</note>
-               </person>
-               <person xml:id="PMonod">
-                  <persName type="main">Père Monod</persName>
-                  <persName>Pere Monot</persName>
-                  <note>Jesuit priest and Spanish sympathizer at the court of Christine, duchesse de
-                     Savoie. His arrest and removal to Montmélian by the French aroused Christine's
-                     anger against Richelieu (Tapié, p. 390).</note>
-               </person>
-               <person xml:id="Montmorency">
-                  <persName type="main">Montmorency, Henri II, duc de</persName>
-                  <idno type="VIAF">12461620</idno>
-                  <birth when="1595-04-30"/>
-                  <death when="1632-10-30"/>
-               </person>
-               <person xml:id="Noyers">
-                  <persName type="main">Sublet de Noyers, Francois, Baron de Dangu</persName>
-                  <idno type="VIAF">172592009</idno>
-                  <birth when="1588"/>
-                  <death when="1645"/>
-               </person>
-               <person xml:id="Palluau">
-                  <persName type="main">Palluau, Philippe de Clerembault, comte de</persName>
-                  <idno type="VIAF">52082363</idno>
-                  <birth when="1606"/>
-                  <death when="1665"/>
-               </person>
-               <person xml:id="Richelieu">
-                  <persName type="main">Richelieu, Armand-Jean du Plessis, cardinal duc
-                     de</persName>
-                  <idno type="VIAF">12314392</idno>
-                  <birth when="1585-09-09"/>
-                  <death when="1642-12-04"/>
-               </person>
-               <person xml:id="Sully">
-                  <persName type="main">Sully, Maximilien de Béthune, duc de</persName>
-                  <idno type="VIAF">95208305</idno>
-                  <birth when="1560-12-13"/>
-                  <death when="1641-12-22"/>
-               </person>
-               <person xml:id="Thémines">
-                  <persName type="main">Thémines, Pons de Lauzières, marquis de</persName>
-                  <idno type="VIAF">37263293</idno>
-                  <birth when="1553"/>
-                  <death when="1627"/>
-               </person>
-               <person xml:id="Tommaso">
-                  <persName type="main">Tommaso Francesco, prince of Carignano</persName>
-                  <persName>Thomas Francis, prince of Carignano</persName>
-                  <idno type="VIAF">61656600</idno>
-                  <birth when="1593-01-10"/>
-                  <death when="1657-10-04"/>
-                  <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637,
-                     Tommaso and his brother, Maurizio, prince and cardinal of Savoy, attempted to
-                     claim the regency from Christine of France.</note>
-               </person>
-               <person xml:id="Turenne">
-                  <persName type="main">Turenne, Henri de la Tour d'Auvergne, vicomte de</persName>
-                  <idno type="VIAF">59190793</idno>
-                  <birth when="1611-09-11"/>
-                  <death when="1675-07-27"/>
-                  <note>A French military general promoted to Marshal in 1643 and later to Marshal
-                     General.</note>
-               </person>
-               <person xml:id="Urban8">
-                  <persName type="main">Urban VIII, Pope</persName>
-                  <persName>Barberini, Maffeo</persName>
-                  <idno type="VIAF">96062867</idno>
-                  <birth when="1568-04-05"/>
-                  <death when="1644-07-29"/>
-                  <note/>
-               </person>
-               <person xml:id="Valette">
-                  <persName type="main">La Valette, Louis de Nogaret, cardinal de</persName>
-                  <idno type="VIAF">207349591</idno>
-                  <birth when="1593"/>
-                  <death when="1639"/>
-               </person>
-               <person xml:id="Vialart">
-                  <persName type="main">Vialart, Charles</persName>
-                  <persName>Saint-Paul, Charles Vialart de</persName>
-                  <idno type="VIAF">http://viaf.org/viaf/7665266</idno>
-                  <birth when="1592"/>
-                  <death when="1644"/>
-               </person>
-               <person xml:id="Villa">
-                  <persName type="main">Villa, Guido</persName>
-                  <persName>Marquis de Ville</persName>
-               </person>
-               <person xml:id="Wake">
-                  <persName type="main">Wake, Isaac, sir</persName>
-                  <idno type="VIAF">76666336</idno>
-                  <birth when="1508"/>
-                  <death when="1632"/>
-               </person>
-               <person xml:id="Sc1">
-                  <persName type="main">Charpentier, Denis</persName>
-                  <idno type="VIAF">168153953330605562889</idno>
-                  <birth when="1580"/>
-                  <death when="1647"/>
-                  <occupation>
-                     <desc>Secretary to Richelieu, cousin of <persName ref="Sc3"
-                        >Cherré</persName></desc>
-                  </occupation>
-               </person>
-               <person xml:id="Sc2">
-                  <persName type="main">Le Masle, Michel</persName>
-                  <idno type="VIAF">10935505</idno>
-                  <birth when="1587"/>
-                  <death when="1662"/>
-                  <occupation>
-                     <desc>Canon of Notre Dame de Paris; prior of Abbaye des Roches; secretary
-                        Richelieu, especially for ecclestiastic, financial, and personal
-                        affairs</desc>
-                  </occupation>
-               </person>
-               <person xml:id="Sc3">
-                  <persName type="main">Cherré</persName>
-                  <persName>Cheré</persName>
-                  <persName>Chéré</persName>
-                  <occupation>
-                     <desc>Secretary to Richelieu, cousin of <persName ref="Sc1"
-                           >Charpentier</persName></desc>
-                  </occupation>
-               </person>
-               <person xml:id="MX">
-                  <!-- Unknown male correspondents -->
-               </person>
-               <person xml:id="FX">
-                  <!-- Unknown female correspontents -->
-               </person>
-            </listPerson>
-            <listPlace>
-               <!-- xml:id is short name; complete modern name is "main" placeName; when 17th century orthography is different tag as "obsolete." -->
-               <place xml:id="Asti" type="province">
-                  <placeName type="main">Asti</placeName>
-                  <location>
-                     <geo>44.9 -8.2</geo>
-                  </location>
-               </place>
-               <place xml:id="Auray" type="commune">
-                  <placeName type="main">Auray</placeName>
-                  <location>
-                     <geo>47.67 -2.99</geo>
-                  </location>
-                  <idno type="GeoNames">3036059</idno>
-               </place>
-               <place>
-                  <placeName xml:id="Casale">Casale Monferrato</placeName>
-                  <placeName>Cazal</placeName>
-                  <location>
-                     <geo>45.13 -8.45</geo>
-                  </location>
-                  <idno type="Geonames">3180208</idno>
-               </place>
-               <place xml:id="Coeuvres" type="commune">
-                  <placeName type="main">Coeuvres-et-Valsery</placeName>
-                  <placeName>Coeuvres</placeName>
-                  <location>
-                     <geo>49.33 -3.15</geo>
-                  </location>
-                  <idno type="GeoNames">3024449</idno>
-               </place>
-               <place xml:id="Dijon" type="commune">
-                  <placeName type="main">Dijon</placeName>
-                  <location>
-                     <geo>47.31 -5.01</geo>
-                  </location>
-                  <idno type="GeoNames">3021372</idno>
-               </place>
-               <place xml:id="Grange" type="building">
-                  <placeName type="main">Château de la Grange des Prés</placeName>
-                  <location>
-                     <settlement type="commune">Pézenas</settlement>
-                     <geo>43.45 -3.42</geo>
-                  </location>
-                  <idno type="GeoNames">2987441</idno>
-                  <idno type="Wikipédia"
-                     >https://fr.wikipedia.org/wiki/Domaine_de_la_Grange_des_Prés</idno>
-               </place>
-               <place xml:id="Lyon" type="commune">
-                  <placeName type="main">Lyon</placeName>
-                  <location>
-                     <geo>45.75 -4.84</geo>
-                  </location>
-               </place>
-               <place xml:id="Metz" type="commune">
-                  <placeName type="main">Metz</placeName>
-                  <location>
-                     <geo>49.11 -6.17</geo>
-                  </location>
-                  <idno type="GeoNames">2994160</idno>
-               </place>
-               <place xml:id="Monferrato" type="region">
-                  <placeName>Monferrato</placeName>
-                  <placeName>Monferrat</placeName>
-                  <location>
-                     <geo>44.92 -8.08</geo>
-                  </location>
-                  <idno>3173152</idno>
-               </place>
-               <place xml:id="Montmelian" type="building">
-                  <placeName type="main">Château de Montmélian</placeName>
-                  <location>
-                     <geo>45.51 -6.06</geo>
-                  </location>
-               </place>
-               <place xml:id="Mornans" type="commune">
-                  <placeName type="main">Mornans</placeName>
-                  <placeName type="obsolete">Mornan</placeName>
-                  <location>
-                     <geo>44.62 -5.12</geo>
-                  </location>
-                  <idno type="GeoNames">6430154</idno>
-               </place>
-               <place xml:id="Paris" type="commune">
-                  <placeName type="main">Paris</placeName>
-                  <location>
-                     <geo>48.85 -2.34</geo>
-                  </location>
-                  <idno type="GeoNames">2988507</idno>
-               </place>
-               <place xml:id="Pinerolo">
-                  <placeName type="main">Pinerolo</placeName>
-                  <placeName>Pignerol</placeName>
-
-                  <location>
-                     <geo>44.89 -7.33</geo>
-                  </location>
-                  <idno type="GeoNames">3170694</idno>
-               </place>
-               <place xml:id="Plessis" type="commune">
-                  <placeName type="main">Le Plessis-aux-Bois</placeName>
-                  <location>
-                     <geo>49.00 -2.76</geo>
-                  </location>
-                  <idno type="GeoNames">3002683</idno>
-               </place>
-               <place xml:id="Rm" type="commune">
-                  <placeName type="main">Rome</placeName>
-                  <location>
-                     <geo>41.53 -12.30</geo>
-                  </location>
-                  <idno type="GeoNames">3169070</idno>
-               </place>
-               <place xml:id="Rueil" type="commune">
-                  <placeName type="main">Rueil-Malmaison</placeName>
-                  <placeName type="obsolete">Ruel</placeName>
-                  <location>
-                     <geo>48.87 -2.18</geo>
-                  </location>
-                  <idno type="GeoNames">2982235</idno>
-               </place>
-               <place xml:id="Turin" type="commune">
-                  <placeName type="main">Turin</placeName>
-                  <location>
-                     <geo>45.07 -7.68</geo>
-                  </location>
-                  <idno type="GeoNames">3165524</idno>
-               </place>
-            </listPlace>
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-   <TEI xml:id="letter1">
+   <standOff>
+     <listPerson>
+       <person xml:id="JT" role="principal_investigator">
+	 <persName>Julee Tanner</persName>
+       </person>
+       <person xml:id="SB" role="consultant">
+	 <persName>Syd Bauman</persName>
+	 <idno type="VIAF">6761623</idno>
+       </person>
+       <person xml:id="Aglie">
+	 <persName type="main">San Martino d'Agliè, Filippo, conte</persName>
+	 <persName>Comte d'Aglie</persName>
+	 <idno type="VIAF">62659363</idno>
+	 <birth when="1604"/>
+	 <death when="1667"/>
+	 <note>The favorite of and advisor to Christine of France during her
+	 regency.</note>
+       </person>
+       <person xml:id="Alvin">
+	 <persName>Halluin, Charles de Schomberg d'</persName>
+	 <!-- confirm this is the same person -->
+	 <idno type="VIAF">308694769</idno>
+	 <birth when="1601-02-16"/>
+	 <death when="1656-06-06"/>
+       </person>
+       <person xml:id="Argenson">
+	 <persName type="main">Argenson, René de Voyer, comte d'</persName>
+	 <persName>Argençon, René de Voyer, comte d'</persName>
+	 <idno type="VIAF">64063641</idno>
+	 <birth when="1596"/>
+	 <death when="1651"/>
+	 <note>A lawyer, councillor of state, and inspector of French forces under
+	 Richelieu.</note>
+       </person>
+       <person xml:id="Balzac">
+	 <persName type="main">Balzac, Jean-Louis Guez de</persName>
+	 <idno type="VIAF">54143917</idno>
+	 <birth when="1597-05-31"/>
+	 <death when="1654-02-18"/>
+	 <note>A writer of popular epistolary essays and founding member of the <hi
+	 rend="italic">Académie française</hi>.</note>
+       </person>
+       <person xml:id="Bertier">
+	 <persName type="main">Bertier de Montrave, Jean de</persName>
+	 <idno type="VIAF">193883924</idno>
+	 <birth when="1575"/>
+	 <death when="1653"/>
+	 <note>First president of the parliament of Toulouse, from 1632 until at least
+	 1649. In 1632 he helped put down the rebellion of <persName ref="#Montmorency"
+	 >Henri II de Montmorency</persName></note>
+       </person>
+       <person xml:id="Beziers"/>
+       <person xml:id="Charles1">
+	 <persName type="main">Charles I, king of England</persName>
+	 <idno type="VIAF">67750325</idno>
+	 <birth when="1600-11-19"/>
+	 <death when="1649-01-13"/>
+	 <note>The Stuart king of England, Scotland, and Ireland from 1625 until his
+	 execution in 1649. In the same year he ascended the throne, Charles married
+	 Henrietta Maria, Louis XIII's sister, a marriage that had been negotiated by
+	 Richelieu. The marriage is regarded as the first diplomatic success of the
+	 cardinal, then an equal member in the king's council (Levi, p. 81).</note>
+       </person>
+       <person xml:id="Chavigny">
+	 <persName type="main">Bouthillier-Chavigny, Claude, comte de</persName>
+	 <persName>Chavigny</persName>
+	 <idno type="VIAF">150877448</idno>
+	 <birth when="1581"/>
+	 <death when="1652"/>
+	 <note>Appointed by Richelieu to secretary of state from 1628 and superintendant of
+	 finances from 1632, offices he held until the death of Louis XIII in 1642.
+	 Richelieu also sent him on many diplomatic missions, sometimes with <persName
+	 ref="#PereJ">Père Joseph</persName>.</note>
+       </person>
+       <person xml:id="Christine">
+	 <persName type="main">Christine, duchess of Savoy</persName>
+	 <persName>Christine of France</persName>
+	 <idno type="VIAF">86438866</idno>
+	 <birth when="1606-02-10"/>
+	 <death when="1663-12-27"/>
+	 <note>Sister of Louis XIII and wife of Victor Amadeus I, Duke of Savoy. At her
+	 husband's death in 1637 until 1648 she was regent of Savoy.</note>
+       </person>
+       <person xml:id="Emery">
+	 <persName type="main">Emery, Michel Particelli, sieur d'</persName>
+	 <persName>Hemery, Michel Particelli, sieur d'</persName>
+	 <idno type="VIAF">8935394</idno>
+	 <birth when="1596"/>
+	 <death when="1650"/>
+	 <note>An advisor to Richelieu and member of banking family originally from
+	 Lucca.</note>
+       </person>
+       <person xml:id="Epernon">
+	 <persName type="main">Épernon, Bernard de Nogaret de La Valette d'</persName>
+	 <idno type="VIAF">64281075</idno>
+	 <birth when="1592"/>
+	 <death when="1661-07-26"/>
+	 <note>A French general and brother of Cardinal de La Valette.</note>
+       </person>
+       <person xml:id="Epinay">
+	 <persName type="main">Saint-Luc, Timoléon d'Epinay, marquis de</persName>
+	 <idno type="VIAF">314930167</idno>
+	 <birth when="1580"/>
+	 <death when="1644"/>
+	 <note>Named vice-admiral in 1622 and marshal of France in 1627.</note>
+       </person>
+       <person xml:id="Estrades">
+	 <persName type="main">Estrades, Godefroi Louis, comte d'</persName>
+	 <persName>Estrade</persName>
+	 <idno type="VIAF">64115268</idno>
+	 <birth when="1607"/>
+	 <death when="1686"/>
+	 <note/>
+       </person>
+       <person xml:id="Estrées">
+	 <persName type="main">Estrées, Francois Annibal de Coeuvres, maréchal
+	 d'</persName>
+	 <idno type="VIAF">19831371</idno>
+	 <birth when="1573"/>
+	 <death when="1670-05-05"/>
+	 <note>Named marshal of France in 1626. After his military career he entered
+	 diplomacy, and was French envoy to Rome from 1636 to 1648.</note>
+       </person>
+       <person xml:id="Ferdinando2">
+	 <persName type="main">Ferdinando II, Grand-Duke of Tuscany</persName>
+	 <idno type="VIAF">59056232</idno>
+	 <birth when="1610"/>
+	 <death when="1670"/>
+	 <note>Grand duke of Tuscany from 1621 to 1670; friend and protector of Galileo
+	 Galilei.</note>
+       </person>
+       <person xml:id="Gregory15">
+	 <persName type="main">Gregory XV, Pope</persName>
+	 <persName>Ludovisi, Alessandro</persName>
+	 <idno type="VIAF">49321911</idno>
+	 <birth when="1554-01-09"/>
+	 <death when="1623-07-08"/>
+	 <note/>
+       </person>
+       <person xml:id="HenriettaMaria">
+	 <persName type="main">Henrietta Maria, queen consort of Charles I, king of
+	 England</persName>
+	 <idno type="VIAF">52930938</idno>
+	 <birth when="1609-11-25"/>
+	 <death when="1669-09-10"/>
+       </person>
+       <person xml:id="Hepburn">
+	 <persName type="main">Hepburn, James, sir</persName>
+	 <idno type="Wikisource"
+	       >https://en.wikisource.org/wiki/Hepburn,_James_(d.1637)_(DNB00)</idno>
+	 <birth/>
+	 <death when="1637"/>
+       </person>
+       <person xml:id="Hospital">
+	 <persName type="main">Hallier, Francois de l'Hospital, comte du</persName>
+	 <idno type="VIAF">17326341</idno>
+	 <birth when="1583"/>
+	 <death when="1660"/>
+       </person>
+       <person xml:id="PJoseph"> </person>
+       <person xml:id="Louis13">
+	 <persName type="main">Louis XIII, king of France</persName>
+	 <idno type="VIAF">64008583</idno>
+	 <birth when="1601-09-27"/>
+	 <death when="1643-05-14"/>
+       </person>
+       <person xml:id="Maurice">
+	 <persName type="main">Saint-Maurice, Thomas-François Chabod, marquis de</persName>
+	 <idno type="VIAF">10793302</idno>
+	 <birth when="1583"/>
+	 <death when="1653"/>
+       </person>
+       <person xml:id="Maurizio">
+	 <persName type="main">Maurizio, prince and cardinal of Savoy</persName>
+	 <persName>Prince Maurice of Savoy</persName>
+	 <idno type="VIAF">3700537</idno>
+	 <birth when="1593-01-10"/>
+	 <death when="1657-10-04"/>
+	 <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637,
+	 Maurizio and his brother, Tommaso Francesco, prince of Carignano, attempted to
+	 claim the regency from Christine of France.</note>
+       </person>
+       <person xml:id="PMonod">
+	 <persName type="main">Père Monod</persName>
+	 <persName>Pere Monot</persName>
+	 <note>Jesuit priest and Spanish sympathizer at the court of Christine, duchesse de
+	 Savoie. His arrest and removal to Montmélian by the French aroused Christine's
+	 anger against Richelieu (Tapié, p. 390).</note>
+       </person>
+       <person xml:id="Montmorency">
+	 <persName type="main">Montmorency, Henri II, duc de</persName>
+	 <idno type="VIAF">12461620</idno>
+	 <birth when="1595-04-30"/>
+	 <death when="1632-10-30"/>
+       </person>
+       <person xml:id="Noyers">
+	 <persName type="main">Sublet de Noyers, Francois, Baron de Dangu</persName>
+	 <idno type="VIAF">172592009</idno>
+	 <birth when="1588"/>
+	 <death when="1645"/>
+       </person>
+       <person xml:id="Palluau">
+	 <persName type="main">Palluau, Philippe de Clerembault, comte de</persName>
+	 <idno type="VIAF">52082363</idno>
+	 <birth when="1606"/>
+	 <death when="1665"/>
+       </person>
+       <person xml:id="Richelieu">
+	 <persName type="main">Richelieu, Armand-Jean du Plessis, cardinal duc
+	 de</persName>
+	 <idno type="VIAF">12314392</idno>
+	 <birth when="1585-09-09"/>
+	 <death when="1642-12-04"/>
+       </person>
+       <person xml:id="Sully">
+	 <persName type="main">Sully, Maximilien de Béthune, duc de</persName>
+	 <idno type="VIAF">95208305</idno>
+	 <birth when="1560-12-13"/>
+	 <death when="1641-12-22"/>
+       </person>
+       <person xml:id="Thémines">
+	 <persName type="main">Thémines, Pons de Lauzières, marquis de</persName>
+	 <idno type="VIAF">37263293</idno>
+	 <birth when="1553"/>
+	 <death when="1627"/>
+       </person>
+       <person xml:id="Tommaso">
+	 <persName type="main">Tommaso Francesco, prince of Carignano</persName>
+	 <persName>Thomas Francis, prince of Carignano</persName>
+	 <idno type="VIAF">61656600</idno>
+	 <birth when="1593-01-10"/>
+	 <death when="1657-10-04"/>
+	 <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637,
+	 Tommaso and his brother, Maurizio, prince and cardinal of Savoy, attempted to
+	 claim the regency from Christine of France.</note>
+       </person>
+       <person xml:id="Turenne">
+	 <persName type="main">Turenne, Henri de la Tour d'Auvergne, vicomte de</persName>
+	 <idno type="VIAF">59190793</idno>
+	 <birth when="1611-09-11"/>
+	 <death when="1675-07-27"/>
+	 <note>A French military general promoted to Marshal in 1643 and later to Marshal
+	 General.</note>
+       </person>
+       <person xml:id="Urban8">
+	 <persName type="main">Urban VIII, Pope</persName>
+	 <persName>Barberini, Maffeo</persName>
+	 <idno type="VIAF">96062867</idno>
+	 <birth when="1568-04-05"/>
+	 <death when="1644-07-29"/>
+	 <note/>
+       </person>
+       <person xml:id="Valette">
+	 <persName type="main">La Valette, Louis de Nogaret, cardinal de</persName>
+	 <idno type="VIAF">207349591</idno>
+	 <birth when="1593"/>
+	 <death when="1639"/>
+       </person>
+       <person xml:id="Vialart">
+	 <persName type="main">Vialart, Charles</persName>
+	 <persName>Saint-Paul, Charles Vialart de</persName>
+	 <idno type="VIAF">http://viaf.org/viaf/7665266</idno>
+	 <birth when="1592"/>
+	 <death when="1644"/>
+       </person>
+       <person xml:id="Villa">
+	 <persName type="main">Villa, Guido</persName>
+	 <persName>Marquis de Ville</persName>
+       </person>
+       <person xml:id="Wake">
+	 <persName type="main">Wake, Isaac, sir</persName>
+	 <idno type="VIAF">76666336</idno>
+	 <birth when="1508"/>
+	 <death when="1632"/>
+       </person>
+       <person xml:id="Sc1">
+	 <persName type="main">Charpentier, Denis</persName>
+	 <idno type="VIAF">168153953330605562889</idno>
+	 <birth when="1580"/>
+	 <death when="1647"/>
+	 <occupation>
+	   <desc>Secretary to Richelieu, cousin of <persName ref="Sc3"
+	   >Cherré</persName></desc>
+	 </occupation>
+       </person>
+       <person xml:id="Sc2">
+	 <persName type="main">Le Masle, Michel</persName>
+	 <idno type="VIAF">10935505</idno>
+	 <birth when="1587"/>
+	 <death when="1662"/>
+	 <occupation>
+	   <desc>Canon of Notre Dame de Paris; prior of Abbaye des Roches; secretary
+	   Richelieu, especially for ecclestiastic, financial, and personal
+	   affairs</desc>
+	 </occupation>
+       </person>
+       <person xml:id="Sc3">
+	 <persName type="main">Cherré</persName>
+	 <persName>Cheré</persName>
+	 <persName>Chéré</persName>
+	 <occupation>
+	   <desc>Secretary to Richelieu, cousin of <persName ref="Sc1"
+	   >Charpentier</persName></desc>
+	 </occupation>
+       </person>
+       <person xml:id="MX">
+	 <!-- Unknown male correspondents -->
+       </person>
+       <person xml:id="FX">
+	 <!-- Unknown female correspontents -->
+       </person>
+     </listPerson>
+     <listPlace>
+       <!-- xml:id is short name; complete modern name is "main" placeName; when 17th century orthography is different tag as "obsolete." -->
+       <place xml:id="Asti" type="province">
+	 <placeName type="main">Asti</placeName>
+	 <location>
+	   <geo>44.9 -8.2</geo>
+	 </location>
+       </place>
+       <place xml:id="Auray" type="commune">
+	 <placeName type="main">Auray</placeName>
+	 <location>
+	   <geo>47.67 -2.99</geo>
+	 </location>
+	 <idno type="GeoNames">3036059</idno>
+       </place>
+       <place>
+	 <placeName xml:id="Casale">Casale Monferrato</placeName>
+	 <placeName>Cazal</placeName>
+	 <location>
+	   <geo>45.13 -8.45</geo>
+	 </location>
+	 <idno type="Geonames">3180208</idno>
+       </place>
+       <place xml:id="Coeuvres" type="commune">
+	 <placeName type="main">Coeuvres-et-Valsery</placeName>
+	 <placeName>Coeuvres</placeName>
+	 <location>
+	   <geo>49.33 -3.15</geo>
+	 </location>
+	 <idno type="GeoNames">3024449</idno>
+       </place>
+       <place xml:id="Dijon" type="commune">
+	 <placeName type="main">Dijon</placeName>
+	 <location>
+	   <geo>47.31 -5.01</geo>
+	 </location>
+	 <idno type="GeoNames">3021372</idno>
+       </place>
+       <place xml:id="Grange" type="building">
+	 <placeName type="main">Château de la Grange des Prés</placeName>
+	 <location>
+	   <settlement type="commune">Pézenas</settlement>
+	   <geo>43.45 -3.42</geo>
+	 </location>
+	 <idno type="GeoNames">2987441</idno>
+	 <idno type="Wikipédia"
+	       >https://fr.wikipedia.org/wiki/Domaine_de_la_Grange_des_Prés</idno>
+       </place>
+       <place xml:id="Lyon" type="commune">
+	 <placeName type="main">Lyon</placeName>
+	 <location>
+	   <geo>45.75 -4.84</geo>
+	 </location>
+       </place>
+       <place xml:id="Metz" type="commune">
+	 <placeName type="main">Metz</placeName>
+	 <location>
+	   <geo>49.11 -6.17</geo>
+	 </location>
+	 <idno type="GeoNames">2994160</idno>
+       </place>
+       <place xml:id="Monferrato" type="region">
+	 <placeName>Monferrato</placeName>
+	 <placeName>Monferrat</placeName>
+	 <location>
+	   <geo>44.92 -8.08</geo>
+	 </location>
+	 <idno>3173152</idno>
+       </place>
+       <place xml:id="Montmelian" type="building">
+	 <placeName type="main">Château de Montmélian</placeName>
+	 <location>
+	   <geo>45.51 -6.06</geo>
+	 </location>
+       </place>
+       <place xml:id="Mornans" type="commune">
+	 <placeName type="main">Mornans</placeName>
+	 <placeName type="obsolete">Mornan</placeName>
+	 <location>
+	   <geo>44.62 -5.12</geo>
+	 </location>
+	 <idno type="GeoNames">6430154</idno>
+       </place>
+       <place xml:id="Paris" type="commune">
+	 <placeName type="main">Paris</placeName>
+	 <location>
+	   <geo>48.85 -2.34</geo>
+	 </location>
+	 <idno type="GeoNames">2988507</idno>
+       </place>
+       <place xml:id="Pinerolo">
+	 <placeName type="main">Pinerolo</placeName>
+	 <placeName>Pignerol</placeName>
+
+	 <location>
+	   <geo>44.89 -7.33</geo>
+	 </location>
+	 <idno type="GeoNames">3170694</idno>
+       </place>
+       <place xml:id="Plessis" type="commune">
+	 <placeName type="main">Le Plessis-aux-Bois</placeName>
+	 <location>
+	   <geo>49.00 -2.76</geo>
+	 </location>
+	 <idno type="GeoNames">3002683</idno>
+       </place>
+       <place xml:id="Rm" type="commune">
+	 <placeName type="main">Rome</placeName>
+	 <location>
+	   <geo>41.53 -12.30</geo>
+	 </location>
+	 <idno type="GeoNames">3169070</idno>
+       </place>
+       <place xml:id="Rueil" type="commune">
+	 <placeName type="main">Rueil-Malmaison</placeName>
+	 <placeName type="obsolete">Ruel</placeName>
+	 <location>
+	   <geo>48.87 -2.18</geo>
+	 </location>
+	 <idno type="GeoNames">2982235</idno>
+       </place>
+       <place xml:id="Turin" type="commune">
+	 <placeName type="main">Turin</placeName>
+	 <location>
+	   <geo>45.07 -7.68</geo>
+	 </location>
+	 <idno type="GeoNames">3165524</idno>
+       </place>
+     </listPlace>
+   </standOff>
+   <TEI xml:id="letter01">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -735,7 +737,7 @@
          </body>
       </text>
    </TEI>
-   <TEI xml:id="letter2">
+   <TEI xml:id="letter02">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -1030,7 +1032,7 @@
          </body>
       </text>
    </TEI>
-   <TEI xml:id="letter3">
+   <TEI xml:id="letter03">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -1229,7 +1231,7 @@
          </body>
       </text>
    </TEI>
-   <TEI xml:id="letter4">
+   <TEI xml:id="letter04">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -1296,7 +1298,7 @@
          </body>
       </text>
    </TEI>
-   <TEI xml:id="letter5">
+   <TEI xml:id="letter05">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -1533,7 +1535,7 @@
          </body>
       </text>
    </TEI>
-   <TEI xml:id="letter6">
+   <TEI xml:id="letter06">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -1627,7 +1629,7 @@
          </body>
       </text>
    </TEI>
-   <TEI xml:id="letter7">
+   <TEI xml:id="letter07">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -1752,7 +1754,7 @@
          </body>
       </text>
    </TEI>
-   <TEI xml:id="letter8">
+   <TEI xml:id="letter08">
       <teiHeader>
          <fileDesc>
             <titleStmt>
@@ -1934,7 +1936,7 @@
          </body>
       </text>
    </TEI>
-   <TEI xml:id="letter9">
+   <TEI xml:id="letter09">
       <teiHeader>
          <fileDesc>
             <titleStmt>
