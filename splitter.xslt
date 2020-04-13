@@ -50,16 +50,31 @@
     <xsl:copy>
       <xsl:apply-templates select="$corpusHeader/@*"/>
       <xsl:apply-templates select="@*"/>
-      <xsl:apply-templates select="*|$corpusHeader/*" mode="merge"/>
+      <xsl:apply-templates select="*" mode="merge"/>
+      <xsl:apply-templates select="$corpusHeader/*[ not( name(.) = current()/*/name() ) ]"
+        mode="merge"/>
     </xsl:copy>
   </xsl:template>
   
   <xsl:template match="teiHeader/*" mode="merge">
     <xsl:variable name="me" select="name(.)"/>
     <xsl:copy>
+      <xsl:comment>from teiHeader/* of <xsl:value-of
+        select="if (ancestor::TEI) then 'TEI' else 'teiCorpus'"/></xsl:comment>
       <xsl:apply-templates select="$corpusHeader/*[name(.) eq $me]/@*" mode="#current"/>
       <xsl:apply-templates select="@*" mode="#current"/>
-      <xsl:apply-templates select="*|$corpusHeader/*[name(.) eq $me]/*" mode="#current"/>
+      <xsl:apply-templates select="*" mode="#current"/>
+      <xsl:apply-templates select="
+        $corpusHeader
+        /*[ name(.) eq $me ]
+        /*[
+            not(
+              name(.)
+              =
+              current()/*/name(.)
+              )
+           ]"
+        mode="#current"/>
     </xsl:copy>
   </xsl:template>
 
@@ -67,6 +82,8 @@
     <xsl:variable name="me" select="name(.)"/>
     <xsl:variable name="parent" select="name(..)"/>
     <xsl:copy>
+      <xsl:comment>from teiHeader/*/* of <xsl:value-of
+        select="if (ancestor::TEI) then 'TEI' else 'teiCorpus'"/></xsl:comment>
       <xsl:apply-templates select="$corpusHeader/*[name(..) eq $parent]/*[name(.) eq $me]/@*"
       mode="#current"/>
       <xsl:apply-templates select="@*" mode="#current"/>
