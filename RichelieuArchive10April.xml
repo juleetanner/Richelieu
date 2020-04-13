@@ -21,18 +21,73 @@
          </publicationStmt>
          <sourceDesc>
             <listBibl>
-               <bibl>Avenel, M. <hi rend="italic">Lettres, Instructions Diplomatiques et Papiers
-                     d'État du Cardinal de Richelieu.</hi> 8 vols. (Paris: Imprimerie Impériale,
-                  1853-1877).</bibl>
-               <bibl>Levi, Anthony. <hi rend="italic">Cardinal Richelieu and the Making of
-                     France.</hi> (London: Constable &amp; Robinson, 2001).</bibl>
-               <bibl>Tapié, Victor-L. <hi rend="italic">France in the Age of Louis XIII and
-                     Richelieu,</hi> trans. D. McN. Lockie. (Cambridge: Cambridge University Press,
-                  1984). </bibl>
-               <bibl>Unless otherwise indicated, biograpahical information is taken from "About"
-                  section of VIAF.</bibl>
+               <biblStruct xml:id="Avenel">
+                  <monogr>
+                     <title level="m" xml:lang="fr"><hi rend="italic">Lettres, Instructions Diplomatiques et
+                           Papiers d'État du Cardinal de Richelieu.</hi></title>
+                     <editor>
+                        <persName>
+                           <forename>M.</forename>
+                           <surname>Avenel</surname>
+                        </persName>
+                     </editor>
+                     <imprint>
+                        <publisher>Imprimerie Impériale</publisher>
+                        <pubPlace>Paris</pubPlace>
+                        <date from="1853" to="1877"/>
+                     </imprint>
+                     <biblScope unit="volumes">8</biblScope>
+                  </monogr>
+               </biblStruct>
+               <biblStruct xml:id="Levi">
+                  <monogr>
+                     <author>
+                        <persName>
+                           <forename>Anthony</forename>
+                           <surname>Levi</surname>
+                        </persName>
+                     </author>
+                     <title level="m"><hi rend="ital">Cardinal Richelieu and the Making of
+                        France</hi></title>
+                     <imprint>
+                        <publisher>Constable &amp; Robinson</publisher>
+                        <pubPlace>London</pubPlace>
+                        <date when="2001"/>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
+               <biblStruct>
+                  <monogr>
+                     <author>
+                        <persName>
+                           <forename>Victor-L.</forename>
+                           <surname>Tapié</surname>
+                        </persName>
+                     </author>
+                     <editor role="translator">
+                        <persName>
+                           <forename>D.</forename>
+                           <forename>McN.</forename>
+                           <surname>Lockie</surname>
+                        </persName>
+                     </editor>
+                     <title level="m"><hi rend="ital">France in the Age of Louis XIII and
+                        Richelieu</hi></title>
+                     <imprint>
+                        <publisher>Cambridge University Press</publisher>
+                        <pubPlace>Cambridge</pubPlace>
+                        <date>1984</date>
+                     </imprint>
+                  </monogr>
+               </biblStruct>
             </listBibl>
             <listPerson>
+               <person xml:id="SB">
+                  <persName>Syd Bauman</persName>
+               </person>
+               <person xml:id="JT">
+                  <persName>Julee Tanner</persName>
+               </person>
                <person xml:id="Aglie">
                   <persName type="main">San Martino d'Agliè, Filippo, conte</persName>
                   <persName>Comte d'Aglie</persName>
@@ -57,11 +112,6 @@
                   <death when="1651"/>
                   <note>A lawyer, councillor of state, and inspector of French forces under
                      Richelieu.</note>
-               </person>
-               <person xml:id="Avenel">
-                  <persName type="main">Avenel, M.</persName>
-                  <idno type="VIAF">204917436</idno>
-                  <note>Nineteenth-century editor of Richelieu correspondence.</note>
                </person>
                <person xml:id="Balzac">
                   <persName type="main">Balzac, Jean-Louis Guez de</persName>
@@ -473,7 +523,6 @@
          </sourceDesc>
       </fileDesc>
    </teiHeader>
-
    <TEI xml:id="letter1">
       <teiHeader>
          <fileDesc>
@@ -510,7 +559,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -531,7 +580,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="Vialart_letters_Page_01"/>
             <opener>
@@ -722,7 +771,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -743,7 +792,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="Vialart_letters_Page_02"/>
             <opener><salute><choice>
@@ -1018,7 +1067,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -1035,7 +1084,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="Vialart_letters_Page_03"/>
             <opener><salute><choice>
@@ -1233,7 +1282,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="it">
          <body>
             <pb facs="Vialart_letters_Page_04"/>
             <p>Minentissimo &amp; Reuerendissimo S. mio Patron Colmo ho pagato affet- tionamente Mr
@@ -1283,7 +1332,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -1300,7 +1349,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="Vialart_letters_Page_05"/>
             <opener><salute><choice>
@@ -1521,7 +1570,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="it">Italian as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -1538,7 +1587,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="it">
          <body>
             <pb facs="Vialart_letters_Page_06"/>
             <opener><salute>Eminentissimo e <choice>
@@ -1614,7 +1663,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="it">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -1631,7 +1680,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="Vialart_letters_Page_06"/>
             <opener><salute><choice>
@@ -1739,7 +1788,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="it">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -1756,7 +1805,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="Vialart_letters_Page_07"/>
             <opener><salute><choice>
@@ -1921,7 +1970,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="it">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -1938,7 +1987,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="Vialart_letters_Page_08"/>
             <opener><salute><choice>
@@ -2144,7 +2193,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="it">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -2166,7 +2215,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="Vialart_letters_Page_09"/>
             <opener>
@@ -2397,18 +2446,29 @@
                   <reg>je</reg>
                </choice> vous en sçaurois dire, la bonté que V. Eminence de vouloir tesmoigner à
                   <persName ref="#Tommaso">Monsieur le Prince<certainty locus="name" degree=".6"
-                  /></persName> l'honneur qu'elle m'a fait de me croire son tres-humble <choice><orig>seruiteur</orig><reg>serviteur</reg></choice>
-               est extraordinaire, &amp; ce sont des soins dont il n'y a que vous seul qui se peut
-               <choice><orig>aduiser</orig><reg>adviser</reg></choice> pour moy, <choice>
+                  /></persName> l'honneur qu'elle m'a fait de me croire son tres-humble <choice>
+                  <orig>seruiteur</orig>
+                  <reg>serviteur</reg>
+               </choice> est extraordinaire, &amp; ce sont des soins dont il n'y a que vous seul qui
+               se peut <choice>
+                  <orig>aduiser</orig>
+                  <reg>adviser</reg>
+               </choice> pour moy, <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
-               </choice> n'aurois <choice><orig>iamais</orig><reg>jamais</reg></choice> fait, si <choice>
+               </choice> n'aurois <choice>
+                  <orig>iamais</orig>
+                  <reg>jamais</reg>
+               </choice> fait, si <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> vous voulois rendre graces tres-humble, autant de fois que <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
-               </choice> vous ay des <choice><orig>nouuelles</orig><reg>nouvelles</reg></choice> obligations ; <choice>
+               </choice> vous ay des <choice>
+                  <orig>nouuelles</orig>
+                  <reg>nouvelles</reg>
+               </choice> obligations ; <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> me contente de vous dire, Monseigneur, que <choice>
@@ -2417,14 +2477,23 @@
                </choice> suis à vous, &amp; que <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
-               </choice> n'auray <choice><orig>iamais</orig><reg>jamais</reg></choice> tant de <choice><orig>ioye</orig><reg>joye</reg></choice>, que lors que <choice>
+               </choice> n'auray <choice>
+                  <orig>iamais</orig>
+                  <reg>jamais</reg>
+               </choice> tant de <choice>
+                  <orig>ioye</orig>
+                  <reg>joye</reg>
+               </choice>, que lors que <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> vous pourray tesmoigner que <choice>
                   <orig>ie</orig>
                   <reg>je</reg>
                </choice> suis, &amp;c.</p>
-            <closer><dateline>A Turin ce 17. <choice><orig>Ianuier</orig><reg>Janvier</reg></choice> 1639.</dateline></closer>
+            <closer><dateline>A Turin ce 17. <choice>
+                     <orig>Ianuier</orig>
+                     <reg>Janvier</reg>
+                  </choice> 1639.</dateline></closer>
          </body>
       </text>
    </TEI>
@@ -2470,7 +2539,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -2487,7 +2556,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99912_116105v_0002-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -2539,7 +2608,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -2555,7 +2624,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99919_126971v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -2602,7 +2671,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -2619,7 +2688,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99908_101568v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -2667,7 +2736,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -2684,7 +2753,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99910_103601v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -2733,7 +2802,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -2751,7 +2820,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99917_126906v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -2806,7 +2875,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -2823,7 +2892,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99923_132070v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -2875,7 +2944,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -2891,7 +2960,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99934_190649v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -2946,7 +3015,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -2964,7 +3033,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99921_130530v_0001-hpr.jpg" n="1r"/>
             <opener>
@@ -3112,7 +3181,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -3128,7 +3197,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99927_136119v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -3178,7 +3247,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -3195,7 +3264,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99932_136121v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -3245,7 +3314,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -3262,7 +3331,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99930_136120v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -3309,7 +3378,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -3326,7 +3395,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99925_136118v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -3371,7 +3440,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -3387,7 +3456,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99913_117073v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -3433,7 +3502,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -3450,7 +3519,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99915_120604v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
@@ -3500,7 +3569,7 @@
          </fileDesc>
          <profileDesc>
             <langUsage>
-               <language ident="fr">French as written in the 17th century</language>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
             </langUsage>
             <correspDesc>
                <correspAction type="sent">
@@ -3517,7 +3586,7 @@
             </correspDesc>
          </profileDesc>
       </teiHeader>
-      <text>
+      <text xml:lang="fr-1694acad">
          <body>
             <pb facs="MLM99936_200045v_0001-hpr.jpg"/>
             <p>[Transcription to come.]</p>
