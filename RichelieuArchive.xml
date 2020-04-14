@@ -15,7 +15,7 @@
          </titleStmt>
          <publicationStmt>
             <distributor/>
-            <availability status="free">
+            <availability>
                <p>Creative Commons Share-Alike 4.0 International license</p>
             </availability>
          </publicationStmt>
@@ -2497,6 +2497,70 @@
          </body>
       </text>
    </TEI>
+   <TEI xml:id="letter11">
+      <teiHeader>
+         <fileDesc>
+            <titleStmt>
+               <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
+                  ref="#Richelieu">Cardinal Richelieu</persName>, 2 February 1639</title>
+               <title type="sub">As transcribed by <persName ref="Vialart">Charles
+                  Vialart</persName> and published in 1649</title>
+            </titleStmt>
+            <publicationStmt>
+               <distributor>Newberry Library</distributor>
+               <availability status="free">
+                  <p>In the public domain</p>
+               </availability>
+            </publicationStmt>
+            <sourceDesc>
+               <bibl>
+                  <author>Vialart, Charles</author>
+                  <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu,
+                     sous le regne de Louys le Juste, XIII du nom, roy de
+                     <sic>Fance</sic><corr>France</corr> et de Navarre : Avec des reflexions
+                     politiques, et diverses lettres, contenant les negociations des affaires de
+                     Piedmont et du Montferrat</title>
+                  <biblScope unit="part">5</biblScope>
+                  <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse
+                     &amp; princes de la Maison de Sauoye : Contenant plusieurs lettres &amp;
+                     negotiations pour les affaires du Piedmont &amp; du Mont-ferrat.</title>
+                  <biblScope unit="page" from="9" to="10"/>
+                  <publisher>no publisher</publisher>
+                  <pubPlace>no place</pubPlace>
+                  <date>1649</date>
+                  <note>Not all editions of Vialart's book contain section 5, the source of the
+                     letters on the Piedmont.</note>
+               </bibl>
+            </sourceDesc>
+         </fileDesc>
+         <profileDesc>
+            <langUsage>
+               <language ident="fr-1694acad">French as written in the 17th century</language>
+            </langUsage>
+            <correspDesc>
+               <correspAction type="sent">
+                  <persName ref="#Valette">Valette</persName>
+                  <placeName>Turin</placeName>
+                  <date>1639-01-17</date>
+               </correspAction>
+               <correspAction type="received">
+                  <persName ref="#Richelieu">Richelieu</persName>
+                  <placeName/>
+                  <date/>
+               </correspAction>
+               <correspContext>
+                  <ref type="prev" target="#letter1">Previous letter of <persName>Cardinal
+                     Richelieu</persName> to <persName>Cardinal de La Valette</persName>: <date
+                        when="1639-01-06">6 January 1639</date></ref>
+               </correspContext>
+               <note>TO COME</note>
+            </correspDesc>
+         </profileDesc>
+      </teiHeader>
+      <text xml:lang="fr-1694acad">
+         <body>
+            <pb facs="Vialart_letters_Page_09"/>
+            <opener>
    <TEI xml:id="letter51">
       <teiHeader>
          <fileDesc>
