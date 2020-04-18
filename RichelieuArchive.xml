@@ -144,6 +144,15 @@
         <note>A writer of popular epistolary essays and founding member of the <hi rend="italic"
             >Académie française</hi>.</note>
       </person>
+      <person xml:id="Bernard">
+        <persName type="main">Épernon, Bernard de Nogaret de La Valette d'</persName>
+        <persName>Monsieur de La Valette</persName>
+        <idno type="VIAF">64281075</idno>
+        <birth when="1592"/>
+        <death when="1661-07-26"/>
+        <note>French general and brother of Louis de Nogaret, Cardinal de La Valette and Henri de
+          Nogaret, duc de Candalle. He became duc d'Épernon in 1642.</note>
+      </person>
       <person xml:id="Bertier">
         <persName type="main">Bertier de Montrave, Jean de</persName>
         <idno type="VIAF">193883924</idno>
@@ -194,11 +203,12 @@
         <note>An advisor to Richelieu and member of banking family originally from Lucca.</note>
       </person>
       <person xml:id="Epernon">
-        <persName type="main">Épernon, Bernard de Nogaret de La Valette d'</persName>
-        <idno type="VIAF">64281075</idno>
-        <birth when="1592"/>
-        <death when="1661-07-26"/>
-        <note>A French general and brother of Cardinal de La Valette.</note>
+        <persName type="main">Nogaret de La Valette, Jean-Louis de, duc d'Épernon</persName>
+        <idno type="VIAF">56742804</idno>
+        <birth when="1554"/>
+        <death when="1642"/>
+        <note>The first duc d'Épernon and father to Herri (d. 1639), Bernard, the second duc
+          d'Épernon, and Louis, Cardinal de La Valette.</note>
       </person>
       <person xml:id="Epinay">
         <persName type="main">Saint-Luc, Timoléon d'Epinay, marquis de</persName>
@@ -239,6 +249,16 @@
         <death when="1623-07-08"/>
         <note/>
       </person>
+      <person xml:id="Henri">
+        <persName type="main">Nogaret de Candalle, Henri de</persName>
+        <persName>Duc de Candal</persName>
+        <persName>Duc de Candalle</persName>
+        <idno type="VIAF">220228842</idno>
+        <birth when="1591"/>
+        <death when="1639"/>
+        <note>Eldest son of Jean-Louis de Nogaret de La Valette, the first duc d'Épernon, and
+          brother of Bernard, who would inherit the title, and Louis, Cardinal de La Valette.</note>
+      </person>
       <person xml:id="HenriettaMaria">
         <persName type="main">Henrietta Maria, queen consort of Charles I, king of
           England</persName>
@@ -273,14 +293,15 @@
         <death when="1653"/>
       </person>
       <person xml:id="Maurizio">
-        <persName type="main">Maurizio, prince and cardinal of Savoy</persName>
+        <persName type="main">Maurizio, prince of Savoy and cardinal of Vercelli</persName>
         <persName>Prince Maurice of Savoy</persName>
+        <persName>Cardinal of Savoy</persName>
         <idno type="VIAF">3700537</idno>
         <birth when="1593-01-10"/>
         <death when="1657-10-04"/>
         <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637, Maurizio and
-          his brother, Tommaso Francesco, prince of Carignano, attempted to claim the regency from
-          Christine of France.</note>
+          the third brother, Tommaso Francesco, prince of Carignano, attempted to claim the regency
+          from Christine of France.</note>
       </person>
       <person xml:id="Montmorency">
         <persName type="main">Montmorency, Henri II, duc de</persName>
@@ -359,13 +380,15 @@
         <idno type="VIAF">96062867</idno>
         <birth when="1568-04-05"/>
         <death when="1644-07-29"/>
-        <note/>
+        <note>Pope from 6 August 1623 to 29 July 1644.</note>
       </person>
       <person xml:id="Valette">
         <persName type="main">La Valette, Louis de Nogaret, cardinal de</persName>
         <idno type="VIAF">207349591</idno>
         <birth when="1593"/>
         <death when="1639"/>
+        <note>Cardinal and lieutenant general in the French army, brother of Henri de Nogaret, duc
+          de Candalle and Bernard de Nogaret, duc d'Épernon as of 1642.</note>
       </person>
       <person xml:id="Vialart">
         <persName type="main">Vialart, Charles</persName>
@@ -588,8 +611,7 @@
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -751,7 +773,7 @@
           </choice> impatience pour le détromper de l'opinion qu'il pourroit <choice>
             <orig>auoir</orig>
             <reg>avoir</reg>
-          </choice> que vos affaires, &amp; celles de <persName ref="#Epernon">Monsieur de la
+          </choice> que vos affaires, &amp; celles de <persName ref="#Bernard">Monsieur de la
             Valette/></persName>, fussent <choice>
             <orig>coniointes</orig>
             <reg>conjointes</reg>
@@ -810,8 +832,7 @@
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -1106,8 +1127,7 @@
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -1311,8 +1331,7 @@
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -1408,8 +1427,7 @@
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -1650,8 +1668,7 @@
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -1783,8 +1800,7 @@
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -1912,8 +1928,7 @@
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -2100,8 +2115,7 @@
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -2322,8 +2336,7 @@
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -2380,7 +2393,7 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice> n'espargneray pas ma vie pour luy témoigner ma reconnoissance.</p>
-        <p>Ayant sçeu que <persName ref="#Epernon">Monsieur de al Valette</persName> continuë à <choice>
+        <p>Ayant sçeu que <persName ref="#Bernard">Monsieur de al Valette</persName> continuë à <choice>
             <orig>viure</orig>
             <reg>vivre</reg>
           </choice> d'<choice>
@@ -2661,14 +2674,13 @@
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
               les affaires du Piedmont &amp; du Mont-ferrat.</title>
-            <biblScope unit="page" from="9" to="10"/>
+            <biblScope unit="page" from="10" to="11"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -2772,9 +2784,9 @@
           </choice> dans tout le mois vn Regiment pour <choice>
             <orig>releuer</orig>
             <reg>relever</reg>
-          </choice> celuy d'<persName ref="#Aiguebonne">Aiguebonne</persName>, qui est dans
-            <placeName ref="#Pinerolo">Pignerol</placeName>, il en sortira pour le moins aussi fort
-          que celuy de Nerestan ,&amp; pour ce qu'il y <choice>
+          </choice> celuy d'Aiguebonne, qui est dans <placeName ref="#Pinerolo"
+          >Pignerol</placeName>, il en sortira pour le moins aussi fort que celuy de Nerestan ,&amp;
+          pour ce qu'il y <choice>
             <orig>auoit</orig>
             <reg>avoit</reg>
           </choice> trop de difficulté à faire passer deux mil hommes d'Infanterie durant ce mois,
@@ -2980,14 +2992,13 @@
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
               les affaires du Piedmont &amp; du Mont-ferrat.</title>
-            <biblScope unit="page" from="9" to="10"/>
+            <biblScope unit="page" from="11" to="13"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
             <date>1649</date>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The edition used here is held by the Newberry Library in
-              Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -3313,6 +3324,258 @@
               <reg>éviter</reg>
             </choice> la peine à Vostre Eminence de la lire.</p>
         </postscript>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter13">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 15 April 1639</title>
+          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
+            published in 1649</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date>2020</date>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
+              negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="13" to="14"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date>1649</date>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Valette">Valette</persName>
+            <placeName>Turni</placeName>
+            <date>1639-04-15</date>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu">Richelieu</persName>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note type="temp" resp="#JT">TO COME</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_13"/>
+        <opener><salute><choice>
+              <orig>Monseignevr</orig>
+              <reg>Monseigneur</reg>
+            </choice>,</salute></opener>
+        <p>La perte que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay faite de <persName ref="#Henri">Monsieur de Candale</persName> m'a obligé de
+          l'aller assister à <placeName ref="#Casale">Cazal</placeName> dans sa maladie, de sorte
+          que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'ay pû durant ce temps-là <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> l'honneur de vous escrire.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> pense maintenant qu'il est de mon <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice> de vous donner <choice>
+            <orig>aduis</orig>
+            <reg>advis</reg>
+          </choice> de la mort de mon frere, &amp; vous diray, Monseigneur, que vous <choice>
+            <orig>auez</orig>
+            <reg>avez</reg>
+          </choice> perdu <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> tres-fidel <choice>
+            <orig>seruiteur</orig>
+            <reg>serviteur</reg>
+          </choice>, Dieu luy a fait la grace de penser à sa conscience de <choice>
+            <orig>receuoir</orig>
+            <reg>recevoir</reg>
+          </choice> tous ses Sacremens, &amp; de mourir tres-Chrietiennement, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'en ay <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> extréme déplaisir, &amp; tel que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> dois d'<choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> personne qui m'estoit si proche, &amp; qui m'a témoigné beaucoup d'amitié.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> croy, Monsiegneur que le <persName ref="#Louis13">Roy</persName> &amp; Vostre
+          Eminence aurez agreable que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'en donne <choice>
+            <orig>aduis</orig>
+            <reg>advis</reg>
+          </choice> à <persName ref="#Bernard">Monsieur de la Valette</persName>, pour l'interest
+          qu'il y a, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'<choice>
+            <orig>enuoye</orig>
+            <reg>envoye</reg>
+          </choice>
+          <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> Gentil-homme à <persName ref="Epernon">Monsieur d'Espernon</persName> pour luy
+          faire <choice><orig>sçauoir</orig><reg>sçavoir</reg></choice> nostre mal-heur.</p>
+        <p>Les affaires d'icy n'ont reçeu aucun changement depuis que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay eu l'honneur de vous écrire, <persName ref="#Christine">Madame</persName> ne
+          croit pas que le <persName ref="#Urban8">Pape</persName>, ou pour mieux dire, le Cardinal
+          Barberin, soit fort affectionné, ny pour la France, ny pour elle, elle croit qu'il est
+          pour le <persName ref="Maurizio">Cardinal de Sauoye</persName> contre ses interests, au
+          moins me le dit-elle ainsi.</p>
+        <pb facs="Vialart_letters_Page_14"/>
+        <p>Nos Trouppes sont en bon estat, nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> ou nous aurons les derniers 200000. <choice>
+            <orig>liures</orig>
+            <reg>livres</reg>
+          </choice> que Vostre Eminence nous a ordonné, il ne rester a plus que les 350. mil <choice>
+            <orig>liures</orig>
+            <reg>livres</reg>
+          </choice> que vous m'<choice>
+            <orig>auez</orig>
+            <reg>avez</reg>
+          </choice> fait l'honneur de m'écrire <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice> estre fournis dans la fin de ce mois, ou le commencement de May, <choice>
+            <orig>pourueu</orig>
+            <reg>pourveu</reg>
+          </choice> que cela soit, j'oseray quasi respondre du nombre des Troupes que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous ay mandé que nous aurons.</p>
+        <p><choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'attens maintenant le Regiment de <persName ref="Turenne">la Tour</persName>,
+          lequel n'est pas arriué dans le temps que Monsieur le Comte nous <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> escrit, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> le souhaite pour retirer celuy de Nerestan, de Cazal, &amp; <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous supplie tres humblement de commander qu'on fasse <choice>
+            <orig>releuer</orig>
+            <reg>relever</reg>
+          </choice> celuy d'Aiguebonne de <placeName ref="#Pinerolo">Pignerol</placeName>, car par
+          ce moyen nous mettrons douze mil hommes de pied en campagne ; j'écris outre cela à
+            <placeName ref="#Lyon">Lyon</placeName> qu'on fasse promptement passer les recreuës
+          d'Alincourt, si elles sont prestes comme on me l'a mandé, &amp; celle de Chamblé, afin d'<choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice>
+          <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> Corps d'Infanterie dans le mois de Mars, y ayant apparence que nous en aurons
+          affaire.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> mande de plus à tous nos Officiers qu'il faut que les Troupes passent à la fin
+          de Mars afin de les faire haster, car <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> crains leur paresse, estant necessaire que les Troupes soyent icy dans le
+          quinziéme ou vingtiéme d'<choice>
+            <orig>Auril</orig>
+            <reg>Avril</reg>
+          </choice> au plus tard. C'est pourquoy <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ose supplier V.E. de faire <choice>
+            <orig>enuoyer</orig>
+            <reg>envoyer</reg>
+          </choice> des Courriers par tout, afin que les Troupes se hastent, &amp; qu'on donne
+          l'argent des recreuës ; car le mois de Mars sera incontinent passé, &amp; il me semble
+          qu'il ne faut pas perdre le temps, si les Trouppes passent forte, comme <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'espere, &amp; qu'on passe <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> Baronis <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'espere que vous serez satisfait de nostre Campagne. <choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'écris aussi à <persName ref="#Turenne">Monsieur de Turenne</persName> pour le
+          prier de partir promptement, car mon frere estant mort, il n'y a plus que Monsieur du
+          Plessis &amp; moy d'Officiers d'armée, les Marschaux de Camp, &amp; les Sergens de
+          bataille, sont absents.</p>
+        <p>Il ne se peut rien adjouster aux soings de Monsieur le Grand Maistre, ce qui dépend de
+          luy va aussi bien qu'il se peut, plût à Dieu que ce que V.E. ordonne aux autres
+          s'effectuât aussi ponctuellement. Il manque seulement de l'argent aux Officiers de
+          l'Artillerie, mais cela ne dépend pas de luy, le fond ne se faisant que pour six mois, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> prie Dieu qui me fasse la grace de rendre quelque bon <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> au Roy, &amp; à Vôtre Eminence, durant ceste Campagne, &amp; que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> sois assez heureux pour vous témoigner que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis.</p>
+        <closer><salute>Vostre, &amp;c.</salute>
+          <dateline>De <placeName ref="Turin">Turin</placeName> ce 15. <choice>
+              <orig>Auril</orig>
+              <reg>Avril</reg>
+            </choice> 1639.</dateline></closer>
       </body>
     </text>
   </TEI>
@@ -3758,7 +4021,8 @@
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA 4801 (07). Gift of Mrs. Charles Wrightsman, 1993.</p>
+            <p>The Morgan Library &amp; Museum. MA 4801 (07). Gift of Mrs. Charles Wrightsman,
+              1993.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -4215,7 +4479,7 @@
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-              <p>The Morgan Library &amp; Museum. MA 1346-235.</p>
+            <p>The Morgan Library &amp; Museum. MA 1346-235.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -4414,7 +4678,8 @@
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA 4801 (07). Gift of Mrs. Charles Wrightsman, 1993.</p>
+            <p>The Morgan Library &amp; Museum. MA 4801 (07). Gift of Mrs. Charles Wrightsman,
+              1993.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
