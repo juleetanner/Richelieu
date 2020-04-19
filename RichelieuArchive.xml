@@ -119,7 +119,7 @@
         <idno type="VIAF">62659363</idno>
         <birth when="1604"/>
         <death when="1667"/>
-        <note>The favorite of and advisor to Christine of France during her regency.</note>
+        <note>The favorite and advisor to Christine of France during her regency.</note>
       </person>
       <person xml:id="Alvin">
         <persName>Halluin, Charles de Schomberg d'</persName>
@@ -174,6 +174,16 @@
           as the first diplomatic success of the cardinal, then an equal member in the king's
           council (Levi, p. 81).</note>
       </person>
+      <person xml:id="CharlesE2">
+        <persName type="main">Charles-Emmanuel II, duke of Savoy</persName>
+        <idno type="VIAF">13715438</idno>
+        <birth when="1634-06-20"/>
+        <death when="1675-06-12"/>
+        <note>Second son of Victor Amadeus I, duke of Savoy, and Christine of France. He inherited
+          the duchy on the death of his elder brother Francis Hyacinth in 1638, but the regency of
+          his mother was challenged by his uncles Thomas, prince of Carignano, and Maurice, prince
+          of Savoy and cardinal of Vercelli, in the Piedmontese Civil War.</note>
+      </person>
       <person xml:id="Chavigny">
         <persName type="main">Bouthillier-Chavigny, Claude, comte de</persName>
         <persName>Chavigny</persName>
@@ -186,13 +196,16 @@
           Joseph</persName>.</note>
       </person>
       <person xml:id="Christine">
-        <persName type="main">Christine, duchess of Savoy</persName>
-        <persName>Christine of France</persName>
+        <persName type="main">Christine of France</persName>
+        <persName>Christine, duchess of Savoy</persName>
         <idno type="VIAF">86438866</idno>
         <birth when="1606-02-10"/>
         <death when="1663-12-27"/>
-        <note>Sister of Louis XIII and wife of Victor Amadeus I, Duke of Savoy. At her husband's
-          death in 1637 until 1648 she was regent of Savoy.</note>
+        <note>Sister of Louis XIII and wife of Victor Amadeus I, duke of Savoy. At her husband's
+          death in 1637 until 1648 she was regent of Savoy, first in the name of her son Francis
+          Hyacinth (d. 1638), then in the name of her second son, Charles-Emmanuel II. Her regency
+          was challenged by her brothers-in-law Thomas, prince of Carignano, and Maurizio, prince of
+          Savoy and cardinal of Vercelli, in the Piedmontese Civil War.</note>
       </person>
       <person xml:id="Emery">
         <persName type="main">Emery, Michel Particelli, sieur d'</persName>
@@ -207,7 +220,7 @@
         <idno type="VIAF">56742804</idno>
         <birth when="1554"/>
         <death when="1642"/>
-        <note>The first duc d'Épernon and father to Herri (d. 1639), Bernard, the second duc
+        <note>The first duc d'Épernon and father to Henri (d. 1639), Bernard, the second duc
           d'Épernon, and Louis, Cardinal de La Valette.</note>
       </person>
       <person xml:id="Epinay">
@@ -234,7 +247,7 @@
           was French envoy to Rome from 1636 to 1648.</note>
       </person>
       <person xml:id="Ferdinando2">
-        <persName type="main">Ferdinando II, Grand-Duke of Tuscany</persName>
+        <persName type="main">Ferdinando II, grand-duke of Tuscany</persName>
         <idno type="VIAF">59056232</idno>
         <birth when="1610"/>
         <death when="1670"/>
@@ -247,7 +260,7 @@
         <idno type="VIAF">49321911</idno>
         <birth when="1554-01-09"/>
         <death when="1623-07-08"/>
-        <note/>
+        <note>Pope from 1621 to 1623.</note>
       </person>
       <person xml:id="Henri">
         <persName type="main">Nogaret de Candalle, Henri de</persName>
@@ -256,8 +269,9 @@
         <idno type="VIAF">220228842</idno>
         <birth when="1591"/>
         <death when="1639"/>
-        <note>Eldest son of Jean-Louis de Nogaret de La Valette, the first duc d'Épernon, and
-          brother of Bernard, who would inherit the title, and Louis, Cardinal de La Valette.</note>
+        <note>Brother of Louis, Cardinal de La Valette, and eldest son of Jean-Louis de Nogaret de
+          La Valette, the first duc d'Épernon. On Henri's death in 1639, his brother Bernard would
+          inherit the title.</note>
       </person>
       <person xml:id="HenriettaMaria">
         <persName type="main">Henrietta Maria, queen consort of Charles I, king of
@@ -265,6 +279,7 @@
         <idno type="VIAF">52930938</idno>
         <birth when="1609-11-25"/>
         <death when="1669-09-10"/>
+        <note>Sister of Louis XIII, king of France.</note>
       </person>
       <person xml:id="Hepburn">
         <persName type="main">Hepburn, James, sir</persName>
@@ -279,29 +294,48 @@
         <birth when="1583"/>
         <death when="1660"/>
       </person>
-      <person xml:id="PJoseph"> </person>
+      <person xml:id="Joseph">
+        <persName type="main">Père Joseph</persName>
+        <persName>Leclerc du Tremblay, François</persName>
+        <idno type="VIAF">54169805</idno>
+        <birth when="1577-11-04"/>
+        <death when="1638-12-17"/>
+        <note>French Capuchin friar, friend and advisor to Cardinal Richelieu, unofficial negotiator
+          with German states, the original <hi rend="italics">eminence grise</hi>. His willingness
+          to ally with Protestants thwarted Richelieu's efforts to have him named cardinal
+          Blanchard, pp. 125 and 270, n. 21).</note>
+      </person>
+      <person xml:id="Leganes">
+        <persName type="main">Leganès, Diego Felipe de Guzmàn, marquis de</persName>
+        <idno type="VIAF">59193567</idno>
+        <birth when="1580"/>
+        <death when="1655"/>
+        <note>Cousin of the Count of Olivares, first minister to Philip IV of Spain and as of 1635,
+          captain general and governor of the Duchy of Milan. He was active in the Piedmontese Civil
+          War, 1639-41.</note>
+      </person>
       <person xml:id="Louis13">
         <persName type="main">Louis XIII, king of France</persName>
         <idno type="VIAF">64008583</idno>
         <birth when="1601-09-27"/>
         <death when="1643-05-14"/>
       </person>
-      <person xml:id="Maurice">
-        <persName type="main">Saint-Maurice, Thomas-François Chabod, marquis de</persName>
-        <idno type="VIAF">10793302</idno>
-        <birth when="1583"/>
-        <death when="1653"/>
-      </person>
       <person xml:id="Maurizio">
-        <persName type="main">Maurizio, prince of Savoy and cardinal of Vercelli</persName>
-        <persName>Prince Maurice of Savoy</persName>
-        <persName>Cardinal of Savoy</persName>
+        <persName type="main">Maurice, prince and cardinal of Savoy</persName>
+        <persName>Maurizio, prince of Savoy and cardinal of Vercelli</persName>
         <idno type="VIAF">3700537</idno>
         <birth when="1593-01-10"/>
         <death when="1657-10-04"/>
-        <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637, Maurizio and
-          the third brother, Tommaso Francesco, prince of Carignano, attempted to claim the regency
-          from Christine of France.</note>
+        <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637, Maurice and
+          his brother, Thomas Francis, prince of Carignano, attempted to take the regency from
+          Christine of France, leading to the Piedmontese Civil War.</note>
+      </person>
+      <person xml:id="Monod">
+        <persName type="main">Père Monod</persName>
+        <persName>Père Monot</persName>
+        <note>Jesuit priest and Spanish sympathizer at the court of Christine, duchesse de Savoie.
+          His arrest and removal to Montmélian by the French aroused Christine's anger against
+          Richelieu (Tapié, p. 390).</note>
       </person>
       <person xml:id="Montmorency">
         <persName type="main">Montmorency, Henri II, duc de</persName>
@@ -321,28 +355,17 @@
         <birth when="1606"/>
         <death when="1665"/>
       </person>
-      <person xml:id="Monod">
-        <persName type="main">Père Monod</persName>
-        <note>Jesuit priest and Spanish sympathizer at the court of Christine, duchesse de Savoie.
-          His arrest and removal to Montmélian by the French aroused Christine's anger against
-          Richelieu (Tapié, p. 390).</note>
-      </person>
-      <person xml:id="Joseph">
-        <persName type="main">Père Joseph</persName>
-        <persName>Leclerc du Tremblay, François</persName>
-        <idno type="VIAF">54169805</idno>
-        <birth when="1577-11-04"/>
-        <death when="1638-12-17"/>
-        <note>French Capuchin friar, friend and advisor to Cardinal Richelieu, unofficial negotiator
-          with German states, the original <hi rend="italics">eminence grise</hi>. His willingness
-          to ally with Protestants thwarted Richelieu's efforts to have him named cardinal
-          Blanchard, pp. 125 and 270, n. 21).</note>
-      </person>
       <person xml:id="Richelieu">
         <persName type="main">Richelieu, Armand-Jean du Plessis, cardinal duc de</persName>
         <idno type="VIAF">12314392</idno>
         <birth when="1585-09-09"/>
         <death when="1642-12-04"/>
+      </person>
+      <person xml:id="SMaurice">
+        <persName type="main">Saint-Maurice, Thomas-François Chabod, marquis de</persName>
+        <idno type="VIAF">10793302</idno>
+        <birth when="1583"/>
+        <death when="1653"/>
       </person>
       <person xml:id="Sully">
         <persName type="main">Sully, Maximilien de Béthune, duc de</persName>
@@ -357,14 +380,14 @@
         <death when="1627"/>
       </person>
       <person xml:id="Tommaso">
-        <persName type="main">Tommaso Francesco, prince of Carignano</persName>
-        <persName>Thomas Francis, prince of Carignano</persName>
+        <persName type="main">Thomas Francis, prince of Carignano</persName>
+        <persName>Tommaso Francesco, prince of Carignano</persName>
         <idno type="VIAF">61656600</idno>
         <birth when="1593-01-10"/>
         <death when="1657-10-04"/>
-        <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637, Tommaso and
-          his brother, Maurizio, prince and cardinal of Savoy, attempted to claim the regency from
-          Christine of France.</note>
+        <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637, Thomas and
+          his brother, Maurice, prince of Savoy and cardinal of Vercelli, attempted to take the
+          regency from Christine of France, leading to the Piedmontese Civil War.</note>
       </person>
       <person xml:id="Turenne">
         <persName type="main">Turenne, Henri de la Tour d'Auvergne, vicomte de</persName>
@@ -396,6 +419,16 @@
         <idno type="VIAF">http://viaf.org/viaf/7665266</idno>
         <birth when="1592"/>
         <death when="1644"/>
+      </person>
+      <person xml:id="VictorA1">
+        <persName type="main">Victor Amadeus I, duke of Savoy</persName>
+        <idno type="VIAF">76193579</idno>
+        <birth when="1587-05-08"/>
+        <death when="1637-10-07"/>
+        <note>Husband to Christine of France. His death in 1637 and the death of his eldest son,
+          Francis Hyacinth, in 1639 lead to the Piedmontese Civil War, as the regency of Christine
+          in the name of her second son, Charles Emmanuel, was challenged by the duke's brothers,
+          Thomas, prince of Carignano and Maurice, prince of Savoy and cardinal of Vercelli.</note>
       </person>
       <person xml:id="Villa">
         <persName type="main">Villa, Guido</persName>
@@ -485,6 +518,13 @@
           <geo>47.31 -5.01</geo>
         </location>
         <idno type="GeoNames">3021372</idno>
+      </place>
+      <place xml:id="Flanders" type="county">
+        <placeName>Flandre</placeName>
+        <location>
+          <geo>51 -4.5</geo>
+        </location>
+        <idno type="GeoNames">3337388</idno>
       </place>
       <place xml:id="Grange" type="building">
         <placeName type="main">Château de la Grange des Prés</placeName>
@@ -1604,7 +1644,7 @@
           </choice> fois <choice>
             <orig>auec</orig>
             <reg>avec</reg>
-          </choice> fruict, comme aussi le <persName ref="#Maurice">Marquis de Saint
+          </choice> fruict, comme aussi le <persName ref="SMaurice">Marquis de Saint
             Maurice</persName>, qui vous rendra cette Lettre, afin que <choice>
             <orig>ie</orig>
             <reg>je</reg>
@@ -2054,7 +2094,7 @@
           vous dira. <choice>
             <orig>I</orig>
             <reg>J</reg>
-          </choice>'ay chargé le <persName ref="#Maurice">Marquis de Saint Maurice</persName> mon
+          </choice>'ay chargé le <persName ref="SMaurice">Marquis de Saint Maurice</persName> mon
           Ambassadeur de s'expliquer particulierement sur ce <choice>
             <orig>suiet</orig>
             <reg>sujet</reg>
@@ -2252,7 +2292,7 @@
             <reg>servir</reg>
           </choice> en Italie, que le le double de celle qui passera de France.</p>
         <p>Le Nonce a ordre du <persName ref="#Urban8">Pape</persName> de traiter l'accommodement du
-            <persName ref="#Maurice">Cardinal de <choice>
+            <persName ref="Maurice">Cardinal de <choice>
               <orig>Sauoye</orig>
               <reg>Savoye</reg>
             </choice></persName>
@@ -2880,7 +2920,7 @@
           </choice>'escris à Monsieur de <persName ref="#Chavigny">Chauigny</persName> ce que <choice>
             <orig>i</orig>
             <reg>j</reg>
-          </choice>'ay appris du decret que le <persName ref="#Maurice">Cardinal de <choice>
+          </choice>'ay appris du decret que le <persName ref="Maurice">Cardinal de <choice>
               <orig>Sauoye</orig>
               <reg>Savoye</reg>
             </choice></persName> a obtenu de l'<persName ref="#Ferdinand3">Empereur</persName> pour
@@ -3928,8 +3968,9 @@
           <choice>
             <orig>vne</orig>
             <reg>une</reg>
-          </choice> partie de nos Troupes, ainsi que <persName ref="#Palluau">Monsieur de Palluau</persName> vous l'aura peu dire. Ce
-          n'est pas que si nous sommes en estat d'entreprendre <choice>
+          </choice> partie de nos Troupes, ainsi que <persName ref="#Palluau">Monsieur de
+            Palluau</persName> vous l'aura peu dire. Ce n'est pas que si nous sommes en estat
+          d'entreprendre <choice>
             <orig>vn</orig>
             <reg>un</reg>
           </choice> grand siege, que mon inclination n'aille à le tenter, mais <choice>
@@ -4056,12 +4097,12 @@
           </choice> jugemens qu'on fait d'elle, quand à moy il me semble que <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> connois mieux ses interests que ses pensées, le <persName ref="#Aglie">Comte Philippe</persName> le sçait bien,
-          elle m'a promis qu'elle s'asseurera de Nice, <choice>
+          </choice> connois mieux ses interests que ses pensées, le <persName ref="#Aglie">Comte
+            Philippe</persName> le sçait bien, elle m'a promis qu'elle s'asseurera de Nice, <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> la vois en disposition d'y mettre le de la Tour, elle est aussi apres à
-          gagner Dom Fœlix, <choice>
+          </choice> la vois en disposition d'y mettre le de la Tour, elle est aussi apres à gagner
+          Dom Fœlix, <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> luy conseille de gagner <choice>
@@ -4113,6 +4154,399 @@
             <orig>auec</orig>
             <reg>avec</reg>
           </choice> la fidelité que ie dois.</p>
+        <closer><salute>Vostre, &amp;c.</salute></closer>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter15">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, n.d.</title>
+          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
+            published in 1649</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date>2020</date>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
+              negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="17" to="18"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date>1649</date>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Valette">Valette</persName>
+            <placeName>n.p.</placeName>
+            <date>n.d.</date>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu">Richelieu</persName>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note type="temp" resp="#JT">TO COME</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_17"/>
+        <opener><salute><choice>
+              <orig>Monseignevr</orig>
+              <reg>Monseigneur</reg>
+            </choice>,</salute></opener>
+        <p>Vous <choice>
+            <orig>auez</orig>
+            <reg>avez</reg>
+          </choice> sceu par le sieur de Pizieux comme le <persName ref="#Tommaso">Prince
+            Thomas</persName> est party de <placeName ref="#Flanders">Flandres</placeName> pour
+          venir icy, &amp; veu les Lettres qui ont esté écrites au dit sieur de Pizieux, dont on a
+          enuoyé la coppie à <persName ref="#Christine">Madame</persName>, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne doute pas que le Prince Thomas ne vienne sur l'esperance de quelque <choice>
+            <orig>reuolte</orig>
+            <reg>revolte</reg>
+          </choice>, ou de quelque trahison des <choice>
+            <orig>Gouuerneurs</orig>
+            <reg>Gouverneurs</reg>
+          </choice> des places, ce qui me semble extrement à craindre, &amp; à quoy <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne puis remedier, estant <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> chose qui dépend de Madame. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> souhaitterois qu'elle eut <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> peu plus de <choice>
+            <orig>seuerité</orig>
+            <reg>severité</reg>
+          </choice>, mais <choice>
+            <orig>iusques</orig>
+            <reg>jusques</reg>
+          </choice> icy il est difficile de venir à l'execution des choses qu'il semble quelque fois
+          qu'elle ait resoluë son sexe, la nature, &amp; les interests de Piedmont en sont
+          cause.</p>
+        <p>Si le Regiment qui doit <choice>
+            <orig>releuer</orig>
+            <reg>relever</reg>
+          </choice> Aiguebonne, ou les recreuës de Chamblé &amp; d'Alincourt <choice>
+            <orig>arriuent</orig>
+            <reg>arrivent</reg>
+          </choice> dans le quinziéme de ce mois, comme <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> les ay demandées il y a plus de trois semaines, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'espere de me garantir de la force <choice>
+            <orig>ouuerte</orig>
+            <reg>ouverte</reg>
+          </choice>
+          <choice>
+            <orig>iusques</orig>
+            <reg>jusques</reg>
+          </choice> au vingtiéme d'<choice>
+            <orig>Auril</orig>
+            <reg>Avril</reg>
+          </choice>, auquel temps <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay <choice>
+            <orig>tousiours</orig>
+            <reg>tousjours</reg>
+          </choice> demandé toutes les Troupes, mais parce que ceux qui sont allez aux recruës me
+          mandent qu'ils n'ont point encore touchez d'argent, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ose tres-humblement supplier V.E. d'<choice>
+            <orig>enuoyer</orig>
+            <reg>envoyer</reg>
+          </choice> des personnes dans les <choice>
+            <orig>Prouinces</orig>
+            <reg>Provinces</reg>
+          </choice> pour leur faire donner ce qui leur a esté promis pour les recreuës, &amp;
+          commander tres-expressement qu'elles soient en Piedmont au 20. <choice>
+            <orig>Auril</orig>
+            <reg>Avirl</reg>
+          </choice>. Car il est necessaire, s'il me semble, que nous soyons attachez au premier de
+          May à l'entreprise que vous nous commandez de faire, si les Ennemis ne sont pas si forts
+          que nous, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'attendray vos commandemens sur ce que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous ay mandé par Monsieur d'<persName ref="#Argenson">Argençon</persName>, de
+            <persName ref="Palluau">Palluau</persName>, &amp; de Bonnelle, sur ce suiet ; car si les
+          ennemis <choice>
+            <orig>enuoyent</orig>
+            <reg>envoyent</reg>
+          </choice> des Troupes en Espagne ou Allemagne, &amp; qu'il n'y ait point de <choice>
+            <orig>reuolte</orig>
+            <reg>revolte</reg>
+          </choice> dans le Piedmont, nous pourrons tenter quelque chose de considerable.</p>
+        <p>Nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> receu l'argent que vous nous <choice>
+            <orig>auez</orig>
+            <reg>avez</reg>
+          </choice> fait ordonner pour nos quartiers d'Hyuer, excepté les 350. mil <choice>
+            <orig>liures</orig>
+            <reg>livres</reg>
+          </choice> qui <choice>
+            <orig>doiuent</orig>
+            <reg>doivent</reg>
+          </choice> estre payez dans le commencement du mois, si elles le sont, comme <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'en doute pas, les Troupes seront en fort bon estat, &amp; <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> fay plus d'estat des cinq mil hommes de pied que nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice>, que de tout ce que nous <choice>
+            <orig>auions</orig>
+            <reg>avions</reg>
+          </choice> l'année passée, le bon ordre qu'il vous a plû donner à nostre payement est cause
+          du bon estat où nous allons mettre cette Armée. Enfin, Monsiegneur, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vois comme grande apparence de bien esperer de vostre Campagne si les recreuës
+          passent fortes, &amp; que le fonds du payement soit bien estably <choice>
+            <choice>
+              <orig>auec</orig>
+              <reg>avec</reg>
+            </choice>
+          </choice> le sieur Baronis, car par ce moyen <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'espere de bien <choice>
+            <orig>conseruer</orig>
+            <reg>conserver</reg>
+          </choice> l'armée, &amp; de <choice>
+            <orig>seruir</orig>
+            <reg>servir</reg>
+          </choice> en sorte que le Roy &amp; vous en demeuriez satisfaits. <choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'ay besoin de <persName ref="#Turenne">Monsieur de Turenne</persName>
+          presentement, si sa santé luy peut permettre de venir, car la pluspart des Officiers sont
+          absents, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> leur escris à tous, afin qu'ils se rendent diligemment à leurs charges, excepté
+          à Monsieur de Castelan, &amp; <choice>
+            <orig>Rocseruieres</orig>
+            <reg>Rocservieres</reg>
+          </choice>, ausquels vous <choice>
+            <orig>auez</orig>
+            <reg>avez</reg>
+          </choice> commandé d'aller aux recreuës.</p>
+        <p>Madame me fit hier des grandes protestations qu'elle ne se separeroit <choice>
+            <orig>iamais</orig>
+            <reg>jamais</reg>
+          </choice> des interests du <persName ref="#Louis13">Roy</persName>, &amp; me dit que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> le declarasse aux principaux de cét Estat, que le <pb
+            facs="Vialart_letters_Page_18"/> Roy ne souffriroit pas que le <persName ref="#Tommaso"
+            >Prince Thomas</persName> vint en Piedmont, ce qu'elle témoine apprehender <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> beaucoup de raison, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> m'imagine que vous aurez dépesché <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> Courier sur la <choice>
+            <orig>nouuelle</orig>
+            <reg>nouvelle</reg>
+          </choice> du partement du Prince Thomas pour nous porter vos ordres. Cependant <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne laisseray pas de mettre les choses qui dépendent de moy au meilleur estat
+          qu'il me sera possible. <choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'iray demain à <placeName ref="#Casale">Cazal</placeName> pour cela, &amp; pour
+          prendre l'<choice>
+            <orig>aduis</orig>
+            <reg>advis</reg>
+          </choice> du Chancelier sur la response que nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> a faire à la declaration du <persName ref="#Leganes">Marquis de
+            Leganez</persName>. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> crains que le Chancelier ne <choice>
+            <orig>viue</orig>
+            <reg>vive</reg>
+          </choice> pas longtemps, il faut songer de bonne heure à la forme de <choice>
+            <orig>gouuerner</orig>
+            <reg>gouverner</reg>
+          </choice> qu'on establira dans le <placeName ref="#Monferrato">Montferrat</placeName> s'il
+          meurt, parce que la Princesse de Mantouë voudra <choice>
+            <orig>pouruoir</orig>
+            <reg>pourvoir</reg>
+          </choice> à sa charge, ce qui porteroit <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> grand <choice>
+            <orig>preiudice</orig>
+            <reg>prejudice</reg>
+          </choice> aux affaires du <persName ref="Louis13">Roy</persName>, Vostre Eminence
+          commandera ce qu'il luy plaira que nous fassions en ce cas la, il me sembleroit à propos
+          de donner presentement les domaines que Vostre Eminence a promis au Chancelier, à Prat,
+          &amp; au Major de Cazal Solera, parce que ce sera <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> chose de bon exemple, &amp; laquelle <choice>
+            <orig>inuitera</orig>
+            <reg>invitera</reg>
+          </choice> d'autres personnes a s'attacher au Roy.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> n'ay fait <choice>
+            <orig>trauailler</orig>
+            <reg>travailler</reg>
+          </choice> au Pont de Sture, ny à Rossignan, parce que les Lettres d'échange que nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> tirées pour cela n'ont pas esté acceptées, ou pour le moins nous n'en <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> pas eu de <choice>
+            <orig>nouuelles</orig>
+            <reg>nouvelles</reg>
+          </choice>. Vostre Eminence commandera ce qu'il luy plaira que nous fassions.</p>
+        <p>Ceux qui ont part dans les affaires de <persName ref="#Christine">Madame</persName>
+          traittent <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> entreprise sur Vercel, si la chose se peut executer, il faudra assieger la
+          Citadelle. C'est ce qui me fait souhaiter dans le quinziéme de ce mois les deux Regimens
+          que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay demandé, la chose n'est pas assez secrette pour m'en promettre <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> bon effect ; Neantmoins les choses reüssissent quelque fois lors qu'on s'y
+          attend le moins, c'est pourquoy il se faut preparer à tout <choice>
+            <orig>euenement</orig>
+            <reg>evenement</reg>
+          </choice>.</p>
+        <p>L'Armée du Prince Thomas donnera <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> grande allarme dans le Piémont, selon qu'on mande à Madame, il taschera
+          premierement de s'accommoder, c'est à dire, de la porter à <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> suspension, &amp; la <choice>
+            <orig>receuoir</orig>
+            <reg>recevoir</reg>
+          </choice> luy, ou le Cardinal dans le Piémont, à quoy elle me témoigne <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice>
+          <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> grande repugnance, mais <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne respons pas de sa foiblesse, si elle voyoit <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice>
+          <choice>
+            <orig>reuolte</orig>
+            <reg>revolte</reg>
+          </choice>, neantmoins elle connoit bien qu'elle est perdué, si elle n'a vostre protection,
+          &amp; celle du Roy. La Citadelle de Turin, est bien asseurée, Madame se porte bien, son
+            <persName ref="#CharlesE2">fils</persName> est en bonne santé, elle espere <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> trois ou quatre mil François, lesquels <choice>
+            <orig>seruiront</orig>
+            <reg>serviront</reg>
+          </choice> au moins dans ses places c'est ce qui est cause que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay <choice>
+            <orig>tousiours</orig>
+            <reg>tousjours</reg>
+          </choice> esté d'<choice>
+            <orig>auis</orig>
+            <reg>avis</reg>
+          </choice> que le Roy luy payast les 3000. hommes de pied, car ils me semblent aussi
+          necessaires dans les places que dans la campagne pour les accidens qui pourroient <choice>
+            <orig>arriuer</orig>
+            <reg>arriver</reg>
+          </choice>. Il me semble s'il <choice>
+            <orig>arriuoit</orig>
+            <reg>arrivoit</reg>
+          </choice> accident à Madame de se saisir de la personne du Duc, &amp; de Turin s'il estoit
+          possible, à quoy les François de Madame seroient <choice>
+            <orig>tres-vtiles</orig>
+            <reg>tres-utiles</reg>
+          </choice>.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> puis asseurer Vostre Eminence que i'obmettray rien de ce qui dependra de moy
+          pour le <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> du Roy, ny pour vous tesmoigner que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> le respect &amp; l'affection que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> dois,</p>
         <closer><salute>Vostre, &amp;c.</salute></closer>
       </body>
     </text>
