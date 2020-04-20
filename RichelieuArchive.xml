@@ -497,6 +497,13 @@
         </location>
         <idno type="GeoNames">3180208</idno>
       </place>
+      <place xml:id="Dauphiné" type="region">
+        <placeName type="main">Dauphiné</placeName>
+        <location>
+          <geo>45 -5.25</geo>
+        </location>
+        <idno type="GeoNames">3021686</idno>
+      </place>
       <place xml:id="Coeuvres" type="commune">
         <placeName type="main">Coeuvres-et-Valsery</placeName>
         <placeName>Coeuvres</placeName>
@@ -547,6 +554,13 @@
           <geo>49.11 -6.17</geo>
         </location>
         <idno type="GeoNames">2994160</idno>
+      </place>
+      <place xml:id="Moncalvo" type="commune">
+        <placeName type="main">Moncalvo</placeName>
+        <location>
+          <geo>45.05 -8.26</geo>
+        </location>
+        <idno type="GeoNames">3173179</idno>
       </place>
       <place xml:id="Monferrato" type="region">
         <placeName>Monferrato</placeName>
@@ -4783,6 +4797,227 @@
               <orig>Ianuier</orig>
               <reg>Janvier</reg>
             </choice> 1639.</dateline></closer>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter17">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 19 March 1639</title>
+          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
+            published in 1649</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date>2020</date>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
+              negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="19" to="20">19</biblScope>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date>1649</date>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Valette">La Valette</persName>
+            <placeName>Turin</placeName>
+            <date>1639-03-19</date>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu">Cardinal Richelieu</persName>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note type="temp" resp="#JT">TO COME</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_19"/>
+        <opener><salute><choice>
+              <orig>Monseignevr</orig>
+              <reg>Monseigneur</reg>
+            </choice>,</salute></opener>
+        <p><choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'ay creu vous <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice> donner <choice>
+            <orig>aduis</orig>
+            <reg>advis</reg>
+          </choice> comme les Ennemis se sont assemblez, &amp; qu'il semble qu'ils veuillent tourner
+          du costé d'<placeName ref="#Asti">Ast</placeName>. On dit que le <persName ref="#Tommaso"
+            >Prince Thomas</persName> commande l'armée, ce qui me fait soupçonnner quelques
+          intelligences, nos Troupes sont assemblées aupres de <placeName ref="Moncalvo"><choice>
+              <orig>Moncalue</orig>
+              <reg>Moncalve</reg>
+            </choice></placeName>, où <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vay tout presentement, nostre Infanterie sera de prés de cinq mil hommes, mais <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'ay nulles <choice>
+            <orig>nouuelles</orig>
+            <reg>nouvelles</reg>
+          </choice> des Regimens de Chamblé &amp; d'Alincourt que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> demandois, il y a desia quelque temps, non plus que de celuy qui <choice>
+            <orig>deuoit</orig>
+            <reg>devoit</reg>
+          </choice>
+          <choice>
+            <orig>releuer</orig>
+            <reg>relever</reg>
+          </choice> Aiguebonne de <placeName ref="#Pinerolo">Pignerol</placeName>, ce qui nous rend
+          plus <pb facs="Vialart_letters_Page_20"/> foible de prés de deux mil hommes, car
+          Aiguebonne sortira auec 300. hommes en Campagne. <choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'ose tres-humblement supplier V. Eminence de faire presser nos Troupes, comme
+          aussi le reste de nos recreuës qui vont lentement, ainsi que vous verrez par les <choice>
+            <orig>aduis</orig>
+            <reg>advis</reg>
+          </choice> que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay de Monsieur le Duc de Lesdiguieres, &amp; de quelques Officiers, les Ennemis
+          ont tiré toutes leurs garnisons pour estre plus forts en Campagne, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ose aussi supplier tres-humblement Vostre Eminence de commander qu'on nous <choice>
+            <orig>enuoye</orig>
+            <reg>envoye</reg>
+          </choice> aussi les 350. mil <choice>
+            <orig>liures</orig>
+            <reg>livres</reg>
+          </choice>, restant de nos quartiers d'Hyuer, afin que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> puisse faire subsister nos Troupes le reste de ce mois, &amp; tout <choice>
+            <orig>Auril</orig>
+            <reg>Avril</reg>
+          </choice>. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> m'en vay presentement à <choice>
+            <orig>Moncalue</orig>
+            <reg>Moncalve</reg>
+          </choice>, le gros de l'armée des ennemis est à Alexandrie, le peu de loisir que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay m'empesche d'escrire à vostre Eminence les particularitez des complimens que
+          <persName ref="Christine">Madame</persName> m'a fait pour vous que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> mande à <persName ref="#Chavigny">Monsieur de <choice>
+              <orig>Chauigny</orig>
+              <reg>Chavigny</reg>
+            </choice></persName>, elle dit qu'elle se veut mettre en vostre protection, si nous <choice>
+            <orig>pouuons</orig>
+            <reg>pouvons</reg>
+          </choice> assembler les Troupes de Madame <choice>
+            <orig>deuant</orig>
+            <reg>devant</reg>
+          </choice> que les Ennemis ayent rien attaqué, nous essayerons de nous deffendre, quoy
+          qu'ils soient plus forts que nous, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'aurois soupçon des Piedmontois contre les Espagnols, mais <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'en suis pas exempt, ayant affaire au <persName ref="#Tommaso">Prince
+            Thomas</persName> c'est ce qui m'a fait desirer des Troupes Françoises, particulierement
+          de la <choice>
+            <orig>Caualerie</orig>
+            <reg>Cavalerie</reg>
+          </choice>.</p>
+        <p>N'ayant point d'Officiers d'armée, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'oserois supplier V.E. <choice>
+            <orig>trouuer</orig>
+            <reg>trouver</reg>
+          </choice> bon que Monsieur de Malisi y <choice>
+            <orig>seruit</orig>
+            <reg>servit</reg>
+          </choice>, attendant que <persName ref="#Turenne">Monsieur de la Tour</persName>, tous
+          ceux de <placeName ref="#Casale">Cazal</placeName> seroient d'<choice>
+            <orig>aduis</orig>
+            <reg>advis</reg>
+          </choice> que le <persName ref="Louis13">Roy</persName> donnast 6000. <choice>
+            <orig>liures</orig>
+            <reg>livres</reg>
+          </choice> de pension aux principaux Gentils-hommes de la ville, V.E. commandera ce qui luy
+          plaira la dessus &amp; moy <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous supplieray tres-humblement de croire que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> le respect &amp; fidelité que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> dois,</p>
+        <closer>Vostre, &amp;c. <dateline>De <placeName ref="Turin">Turin</placeName> ce 10. Mars
+            1639.</dateline></closer>
+        <postscript>
+          <p><choice>
+              <orig>Ie</orig>
+              <reg>Je</reg>
+            </choice> supplie tres-humblement V.E. de nous <choice>
+              <orig>enuoyer</orig>
+              <reg>envoyer</reg>
+            </choice> Monsieur d'<persName ref="#Argenson">Argenson</persName> &amp; Baronis, <choice>
+              <orig>i</orig>
+              <reg>j</reg>
+            </choice>'escris à <placeName ref="Lyon">Lyon</placeName> &amp; en <placeName
+              ref="#Dauphine">Dauphiné</placeName> pour faire passer nos Troupes, car elles ne
+            sçauroient estre icy <choice>
+              <orig>deuers</orig>
+              <reg>devers</reg>
+            </choice> le vingtiéme du mois prochain quelque diligence qu'elles fassent ; <choice>
+              <orig>ie</orig>
+              <reg>je</reg>
+            </choice> voudrois bien <choice>
+              <orig>pouuoir</orig>
+              <reg>pouvoir</reg>
+            </choice> retirer le Regiment d'Aiguebonne presentement de Pignerol, ayant besoin
+            d'infanterie.</p>
+        </postscript>
       </body>
     </text>
   </TEI>
