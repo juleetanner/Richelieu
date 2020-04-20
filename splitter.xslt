@@ -92,6 +92,32 @@
     </xsl:copy>
   </xsl:template>
 
+  <xsl:template match="text">
+    <!--
+      This entire template exists to insert a fake <titlePage> if there isn't one already
+    -->
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <xsl:choose>
+        <xsl:when test="front">
+          <xsl:apply-templates select="front"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <front>
+            <xsl:comment> This &lt;front> inserted automatically to ensure there is a &lt;titlePage> </xsl:comment>
+            <titlePage>
+              <titlePart type="sub">
+                brought to you by XTF
+              </titlePart>
+            </titlePage>
+          </front>
+        </xsl:otherwise>
+      </xsl:choose>
+      <xsl:apply-templates select="body|back"/>
+    </xsl:copy>
+  </xsl:template>
+
+
   <!--
     If you, dear reader, do not find more intelligent licensing information either in
     this file (which means this should have been deleted) or in the parent repository,
