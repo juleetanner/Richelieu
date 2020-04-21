@@ -3636,78 +3636,6 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter51">
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>Pons de Lauzières, Marquis de Thémines, to Richelieu, 18 August [1627]</title>
-        </titleStmt>
-        <publicationStmt>
-          <publisher>Julee Tanner</publisher>
-          <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
-          <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA Unassigned.</p>
-          </availability>
-        </publicationStmt>
-        <sourceDesc>
-          <msDesc>
-            <msIdentifier>
-              <settlement>New York</settlement>
-              <repository>The Morgan Library &amp; Museum</repository>
-              <idno type="Record_ID">116105</idno>
-              <altIdentifier>
-                <idno type="Accession_Number">MA 23055</idno>
-              </altIdentifier>
-            </msIdentifier>
-            <msContents>
-              <msItem n="0002">
-                <locus from="4v" to="1r">4v - 1r</locus>
-                <p>Fourth and first pages</p>
-              </msItem>
-              <msItem n="0001">
-                <locus from="2v" to="3r">2v - 3r</locus>
-                <p>Second and third pages</p>
-              </msItem>
-            </msContents>
-            <additional>
-              <adminInfo>
-                <note>4 pp.</note>
-              </adminInfo>
-            </additional>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-        <langUsage>
-          <language ident="fr-1694acad">French as written in the 17th century</language>
-        </langUsage>
-        <correspDesc>
-          <correspAction type="sent">
-            <persName ref="#Thémines">Thémines</persName>
-            <placeName ref="#Auray">Auray</placeName>
-            <!-- Day and month recorded in letter, but not year. Way to convey precision for year is low? -->
-            <date>1627-18-08</date>
-          </correspAction>
-          <correspAction type="received">
-            <persName ref="Richelieu">Richelieu</persName>
-            <placeName/>
-            <date/>
-          </correspAction>
-        </correspDesc>
-      </profileDesc>
-    </teiHeader>
-    <text xml:lang="fr-1694acad">
-      <body>
-        <p><pb facs="MLM99912_116105v_0002-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99911_116105v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
-      </body>
-    </text>
-  </TEI>
   <TEI xml:id="letter14">
     <teiHeader>
       <fileDesc>
@@ -4829,7 +4757,7 @@
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
               les affaires du Piedmont &amp; du Mont-ferrat.</title>
-            <biblScope unit="page" from="19" to="20">19</biblScope>
+            <biblScope unit="page" from="19" to="20"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
             <date>1649</date>
@@ -4937,7 +4865,7 @@
             <orig>i</orig>
             <reg>j</reg>
           </choice>'ay m'empesche d'escrire à vostre Eminence les particularitez des complimens que
-          <persName ref="Christine">Madame</persName> m'a fait pour vous que <choice>
+            <persName ref="Christine">Madame</persName> m'a fait pour vous que <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> mande à <persName ref="#Chavigny">Monsieur de <choice>
@@ -5021,7 +4949,273 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter52">
+  <TEI xml:id="letter18">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 9 March 1639</title>
+          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
+            published in 1649</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date>2020</date>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
+              negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="20" to="21"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date>1649</date>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Valette">La Valette</persName>
+            <placeName>Turin</placeName>
+            <date>1639-03-9</date>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu">Cardinal Richelieu</persName>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>The letter from Richelieu of February 24 that La Valette references here is
+            reproduced in Avenel, <hi rend="italic">Lettres,</hi> Volume 6, pp. 287-88.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_20"/>
+        <opener><salute><choice>
+              <orig>Monseignevr</orig>
+              <reg>Monseigneur</reg>
+            </choice>,</salute></opener>
+        <p>Apres <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> escrit à Vostre Eminence la Lettre qu'elle <choice>
+            <orig>receura</orig>
+            <reg>recevra</reg>
+          </choice>
+          <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> celle cy, l'ordinaire m'a apporté celle dont il vous a plû m'honorer du 24. <choice>
+            <orig>Feurier</orig>
+            <reg>Fevrier</reg>
+          </choice>, si pleines de marques de la continuation de vostre bonté, que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis honteux de vous <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice> tant, &amp; de vous estre si inutile, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous puis dire <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> verité que nulle consideration du monde ne me touche tant que celle des
+          obligations que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous ay, &amp; que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> prefereray <choice>
+            <orig>tousiours</orig>
+            <reg>tousjours</reg>
+          </choice> vostre <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> à mes propres interests. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> sçay ce que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> dois aux continuelles marques qu'il vous plaist de me donner de l'honneur de
+          vostre protection, &amp; de vos bonnes graces.</p>
+        <pb facs="Vialart_letters_Page_21"/>
+        <p>Il ne se peut rien <choice>
+            <orig>adiouster</orig>
+            <reg>adjouster</reg>
+          </choice> aux ordres que vous <choice>
+            <orig>auez</orig>
+            <reg>avez</reg>
+          </choice> donnez, soit pour les recreuës, soit pour nostre payement des trois cens
+          cinquante mil <choice>
+            <orig>liures</orig>
+            <reg>livres</reg>
+          </choice> que nous <choice>
+            <orig>deuons</orig>
+            <reg>devons</reg>
+          </choice> toucher dans ce mois, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> m'en vay faire sortir le Regiment d'Aiguebonne, la recreuë du Regiment de Hault
+          est de mil centhommes, il ne se peut rien <choice>
+            <orig>adiouster</orig>
+            <reg>adjouster</reg>
+          </choice> au soin de Monsieur le Duc de Lesdiguieres, il doit encore faire passer <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice>
+          <sic>seconre</sic><corr>seconde</corr> recreuë. Nous n'auons sçeu si bien faire, que
+          Frezelieres &amp; Canisy ne nous ayent emmené trois ou quatre cens hommes. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> puis asseurer Vostre Eminence qu'en quelque estat que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> sois <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> feray mon <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice>, &amp; que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'essayeray de <choice>
+            <orig>seruir</orig>
+            <reg>servir</reg>
+          </choice> à vostre gré, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'espere de passer cinq mil hommes de pied effectifs sans les Officiers lors que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'auray Aiguebonne, quand il n'auroit que cinq cens hommes, &amp; <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> pense qu'il sortira de sept cens hommes sans les valets.</p>
+        <p>Madame me promet deux mil hommes de pied, si tout cela est ensemble nous n'aurons pas
+          tant de <choice>
+            <orig>suiet</orig>
+            <reg>sujet</reg>
+          </choice> de craindre les forces des ennemis, que les intelligences du <persName ref="#Tommaso">Prince Thomas</persName>.
+          Enfin, Monsiegneur, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous supplie tres-humblement de croire que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'oublieray rien pour <choice>
+            <orig>seruir</orig>
+            <reg>servir</reg>
+          </choice> selon mon <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice>, &amp; pour vous tesmoigner que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> toute sorte de reconnoissance de fidelité &amp; d'affection, &amp;c.</p>
+        <closer><dateline>De Turin ce 9. Mars 1639.</dateline></closer>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter50">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Pons de Lauzières, Marquis de Thémines, to Richelieu, 18 August [1627]</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date>2020</date>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <p>The Morgan Library &amp; Museum. MA Unassigned.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <settlement>New York</settlement>
+              <repository>The Morgan Library &amp; Museum</repository>
+              <idno type="Record_ID">116105</idno>
+              <altIdentifier>
+                <idno type="Accession_Number">MA 23055</idno>
+              </altIdentifier>
+            </msIdentifier>
+            <msContents>
+              <msItem n="0002">
+                <locus from="4v" to="1r">4v - 1r</locus>
+                <p>Fourth and first pages</p>
+              </msItem>
+              <msItem n="0001">
+                <locus from="2v" to="3r">2v - 3r</locus>
+                <p>Second and third pages</p>
+              </msItem>
+            </msContents>
+            <additional>
+              <adminInfo>
+                <note>4 pp.</note>
+              </adminInfo>
+            </additional>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Thémines">Thémines</persName>
+            <placeName ref="#Auray">Auray</placeName>
+            <!-- Day and month recorded in letter, but not year. Way to convey precision for year is low? -->
+            <date>1627-18-08</date>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="Richelieu">Richelieu</persName>
+            <placeName/>
+            <date/>
+          </correspAction>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <p><pb facs="MLM99912_116105v_0002-hpr.jpg"/>
+          <note type="temp" resp="#JT">Transcription forthcoming.</note>
+          <pb facs="MLM99911_116105v_0001-hpr.jpg"/>
+          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter51">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5093,7 +5287,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter53">
+  <TEI xml:id="letter52">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5159,7 +5353,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter54">
+  <TEI xml:id="letter53">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5228,7 +5422,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter55">
+  <TEI xml:id="letter54">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5301,7 +5495,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter56">
+  <TEI xml:id="letter55">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5377,7 +5571,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter57">
+  <TEI xml:id="letter56">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5450,7 +5644,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter58">
+  <TEI xml:id="letter57">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5619,7 +5813,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter59">
+  <TEI xml:id="letter58">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5693,7 +5887,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter60">
+  <TEI xml:id="letter59">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5764,7 +5958,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter61">
+  <TEI xml:id="letter60">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5836,7 +6030,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter62">
+  <TEI xml:id="letter61">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5902,7 +6096,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter63">
+  <TEI xml:id="letter62">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -5967,7 +6161,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter64">
+  <TEI xml:id="letter63">
     <teiHeader>
       <fileDesc>
         <titleStmt>
@@ -6034,7 +6228,7 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter65">
+  <TEI xml:id="letter64">
     <teiHeader>
       <fileDesc>
         <titleStmt>
