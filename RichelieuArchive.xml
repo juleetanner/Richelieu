@@ -4996,7 +4996,7 @@
           <correspAction type="sent">
             <persName ref="#Valette">La Valette</persName>
             <placeName>Turin</placeName>
-            <date>1639-03-9</date>
+            <date>1639-03-09</date>
           </correspAction>
           <correspAction type="received">
             <persName ref="#Richelieu">Cardinal Richelieu</persName>
@@ -5190,14 +5190,14 @@
           <correspAction type="sent">
             <persName ref="#Christine">Christine of France</persName>
             <placeName>Turin</placeName>
-            <date>1639-03-9</date>
+            <date>1639-03-07</date>
           </correspAction>
           <correspAction type="received">
             <persName ref="#Richelieu">Cardinal Richelieu</persName>
             <placeName/>
             <date/>
           </correspAction>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
+          <note type="temp" resp="#JT">TO COME</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -5299,6 +5299,157 @@
           </choice> tant d'artifice comme on m'a voulu depeindre,</p>
         <closer><salute>Vostre, &amp;c.</salute>
           <dateline>A Turin ce 2. Mars 1639.</dateline></closer>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter20">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Christine">Christine of France</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 7 March 1639</title>
+          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
+            published in 1649</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date>2020</date>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
+              negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page">22</biblScope>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date>1649</date>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Christine">Christine of France</persName>
+            <placeName>Turin</placeName>
+            <date>1639-03-07</date>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu">Cardinal Richelieu</persName>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note type="temp" resp="#JT">TO COME</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_22"/>
+        <opener><salute><choice>
+              <orig>Monsievr</orig>
+              <reg>Monsieur</reg>
+            </choice> mon <choice>
+              <orig>Covsin</orig>
+              <reg>Cousin</reg>
+            </choice>,</salute></opener>
+        <p>Me voicy au poinct où <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay besoin de mes amis, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'en puis rechercher <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> plus asseuré ny plus puissant que vous, pour m'assister dans les <choice>
+            <orig>trauaux</orig>
+            <reg>travaux</reg>
+          </choice> où ie me <choice>
+            <orig>trouue</orig>
+            <reg>trouve</reg>
+          </choice>, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'en escry au Roy mon frere, mais toute ma confiance est en vous, que vous ne
+          laisserez pas perir la sœur de vostre Roy, lors que vous estes obligé par les <choice>
+            <orig>seruices</orig>
+            <reg>services</reg>
+          </choice> qu'elle rend à la France, &amp; par la ligue à luy <choice>
+            <orig>conseruer</orig>
+            <reg>conserver</reg>
+          </choice> ses Estats, &amp; sa liberté. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> me <choice>
+            <orig>trouue</orig>
+            <reg>trouve</reg>
+          </choice> pourtant à <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> poinct prés a perdre l'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> &amp; l'autre, &amp; si <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne suis assistée, sans aucun delay, de toutes les forces de la France, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> croy que vous y contribuerez de vostre costé, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous en <choice>
+            <orig>coniure</orig>
+            <reg>conjure</reg>
+          </choice>, puisque <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne suis pas si lasche de courage, quoy que l'on me prie de sortir, que de
+          laisser perdre les Estats de mon cher fils, sans vouloir contribuer tous mes soins à leur
+          deffense, &amp; mesme ma propre vie ; <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> demeure donc icy sur l'esperance que vous ne me laisserez pas perir, &amp;
+          m'assisterez en la <orig>iustice</orig><reg>justice</reg> de ma cause, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous en <choice>
+            <orig>coniure</orig>
+            <reg>conjure</reg>
+          </choice> de tout mon cœur, &amp; <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> la confiance que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay en vous, &amp; l'esperance que vous n'abandonnerez point auprés du Roy mon
+          Frere mes interests, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> seray <choice>
+            <orig>tousiours</orig>
+            <reg>toujours</reg>
+          </choice>,</p>
+        <closer><salute>Vostre, &amp;c.</salute>
+          <dateline>De Turin ce 7. Mars 1639.</dateline></closer>
       </body>
     </text>
   </TEI>
@@ -5875,99 +6026,117 @@
       <body>
         <pb facs="MLM99921_130530v_0001-hpr.jpg" n="1r"/>
         <opener>
-          <dateline>4 Octob 1622</dateline>
-          <salute>Monseigneur,</salute>
+          <lb/><dateline>4 Octob 1622</dateline>
+          <lb/><salute>Monseigneur,</salute>
         </opener>
-        <p>Apres <choice>
+        <p><lb/>Apres <choice>
             <orig>auoir</orig>
             <reg>avoir</reg>
-          </choice> fermé ma lettre, Il a passé J'ay un courrier dequi J'ai appris que le <persName
-            ref="#Gregory15">Pape</persName> vous <choice>
+          </choice> fermé ma lettre, Il a passé J'ay un courrier<lb/>dequi J'ai appris que le
+            <persName ref="#Gregory15">Pape</persName> vous <choice>
             <orig>auoit</orig>
             <reg>avoit</reg>
-          </choice> fait Cardinal. Je ne doute point que cette <choice>
+          </choice> fait Cardinal.<lb/>Je ne doute point que cette <choice>
             <orig>nouuelle</orig>
             <reg>nouvelle</reg>
-          </choice> n'ayt esté receue de vous <choice>
+          </choice> n'ayt esté receue<lb/>de vous <choice>
             <orig>auec</orig>
             <reg>avec</reg>
-          </choice> aussy peu d'emotion que si elle vous eut esté Indifferante, et qu'ayant esteué
-          vostre esprit au dessus des choses du monde vous ne les regardiés toutes d'un mesme
-          visage; Neanmoins puisqu'en cecy le bien public se rancontre <choice>
+          </choice> aussy peu d'emotion que si elle vous<lb/>eut esté Indifferante, et qu'ayant
+          esteué vostre<lb/>esprit au dessus des choses du monde vous ne les<lb/>regardiés toutes
+          d'un mesme visage; Neanmoins<lb/>puisqu'en cecy le bien public se rancontre <choice>
             <orig>auec</orig>
             <reg>avec</reg>
-          </choice> que vostre Interest, et que pour l'amour de vous l'églize se resjouit Jusques
-          dans les prisons d'Angleterre, Vous estimeriés trop peu son contentement si vous n'y
-          preniés part, et la vertu mesme si vous n'<choice>
+          </choice> que<lb/>vostre Interest, et que pour l'amour de vous l'églize<lb/>se resjouit
+          Jusques dans les prisons d'Angleterre,<lb/>Vous estimeriés trop peu son contentement si
+          vous<lb/>n'y preniés part, et la vertu mesme si vous n'<choice>
             <orig>auies</orig>
             <reg>avies</reg>
-          </choice> quelque sentiment de tant de gloire qu'elle vous donne. Les gens de bien,
-          Monseigneur, <choice>
+          </choice><lb/>quelque sentiment de tant de gloire qu'elle vous<lb/>donne. Les gens de
+          bien, Monseigneur, <choice>
             <orig>doiuent</orig>
             <reg>doivent</reg>
-          </choice> rechercher les grandes dignites comme des moyens necessaires pour faire de
-          grandes choses, et s'ils les laissent usurper par les meschans, Ils trahissent <pb
-            facs="MLM99922_130530v_0002-hpr.jpg" n="2v"/> le monde qui attand son repos de leur
-          vigilance.</p>
-        <p>Pardonnés moy donc si Je vous dy que nous nous passerons plus aysement de vostre modestie
-          que des autres qualities que le Ciel vous a donnees, et que vous ne Seauries auoir trop de
-          bien ny de credit puis qu'il faut que la prudence soit obeÿe, et qu'il y a des vertus qui
-          ne <choice>
+          </choice><lb/>rechercher les grandes dignites comme des moyens<lb/>necessaires pour faire
+          de grandes choses, et s'ils les<lb/>laissent <choice>
+            <orig>vsurper</orig>
+            <reg>ursurper</reg>
+          </choice> par les meschans, Ils trahissent<pb facs="MLM99922_130530v_0002-hpr.jpg" n="2v"
+          /><lb/>le monde qui attand son repos de leur vigilance.</p>
+        <p><lb/>Pardonnés moy donc si Je vous dy que nous nous<lb/>passerons plus aysement de vostre
+          modestie que des<lb/>autres qualities que le Ciel vous a donnees, et que vous<lb/>ne
+          Seauries auoir trop de bien ny de credit puis<lb/>qu'il faut que la prudence soit obeÿe,
+          et qu'il y a des<lb/>vertus qui ne <choice>
             <orig>peuuent</orig>
             <reg>peuvent</reg>
           </choice> estre exercées par les <choice>
             <orig>pauures</orig>
             <reg>pauvres</reg>
           </choice>.</p>
-        <p>C'est ce qui fait Monseigneur, que Je suis tres ayse de vous voir aujourd'huy en un lieu
-          d'ou vous remplirés toute la terre de lumiere, et ou vostre seul exemple aura tant
-          d'autorite qu'il pourra faire reuenir la face de l'eglize a la pureté de sa naissance.</p>
-        <p>Certainement s'il y a apparance d'atandre ce bien et de voir les esprits des rebelles
-          persuadés commme nous voyons leurs villes forcees, Vous estes celuy de qui nous le <choice>
+        <p><lb/>C'est ce qui fait Monseigneur, que Je suis tres ayse<lb/>de vous voir aujourd'huy en <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> lieu d'ou vous rempl-<lb/>irés toute la terre de lumiere, et ou vostre seul
+          exe-<lb/>mple aura tant d'autorite qu'il pourra faire <choice>
+            <orig>reue-<lb/>nir</orig>
+            <reg>reve-<lb/>nir</reg>
+          </choice> la face de l'eglize a la pureté de sa naissance.</p>
+        <p><lb/>Certainement s'il y a apparance d'atandre ce bien<lb/>et de voir les esprits des
+          rebelles persuadés com-<lb/>me nous voyons leurs villes forcees, Vous estes celuy<lb/>de
+          qui nous le <choice>
             <orig>deuons</orig>
             <reg>devons</reg>
-          </choice> esperer, et qui estes capable d'<choice>
+          </choice> esperer, et qui estes capable<lb/>d'<choice>
             <orig>acheuer</orig>
             <reg>achever</reg>
-          </choice> les victoires des Roys par la ruyne de l'herezie. Toute la Chrestiente vous
-          demande <pb facs="MLM99922_130530v_0002-hpr.jpg" n="3r"/> a cet effet vos <choice>
+          </choice> les victoires des Roys par la ruyne<lb/>de l'herezie. Toute la Chrestiente vous
+            demande<pb facs="MLM99922_130530v_0002-hpr.jpg" n="3r"/><lb/>a cet effet vos <choice>
             <orig>ouurages</orig>
             <reg>ouvrages</reg>
-          </choice> pour une derniere Instruction, et la paix generalle des consciences: Et moy, qui
-          cherche il y a si longtemps l'idee de l'eloquance sans que J'en <choice>
+          </choice> pour <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> derniere Instru-<lb/>ction, et la paix generalle des consciences: Et<lb/>moy,
+          qui cherche il y a si longtemps l'idee de<lb/>l'eloquance sans que J'en <choice>
             <orig>trouue</orig>
             <reg>trouve</reg>
-          </choice> parmy nous qui ne soit ou faure, ou Imparfaite, Je me promets que vous la
-          ramenerés telle qu'elle estoit quand a <placeName ref="#Rm">Rome</placeName> elle accusoit
-          les Tyrans, et qu'elle deffandoit les <choice>
+          </choice> parmy nous qui<lb/>ne soit ou faure, ou Imparfaite, Je me promets que<lb/>vous
+          la ramenerés telle qu'elle estoit quand a Rome<lb/>elle accusoit les Tyrans, et qu'elle
+          deffandoit<lb/>les <choice>
             <orig>prouinces</orig>
             <reg>provinces</reg>
           </choice> opprimees. Encore que la <choice>
-            <orig>poupre</orig>
-            <reg>pourpre</reg>
-          </choice> soit une chose fort eselatante, elle <choice>
+            <sic>poupre</sic>
+            <corr>pourpre</corr>
+          </choice><lb/>soit <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> chose fort eselatante, elle <choice>
             <orig>receura</orig>
             <reg>recevra</reg>
-          </choice> du lustre de cette qualite qui commande partout ou elle est, et qui
-          particulierement est si propre au <choice>
+          </choice> du<lb/>lustre de cette qualite qui commande par tout<lb/>ou elle est, et qui
+          particulierement est si propre<lb/>au <choice>
             <orig>gouuernement</orig>
             <reg>gouvernement</reg>
-          </choice> des ames que c'est la seule puissance a qui elles veulent se sousmettre. Si Je
-          puis esperer, Monseigneur, d'estre connu d'un autre siecle que le nostre, et que mon nom
-          aille Jusqu'a la posterité, elle scaura que cete consideration m'obligea premierement de
-            rechercher<pb facs="MLM99921_130530v_0001-hpr.jpg" n="4v"/> vostre connoissance, et que
-          vous ayant ouÿ parler vous gaignastes si absolument mon Esprit et mon affection, que
-          despuis ce temps la Je vous regarday tousjours comme un homme extraordinaire, et fus
-          passionnement.</p>
+          </choice> des ames que c'est la seule<lb/>puissance a qui elles veulent se sousmettre.
+          Si<lb/>Je puis esperer, Monseigneur, d'estre connu d'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice><lb/>autre siecle que le nostre, et que mon nom<lb/>aille Jusqu'a la posterité,
+          elle scaura que cete<lb/>consideration m'obligea premierement de reche-<pb
+            facs="MLM99921_130530v_0001-hpr.jpg" n="4v"/><lb/>rcher vostre connoissance, et que vous
+          ayant ouÿ<lb/> parler vous gaignastes si absolument mon Espr-<lb/>it et mon affection, que
+          despuis ce temps la Je<lb/>vous regarday tousjours comme <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> homme ext-<lb/>raordinaire, et fus passionnement.</p>
         <closer>
-          <salute> Monseigneur.<lb/> Vostre tres humble et tres obeissant<lb/>
-            <choice>
+          <lb/><salute>Monseigneur.<lb/>Vostre tres humble et tres obeissant <lb/><choice>
               <orig>seruiteur</orig>
               <reg>serviteur</reg>
-            </choice><lb/>
+            </choice>
           </salute>
-          <signed>Balzac</signed>
-          <dateline>Du 4 Octobre 1622.</dateline>
+          <lb/><signed>Balzac</signed>
+          <lb/><dateline>Du 4 Octobre 1622.</dateline>
         </closer>
       </body>
     </text>
