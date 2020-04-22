@@ -162,7 +162,6 @@
           he helped put down the rebellion of <persName ref="#Montmorency">Henri II de
             Montmorency</persName></note>
       </person>
-      <person xml:id="Beziers"/>
       <person xml:id="Charles1">
         <persName type="main">Charles I, king of England</persName>
         <idno type="VIAF">67750325</idno>
@@ -489,8 +488,15 @@
         </location>
         <idno type="GeoNames">3036059</idno>
       </place>
-      <place>
-        <placeName xml:id="Casale">Casale Monferrato</placeName>
+      <place xml:id="Beziers" type="commune">
+        <placeName type="main">Beziers</placeName>
+        <location>
+          <geo>43.34 -3.21</geo>
+        </location>
+        <idno type="geonames">3032833</idno>
+      </place>
+      <place xml:id="Casale" type="commune">
+        <placeName>Casale Monferrato</placeName>
         <placeName>Cazal</placeName>
         <location>
           <geo>45.13 -8.45</geo>
@@ -606,7 +612,7 @@
         </location>
         <idno type="GeoNames">3002683</idno>
       </place>
-      <place xml:id="Rm" type="commune">
+      <place xml:id="Rome" type="commune">
         <placeName type="main">Rome</placeName>
         <location>
           <geo>41.53 -12.30</geo>
@@ -2954,7 +2960,7 @@
             <orig>i</orig>
             <reg>j</reg>
           </choice>'estois dans le <placeName ref="#Monferrato">Monferrat</placeName>, elle estoit
-          venuë de Rome.</p>
+          venuë de <placeName ref="#Rome">Rome</placeName>.</p>
         <p>Madame ne sçauroit subsister, ny mesme garder ses places, si le Roy ne luy paye les 3000.
           hommes de pied qu'il a accoustumé, Vostre Eminence le pourra <choice>
             <orig>sçauoir</orig>
@@ -6219,7 +6225,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title>Richelieu to Ferdinando II, Grand Duke of Tuscany, 19 January 1639</title>
+          <title>Cardinal Richelieu to Ferdinando II, Grand Duke of Tuscany, 19 January 1639</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -6274,15 +6280,53 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>Richelieu adds his support of the bishop of Beziers to that already provided by
+            Louis XIII.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99932_136121v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99933_136121v_0002-hpr.jpg"/></p>
+        <pb facs="MLM99932_136121v_0001-hpr.jpg"/>
+        <opener><lb/>Monsieur</opener>
+        <p><lb/>Le Roy <choice>
+            <orig>escriuant</orig>
+            <reg>escrivant</reg>
+          </choice> a Vostre Altesse en <lb/><choice>
+            <orig>faueur</orig>
+            <reg>faveur</reg>
+          </choice> du frere de Monsieur L’<orig>Euesque</orig><reg>Evesque</reg> de <placeName
+            ref="Beziers">Beziers</placeName>
+          <lb/>sur le <choice>
+            <orig>suiet</orig>
+            <reg>sujet</reg>
+          </choice> de quelques <unclear reason="illegible">inter</unclear> qu’il a a <lb/>demesler
+          avec elle, Je prends La plume <lb/>non pas pour <choice>
+            <orig>adiouster</orig>
+            <reg>adjouster</reg>
+          </choice> aucune chose a La <lb/>recommandation de sa Majeste, <unclear reason="illegible"
+            >sargant</unclear> qu’elle <lb/>peut tout sur Vostre Altesse, mais <lb/>seulement pour
+          la supplier, outre ceste <lb/>consideration, de vouloir en La mienne <lb/>tesmoigner au
+          frere de Monsieur L'<choice>
+            <orig>euesque</orig>
+            <reg>evesque</reg>
+          </choice> de Beziers, <lb/>que ma suplication <choice>
+            <orig>enuers</orig>
+            <reg>envers</reg>
+          </choice> vous ne luy aura <lb/>pas este'entierement inutile, et que vous me <lb/>faites
+          L’honneur de me croire veritablement <lb/>comme <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis <lb/>Monsieur</p>
+        <lb/>
+        <closer><salute>Vostre tres humble <choice>
+              <orig>seruiteur</orig>
+              <reg>serviteur</reg>
+            </choice></salute>
+          <lb/><signed>Le Cardinal de Richelieu</signed>
+          <lb/><dateline>De Rueil 19 Januier 1639</dateline>
+          <lb/>Monsieur le Grand Duc <pb facs="MLM99933_136121v_0002-hpr.jpg"/>
+          <lb/>A Monsieur<lb/>Monsieur le Grand-<lb/>Duc de Toscane</closer>
       </body>
     </text>
   </TEI>
