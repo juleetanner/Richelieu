@@ -113,6 +113,11 @@
         <persName>Syd Bauman</persName>
         <idno type="VIAF">6761623</idno>
       </person>
+      <person xml:id="Aligre">
+        <persName type="main">Aligre, Etienne d'</persName>
+        <idno type="VIAF">1490223</idno>
+        <note>Keeper of the Seals <hi rend="ital">(Garde des sceaux)</hi> of France from 1624 to 1635.</note>
+      </person>
       <person xml:id="Aglie">
         <persName type="main">San Martino d'Agliè, Filippo, conte</persName>
         <persName>Comte d'Aglie</persName>
@@ -353,6 +358,13 @@
         <idno type="VIAF">52082363</idno>
         <birth when="1606"/>
         <death when="1665"/>
+      </person>
+      <person xml:id="Puylaurens">
+        <persName type="main">Puylaurens, Antoine de L'Age, Duc de</persName>
+        <idno type="VIAF">315087522</idno>
+        <birth when="1602"/>
+        <death when="1635"/>
+        <note></note>
       </person>
       <person xml:id="Richelieu">
         <persName type="main">Richelieu, Armand-Jean du Plessis, cardinal duc de</persName>
@@ -6463,8 +6475,22 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99925_136118v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <pb facs="MLM99925_136118v_0001-hpr.jpg"/>
+        <opener>Madame</opener>
+        <p><lb/>J'ay receu la lettre qu'il vous a pleu me
+        <lb/>faire l'honeur de m'escrire en <choice><orig>faueur</orig><reg>faveur</reg></choice> du sieur
+        <lb/>chevalier de chazueil. Sur quoy Je vous diray
+        <lb/>que son affaire est tres difficille. Cependant
+        <lb/>Je ne laisseray de contribuer tout ce que me
+        <lb/>sera possible pour le question de vos comandemens.
+        <lb/>N'y ayant rien que <choice><orig>ie</orig><reg>je</reg></choice> souhaite <choice><orig>auec</orig><reg>avec</reg></choice> plus
+        <lb/>de passion que les occasions qui me donneront
+        <lb/>lieu de vous tesmoigner combien <choice><orig>ie</orig><reg>je</reg></choice> suis
+        <lb/>veritablement
+        <lb/>Madame</p>
+        <lb/><closer><salute>Vostre tres humble et
+        <lb/>tres affectionne <choice><orig>seruiteur</orig><reg>serviteur</reg></choice></salute>
+        <lb/><signed>Le Cardinal de Richelieu</signed></closer>
       </body>
     </text>
   </TEI>
@@ -6585,7 +6611,9 @@
             <date>1634-09-29</date>
           </correspAction>
           <correspAction type="received">
-            <persName ref="Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Aligre">Aligre</persName>
+            <persName ref="#Chavigny">Chavigny</persName>
             <placeName/>
             <date/>
           </correspAction>
@@ -6595,8 +6623,21 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99915_120604v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <pb facs="MLM99915_120604v_0001-hpr.jpg"/>
+          <opener><lb/><salute>Mon Cousin le Cardinal de Richelieu, et les
+          <lb/>Sieurs <persName ref="#Aligre">garde des Seaux</persName> et <persName ref="#Chavigny">Boutilier</persName> secretaire 
+            <lb/>d'estat</salute></opener> <ab>se <choice><orig>souuiendront</orig><reg>souviendront</reg></choice>, que je ne pardonne
+          <lb/>point a <persName ref="#Puylaurens">Puilaurens</persName> qu'a condition qu'il
+          <lb/>declare sincerement toutes les entreprizes
+          <lb/>projets et dessains qui ont esté faits
+          <lb/>a sa cognoisansse contre ma personne mon
+          <lb/>Estat et les miens, et si il ne se conduit
+          <lb/>estant dans ce Royaume sans me donner
+          <lb/>juste sujet de soubson <choice><orig>auec</orig><reg>avec</reg></choice> soubmision et
+          <lb/>depandance de mes volontés ainsi que
+            <lb/>tout bon et fidelle sujet doit faire,</ab>
+          <lb/><closer><dateline>fait au Plesis du bois ce 29 Septembre 1634</dateline>
+          <lb/><signed>Louis</signed></closer>
       </body>
     </text>
   </TEI>
