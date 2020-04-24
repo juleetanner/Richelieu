@@ -116,7 +116,8 @@
       <person xml:id="Aligre">
         <persName type="main">Aligre, Etienne d'</persName>
         <idno type="VIAF">1490223</idno>
-        <note>Keeper of the Seals <hi rend="ital">(Garde des sceaux)</hi> of France from 1624 to 1635.</note>
+        <note>Keeper of the Seals <hi rend="ital">(Garde des sceaux)</hi> of France from 1624 to
+          1635.</note>
       </person>
       <person xml:id="Aglie">
         <persName type="main">San Martino d'Agliè, Filippo, conte</persName>
@@ -353,6 +354,13 @@
         <birth when="1588"/>
         <death when="1645"/>
       </person>
+      <person xml:id="Orval">
+        <persName type="main">Orval, François de Béthune, duc d'</persName>
+        <idno type="VIAF">316035555</idno>
+        <birth when="1598"/>
+        <death when="1678"/>
+        <note>Son of Maximilien de Béthune, duc de Sully. </note>
+      </person>
       <person xml:id="Palluau">
         <persName type="main">Palluau, Philippe de Clerembault, comte de</persName>
         <idno type="VIAF">52082363</idno>
@@ -364,7 +372,7 @@
         <idno type="VIAF">315087522</idno>
         <birth when="1602"/>
         <death when="1635"/>
-        <note></note>
+        <note/>
       </person>
       <person xml:id="Richelieu">
         <persName type="main">Richelieu, Armand-Jean du Plessis, cardinal duc de</persName>
@@ -383,6 +391,10 @@
         <idno type="VIAF">95208305</idno>
         <birth when="1560-12-13"/>
         <death when="1641-12-22"/>
+        <note>Protestant favorite of Henry IV, Chief minister and from 1589, and superintendent of
+          finances from 1600 until Henry's assassination in 1610. Sully helped to bring financial
+          stability to France after the wars of religion, put down Protestant
+          rebellions, encouraged agriculture, and rebuilt infrastructure.</note>
       </person>
       <person xml:id="Thémines">
         <persName type="main">Thémines, Pons de Lauzières, marquis de</persName>
@@ -6477,20 +6489,28 @@
       <body>
         <pb facs="MLM99925_136118v_0001-hpr.jpg"/>
         <opener>Madame</opener>
-        <p><lb/>J'ay receu la lettre qu'il vous a pleu me
-        <lb/>faire l'honeur de m'escrire en <choice><orig>faueur</orig><reg>faveur</reg></choice> du sieur
-        <lb/>chevalier de chazueil. Sur quoy Je vous diray
-        <lb/>que son affaire est tres difficille. Cependant
-        <lb/>Je ne laisseray de contribuer tout ce que me
-        <lb/>sera possible pour le question de vos comandemens.
-        <lb/>N'y ayant rien que <choice><orig>ie</orig><reg>je</reg></choice> souhaite <choice><orig>auec</orig><reg>avec</reg></choice> plus
-        <lb/>de passion que les occasions qui me donneront
-        <lb/>lieu de vous tesmoigner combien <choice><orig>ie</orig><reg>je</reg></choice> suis
-        <lb/>veritablement
-        <lb/>Madame</p>
-        <lb/><closer><salute>Vostre tres humble et
-        <lb/>tres affectionne <choice><orig>seruiteur</orig><reg>serviteur</reg></choice></salute>
-        <lb/><signed>Le Cardinal de Richelieu</signed></closer>
+        <p><lb/>J'ay receu la lettre qu'il vous a pleu me <lb/>faire l'honeur de m'escrire en <choice>
+            <orig>faueur</orig>
+            <reg>faveur</reg>
+          </choice> du sieur <lb/>chevalier de chazueil. Sur quoy Je vous diray <lb/>que son affaire
+          est tres difficille. Cependant <lb/>Je ne laisseray de contribuer tout ce que me <lb/>sera
+          possible pour le question de vos comandemens. <lb/>N'y ayant rien que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> souhaite <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> plus <lb/>de passion que les occasions qui me donneront <lb/>lieu de vous
+          tesmoigner combien <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis <lb/>veritablement <lb/>Madame</p>
+        <lb/>
+        <closer><salute>Vostre tres humble et <lb/>tres affectionne <choice>
+              <orig>seruiteur</orig>
+              <reg>serviteur</reg>
+            </choice></salute>
+          <lb/><signed>Le Cardinal de Richelieu</signed></closer>
       </body>
     </text>
   </TEI>
@@ -6554,8 +6574,101 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99913_117073v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <pb facs="MLM99913_117073v_0001-hpr.jpg"/>
+        <opener><lb/><salute>Monsieur</salute></opener>
+        <p><lb/>Je ne doubte point que comme par la sainctete de vostre profession vos <unclear
+            resp="JT" cert="high">yeux</unclear> sont <choice>
+            <orig>esleues</orig>
+            <reg>esleves</reg>
+          </choice> vers le ciel <lb/>et vostre ame se repose en la bonte de celuy qui la <unclear
+            resp="JT" cert="high">cree et</unclear> que semblablement par les respects <lb/>de la
+          bonne foy vos parolles qui font les Images <choice>
+            <orig>viues</orig>
+            <reg>vives</reg>
+          </choice> d'un cœur genereux <unclear resp="JT" cert="high">ne soient</unclear>
+          <lb/><gap reason="illegible"/>de sincerite et ne resident dans le sacre temple de la
+          verite non pour <lb/>demeurer dans les termes vagues de l'imagination ou se referrer par
+          les <lb/>bornes inutilles d'une simple prolation mais pour paroistre a la lumiere et
+          <lb/>tesmoigner par la production des effets que ce n'est point vainement que l'on
+            <lb/><unclear resp="JT" cert="high">se</unclear> confie en vostre franchise et que l'on
+          espere en vos promesses lesquelles <lb/>desirant neantmoïns de mesnager autant qu'il me
+          sera possible selon que le <unclear resp="JT" cert="low">requiert</unclear>
+          <lb/>vostre eminence et la dignite de vostre personne et mesmes de ne rien
+          <lb/>entreprendre dans une <choice>
+            <orig>mauuise</orig>
+            <reg>mauvaise</reg>
+          </choice> conjuncture d'affaires et de <choice>
+            <sic>voluntes</sic>
+            <corr>volontes</corr>
+          </choice>. J'ay <lb/>estimé de ne <choice>
+            <orig>pouuoir</orig>
+            <reg>pouvoir</reg>
+          </choice> marcher plus seurement un <choice>
+            <sic>meilleu</sic>
+            <corr>milieu</corr>
+          </choice> de tels doubtes <lb/>que par <unclear resp="JT" cert="low"
+            >l'enfermement</unclear> qui me sera donne par vostre prudence mesme qui <lb/>ma honore
+          d'un si notable tesmoignage de sa <choice>
+            <orig>bienueillance</orig>
+            <reg>bienveillance</reg>
+          </choice> par vos lettres <lb/>sur laquelle me fondant. Je vous suplie <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> agreable de dire librement a mon <lb/>fils <persName ref="Orval"
+            >d'orval</persName> (auquel J'ay donne charge de vous faire entendre mes demandes)
+          <lb/>si les choses et les personnes sont maintenant en telle disposition que J'en
+          <lb/>puisse tirer <choice>
+            <orig>fauorable</orig>
+            <reg>favorable</reg>
+          </choice> responce <choice>
+            <orig>suiuie</orig>
+            <reg>suivie</reg>
+          </choice> d'effets ou s'il fera plus a propos que J'use <lb/>de silence et attende une
+          meilleure oportunite en quoy Je <choice>
+            <orig>suiuray</orig>
+            <reg>suivray</reg>
+          </choice>
+          <lb/>absolument vos <choice>
+            <orig>aduis</orig>
+            <reg>advis</reg>
+          </choice> sans vouloir penetre plus <choice>
+            <orig>auant</orig>
+            <reg>avant</reg>
+          </choice> dans les causes <gap reason="illegible"/>
+          <lb/><gap reason="illegible"/> beaucoup mieux comme chose plus seante a mon age et a ma
+          condition <lb/>de me taire et patienter dans <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> vie douce et tranquille telle qu'est la <lb/>mienne et que Je la desire
+          continuer durant ce peu de jours qui me restent <lb/>que d'importuner le conseil du
+            <persName ref="#Louis13">roy</persName> par requestes sur requestes et travailler
+          <lb/>mes amis et moy mesme par solicitations vaines et refus ennuieux sur <lb/>quoy
+          attendant de vostre bonte les esclairissements necessaires. Je vous <lb/>suplieray de me
+          pardonner si J'ose <gap reason="illegible"/>
+          <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> trop de liberte et de <lb/>me tenir pour entierement <unclear resp="JT"
+            cert="medium">aguisé</unclear> a vostre service de quoy l'obeissance <lb/>que Je rendray
+          incessamment a vos commandemens vous <gap reason="cancelled"/>
+          <lb/>vous feront des <choice>
+            <orig>preuues</orig>
+            <reg>preuves</reg>
+          </choice> vous baisant tres humblement les mains <lb/>et priant le createur</p>
+        <lb/>
+        <closer><salute>Monsieur <lb/>qu'il vous augmente en toutte grandeur felicite et sante de
+            Sully</salute></closer>
+        <lb/>
+        <dateline>ce 31 <choice>
+            <orig>Januier</orig>
+            <reg>Janvier</reg>
+          </choice> 1625</dateline>
+        <lb/>
+        <closer><salute><gap reason="illegible"/> tres humble et tres obeissant <choice>
+              <orig>seruiteur</orig>
+              <reg>serviteur</reg>
+            </choice></salute>
+          <lb/><signed>Sully</signed></closer>
       </body>
     </text>
   </TEI>
@@ -6563,8 +6676,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title>Louis XIII, King of France, to Cardinal Richelieu and other ministers, 29 September
-            1634</title>
+          <title>Louis XIII to Cardinal Richelieu, Etienne d'Aligre, and the Comte de Chavigny, 29
+            September 1634</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -6624,19 +6737,24 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99915_120604v_0001-hpr.jpg"/>
-          <opener><lb/><salute>Mon Cousin le Cardinal de Richelieu, et les
-          <lb/>Sieurs <persName ref="#Aligre">garde des Seaux</persName> et <persName ref="#Chavigny">Boutilier</persName> secretaire 
-            <lb/>d'estat</salute></opener> <ab>se <choice><orig>souuiendront</orig><reg>souviendront</reg></choice>, que je ne pardonne
-          <lb/>point a <persName ref="#Puylaurens">Puilaurens</persName> qu'a condition qu'il
-          <lb/>declare sincerement toutes les entreprizes
-          <lb/>projets et dessains qui ont esté faits
-          <lb/>a sa cognoisansse contre ma personne mon
-          <lb/>Estat et les miens, et si il ne se conduit
-          <lb/>estant dans ce Royaume sans me donner
-          <lb/>juste sujet de soubson <choice><orig>auec</orig><reg>avec</reg></choice> soubmision et
-          <lb/>depandance de mes volontés ainsi que
-            <lb/>tout bon et fidelle sujet doit faire,</ab>
-          <lb/><closer><dateline>fait au Plesis du bois ce 29 Septembre 1634</dateline>
+        <opener><lb/><salute>Mon Cousin le Cardinal de Richelieu, et les <lb/>Sieurs <persName
+              ref="#Aligre">garde des Seaux</persName> et <persName ref="#Chavigny"
+              >Boutilier</persName> secretaire <lb/>d'estat</salute></opener>
+        <ab>se <choice>
+            <orig>souuiendront</orig>
+            <reg>souviendront</reg>
+          </choice>, que je ne pardonne <lb/>point a <persName ref="#Puylaurens"
+            >Puilaurens</persName> qu'a condition qu'il <lb/>declare sincerement toutes les
+          entreprizes <lb/>projets et dessains qui ont esté faits <lb/>a sa cognoisansse contre ma
+          personne mon <lb/>Estat et les miens, et si il ne se conduit <lb/>estant dans ce Royaume
+          sans me donner <lb/>juste sujet de soubson <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> soubmision et <lb/>depandance de mes volontés ainsi que <lb/>tout bon et fidelle
+          sujet doit faire,</ab>
+        <lb/>
+        <closer><dateline>fait au <placeName ref="Plessis">Plesis du bois</placeName> ce 29
+            Septembre 1634</dateline>
           <lb/><signed>Louis</signed></closer>
       </body>
     </text>
