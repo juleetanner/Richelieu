@@ -393,8 +393,8 @@
         <death when="1641-12-22"/>
         <note>Protestant favorite of Henry IV, Chief minister and from 1589, and superintendent of
           finances from 1600 until Henry's assassination in 1610. Sully helped to bring financial
-          stability to France after the wars of religion, put down Protestant
-          rebellions, encouraged agriculture, and rebuilt infrastructure.</note>
+          stability to France after the wars of religion, put down Protestant rebellions, encouraged
+          agriculture, and rebuilt infrastructure.</note>
       </person>
       <person xml:id="Thémines">
         <persName type="main">Thémines, Pons de Lauzières, marquis de</persName>
@@ -682,7 +682,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -903,7 +903,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -1198,7 +1198,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -1402,7 +1402,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -1498,7 +1498,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -1739,7 +1739,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -1871,7 +1871,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -1999,7 +1999,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -2186,7 +2186,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -2407,7 +2407,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -2751,7 +2751,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -3069,7 +3069,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -3433,7 +3433,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -3688,7 +3688,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -4152,7 +4152,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -4545,7 +4545,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -4780,7 +4780,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -5001,7 +5001,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -5195,7 +5195,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -5354,7 +5354,7 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <sic>Fance</sic><corr>France</corr> et
+              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
               de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
               negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
@@ -5697,7 +5697,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title>Sir James Hepburn to Richelieu, 16 August 1629</title>
+          <title>Sir James Hepburn to Cardinal Richelieu, 16 August 1629</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -5757,8 +5757,34 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99910_103601v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <pb facs="MLM99910_103601v_0001-hpr.jpg"/>
+        <lb/><opener><salute>Monseigneur</salute></opener>
+          <lb/><p>Voÿante que touttes les paroles dont je
+          <lb/>me soraÿs <choice><orig>seruire</orig><reg>servir</reg></choice> ne sont pas assez suffisants
+          <lb/>pour remercier <persName ref="#Louis13">Sa Majesté</persName> et Vostre <choice><sic>Eminance</sic><corr>Eminence</corr></choice>
+          <lb/>des <choice><orig>faueurs</orig><reg>faveurs</reg></choice> que je recois <unclear resp="#JT" cert="medium"><choice><sic>journelierment</sic><corr>journellement</corr></choice></unclear>
+          <lb/>d'<unclear resp="#JT" cert="high">icelles</unclear>, je me contenteraÿ a present
+          <lb/>attendant <choice><orig>vne</orig><reg>une</reg></choice> <gap reason="unclear"/> occasione de remerci-
+          <lb/>er en tout Humilite Sa Majeste et Vos-
+          <lb/>tre <choice><sic>Eminance</sic><corr>Eminence</corr></choice> pour cette dernier, augmenta-
+          <lb/>tione de mon Regimente, en la quel je
+          <lb/>tacheraÿ de m'acquitter le plus dignement
+          <lb/>qui me sera possible. Vraÿ est il Mon-
+          <lb/>seigneur que la grandeur de vos bienfaits
+          <lb/>envers moÿ, me font craindre de demeurer
+          <lb/>ingrat, touttefois la confidanz que je <gap reason="illegible"/>
+          <lb/>conceu par vos <orig>faueurs</orig><reg>faveurs</reg> passes me
+          <lb/><choice><sic>randent</sic><corr>rendent</corr></choice> assure pour l'advenir, en
+          <lb/>me promettant la continuatione
+          <lb/>des mesmes <choice><orig>faueurs</orig><reg>faveurs</reg></choice> <choice><orig>enuers</orig><reg>envers</reg></choice> celuÿ qui n'est au monde</p>
+          <lb/><closer><salute>qui pour estre 
+          <lb/>Monseigneur 
+          <lb/>de Vostre Eminence 
+          <lb/>Vostre tres humble et 
+          <lb/>tres obeÿssant <choice><orig>seruiteur</orig><reg>serviteur</reg></choice></salute>
+          <lb/><signed>Hepburne</signed>
+          <lb/><dateline><gap reason="gap"/> le 16 Aug.
+          <lb/>1629</dateline></closer>
       </body>
     </text>
   </TEI>
@@ -5904,10 +5930,22 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99923_132070v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99924_132070v_0002-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <pb facs="MLM99923_132070v_0001-hpr.jpg"/>
+        <opener><salute>Monsieur</salute></opener>
+        <p><lb/>Comme le courrier
+          <lb/>partoit, Monsieur <gap reason="illegible"/>
+          <lb/>est arrivé, <gap reason="illegible"/>
+          <lb/><gap reason="illegible"/>le plus dilli-
+          <lb/>gemment qu'il a <gap reason="illegible"/>
+          <lb/>a vos ordres, il a donne
+          <lb/><gap reason="illegible"/> de vous en <gap reason="illegible"/>
+          <lb/>et moy de vous asseurer
+          <lb/>que je suis,
+          <lb/>Monsieur,</p>
+          <lb/><closer><salute><gap reason="illegible"/>tres humble
+          <lb/>et obeissant <choice><orig>seruiteur</orig><reg>serviteur</reg></choice></salute>
+          <lb/><signed>Montmorency</signed>
+          <lb/><dateline>a la grange de pres le xx. Sep<supplied>tember</supplied> 1629</dateline></closer>
       </body>
     </text>
   </TEI>
@@ -6577,22 +6615,22 @@
         <pb facs="MLM99913_117073v_0001-hpr.jpg"/>
         <opener><lb/><salute>Monsieur</salute></opener>
         <p><lb/>Je ne doubte point que comme par la sainctete de vostre profession vos <unclear
-            resp="JT" cert="high">yeux</unclear> sont <choice>
+            resp="#JT" cert="high">yeux</unclear> sont <choice>
             <orig>esleues</orig>
             <reg>esleves</reg>
           </choice> vers le ciel <lb/>et vostre ame se repose en la bonte de celuy qui la <unclear
-            resp="JT" cert="high">cree et</unclear> que semblablement par les respects <lb/>de la
+            resp="#JT" cert="high">cree et</unclear> que semblablement par les respects <lb/>de la
           bonne foy vos parolles qui font les Images <choice>
             <orig>viues</orig>
             <reg>vives</reg>
-          </choice> d'un cœur genereux <unclear resp="JT" cert="high">ne soient</unclear>
+          </choice> d'un cœur genereux <unclear resp="#JT" cert="high">ne soient</unclear>
           <lb/><gap reason="illegible"/>de sincerite et ne resident dans le sacre temple de la
           verite non pour <lb/>demeurer dans les termes vagues de l'imagination ou se referrer par
           les <lb/>bornes inutilles d'une simple prolation mais pour paroistre a la lumiere et
           <lb/>tesmoigner par la production des effets que ce n'est point vainement que l'on
-            <lb/><unclear resp="JT" cert="high">se</unclear> confie en vostre franchise et que l'on
+            <lb/><unclear resp="#JT" cert="high">se</unclear> confie en vostre franchise et que l'on
           espere en vos promesses lesquelles <lb/>desirant neantmoïns de mesnager autant qu'il me
-          sera possible selon que le <unclear resp="JT" cert="low">requiert</unclear>
+          sera possible selon que le <unclear resp="#JT" cert="low">requiert</unclear>
           <lb/>vostre eminence et la dignite de vostre personne et mesmes de ne rien
           <lb/>entreprendre dans une <choice>
             <orig>mauuise</orig>
@@ -6606,7 +6644,7 @@
           </choice> marcher plus seurement un <choice>
             <sic>meilleu</sic>
             <corr>milieu</corr>
-          </choice> de tels doubtes <lb/>que par <unclear resp="JT" cert="low"
+          </choice> de tels doubtes <lb/>que par <unclear resp="#JT" cert="low"
             >l'enfermement</unclear> qui me sera donne par vostre prudence mesme qui <lb/>ma honore
           d'un si notable tesmoignage de sa <choice>
             <orig>bienueillance</orig>
@@ -6648,7 +6686,7 @@
           <choice>
             <orig>auec</orig>
             <reg>avec</reg>
-          </choice> trop de liberte et de <lb/>me tenir pour entierement <unclear resp="JT"
+          </choice> trop de liberte et de <lb/>me tenir pour entierement <unclear resp="#JT"
             cert="medium">aguisé</unclear> a vostre service de quoy l'obeissance <lb/>que Je rendray
           incessamment a vos commandemens vous <gap reason="cancelled"/>
           <lb/>vous feront des <choice>
