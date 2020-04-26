@@ -325,6 +325,22 @@
         <birth when="1601-09-27"/>
         <death when="1643-05-14"/>
       </person>
+      <person xml:id="MariaAnna">
+        <persName type="main">Maria Anna, consort of Ferdinand III, Holy Roman Emperor</persName>
+        <idno type="VIAF">78650776</idno>
+        <birth when="1606-09-18"/>
+        <death when="1646-05-13"/>
+        <note>Sister of Philip IV, king of Spain and Anne of Austria, queen of France. In January of
+          1631 She married the Austrian Hapsburg Ferdinand Ernest, future Holy Roman Emperor.
+          Richelieu opposed the strengthening alliance between the Spanish and Austrian branches of
+          the Hapsburg family (Tapié, p. 296).</note>
+      </person>
+      <person xml:id="MarieM">
+        <persName type="main">Marie de Médicis, queen consort of Henry IV of France</persName>
+        <idno type="VIAF">12420076</idno>
+        <birth when="1575-04-26"/>
+        <death when="1642-07-03"/>
+      </person>
       <person xml:id="Maurizio">
         <persName type="main">Maurice, prince and cardinal of Savoy</persName>
         <persName>Maurizio, prince of Savoy and cardinal of Vercelli</persName>
@@ -682,9 +698,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -903,9 +921,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -1198,9 +1218,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -1402,9 +1424,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -1498,9 +1522,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -1739,9 +1765,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -1871,9 +1899,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -1999,9 +2029,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -2186,9 +2218,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -2407,9 +2441,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -2751,9 +2787,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -3069,9 +3107,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -3433,9 +3473,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -3688,9 +3730,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -4152,9 +4196,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -4545,9 +4591,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -4780,9 +4828,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -5001,9 +5051,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -5195,9 +5247,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -5248,7 +5302,10 @@
             <orig>i</orig>
             <reg>j</reg>
           </choice>'ay de vos bons offices auprés du Roy mon frere, n'est pas moindre, car les
-          Ennemis nous ont <sic>desia</sic><corr>desir</corr> attaquez d'<choice>
+          Ennemis nous ont <choice>
+            <sic>desia</sic>
+            <corr>desir</corr>
+          </choice> attaquez d'<choice>
             <orig>vn</orig>
             <reg>un</reg>
           </choice> costé, &amp; sont prés de le faire d'<choice>
@@ -5354,9 +5411,11 @@
           <bibl>
             <author>Vialart, Charles</author>
             <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
-              le regne de Louys le Juste, XIII du nom, roy de <choice><sic>Fance</sic><corr>France</corr></choice> et
-              de Navarre : Avec des reflexions politiques, et diverses lettres, contenant les
-              negociations des affaires de Piedmont et du Montferrat</title>
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
             <biblScope unit="part">5</biblScope>
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
@@ -5758,33 +5817,56 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99910_103601v_0001-hpr.jpg"/>
-        <lb/><opener><salute>Monseigneur</salute></opener>
-          <lb/><p>Voÿante que touttes les paroles dont je
-          <lb/>me soraÿs <choice><orig>seruire</orig><reg>servir</reg></choice> ne sont pas assez suffisants
-          <lb/>pour remercier <persName ref="#Louis13">Sa Majesté</persName> et Vostre <choice><sic>Eminance</sic><corr>Eminence</corr></choice>
-          <lb/>des <choice><orig>faueurs</orig><reg>faveurs</reg></choice> que je recois <unclear resp="#JT" cert="medium"><choice><sic>journelierment</sic><corr>journellement</corr></choice></unclear>
+        <lb/>
+        <opener><salute>Monseigneur</salute></opener>
+        <lb/>
+        <p>Voÿante que touttes les paroles dont je <lb/>me soraÿs <choice>
+            <orig>seruire</orig>
+            <reg>servir</reg>
+          </choice> ne sont pas assez suffisants <lb/>pour remercier <persName ref="#Louis13">Sa
+            Majesté</persName> et Vostre <choice>
+            <sic>Eminance</sic>
+            <corr>Eminence</corr>
+          </choice>
+          <lb/>des <choice>
+            <orig>faueurs</orig>
+            <reg>faveurs</reg>
+          </choice> que je recois <unclear resp="#JT" cert="medium"><choice>
+              <sic>journelierment</sic>
+              <corr>journellement</corr>
+            </choice></unclear>
           <lb/>d'<unclear resp="#JT" cert="high">icelles</unclear>, je me contenteraÿ a present
-          <lb/>attendant <choice><orig>vne</orig><reg>une</reg></choice> <gap reason="unclear"/> occasione de remerci-
-          <lb/>er en tout Humilite Sa Majeste et Vos-
-          <lb/>tre <choice><sic>Eminance</sic><corr>Eminence</corr></choice> pour cette dernier, augmenta-
-          <lb/>tione de mon Regimente, en la quel je
-          <lb/>tacheraÿ de m'acquitter le plus dignement
-          <lb/>qui me sera possible. Vraÿ est il Mon-
-          <lb/>seigneur que la grandeur de vos bienfaits
-          <lb/>envers moÿ, me font craindre de demeurer
-          <lb/>ingrat, touttefois la confidanz que je <gap reason="illegible"/>
-          <lb/>conceu par vos <orig>faueurs</orig><reg>faveurs</reg> passes me
-          <lb/><choice><sic>randent</sic><corr>rendent</corr></choice> assure pour l'advenir, en
-          <lb/>me promettant la continuatione
-          <lb/>des mesmes <choice><orig>faueurs</orig><reg>faveurs</reg></choice> <choice><orig>enuers</orig><reg>envers</reg></choice> celuÿ qui n'est au monde</p>
-          <lb/><closer><salute>qui pour estre 
-          <lb/>Monseigneur 
-          <lb/>de Vostre Eminence 
-          <lb/>Vostre tres humble et 
-          <lb/>tres obeÿssant <choice><orig>seruiteur</orig><reg>serviteur</reg></choice></salute>
+          <lb/>attendant <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice>
+          <gap reason="unclear"/> occasione de remerci- <lb/>er en tout Humilite Sa Majeste et Vos-
+          <lb/>tre <choice>
+            <sic>Eminance</sic>
+            <corr>Eminence</corr>
+          </choice> pour cette dernier, augmenta- <lb/>tione de mon Regimente, en la quel je
+          <lb/>tacheraÿ de m'acquitter le plus dignement <lb/>qui me sera possible. Vraÿ est il Mon-
+          <lb/>seigneur que la grandeur de vos bienfaits <lb/>envers moÿ, me font craindre de
+          demeurer <lb/>ingrat, touttefois la confidanz que je <gap reason="illegible"/>
+          <lb/>conceu par vos <orig>faueurs</orig><reg>faveurs</reg> passes me <lb/><choice>
+            <sic>randent</sic>
+            <corr>rendent</corr>
+          </choice> assure pour l'advenir, en <lb/>me promettant la continuatione <lb/>des mesmes <choice>
+            <orig>faueurs</orig>
+            <reg>faveurs</reg>
+          </choice>
+          <choice>
+            <orig>enuers</orig>
+            <reg>envers</reg>
+          </choice> celuÿ qui n'est au monde</p>
+        <lb/>
+        <closer><salute>qui pour estre <lb/>Monseigneur <lb/>de Vostre Eminence <lb/>Vostre tres
+            humble et <lb/>tres obeÿssant <choice>
+              <orig>seruiteur</orig>
+              <reg>serviteur</reg>
+            </choice></salute>
           <lb/><signed>Hepburne</signed>
-          <lb/><dateline><gap reason="gap"/> le 16 Aug.
-          <lb/>1629</dateline></closer>
+          <lb/><dateline><gap reason="gap"/> le 16 Aug. <lb/>1629</dateline></closer>
       </body>
     </text>
   </TEI>
@@ -5792,7 +5874,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title>Timoléon d'Epinay, Marquis de St. Luc, to Richelieu, 4 August [1631]</title>
+          <title>Timoléon d'Epinay, Marquis de St. Luc, to Richelieu, 4 August 1631</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -5840,8 +5922,9 @@
           <correspAction type="sent">
             <persName ref="#Epinay">Epinay</persName>
             <placeName ref="#Paris">Paris</placeName>
-            <date>1631-04-08</date>
-            <!-- Day and month recorded in letter, but not year. Way to convey precision for year is low? -->
+            <date cert="high">1631-08-04</date>
+            <note>The year is missing from dateline but is provided on the reverse of the letter,
+              below the sender's name.</note>
           </correspAction>
           <correspAction type="received">
             <persName>Richelieu</persName>
@@ -5854,10 +5937,32 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99917_126906v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99918_126906v_0002-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <pb facs="MLM99917_126906v_0001-hpr.jpg"/>
+        <lb/><opener><salute>Monseigneur </salute></opener><p><lb/>J'estoys sur le point de partir lors que Monsieur de Bau<gap
+            reason="illigeble"/>
+          <lb/>est arrivé pour me rendre demain a vostre <unclear resp="JT" cert="high"><choice>
+              <sic>ceuer</sic>
+              <corr>cour</corr>
+            </choice></unclear> mays Il <lb/>ma tesmoigné de croyre que vous series bien ayze
+          <lb/>de <choice>
+            <orig>scauoir</orig>
+            <reg>scavoir</reg>
+          </choice> plustost ce que Je luy ay apris, que vostre <lb/>amy venoit avec titre
+          d'Ambassadeur de <persName ref="#MariaAnna">L'Infante</persName>
+          <lb/>pour <seg>donner part<note>to inform someone of something, to share a
+            secret</note></seg> au <persName ref="Louis13">Roy</persName> des honneurs qu'elle <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice>
+          <lb/>rendus a la <persName ref="MarieM">Reyne sa Mere</persName>. J'en ay veu
+          l'Instruction <lb/>signee d'elle si bien que sa negotiation luy donnera <lb/>moyen de vous
+          entretenir tant qu'il vous plaira. <lb/>J'auray l'honneur de vous veoir demain a vostre
+          disner <lb/>&amp; vous en diray davantage &amp; croy que le tout sera <lb/>a vostre
+          contente.</p> <closer><salute>Je suis tres fidellement <lb/>Monseigneur <lb/>Vostre tres humble &amp; tres
+          <lb/>obeissant <choice>
+            <orig>seruiteur</orig>
+            <reg>serviteur</reg></choice></salute>
+          <signed>St Luc</signed><lb/><dateline>A Paris le 4 Aoust</dateline></closer>
       </body>
     </text>
   </TEI>
@@ -5932,20 +6037,20 @@
       <body>
         <pb facs="MLM99923_132070v_0001-hpr.jpg"/>
         <opener><salute>Monsieur</salute></opener>
-        <p><lb/>Comme le courrier
-          <lb/>partoit, Monsieur <gap reason="illegible"/>
+        <p><lb/>Comme le courrier <lb/>partoit, Monsieur <gap reason="illegible"/>
           <lb/>est arrivé, <gap reason="illegible"/>
-          <lb/><gap reason="illegible"/>le plus dilli-
-          <lb/>gemment qu'il a <gap reason="illegible"/>
-          <lb/>a vos ordres, il a donne
-          <lb/><gap reason="illegible"/> de vous en <gap reason="illegible"/>
-          <lb/>et moy de vous asseurer
-          <lb/>que je suis,
-          <lb/>Monsieur,</p>
-          <lb/><closer><salute><gap reason="illegible"/>tres humble
-          <lb/>et obeissant <choice><orig>seruiteur</orig><reg>serviteur</reg></choice></salute>
+          <lb/><gap reason="illegible"/>le plus dilli- <lb/>gemment qu'il a <gap reason="illegible"/>
+          <lb/>a vos ordres, il a donne <lb/><gap reason="illegible"/> de vous en <gap
+            reason="illegible"/>
+          <lb/>et moy de vous asseurer <lb/>que je suis, <lb/>Monsieur,</p>
+        <lb/>
+        <closer><salute><gap reason="illegible"/>tres humble <lb/>et obeissant <choice>
+              <orig>seruiteur</orig>
+              <reg>serviteur</reg>
+            </choice></salute>
           <lb/><signed>Montmorency</signed>
-          <lb/><dateline>a la grange de pres le xx. Sep<supplied>tember</supplied> 1629</dateline></closer>
+          <lb/><dateline>a la grange de pres le xx. Sep<supplied>tember</supplied>
+          1629</dateline></closer>
       </body>
     </text>
   </TEI>
