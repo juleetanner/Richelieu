@@ -58,6 +58,22 @@
               </imprint>
             </monogr>
           </biblStruct>
+          <biblStruct xml:id="Knecht">
+            <monogr>
+              <author>
+                <persName>
+                  <forename>Robert</forename>
+                  <surname>Knecht</surname>
+                </persName>
+              </author>
+              <title level="m"><hi rend="ital">Richelieu</hi></title>
+              <imprint>
+                <publisher>Longman</publisher>
+                <pubPlace>New York</pubPlace>
+                <date when="1991"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="Levi">
             <monogr>
               <author>
@@ -153,6 +169,7 @@
       <person xml:id="Bernard">
         <persName type="main">Épernon, Bernard de Nogaret de La Valette d'</persName>
         <persName>Monsieur de La Valette</persName>
+        <persName>Marquis de La Valette</persName>
         <idno type="VIAF">64281075</idno>
         <birth when="1592"/>
         <death when="1661-07-26"/>
@@ -167,6 +184,20 @@
         <note>First president of the parliament of Toulouse, from 1632 until at least 1649. In 1632
           he helped put down the rebellion of <persName ref="#Montmorency">Henri II de
             Montmorency</persName></note>
+      </person>
+      <person xml:id="Bragelogne">
+        <persName type="main">Marie de Bragelogne‏, Madame Bouthillier</persName>
+        <idno type="VIAF"></idno>
+        <birth when="1590"/>
+        <death when="1673"/>
+        <note>Wife of <persName ref="#Chavigny">Claude Bouthillier, comte de Chavigny</persName>. She was entrusted with the education of Richelieu's orphaned niece (Tapié, p. 394).</note>
+      </person>
+      <person xml:id="Chanteloube">
+        <persName type="main">Apchon de Chanteloube, Jacques d'</persName>
+        <idno type="VIAF">349197</idno>
+        <birth when="1590" precision="low"/>
+        <death when="1641"/>
+        <note>Catholic priest and pamphleteer in the service of Marie de Medici. In 1633 he was involved in a failed attempt to assassinate the cardinal (Blanchard, p.151; Knecht, p. 55).</note>
       </person>
       <person xml:id="Charles1">
         <persName type="main">Charles I, king of England</persName>
@@ -197,8 +228,7 @@
         <death when="1652"/>
         <note>Appointed by Richelieu to secretary of state from 1628 and superintendant of finances
           from 1632, offices he held until the death of Louis XIII in 1642. Richelieu also sent him
-          on many diplomatic missions, sometimes with <persName ref="#PereJ">Père
-          Joseph</persName>.</note>
+          on many diplomatic missions, sometimes with <persName ref="#PereJ">Père Joseph</persName>.</note>
       </person>
       <person xml:id="Christine">
         <persName type="main">Christine of France</persName>
@@ -336,7 +366,7 @@
           the Hapsburg family (Tapié, p. 296).</note>
       </person>
       <person xml:id="MarieM">
-        <persName type="main">Marie de Médicis, queen consort of Henry IV of France</persName>
+        <persName type="main">Marie de Médici, queen consort of Henry IV of France</persName>
         <idno type="VIAF">12420076</idno>
         <birth when="1575-04-26"/>
         <death when="1642-07-03"/>
@@ -535,6 +565,12 @@
         </location>
         <idno type="geonames">3032833</idno>
       </place>
+      <place xml:id="Buzay">
+      <placeName type="main">Buzay</placeName>
+        <location>
+          <geo>47.21 -1.83</geo>
+        </location>
+      </place>
       <place xml:id="Casale" type="commune">
         <placeName>Casale Monferrato</placeName>
         <placeName>Cazal</placeName>
@@ -652,6 +688,13 @@
         </location>
         <idno type="GeoNames">3002683</idno>
       </place>
+      <place xml:id="Quimperle">
+        <placeName type="main">Quimperlé</placeName>
+        <location>
+          <geo>47.87 -3.56</geo>
+        </location>
+        <idno type="GeoNames">2984699</idno>
+      </place>
       <place xml:id="Rome" type="commune">
         <placeName type="main">Rome</placeName>
         <location>
@@ -666,6 +709,14 @@
           <geo>48.87 -2.18</geo>
         </location>
         <idno type="GeoNames">2982235</idno>
+      </place>
+      <place xml:id="StGermain" type="building">
+        <placeName type="main">Saint-Germain-en-Laye</placeName>
+        <location>
+          <geo>48.9 -2.09</geo>
+        </location>
+        <idno type="GeoNames">2979783</idno>
+        <note>Royal palace outside of Paris and a prinicpal residence of Louis XIII.</note>
       </place>
       <place xml:id="Turin" type="commune">
         <placeName type="main">Turin</placeName>
@@ -6382,9 +6433,55 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99927_136119v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99928_136119v_0002-hpr.jpg"/></p>
+        <pb facs="MLM99927_136119v_0001-hpr.jpg"/>
+          <lb/><opener><dateline>Mornan 18-Nov-1622</dateline>
+            <lb/>Monsieur</opener><ab>Je n'ay pas fait grandes affaires puisque
+            <lb/>quoy que <choice><orig>i</orig><reg>j</reg></choice>'aie fait, <choice><orig>ie</orig><reg>je</reg></choice> remporte mon malheureux
+            <lb/>mal pis que de coustume.</ab>
+        <p><lb/>L'affaire de Monsieur de Roche est faite, Je vous porte
+          <lb/>vostre Ordonnance. J'ay fait changer les <seg><choice><orig>Breuets</orig><reg>Brevets</reg></choice><note>A short letter confirming a privilege granted by the king <hi rend="italic">(Dictionnaire de l'Académie française</hi> 1694, s.v. <hi rend="italic">"brevet"</hi>).</note></seg>
+          <lb/>des Abbaies comme il faut. Sur ce <choice><orig>suiet</orig><reg>sujet</reg></choice> <choice><orig>ie</orig><reg>je</reg></choice>
+          <lb/>vous prie que la Reine envoie querir <persName ref="#Chanteloube">Chanteloube</persName>
+          <lb/>et luy die, s'<del>il lui</del>elle le trouve bon, qu'elle a sceu
+          <lb/>que quelques <choice><orig>vns</orig><reg>uns</reg></choice> luy <choice><orig>auoient</orig><reg>avoient</reg></choice> dit que le Roy luy
+          <lb/><choice><orig>auoit</orig><reg>avoit</reg></choice> donné Pont de voie et partant qu'il le <choice><orig>deuoir</orig><reg>devoir</reg></choice>
+          <lb/>avoir. Sur cela elle a esté bien aise de s'eclaircir
+          <lb/>avec luy de la <expan resp="JT" cert="high">faveur<choice><orig>faur</orig><reg>favr</reg></choice></expan> avec laquelle cette affaire
+          <lb/>s'en passee. Que le Roy desirant <placeName ref="Buzay">Buzay</placeName> et
+          <lb/><placeName ref="#Quimperle"><choice><orig>Quinperlay</orig><reg resp="JT" cert="medium">Quimperlé</reg></choice></placeName> j'avois cedé volontairement Buzay sans
+          <lb/>condition, entre les mains de la Reine qui me l'<choice><orig>auoit</orig><reg>avoit</reg></choice>
+          <lb/>donnee pour en disposer au plaisir du Roy. Mais qu'elle
+          <lb/>n'<choice><orig>auoit</orig><reg>avoit</reg></choice> pas voulu ceder Quinperlay qu'a condition d'<choice><orig>vne</orig><reg>une</reg></choice>
+          <lb/>pension pour luy <choice><orig><choice><sic>rediuable</sic><corr>redeuable</corr></choice></orig><reg>redevable</reg></choice> par <choice><orig>vne</orig><reg>une</reg></choice> Abbayé. Rousselay
+          <lb/>a la <unclear reason="illegible" resp="JT" cert="medium">mort</unclear> <choice><orig>auoit</orig><reg>avoit</reg></choice> fait <gap reason="illegible"/> le Roy de sa parolle et
+          <lb/>luy <choice><orig>auoit</orig><reg>avoit</reg></choice> demandé l'Abbaié pour <choice><sic resp="JT" cert="medium">esteindre</sic><corr>s'estendre</corr></choice> la pension
+          <lb/>de <persName ref="#Chanteloube">Chanteloube</persName> Laquelle estant desja <choice><sic resp="JT" cert="medium">esteinte</sic><reg>estendue</reg></choice> par
+          <lb/>L'Abbaié de de Pibrac qui <choice><orig>auoit</orig><reg>avoit</reg></choice> vaqué per an par <unclear reason="illegible" resp="JT" cert="low">annum</unclear>. Elle
+          <lb/>disposoit de pont de voie a ma consideration. <del>S'il esti</del>Que
+          <lb/>touteffois s'il estimoit pont de voie meilleure, elle luy
+          <lb/>donnoit le <gap reason="illegible"/> affin qu'en luy faisant du bien il ne
+          <lb/><gap reason="illegible"/> pas de se plaindre qu'elle <choice><orig>scauoit</orig><reg>scavoit</reg></choice> bien
+          <lb/>que c'estoit <placeName ref="#StGermain">St Germain</placeName> qui avoit pretendu cette 
+          <pb facs="MLM99928_136119v_0002-hpr.jpg"/>
+          <lb/>cette Abbaié et quelques autres <unclear reason="illegible" resp="JT" cert="medium"> en auroit <del>puis</del>prits</unclear> qui
+          <lb/>taschaient de brouiller, mais qu'elle les rangeoit bien.
+          <lb/>J'estime cela important pour plusieurs raisons.
+          <lb/>Je s<del>p</del><add place="above">ens</add> a la Reine pour faire <choice><orig>vn</orig><reg>un</reg></choice> present au <persName ref="#Bernard">Marquis 
+            <lb/>de la Valette</persName> et ses <seg>nopces<note>nuptials <hi rend="italic">(Dictionnaire de l'Académie française,</hi> 1694</note></seg>. Il est du tout necessaire
+          <lb/>pour raisons que <choice><orig>ie</orig><reg>je</reg></choice> vous diray. Trop longues a escrire.
+          <lb/>Si la Reine n'a rien, de <choice><orig>prest</orig><expan>present</expan></choice>, <choice><orig>ie</orig><reg>je</reg></choice> donnerays volontiers
+          <lb/>la grande <seg>agraffe<note>an ornamental clasp</note></seg> qu'a <persName ref="#Bragelogne">Madame Bouthillier</persName> ou il y a de fort beaux <expan>diaman<ex>t</ex>s</expan> et ce sans <choice><sic>espeance</sic><corr>despense</corr></choice> de
+          <lb/>paiement, rien n'estant mieux a la Reine que ce que
+          <lb/>est a des personnes qui ne possedent rien que par sa
+          <lb/>bonté et liberalité. Si la Reine l'aggree, vous mandere<unclear reason="illegible">y</unclear>
+          <lb/>a Madame Bouthillier qu'elle l'envoie <seg>par voie serre<note>Possibly "by means of economizing," see <hi rend="italic">Dictionnaire de l'Académie française</hi> 1694, s.v. "serre," 2nd definition.</note></seg> Car
+          <lb/>le mariage se sera dans quinze <choice><orig>iours</orig><reg>jours</reg></choice>. Je suis tres-affligé
+          <lb/>de <gap reason="illegible"/> mal. A Dieu,
+          <lb/>N'oubliey, <choice><orig>ie</orig><reg>je</reg></choice> vous prie, l'affaire de Chanteloube</p>
+          <lb/><closer><salute>Monsieur
+          <lb/>Vostre tres-affectionné a vous / <choice><orig>bisnt</orig><expan>obeissant</expan></choice></salute>
+          <lb/><signed>Le Cardinal De Richelieu</signed>
+          <lb/><dateline>De Mornan Le 18 Novembre 1622.</dateline></closer>
       </body>
     </text>
   </TEI>
