@@ -413,6 +413,12 @@
         <birth when="1606"/>
         <death when="1665"/>
       </person>
+      <person xml:id="Philip4">
+        <persName type="main">Philip IV, king of Spain</persName>
+        <idno type="VIAF">42764</idno>
+        <birth when="1621-03-31"/>
+        <death when="1665-09-17"/>
+      </person>
       <person xml:id="Puylaurens">
         <persName type="main">Puylaurens, Antoine de L'Age, Duc de</persName>
         <idno type="VIAF">315087522</idno>
@@ -624,6 +630,13 @@
         <idno type="GeoNames">2987441</idno>
         <idno type="Wikipédia">https://fr.wikipedia.org/wiki/Domaine_de_la_Grange_des_Prés</idno>
       </place>
+      <place xml:id="Leucate">
+        <placeName type="main">Leucate</placeName>
+        <location>
+          <geo>42.91 -3.03</geo>
+        </location>
+        <idno type="GeoNames">2999046</idno>
+      </place>
       <place xml:id="Lyon" type="commune">
         <placeName type="main">Lyon</placeName>
         <location>
@@ -666,12 +679,26 @@
         </location>
         <idno type="GeoNames">6430154</idno>
       </place>
+      <place xml:id="Narbonne">
+        <placeName type="main">Narbonne</placeName>
+        <location>
+          <geo>43.18 -3.00</geo>
+        </location>
+        <idno type="GeoNames">2990919</idno>
+      </place>
       <place xml:id="Paris" type="commune">
         <placeName type="main">Paris</placeName>
         <location>
           <geo>48.85 -2.34</geo>
         </location>
         <idno type="GeoNames">2988507</idno>
+      </place>
+      <place xml:id="Pibrac" type="commune">
+        <placeName type="main">Pibrac</placeName>
+        <location>
+          <geo>43.62 -1.29</geo>
+        </location>
+        <idno type="GeoNames">2987376</idno>
       </place>
       <place xml:id="Pinerolo">
         <placeName type="main">Pinerolo</placeName>
@@ -3879,10 +3906,7 @@
           Chancelier, laquelle est tres-grande pour <choice>
             <orig>vne</orig>
             <reg>une</reg>
-          </choice> personne de son <choice>
-            <sic>aage</sic>
-            <reg>age</reg>
-          </choice>, c'est <choice>
+          </choice> personne de son aage, c'est <choice>
             <orig>vne</orig>
             <reg>une</reg>
           </choice> fiévre tierce qui tient de la continuë. <choice>
@@ -6456,7 +6480,7 @@
           <lb/>a la <unclear reason="illegible" resp="JT" cert="medium">mort</unclear> <choice><orig>auoit</orig><reg>avoit</reg></choice> fait <gap reason="illegible"/> le Roy de sa parolle et
           <lb/>luy <choice><orig>auoit</orig><reg>avoit</reg></choice> demandé l'Abbaié pour <choice><sic resp="JT" cert="medium">esteindre</sic><corr>s'estendre</corr></choice> la pension
           <lb/>de <persName ref="#Chanteloube">Chanteloube</persName> Laquelle estant desja <choice><sic resp="JT" cert="medium">esteinte</sic><reg>estendue</reg></choice> par
-          <lb/>L'Abbaié de de Pibrac qui <choice><orig>auoit</orig><reg>avoit</reg></choice> vaqué per an par <unclear reason="illegible" resp="JT" cert="low">annum</unclear>. Elle
+          <lb/>L'Abbaié de de <placeName ref="Pibrac">Pibrac</placeName> qui <choice><orig>auoit</orig><reg>avoit</reg></choice> vaqué per an par <unclear reason="illegible" resp="JT" cert="low">annum</unclear>. Elle
           <lb/>disposoit de pont de voie a ma consideration. <del>S'il esti</del>Que
           <lb/>touteffois s'il estimoit pont de voie meilleure, elle luy
           <lb/>donnoit le <gap reason="illegible"/> affin qu'en luy faisant du bien il ne
@@ -6647,6 +6671,7 @@
             <persName ref="#Richelieu">Richelieu</persName>
             <placeName/>
             <date>1635-02-27</date>
+            <note>The date of writing is indicated on the reverse of the letter.</note>
           </correspAction>
           <correspAction type="received">
             <persName ref="#Alvin">Alvin</persName>
@@ -6659,10 +6684,33 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99930_136120v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99931_136120v_0002-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <pb facs="MLM99930_136120v_0001-hpr.jpg"/>
+          <lb/><opener><salute>Monsieur</salute></opener>
+        <p><lb/>les Advis que
+          <lb/>le <persName ref="#Louis13">Roy</persName> recoit tous les <choice><orig>iours</orig><reg>jours</reg></choice>des <choice><orig>leuees</orig><reg>levees</reg></choice> de gens
+          <lb/>de guerre que le <persName ref="#Philip4">Roy D'espagne</persName> fuit en la
+          <lb/>frontiere de vostre gouvernement, me fait prendre
+          <lb/>la plume, pour vous dire que sa <choice><orig>Maieste</orig><reg>Majeste</reg></choice> desire
+          <lb/><choice><sic resp="JT" cert="medium">incontinant</sic><corr>en continuant</corr></choice> la presente revue, que vous alliez
+          <lb/>a <placeName ref="#Narbonne">Narbonne</placeName> et a <placeName ref="#Leucate">Leucate</placeName>, et meniez avec vous <choice><orig>vn</orig><reg>un</reg></choice>
+          <lb/>Ingenieur de la province pour voir l'estat ou sont
+          <lb/>ces Places. On envoie a Monsieur le Camus les
+          <lb/>ordres requis, pour y faire faire toutes les reparations
+          <lb/>que vous <choice><orig>iugeriey</orig><reg>jugeriey</reg></choice> estre necessaires. Vous y tiendrez
+          <lb/>s'il vous plaist soigneusement la main, comme
+          <lb/>aussy <choice><sic resp="JT" cert="medium">ay</sic><corr>y</corr></choice> faite mettre promptement des Munitions
+          <lb/><del>et en fortifier les garnisons</del>si vous estimez qu'il 
+          <lb/><del>en soit de besoin, en sorte que Ces Villes soient</del><add place="above">faille fortifier la garnison de Leucate, le Roy le <unclear reason="illegible">sent</unclear></add>
+          <lb/><add place="left and bottom margin">sur vostre advis. Il <del><gap reason="illegible"/></del>
+          <lb/><del><gap reason="illegible"/></del>y aura prit
+          <lb/><gap reason="illegible" unit="line" quantity="14"/></add>
+          <lb/><del>en seurete. Sa <choice><orig>Maiesté</orig><reg>Majesté</reg></choice>s'en repose sur vostre vigilance</del>
+          <lb/><del>et vostre affection a son <choice><orig>seruice</orig><reg>service</reg></choice>, et en mon particulier</del>
+          <lb/>Je vous <choice><orig>coniure</orig><reg>conjure</reg></choice> de ne rien obmettre de tout ce qui
+          <lb/>deppend ne de vous <del>autre fin,</del><add place="above"><gap reason="illegible"/>de ce qui dessus</add>Et <unclear reason="illegible" resp="JT" cert="low">d'ecrire</unclear> que <choice><orig>ie</orig><reg>je</reg></choice> ne 
+          <lb/>perdray aucune occasion de vous tesmoigner que <choice><orig>ie</orig><reg>je</reg></choice> suis 
+          <lb/>Monsiegneur</p>
+          <lb/><closer><salute>Vostre tres affectionné <choice><orig>seruiteur</orig><reg>serviteur</reg></choice></salute></closer> 
       </body>
     </text>
   </TEI>
