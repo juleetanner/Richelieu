@@ -6243,7 +6243,7 @@
           <lb/>atandant Les moyens de se <choice>
             <orig>pouuoir</orig>
             <reg>pouvoir</reg>
-          </choice> f- <lb/>faire: je vous aycrivit desja plusieurs <lb/>fois touchant L'ambassadeur
+          </choice> f- <lb/>faire : je vous aycrivit desja plusieurs <lb/>fois touchant L'ambassadeur
               <del><gap reason="illegible"/></del>
           <choice>
             <sic resp="JT" cert="high">seste</sic>
@@ -6264,10 +6264,10 @@
           fait plusieurs fois sur <lb/>ce <choice>
             <orig>seruice</orig>
             <reg>service</reg>
-          </choice> et que je n'expliqueray <lb/>pas car vous La <choice>
+          </choice> et que je n'expliqueray <lb/>pas car vous La <choice><sic><choice>
             <orig>saues</orig>
-            <reg>saves</reg>
-          </choice> bien desja <lb/>et combien je suis</ab>
+            <reg>saves</reg><corr>savez</corr></choice>
+          </sic></choice> bien desja <lb/>et combien je suis</ab>
         <lb/>
         <closer><signed>Vostre bien affectionnee <lb/>cousine <lb/>Henriette Marie</signed></closer>
       </body>
@@ -7314,10 +7314,21 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99936_200045v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99937_200045v_0002-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <pb facs="MLM99936_200045v_0001-hpr.jpg"/>
+          <opener><salute>Mon cousin,</salute></opener>
+        <ab><choice><sic resp="JT" cert="high">Sette sy</sic><corr>Celle-ci</corr></choice> ne sera que pour
+        <lb/>vous renvoyer du temoygnage de
+        <lb/>vostre affection et pour vous assurer
+        <lb/>que vous n'<choice><sic>obligeres</sic><corr>obligerez</corr></choice> jamais persone
+        <lb/>qui vous afectionne plus que moy.
+        <lb/>Vous priant de le croyre : Je <choice><sic resp="JT" cert="medium">sede</sic><corr>cede</corr></choice>
+        <lb/><choice><sic>beaulieu</sic><corr>beau lieu</corr></choice> <choice><sic>sanre tournant</sic><corr>sans retournant</corr></choice>. Je croyrois
+        <lb/>luy faire tort sy je la <choice><sic>lesois</sic><corr>laissois</corr></choice> plus
+        <lb/>longue. C'est pour quoy me <choice><sic>remetan</sic><corr>remettant</corr></choice>
+        <lb/>a luy. Je demeurayray</ab>
+        <lb/><closer><salute>Vostre affectionnee
+        <lb/>cousine</salute>
+        <lb/><signed>Henriette Marie</signed></closer>
       </body>
     </text>
   </TEI>
