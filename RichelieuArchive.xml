@@ -6195,10 +6195,35 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99934_190649v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
+        <pb facs="MLM99934_190649v_0001-hpr.jpg"/>
+          <lb/><opener><salute>Mon cousin</salute></opener><ab>je me sens tant <gap reason="illegible"/>
+            <lb/>du soing que j'<choice><orig>antans</orig><reg>attends</reg></choice> que vous <choice><orig>prenes</orig><reg>prenez</reg></choice>
+            <lb/>en tout mes interest que je ne saye comment
+            <lb/>vous en temoygner Le resantimant que
+            <lb/><sic resp="JT" cert="low">jan nay</sic><corr>j'en ai</corr> sy sene et en vous assurance
+            <lb/>par sette Lettre que je chargeray.
+            <lb/>Les <choice><sic resp="JT" cert="high">aucations</sic><corr>occasions</corr></choice> de vous en remersier par
+            <lb/>quelque preuve d'affection plus
+            <lb/>grande que <sic resp="JT" cert="high">sette sy</sic><corr>celle-ci</corr> qui n'est <sic resp="JT" cert="high">quan</sic> qu'en
+            <lb/>atandant Les moyens de se <choice><orig>pouuoir</orig><reg>pouvoir</reg></choice> f-
+            <lb/>faire: je vous aycrivit desja plusieurs 
+            <lb/>fois touchant L'ambassadeur <del><gap reason="illegible"/></del> <choice><sic resp="JT" cert="high">seste</sic><corr>c'est</corr></choice> pour-
+            <lb/>quoi je ne vous enparleray <choice><orig>dauan
+            <lb/>tage</orig><reg>davantage</reg></choice> car je mesprise tant tout ce
           <pb facs="MLM99934_190649v_0002-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+            <lb/>qui peut faire que sy se n'estoit
+            <lb/>Le <choice><orig>seruice</orig><reg>service</reg></choice> du <persName ref="Louis13">Roy</persName> mon frere je <choice><sic>nan</sic><corr>n'en</corr></choice>
+            <lb/>parlerois jamais mais je confesse
+            <lb/>qu'il Luy fait grand tort et sela
+            <lb/>me touche de sy pres que je ne puis
+            <lb/>que <choice><sic resp="JT" cert="medium">pe ne</sic><corr>peine</corr></choice> vous fasse La priere que
+            <lb/>je vous ay fait plusieurs fois sur
+            <lb/>ce <choice><orig>seruice</orig><reg>service</reg></choice> et que je n'expliqueray
+            <lb/>pas car vous La <choice><orig>saues</orig><reg>savez</reg></choice> bien desja
+            <lb/>et combien je suis</ab>
+            <lb/><closer><signed>Vostre bien affectionnee
+            <lb/>cousine
+            <lb/>Henriette Marie</signed></closer>
       </body>
     </text>
   </TEI>
@@ -6700,7 +6725,7 @@
           <lb/>s'il vous plaist soigneusement la main, comme
           <lb/>aussy <choice><sic resp="JT" cert="medium">ay</sic><corr>y</corr></choice> faite mettre promptement des Munitions
           <lb/><del>et en fortifier les garnisons</del>si vous estimez qu'il 
-          <lb/><del>en soit de besoin, en sorte que Ces Villes soient</del><add place="above">faille fortifier la garnison de Leucate, le Roy le <unclear reason="illegible">sent</unclear></add>
+          <lb/><del>en soit de besoin, en sorte que Ces Villes soient</del><add place="above">faille fortifier la garnison de Leucate, le Roy le <unclear reason="illegible">sent</unclear> <metamark function="insertion">^</metamark></add>
           <lb/><add place="left and bottom margin">sur vostre advis. Il <del><gap reason="illegible"/></del>
           <lb/><del><gap reason="illegible"/></del>y aura prit
           <lb/><gap reason="illegible" unit="line" quantity="14"/></add>
