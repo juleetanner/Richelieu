@@ -129,6 +129,10 @@
         <persName>Syd Bauman</persName>
         <idno type="VIAF">6761623</idno>
       </person>
+      <person xml:id="GL" role="Italian language consultant">
+        <persName>Gloria de Liberali</persName>
+        <affiliation>University of Washington</affiliation>
+      </person>
       <person xml:id="Aligre">
         <persName type="main">Aligre, Etienne d'</persName>
         <idno type="VIAF">1490223</idno>
@@ -187,17 +191,20 @@
       </person>
       <person xml:id="Bragelogne">
         <persName type="main">Marie de Bragelogne‏, Madame Bouthillier</persName>
-        <idno type="VIAF"></idno>
+        <idno type="VIAF"/>
         <birth when="1590"/>
         <death when="1673"/>
-        <note>Wife of <persName ref="#Chavigny">Claude Bouthillier, comte de Chavigny</persName>. She was entrusted with the education of Richelieu's orphaned niece (Tapié, p. 394).</note>
+        <note>Wife of <persName ref="#Chavigny">Claude Bouthillier, comte de Chavigny</persName>.
+          She was entrusted with the education of Richelieu's orphaned niece (Tapié, p. 394).</note>
       </person>
       <person xml:id="Chanteloube">
         <persName type="main">Apchon de Chanteloube, Jacques d'</persName>
         <idno type="VIAF">349197</idno>
         <birth when="1590" precision="low"/>
         <death when="1641"/>
-        <note>Catholic priest and pamphleteer in the service of Marie de Medici. In 1633 he was involved in a failed attempt to assassinate the cardinal (Blanchard, p.151; Knecht, p. 55).</note>
+        <note>Catholic priest and pamphleteer in the service of Marie de Medici. In 1633 he was
+          involved in a failed attempt to assassinate the cardinal (Blanchard, p.151; Knecht, p.
+          55).</note>
       </person>
       <person xml:id="Charles1">
         <persName type="main">Charles I, king of England</persName>
@@ -228,7 +235,8 @@
         <death when="1652"/>
         <note>Appointed by Richelieu to secretary of state from 1628 and superintendant of finances
           from 1632, offices he held until the death of Louis XIII in 1642. Richelieu also sent him
-          on many diplomatic missions, sometimes with <persName ref="#PereJ">Père Joseph</persName>.</note>
+          on many diplomatic missions, sometimes with <persName ref="#PereJ">Père
+          Joseph</persName>.</note>
       </person>
       <person xml:id="Christine">
         <persName type="main">Christine of France</persName>
@@ -572,7 +580,7 @@
         <idno type="geonames">3032833</idno>
       </place>
       <place xml:id="Buzay">
-      <placeName type="main">Buzay</placeName>
+        <placeName type="main">Buzay</placeName>
         <location>
           <geo>47.21 -1.83</geo>
         </location>
@@ -1543,23 +1551,31 @@
     <text xml:lang="it">
       <body>
         <pb facs="Vialart_letters_Page_04"/>
-        <opener><salute>Minentissimo &amp; <choice>
+        <opener><salute>Eminentissimo &amp; <choice>
               <orig>Reuerendissimo</orig>
               <reg>Reverendissimo</reg>
-            </choice> S. mio Patron Colmo</salute></opener>
-        <p>Ho pagato affettionamente <persName ref="Emery">Mr d'Hemery</persName> signifie à V.
-          Eminenza lamia singolar <choice>
+            </choice> Signor mio Patron Colendissimo</salute></opener>
+        <p>Ho pagato affettionamente <persName ref="Emery">Monsieur d'Hemery</persName> signifie à
+          Vostre Eminenza la mia singolar <choice>
             <orig>deuotione</orig>
             <reg>devotione</reg>
-          </choice> &amp; come ho tolte le speranze de miei auanzamenti, con S. <choice>
-            <orig>Maiesta</orig>
-            <reg>Majesta</reg>
-          </choice> nella gratia è protettione di V. Eminenza Egli rapresentera qualche mie speranze
-          è desiderio, ma non mai pretentione, sodis fatissimo del honore che riçeui quanto la
-          Majesta del Re si degni dilasciarsi <choice>
+          </choice> &amp; come ho tolte le speranze <choice>
+            <sic>de</sic>
+            <corr>dei</corr>
+          </choice> miei <choice>
+            <orig>auanzamenti</orig>
+            <reg>avanzamenti</reg>
+          </choice>, con Sua Maiesta nella gratia è protettione di Vostra Eminenza Egli rapresentera
+          qualche mie speranze è desiderio, ma non mai pretentione, sodisfatissimo del honore che <choice>
+            <orig>riçeui</orig>
+            <reg>receverei</reg>
+          </choice> quanto la Majesta del Re si degni di lasciarsi <choice>
             <orig>seruir</orig>
             <reg>servir</reg>
-          </choice> da me, confirmo Allo Eminenza vostra la mia sempre obligata <choice>
+          </choice> da me, confirmo <expan><choice>
+              <sic resp="GL" cert="high">Allo</sic>
+              <corr>Alls</corr>
+            </choice>All'Illustrissima</expan> Eminenza vostra la mia sempre obligata <choice>
             <orig>seruitu</orig>
             <reg>servitu</reg>
           </choice> le facio profondissima <choice>
@@ -1567,7 +1583,7 @@
             <reg>reverenza</reg>
           </choice>.</p>
         <closer><dateline>In <placeName ref="Turin">Torino</placeName> l'19. Genaro 1639.</dateline>
-          <salute>Di V. Eminenza, Hummo &amp; obligatissimo <choice>
+          <salute>Di Vostra Eminenza, Umilissimo &amp; obligatissimo <choice>
               <orig>seruitore</orig>
               <reg>servitore</reg>
             </choice></salute></closer>
@@ -6013,8 +6029,9 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99917_126906v_0001-hpr.jpg"/>
-        <lb/><opener><salute>Monseigneur </salute></opener><p><lb/>J'estoys sur le point de partir lors que Monsieur de Bau<gap
-            reason="illigeble"/>
+        <lb/>
+        <opener><salute>Monseigneur </salute></opener>
+        <p><lb/>J'estoys sur le point de partir lors que Monsieur de Bau<gap reason="illigeble"/>
           <lb/>est arrivé pour me rendre demain a vostre <unclear resp="JT" cert="high"><choice>
               <sic>ceuer</sic>
               <corr>cour</corr>
@@ -6033,10 +6050,12 @@
           l'Instruction <lb/>signee d'elle si bien que sa negotiation luy donnera <lb/>moyen de vous
           entretenir tant qu'il vous plaira. <lb/>J'auray l'honneur de vous veoir demain a vostre
           disner <lb/>&amp; vous en diray davantage &amp; croy que le tout sera <lb/>a vostre
-          contente.</p> <closer><salute>Je suis tres fidellement <lb/>Monseigneur <lb/>Vostre tres humble &amp; tres
-          <lb/>obeissant <choice>
-            <orig>seruiteur</orig>
-            <reg>serviteur</reg></choice></salute>
+          contente.</p>
+        <closer><salute>Je suis tres fidellement <lb/>Monseigneur <lb/>Vostre tres humble &amp; tres
+            <lb/>obeissant <choice>
+              <orig>seruiteur</orig>
+              <reg>serviteur</reg>
+            </choice></salute>
           <signed>St Luc</signed><lb/><dateline>A Paris le 4 Aoust</dateline></closer>
       </body>
     </text>
@@ -6196,34 +6215,61 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99934_190649v_0001-hpr.jpg"/>
-          <lb/><opener><salute>Mon cousin</salute></opener><ab>je me sens tant <gap reason="illegible"/>
-            <lb/>du soing que j'<choice><orig>antans</orig><reg>attends</reg></choice> que vous <choice><orig>prenes</orig><reg>prenez</reg></choice>
-            <lb/>en tout mes interest que je ne saye comment
-            <lb/>vous en temoygner Le resantimant que
-            <lb/><sic resp="JT" cert="low">jan nay</sic><corr>j'en ai</corr> sy sene et en vous assurance
-            <lb/>par sette Lettre que je chargeray.
-            <lb/>Les <choice><sic resp="JT" cert="high">aucations</sic><corr>occasions</corr></choice> de vous en remersier par
-            <lb/>quelque preuve d'affection plus
-            <lb/>grande que <sic resp="JT" cert="high">sette sy</sic><corr>celle-ci</corr> qui n'est <sic resp="JT" cert="high">quan</sic> qu'en
-            <lb/>atandant Les moyens de se <choice><orig>pouuoir</orig><reg>pouvoir</reg></choice> f-
-            <lb/>faire: je vous aycrivit desja plusieurs 
-            <lb/>fois touchant L'ambassadeur <del><gap reason="illegible"/></del> <choice><sic resp="JT" cert="high">seste</sic><corr>c'est</corr></choice> pour-
-            <lb/>quoi je ne vous enparleray <choice><orig>dauan
-            <lb/>tage</orig><reg>davantage</reg></choice> car je mesprise tant tout ce
-          <pb facs="MLM99934_190649v_0002-hpr.jpg"/>
-            <lb/>qui peut faire que sy se n'estoit
-            <lb/>Le <choice><orig>seruice</orig><reg>service</reg></choice> du <persName ref="Louis13">Roy</persName> mon frere je <choice><sic>nan</sic><corr>n'en</corr></choice>
-            <lb/>parlerois jamais mais je confesse
-            <lb/>qu'il Luy fait grand tort et sela
-            <lb/>me touche de sy pres que je ne puis
-            <lb/>que <choice><sic resp="JT" cert="medium">pe ne</sic><corr>peine</corr></choice> vous fasse La priere que
-            <lb/>je vous ay fait plusieurs fois sur
-            <lb/>ce <choice><orig>seruice</orig><reg>service</reg></choice> et que je n'expliqueray
-            <lb/>pas car vous La <choice><orig>saues</orig><reg>savez</reg></choice> bien desja
-            <lb/>et combien je suis</ab>
-            <lb/><closer><signed>Vostre bien affectionnee
-            <lb/>cousine
-            <lb/>Henriette Marie</signed></closer>
+        <lb/>
+        <opener><salute>Mon cousin</salute></opener>
+        <ab>je me <choice>
+            <sic>sans</sic>
+            <corr>sens</corr>
+          </choice> tant <gap reason="illegible"/>
+          <lb/>du soing que j'<choice>
+            <orig>antans</orig>
+            <reg>attends</reg>
+          </choice> que vous <choice>
+            <sic>prenes</sic>
+            <corr>preniez</corr>
+          </choice>
+          <lb/>en tout mes interest que je ne saye comment <lb/>vous en temoygner Le resantimant que
+            <lb/><sic resp="JT" cert="low">jan nay</sic><corr>j'en ai</corr> sy <choice>
+            <sic>senest</sic>
+            <corr>ce n'est</corr>
+          </choice> en vous assurance <lb/>par sette Lettre que je chargeray. <lb/>Les <choice>
+            <sic resp="JT" cert="high">aucations</sic>
+            <corr>occasions</corr>
+          </choice> de vous en remersier par <lb/>quelque preuve d'affection plus <lb/>grande que
+            <sic resp="JT" cert="high">sette sy</sic><corr>celle-ci</corr> qui n'est <choice>
+            <sic resp="JT" cert="high">quan</sic>
+            <corr>qu'en</corr>
+          </choice>
+          <lb/>atandant Les moyens de se <choice>
+            <orig>pouuoir</orig>
+            <reg>pouvoir</reg>
+          </choice> f- <lb/>faire: je vous aycrivit desja plusieurs <lb/>fois touchant L'ambassadeur
+              <del><gap reason="illegible"/></del>
+          <choice>
+            <sic resp="JT" cert="high">seste</sic>
+            <corr>c'est</corr>
+          </choice> pour-<lb/>quoi je ne vous enparleray <choice>
+            <orig>dauan<lb/>tage</orig>
+            <reg>davantage</reg>
+          </choice> car je mesprise tant tout ce <pb facs="MLM99934_190649v_0002-hpr.jpg"/>
+          <lb/>qui peut faire que sy se n'estoit <lb/>Le <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> du <persName ref="Louis13">Roy mon frere</persName> je <choice>
+            <sic>nan</sic>
+            <corr>n'en</corr>
+          </choice>
+          <lb/>parlerois jamais mais je confesse <lb/>qu'il Luy fait grand tort et sela <lb/>me
+          touche de sy pres que je ne puis <lb/>que je ne vous fasse La priere que <lb/>je vous ay
+          fait plusieurs fois sur <lb/>ce <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> et que je n'expliqueray <lb/>pas car vous La <choice>
+            <orig>saues</orig>
+            <reg>saves</reg>
+          </choice> bien desja <lb/>et combien je suis</ab>
+        <lb/>
+        <closer><signed>Vostre bien affectionnee <lb/>cousine <lb/>Henriette Marie</signed></closer>
       </body>
     </text>
   </TEI>
@@ -6483,52 +6529,142 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99927_136119v_0001-hpr.jpg"/>
-          <lb/><opener><dateline>Mornan 18-Nov-1622</dateline>
-            <lb/>Monsieur</opener><ab>Je n'ay pas fait grandes affaires puisque
-            <lb/>quoy que <choice><orig>i</orig><reg>j</reg></choice>'aie fait, <choice><orig>ie</orig><reg>je</reg></choice> remporte mon malheureux
-            <lb/>mal pis que de coustume.</ab>
-        <p><lb/>L'affaire de Monsieur de Roche est faite, Je vous porte
-          <lb/>vostre Ordonnance. J'ay fait changer les <seg><choice><orig>Breuets</orig><reg>Brevets</reg></choice><note>A short letter confirming a privilege granted by the king <hi rend="italic">(Dictionnaire de l'Académie française</hi> 1694, s.v. <hi rend="italic">"brevet"</hi>).</note></seg>
-          <lb/>des Abbaies comme il faut. Sur ce <choice><orig>suiet</orig><reg>sujet</reg></choice> <choice><orig>ie</orig><reg>je</reg></choice>
-          <lb/>vous prie que la Reine envoie querir <persName ref="#Chanteloube">Chanteloube</persName>
-          <lb/>et luy die, s'<del>il lui</del>elle le trouve bon, qu'elle a sceu
-          <lb/>que quelques <choice><orig>vns</orig><reg>uns</reg></choice> luy <choice><orig>auoient</orig><reg>avoient</reg></choice> dit que le Roy luy
-          <lb/><choice><orig>auoit</orig><reg>avoit</reg></choice> donné Pont de voie et partant qu'il le <choice><orig>deuoir</orig><reg>devoir</reg></choice>
-          <lb/>avoir. Sur cela elle a esté bien aise de s'eclaircir
-          <lb/>avec luy de la <expan resp="JT" cert="high">faveur<choice><orig>faur</orig><reg>favr</reg></choice></expan> avec laquelle cette affaire
-          <lb/>s'en passee. Que le Roy desirant <placeName ref="Buzay">Buzay</placeName> et
-          <lb/><placeName ref="#Quimperle"><choice><orig>Quinperlay</orig><reg resp="JT" cert="medium">Quimperlé</reg></choice></placeName> j'avois cedé volontairement Buzay sans
-          <lb/>condition, entre les mains de la Reine qui me l'<choice><orig>auoit</orig><reg>avoit</reg></choice>
-          <lb/>donnee pour en disposer au plaisir du Roy. Mais qu'elle
-          <lb/>n'<choice><orig>auoit</orig><reg>avoit</reg></choice> pas voulu ceder Quinperlay qu'a condition d'<choice><orig>vne</orig><reg>une</reg></choice>
-          <lb/>pension pour luy <choice><orig><choice><sic>rediuable</sic><corr>redeuable</corr></choice></orig><reg>redevable</reg></choice> par <choice><orig>vne</orig><reg>une</reg></choice> Abbayé. Rousselay
-          <lb/>a la <unclear reason="illegible" resp="JT" cert="medium">mort</unclear> <choice><orig>auoit</orig><reg>avoit</reg></choice> fait <gap reason="illegible"/> le Roy de sa parolle et
-          <lb/>luy <choice><orig>auoit</orig><reg>avoit</reg></choice> demandé l'Abbaié pour <choice><sic resp="JT" cert="medium">esteindre</sic><corr>s'estendre</corr></choice> la pension
-          <lb/>de <persName ref="#Chanteloube">Chanteloube</persName> Laquelle estant desja <choice><sic resp="JT" cert="medium">esteinte</sic><reg>estendue</reg></choice> par
-          <lb/>L'Abbaié de de <placeName ref="Pibrac">Pibrac</placeName> qui <choice><orig>auoit</orig><reg>avoit</reg></choice> vaqué per an par <unclear reason="illegible" resp="JT" cert="low">annum</unclear>. Elle
-          <lb/>disposoit de pont de voie a ma consideration. <del>S'il esti</del>Que
-          <lb/>touteffois s'il estimoit pont de voie meilleure, elle luy
-          <lb/>donnoit le <gap reason="illegible"/> affin qu'en luy faisant du bien il ne
-          <lb/><gap reason="illegible"/> pas de se plaindre qu'elle <choice><orig>scauoit</orig><reg>scavoit</reg></choice> bien
-          <lb/>que c'estoit <placeName ref="#StGermain">St Germain</placeName> qui avoit pretendu cette 
-          <pb facs="MLM99928_136119v_0002-hpr.jpg"/>
-          <lb/>cette Abbaié et quelques autres <unclear reason="illegible" resp="JT" cert="medium"> en auroit <del>puis</del>prits</unclear> qui
-          <lb/>taschaient de brouiller, mais qu'elle les rangeoit bien.
-          <lb/>J'estime cela important pour plusieurs raisons.
-          <lb/>Je s<del>p</del><add place="above">ens</add> a la Reine pour faire <choice><orig>vn</orig><reg>un</reg></choice> present au <persName ref="#Bernard">Marquis 
-            <lb/>de la Valette</persName> et ses <seg>nopces<note>nuptials <hi rend="italic">(Dictionnaire de l'Académie française,</hi> 1694</note></seg>. Il est du tout necessaire
-          <lb/>pour raisons que <choice><orig>ie</orig><reg>je</reg></choice> vous diray. Trop longues a escrire.
-          <lb/>Si la Reine n'a rien, de <choice><orig>prest</orig><expan>present</expan></choice>, <choice><orig>ie</orig><reg>je</reg></choice> donnerays volontiers
-          <lb/>la grande <seg>agraffe<note>an ornamental clasp</note></seg> qu'a <persName ref="#Bragelogne">Madame Bouthillier</persName> ou il y a de fort beaux <expan>diaman<ex>t</ex>s</expan> et ce sans <choice><sic>espeance</sic><corr>despense</corr></choice> de
-          <lb/>paiement, rien n'estant mieux a la Reine que ce que
-          <lb/>est a des personnes qui ne possedent rien que par sa
-          <lb/>bonté et liberalité. Si la Reine l'aggree, vous mandere<unclear reason="illegible">y</unclear>
-          <lb/>a Madame Bouthillier qu'elle l'envoie <seg>par voie serre<note>Possibly "by means of economizing," see <hi rend="italic">Dictionnaire de l'Académie française</hi> 1694, s.v. "serre," 2nd definition.</note></seg> Car
-          <lb/>le mariage se sera dans quinze <choice><orig>iours</orig><reg>jours</reg></choice>. Je suis tres-affligé
-          <lb/>de <gap reason="illegible"/> mal. A Dieu,
-          <lb/>N'oubliey, <choice><orig>ie</orig><reg>je</reg></choice> vous prie, l'affaire de Chanteloube</p>
-          <lb/><closer><salute>Monsieur
-          <lb/>Vostre tres-affectionné a vous / <choice><orig>bisnt</orig><expan>obeissant</expan></choice></salute>
+        <lb/>
+        <opener><dateline>Mornan 18-Nov-1622</dateline>
+          <lb/>Monsieur</opener>
+        <ab>Je n'ay pas fait grandes affaires puisque <lb/>quoy que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'aie fait, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> remporte mon malheureux <lb/>mal pis que de coustume.</ab>
+        <p><lb/>L'affaire de Monsieur de Roche est faite, Je vous porte <lb/>vostre Ordonnance. J'ay
+          fait changer les <seg><choice>
+              <orig>Breuets</orig>
+              <reg>Brevets</reg>
+            </choice><note>A short letter confirming a privilege granted by the king <hi
+                rend="italic">(Dictionnaire de l'Académie française</hi> 1694, s.v. <hi
+                rend="italic">"brevet"</hi>).</note></seg>
+          <lb/>des Abbaies comme il faut. Sur ce <choice>
+            <orig>suiet</orig>
+            <reg>sujet</reg>
+          </choice>
+          <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice>
+          <lb/>vous prie que la Reine envoie querir <persName ref="#Chanteloube"
+            >Chanteloube</persName>
+          <lb/>et luy die, s'<del>il lui</del>elle le trouve bon, qu'elle a sceu <lb/>que quelques <choice>
+            <orig>vns</orig>
+            <reg>uns</reg>
+          </choice> luy <choice>
+            <orig>auoient</orig>
+            <reg>avoient</reg>
+          </choice> dit que le Roy luy <lb/><choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> donné Pont de voie et partant qu'il le <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice>
+          <lb/>avoir. Sur cela elle a esté bien aise de s'eclaircir <lb/>avec luy de la <expan
+            resp="JT" cert="high">faveur<choice>
+              <orig>faur</orig>
+              <reg>favr</reg>
+            </choice></expan> avec laquelle cette affaire <lb/>s'en passee. Que le Roy desirant
+            <placeName ref="Buzay">Buzay</placeName> et <lb/><placeName ref="#Quimperle"><choice>
+              <orig>Quinperlay</orig>
+              <reg resp="JT" cert="medium">Quimperlé</reg>
+            </choice></placeName> j'avois cedé volontairement Buzay sans <lb/>condition, entre les
+          mains de la Reine qui me l'<choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice>
+          <lb/>donnee pour en disposer au plaisir du Roy. Mais qu'elle <lb/>n'<choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> pas voulu ceder Quinperlay qu'a condition d'<choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice>
+          <lb/>pension pour luy <choice>
+            <orig><choice>
+                <sic>rediuable</sic>
+                <corr>redeuable</corr>
+              </choice></orig>
+            <reg>redevable</reg>
+          </choice> par <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> Abbayé. Rousselay <lb/>a la <unclear reason="illegible" resp="JT" cert="medium"
+            >mort</unclear>
+          <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> fait <gap reason="illegible"/> le Roy de sa parolle et <lb/>luy <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> demandé l'Abbaié pour <choice>
+            <sic resp="JT" cert="medium">esteindre</sic>
+            <corr>s'estendre</corr>
+          </choice> la pension <lb/>de <persName ref="#Chanteloube">Chanteloube</persName> Laquelle
+          estant desja <choice>
+            <sic resp="JT" cert="medium">esteinte</sic>
+            <reg>estendue</reg>
+          </choice> par <lb/>L'Abbaié de de <placeName ref="Pibrac">Pibrac</placeName> qui <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> vaqué per an par <unclear reason="illegible" resp="JT" cert="low"
+            >annum</unclear>. Elle <lb/>disposoit de pont de voie a ma consideration. <del>S'il
+            esti</del>Que <lb/>touteffois s'il estimoit pont de voie meilleure, elle luy
+          <lb/>donnoit le <gap reason="illegible"/> affin qu'en luy faisant du bien il ne <lb/><gap
+            reason="illegible"/> pas de se plaindre qu'elle <choice>
+            <orig>scauoit</orig>
+            <reg>scavoit</reg>
+          </choice> bien <lb/>que c'estoit <placeName ref="#StGermain">St Germain</placeName> qui
+          avoit pretendu cette <pb facs="MLM99928_136119v_0002-hpr.jpg"/>
+          <lb/>cette Abbaié et quelques autres <unclear reason="illegible" resp="JT" cert="medium">
+            en auroit <del>puis</del>prits</unclear> qui <lb/>taschaient de brouiller, mais qu'elle
+          les rangeoit bien. <lb/>J'estime cela important pour plusieurs raisons. <lb/>Je
+            s<del>p</del><add place="above">ens</add> a la Reine pour faire <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> present au <persName ref="#Bernard">Marquis <lb/>de la Valette</persName> et ses
+              <seg>nopces<note>nuptials <hi rend="italic">(Dictionnaire de l'Académie
+                française,</hi> 1694</note></seg>. Il est du tout necessaire <lb/>pour raisons que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous diray. Trop longues a escrire. <lb/>Si la Reine n'a rien, de <choice>
+            <orig>prest</orig>
+            <expan>present</expan>
+          </choice>, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> donnerays volontiers <lb/>la grande <seg>agraffe<note>an ornamental
+            clasp</note></seg> qu'a <persName ref="#Bragelogne">Madame Bouthillier</persName> ou il
+          y a de fort beaux <expan>diaman<ex>t</ex>s</expan> et ce sans <choice>
+            <sic>espeance</sic>
+            <corr>despense</corr>
+          </choice> de <lb/>paiement, rien n'estant mieux a la Reine que ce que <lb/>est a des
+          personnes qui ne possedent rien que par sa <lb/>bonté et liberalité. Si la Reine l'aggree,
+          vous mandere<unclear reason="illegible">y</unclear>
+          <lb/>a Madame Bouthillier qu'elle l'envoie <seg>par voie serre<note>Possibly "by means of
+              economizing," see <hi rend="italic">Dictionnaire de l'Académie française</hi> 1694,
+              s.v. "serre," 2nd definition.</note></seg> Car <lb/>le mariage se sera dans quinze <choice>
+            <orig>iours</orig>
+            <reg>jours</reg>
+          </choice>. Je suis tres-affligé <lb/>de <gap reason="illegible"/> mal. A Dieu,
+          <lb/>N'oubliey, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous prie, l'affaire de Chanteloube</p>
+        <lb/>
+        <closer><salute>Monsieur <lb/>Vostre tres-affectionné a vous / <choice>
+              <orig>bisnt</orig>
+              <expan>obeissant</expan>
+            </choice></salute>
           <lb/><signed>Le Cardinal De Richelieu</signed>
           <lb/><dateline>De Mornan Le 18 Novembre 1622.</dateline></closer>
       </body>
@@ -6710,32 +6846,71 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99930_136120v_0001-hpr.jpg"/>
-          <lb/><opener><salute>Monsieur</salute></opener>
-        <p><lb/>les Advis que
-          <lb/>le <persName ref="#Louis13">Roy</persName> recoit tous les <choice><orig>iours</orig><reg>jours</reg></choice>des <choice><orig>leuees</orig><reg>levees</reg></choice> de gens
-          <lb/>de guerre que le <persName ref="#Philip4">Roy D'espagne</persName> fuit en la
-          <lb/>frontiere de vostre gouvernement, me fait prendre
-          <lb/>la plume, pour vous dire que sa <choice><orig>Maieste</orig><reg>Majeste</reg></choice> desire
-          <lb/><choice><sic resp="JT" cert="medium">incontinant</sic><corr>en continuant</corr></choice> la presente revue, que vous alliez
-          <lb/>a <placeName ref="#Narbonne">Narbonne</placeName> et a <placeName ref="#Leucate">Leucate</placeName>, et meniez avec vous <choice><orig>vn</orig><reg>un</reg></choice>
-          <lb/>Ingenieur de la province pour voir l'estat ou sont
-          <lb/>ces Places. On envoie a Monsieur le Camus les
-          <lb/>ordres requis, pour y faire faire toutes les reparations
-          <lb/>que vous <choice><orig>iugeriey</orig><reg>jugeriey</reg></choice> estre necessaires. Vous y tiendrez
-          <lb/>s'il vous plaist soigneusement la main, comme
-          <lb/>aussy <choice><sic resp="JT" cert="medium">ay</sic><corr>y</corr></choice> faite mettre promptement des Munitions
-          <lb/><del>et en fortifier les garnisons</del>si vous estimez qu'il 
-          <lb/><del>en soit de besoin, en sorte que Ces Villes soient</del><add place="above">faille fortifier la garnison de Leucate, le Roy le <unclear reason="illegible">sent</unclear> <metamark function="insertion">^</metamark></add>
-          <lb/><add place="left and bottom margin">sur vostre advis. Il <del><gap reason="illegible"/></del>
-          <lb/><del><gap reason="illegible"/></del>y aura prit
-          <lb/><gap reason="illegible" unit="line" quantity="14"/></add>
-          <lb/><del>en seurete. Sa <choice><orig>Maiesté</orig><reg>Majesté</reg></choice>s'en repose sur vostre vigilance</del>
-          <lb/><del>et vostre affection a son <choice><orig>seruice</orig><reg>service</reg></choice>, et en mon particulier</del>
-          <lb/>Je vous <choice><orig>coniure</orig><reg>conjure</reg></choice> de ne rien obmettre de tout ce qui
-          <lb/>deppend ne de vous <del>autre fin,</del><add place="above"><gap reason="illegible"/>de ce qui dessus</add>Et <unclear reason="illegible" resp="JT" cert="low">d'ecrire</unclear> que <choice><orig>ie</orig><reg>je</reg></choice> ne 
-          <lb/>perdray aucune occasion de vous tesmoigner que <choice><orig>ie</orig><reg>je</reg></choice> suis 
-          <lb/>Monsiegneur</p>
-          <lb/><closer><salute>Vostre tres affectionné <choice><orig>seruiteur</orig><reg>serviteur</reg></choice></salute></closer> 
+        <lb/>
+        <opener><salute>Monsieur</salute></opener>
+        <p><lb/>les Advis que <lb/>le <persName ref="#Louis13">Roy</persName> recoit tous les <choice>
+            <orig>iours</orig>
+            <reg>jours</reg>
+          </choice>des <choice>
+            <orig>leuees</orig>
+            <reg>levees</reg>
+          </choice> de gens <lb/>de guerre que le <persName ref="#Philip4">Roy D'espagne</persName>
+          fuit en la <lb/>frontiere de vostre gouvernement, me fait prendre <lb/>la plume, pour vous
+          dire que sa <choice>
+            <orig>Maieste</orig>
+            <reg>Majeste</reg>
+          </choice> desire <lb/><choice>
+            <sic resp="JT" cert="medium">incontinant</sic>
+            <corr>en continuant</corr>
+          </choice> la presente revue, que vous alliez <lb/>a <placeName ref="#Narbonne"
+            >Narbonne</placeName> et a <placeName ref="#Leucate">Leucate</placeName>, et meniez avec
+          vous <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice>
+          <lb/>Ingenieur de la province pour voir l'estat ou sont <lb/>ces Places. On envoie a
+          Monsieur le Camus les <lb/>ordres requis, pour y faire faire toutes les reparations
+          <lb/>que vous <choice>
+            <orig>iugeriey</orig>
+            <reg>jugeriey</reg>
+          </choice> estre necessaires. Vous y tiendrez <lb/>s'il vous plaist soigneusement la main,
+          comme <lb/>aussy <choice>
+            <sic resp="JT" cert="medium">ay</sic>
+            <corr>y</corr>
+          </choice> faite mettre promptement des Munitions <lb/><del>et en fortifier les
+            garnisons</del>si vous estimez qu'il <lb/><del>en soit de besoin, en sorte que Ces
+            Villes soient</del><add place="above">faille fortifier la garnison de Leucate, le Roy le
+              <unclear reason="illegible">sent</unclear>
+            <metamark function="insertion">^</metamark></add>
+          <lb/><add place="left and bottom margin">sur vostre advis. Il <del><gap reason="illegible"
+              /></del>
+            <lb/><del><gap reason="illegible"/></del>y aura prit <lb/><gap reason="illegible"
+              unit="line" quantity="14"/></add>
+          <lb/><del>en seurete. Sa <choice>
+              <orig>Maiesté</orig>
+              <reg>Majesté</reg>
+            </choice>s'en repose sur vostre vigilance</del>
+          <lb/><del>et vostre affection a son <choice>
+              <orig>seruice</orig>
+              <reg>service</reg>
+            </choice>, et en mon particulier</del>
+          <lb/>Je vous <choice>
+            <orig>coniure</orig>
+            <reg>conjure</reg>
+          </choice> de ne rien obmettre de tout ce qui <lb/>deppend ne de vous <del>autre
+            fin,</del><add place="above"><gap reason="illegible"/>de ce qui dessus</add>Et <unclear
+            reason="illegible" resp="JT" cert="low">d'ecrire</unclear> que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne <lb/>perdray aucune occasion de vous tesmoigner que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis <lb/>Monsiegneur</p>
+        <lb/>
+        <closer><salute>Vostre tres affectionné <choice>
+              <orig>seruiteur</orig>
+              <reg>serviteur</reg>
+            </choice></salute></closer>
       </body>
     </text>
   </TEI>
