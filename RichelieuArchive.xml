@@ -5710,18 +5710,26 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0002">
-                <locus from="4v" to="1r">4v - 1r</locus>
-                <p>Fourth and first pages</p>
+              <msItem n="01">
+                <locus>1r</locus>
+                <p>First page</p>
               </msItem>
-              <msItem n="0001">
-                <locus from="2v" to="3r">2v - 3r</locus>
-                <p>Second and third pages</p>
+              <msItem n="02">
+                <locus>2v</locus>
+                <p>Second page</p>
+              </msItem>
+              <msItem n="03">
+                <locus>3r</locus>
+                <p>Third page</p>
+              </msItem>
+              <msItem n="04">
+                <locus>4v</locus>
+                <p>Fourth page</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>4 pp.</note>
+                <note>4-page letter</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -5748,9 +5756,13 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99912_116105v_0002-hpr.jpg"/>
+        <p><pb facs="MLM99912_116105v_0002-hpr_1v.jpg"/>
           <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99911_116105v_0001-hpr.jpg"/>
+          <pb facs="MLM99912_116105v_0002-hpr_4v.jpg"/>
+          <note type="temp" resp="#JT">Transcription forthcoming.</note>
+          <pb facs="MLM99911_116105v_0001-hpr_2v.jpg"/>
+          <note type="temp" resp="#JT">Transcription forthcoming.</note>
+          <pb facs="MLM99911_116105v_0001-hpr_3r.jpg"/>
           <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
       </body>
     </text>
@@ -5783,18 +5795,26 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
-                <locus from="4v" to="1r">4v - 1r</locus>
-                <p>Back, with recipient information and seals, and first page</p>
+              <msItem n="01">
+                <locus>1r</locus>
+                <p>First page</p>
               </msItem>
-              <msItem n="0002">
-                <locus from="2v" to="3r">2v - 3r</locus>
-                <p>Second and third pages</p>
+              <msItem n="02">
+                <locus>2v</locus>
+                <p>Second page</p>
+              </msItem>
+              <msItem n="03">
+                <locus>3r</locus>
+                <p>Third page</p>
+              </msItem>
+              <msItem n="04">
+                <locus>4v</locus>
+                <p>Back, with recipient information and seals</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>3 pp.</note>
+                <note>3-page letter</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -5820,9 +5840,11 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <p><pb facs="MLM99919_126971v_0001-hpr.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99920_126971v_0002-hpr.jpg"/>
+        <p><pb facs="MLM99919_126971v_0001-hpr_1r.jpg"/>
+          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <p><pb facs="MLM99920_126971v_0002-hpr_2v.jpg"/>
+          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <p><pb facs="MLM99920_126971v_0002-hpr_3r.jpg"/>
           <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
       </body>
     </text>
@@ -5854,14 +5876,14 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>Front</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>1 p.</note>
+                <note>1-page letter</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -5920,17 +5942,17 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>Front</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>1 p.</note>
+                <note>1-page letter</note>
               </adminInfo>
               <surrogates>
-                <ptr n="1" facs="MLM99910_103601v_0001-hpr.jpg"/>
+                <ptr n="01" facs="MLM99910_103601v_0001-hpr.jpg"/>
               </surrogates>
             </additional>
           </msDesc>
@@ -6038,18 +6060,18 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>Front</p>
               </msItem>
-              <msItem n="0002">
+              <msItem n="02">
                 <locus>2v</locus>
                 <p>Reverse, with recipient information and seals</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>1 p.</note>
+                <note>1-page letter</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -6137,11 +6159,11 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>Front</p>
               </msItem>
-              <msItem n="0002">
+              <msItem n="02">
                 <locus>2v</locus>
                 <p>Reverse, with sender/recipient information and seals</p>
               </msItem>
@@ -6151,8 +6173,8 @@
                 <note>1 p.</note>
               </adminInfo>
               <surrogates>
-                <ptr n="1" facs="MLM99923_132070v_0001-hpr.jpg"/>
-                <ptr n="2" facs="MLM99924_132070v_0002-hpr.jpg"/>
+                <ptr n="01" facs="MLM99923_132070v_0001-hpr.jpg"/>
+                <ptr n="02" facs="MLM99924_132070v_0002-hpr.jpg"/>
               </surrogates>
             </additional>
           </msDesc>
@@ -6227,18 +6249,18 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
-                <locus from="4v" to="1r">4v - 1r</locus>
-                <p>Fourth and first pages</p>
+              <msItem n="01">
+                <locus>1r</locus>
+                <p>First page</p>
               </msItem>
-              <msItem n="0002">
-                <locus from="2v" to="3r">2v - 3r</locus>
-                <p>Second page, third page blank</p>
+              <msItem n="02">
+                <locus>2r</locus>
+                <p>Second page</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>2 pp.</note>
+                <note>2-page letter</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -6264,7 +6286,7 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <pb facs="MLM99934_190649v_0001-hpr.jpg"/>
+        <pb facs="MLM99934_190649v_0001-hpr_1r.jpg"/>
         <lb/>
         <opener><salute>Mon cousin</salute></opener>
         <ab>je me <choice>
@@ -6301,7 +6323,7 @@
           </choice> pour-<lb/>quoi je ne vous enparleray <choice>
             <orig>dauan<lb/>tage</orig>
             <reg>davantage</reg>
-          </choice> car je mesprise tant tout ce <pb facs="MLM99934_190649v_0002-hpr.jpg"/>
+          </choice> car je mesprise tant tout ce <pb facs="MLM99935_190649v_0002-hpr_2v.jpg"/>
           <lb/>qui peut faire que sy se n'estoit <lb/>Le <choice>
             <orig>seruice</orig>
             <reg>service</reg>
@@ -6350,22 +6372,32 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
-                <locus from="4v" to="1r">4v - 1r</locus>
-                <p>Fourth and and first pages</p>
+              <msItem n="01">
+                <locus>1r</locus>
+                <p>First page</p>
               </msItem>
-              <msItem n="0002">
-                <locus from="2v" to="3r">2v - 3r</locus>
-                <p>Second and third pages</p>
+              <msItem n="02">
+                <locus>2v</locus>
+                <p>Second page</p>
+              </msItem>
+              <msItem n="03">
+                <locus>3r</locus>
+                <p>Third page</p>
+              </msItem>
+              <msItem n="04">
+                <locus>4v</locus>
+                <p>Fourth page</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>4 pp.</note>
+                <note>4-page letter</note>
               </adminInfo>
               <surrogates>
-                <ptr n="1" facs="MLM99921_130530v_0001-hpr.jpg"/>
-                <ptr n="2" facs="MLM99922_130530v_0002-hpr.jpg"/>
+                <ptr n="01" facs="MLM99921_130530v_0001-hpr_1r.jpg"/>
+                <ptr n="02" facs="MLM99922_130530v_0002-hpr_2v.jpg"/>
+                <ptr n="03" facs="MLM99922_130530v_0002-hpr_3r.jpg"/>
+                <ptr n="04" facs="MLM99921_130530v_0002-hpr_4v.jpg"/>
               </surrogates>
             </additional>
           </msDesc>
@@ -6393,7 +6425,7 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <pb facs="MLM99921_130530v_0001-hpr.jpg" n="1r"/>
+        <pb facs="MLM99921_130530v_0001-hpr_1r.jpg" n="1r"/>
         <opener>
           <lb/><dateline>4 Octob 1622</dateline>
           <lb/><salute>Monseigneur,</salute>
@@ -6429,7 +6461,7 @@
           de grandes choses, et s'ils les<lb/>laissent <choice>
             <orig>vsurper</orig>
             <reg>ursurper</reg>
-          </choice> par les meschans, Ils trahissent<pb facs="MLM99922_130530v_0002-hpr.jpg" n="2v"
+          </choice> par les meschans, Ils trahissent<pb facs="MLM99922_130530v_0002-hpr_2v.jpg" n="2v"
           /><lb/>le monde qui attand son repos de leur vigilance.</p>
         <p><lb/>Pardonnés moy donc si Je vous dy que nous nous<lb/>passerons plus aysement de vostre
           modestie que des<lb/>autres qualities que le Ciel vous a donnees, et que vous<lb/>ne
@@ -6458,7 +6490,7 @@
             <orig>acheuer</orig>
             <reg>achever</reg>
           </choice> les victoires des Roys par la ruyne<lb/>de l'herezie. Toute la Chrestiente vous
-            demande<pb facs="MLM99922_130530v_0002-hpr.jpg" n="3r"/><lb/>a cet effet vos <choice>
+            demande<pb facs="MLM99922_130530v_0002-hpr_3r.jpg" n="3r"/><lb/>a cet effet vos <choice>
             <orig>ouurages</orig>
             <reg>ouvrages</reg>
           </choice> pour <choice>
@@ -6492,7 +6524,7 @@
             <reg>un</reg>
           </choice><lb/>autre siecle que le nostre, et que mon nom<lb/>aille Jusqu'a la posterité,
           elle scaura que cete<lb/>consideration m'obligea premierement de reche-<pb
-            facs="MLM99921_130530v_0001-hpr.jpg" n="4v"/><lb/>rcher vostre connoissance, et que vous
+            facs="MLM99921_130530v_0001-hpr_4v.jpg" n="4v"/><lb/>rcher vostre connoissance, et que vous
           ayant ouÿ<lb/> parler vous gaignastes si absolument mon Espr-<lb/>it et mon affection, que
           despuis ce temps la Je<lb/>vous regarday tousjours comme <choice>
             <orig>vn</orig>
@@ -6537,22 +6569,22 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>Front</p>
               </msItem>
-              <msItem n="0002">
+              <msItem n="02">
                 <locus>2r</locus>
                 <p>Reverse, with closing and signature</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>2 pp.</note>
+                <note>2-page letter</note>
               </adminInfo>
               <surrogates>
-                <ptr n="1" facs="MLM99927_136119v_0001-hpr.jpg"/>
-                <ptr n="2" facs="MLM99928_136119v_0002-hpr.jpg"/>
+                <ptr n="01" facs="MLM99927_136119v_0001-hpr_1r.jpg"/>
+                <ptr n="02" facs="MLM99928_136119v_0002-hpr_2v.jpg"/>
               </surrogates>
             </additional>
           </msDesc>
@@ -6578,7 +6610,7 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <pb facs="MLM99927_136119v_0001-hpr.jpg"/>
+        <pb facs="MLM99927_136119v_0001-hpr_1r.jpg"/>
         <lb/>
         <opener><dateline>Mornan 18-Nov-1622</dateline>
           <lb/>Monsieur</opener>
@@ -6674,7 +6706,7 @@
             <orig>scauoit</orig>
             <reg>scavoit</reg>
           </choice> bien <lb/>que c'estoit <placeName ref="#StGermain">St Germain</placeName> qui
-          avoit pretendu cette <pb facs="MLM99928_136119v_0002-hpr.jpg"/>
+          avoit pretendu cette <pb facs="MLM99928_136119v_0002-hpr_2v.jpg"/>
           <lb/>cette Abbaié et quelques autres <unclear reason="illegible" resp="JT" cert="medium">
             en auroit <del>puis</del>prits</unclear> qui <lb/>taschaient de brouiller, mais qu'elle
           les rangeoit bien. <lb/>J'estime cela important pour plusieurs raisons. <lb/>Je
@@ -6747,18 +6779,18 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>Front</p>
               </msItem>
-              <msItem n="0002">
+              <msItem n="02">
                 <locus>2v</locus>
                 <p>Reverse, with recipient information and seals</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>1 p.</note>
+                <note>1-page letter</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -6856,18 +6888,18 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>Front</p>
               </msItem>
-              <msItem n="0002">
+              <msItem n="02">
                 <locus>2v</locus>
                 <p>Reverse, with recipient information</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>Draft of a letter, 1 p.</note>
+                <note>1-page letter, draft</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -6991,14 +7023,14 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>Front</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>1 p.</note>
+                <note>1-page letter</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -7079,14 +7111,18 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="1">
-                <locus from="2v" to="1r">2v - 1r</locus>
-                <p>Second page, with recipient information and seals, and first page</p>
+              <msItem n="01">
+                <locus>1r</locus>
+                <p>First page</p>
+              </msItem>
+              <msItem n="02">
+                <locus>2v</locus>
+                <p>Second page, with recipient information and seals</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>1 p.</note>
+                <note>1-page letter</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -7112,7 +7148,7 @@
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <pb facs="MLM99913_117073v_0001-hpr.jpg"/>
+        <pb facs="MLM99913_117073v_0001-_1r"/>
         <opener><lb/><salute>Monsieur</salute></opener>
         <p><lb/>Je ne doubte point que comme par la sainctete de vostre profession vos <unclear
             resp="#JT" cert="high">yeux</unclear> sont <choice>
@@ -7238,14 +7274,14 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>Front</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>1 p.</note>
+                <note>1-page letter</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -7326,7 +7362,7 @@
               </altIdentifier>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>Front</p>
               </msItem>
@@ -7337,7 +7373,7 @@
             </msContents>
             <additional>
               <adminInfo>
-                <note>1 p.</note>
+                <note>1-page letter</note>
               </adminInfo>
             </additional>
           </msDesc>
@@ -7406,26 +7442,26 @@
               <idno type="Record_ID">MS 666</idno>
             </msIdentifier>
             <msContents>
-              <msItem n="0001">
+              <msItem n="01">
                 <locus>1r</locus>
                 <p>First page</p>
               </msItem>
-              <msItem n="0002">
+              <msItem n="02">
                 <locus>2v</locus>
                 <p>Second page</p>
               </msItem>
-              <msItem n="0003">
+              <msItem n="03">
                 <locus>3r</locus>
                 <p>Third page</p>
               </msItem>
-              <msItem n="0004">
+              <msItem n="04">
                 <locus>4v</locus>
                 <p>Fourth page, with conclusion of letter; sender, recipient, and date</p>
               </msItem>
             </msContents>
             <additional>
               <adminInfo>
-                <note>4 pp.; copy of letter</note>
+                <note>4-page letter, copy</note>
               </adminInfo>
             </additional>
           </msDesc>
