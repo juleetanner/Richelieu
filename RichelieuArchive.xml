@@ -227,6 +227,13 @@
           his mother was challenged by his uncles Thomas, prince of Carignano, and Maurice, prince
           of Savoy and cardinal of Vercelli, in the Piedmontese Civil War.</note>
       </person>
+      <person xml:id="Chatillon">
+        <persName>Gaspard de Coligny, marquis de Chatillon</persName>
+        <idno type="VIAF">232247858</idno>
+        <birth when="1584-07-26"/>
+        <death when="1646-01-04"/>
+        <note></note>
+      </person>
       <person xml:id="Chavigny">
         <persName type="main">Bouthillier-Chavigny, Claude, comte de</persName>
         <persName>Chavigny</persName>
@@ -357,11 +364,23 @@
           captain general and governor of the Duchy of Milan. He was active in the Piedmontese Civil
           War, 1639-41.</note>
       </person>
+      <person xml:id="Lesdiguieres">
+        <persName >François de Bonne Lesdiguières</persName>
+        <idno type="VIAF">44455556</idno>
+        <birth when="1543-04-01"/>
+        <death when="1626-09-21"/>
+      </person>
       <person xml:id="Louis13">
         <persName type="main">Louis XIII, king of France</persName>
         <idno type="VIAF">64008583</idno>
         <birth when="1601-09-27"/>
         <death when="1643-05-14"/>
+      </person>
+      <person xml:id="Luynes">
+        <persName type="main">Charles d'Albert de Luynes</persName>
+        <idno type="VIAF">32031222</idno>
+        <birth when="1578-08-05"/>
+        <death when="1621-12-15"/>
       </person>
       <person xml:id="MariaAnna">
         <persName type="main">Maria Anna, consort of Ferdinand III, Holy Roman Emperor</persName>
@@ -439,6 +458,12 @@
         <idno type="VIAF">12314392</idno>
         <birth when="1585-09-09"/>
         <death when="1642-12-04"/>
+      </person>
+      <person xml:id="Rohan">
+        <persName type="main">Hercule de Rohan, duc de Montbazon</persName>
+        <idno type="VIAF">24536478</idno>
+        <birth when="1568-08-27"/>
+        <death when="1654-10-16"/>
       </person>
       <person xml:id="SMaurice">
         <persName type="main">Saint-Maurice, Thomas-François Chabod, marquis de</persName>
@@ -585,6 +610,12 @@
           <geo>47.21 -1.83</geo>
         </location>
       </place>
+      <place xml:id="Bearn" type="region">
+        <placeName type="main">Bearn</placeName>
+        <location>
+          <geo>43.33 -0.75</geo>
+        </location>
+      </place>
       <place xml:id="Casale" type="commune">
         <placeName>Casale Monferrato</placeName>
         <placeName>Cazal</placeName>
@@ -638,12 +669,24 @@
         <idno type="GeoNames">2987441</idno>
         <idno type="Wikipédia">https://fr.wikipedia.org/wiki/Domaine_de_la_Grange_des_Prés</idno>
       </place>
+      <place xml:id="Rochelle">
+        <placeName>La Rochelle</placeName>
+        <location>
+          <geo>46.16 -1.15</geo>
+        </location>
+      </place>
       <place xml:id="Leucate">
         <placeName type="main">Leucate</placeName>
         <location>
           <geo>42.91 -3.03</geo>
         </location>
         <idno type="GeoNames">2999046</idno>
+      </place>
+      <place xml:id="Loudun" type="commune">
+        <placeName type="main">Loudun</placeName>
+        <location>
+        <geo>47.001 -0.09</geo>
+        </location>
       </place>
       <place xml:id="Lyon" type="commune">
         <placeName type="main">Lyon</placeName>
@@ -744,6 +787,13 @@
           <geo>48.87 -2.18</geo>
         </location>
         <idno type="GeoNames">2982235</idno>
+      </place>
+      <place xml:id="Saumur" type="commune">
+        <placeName type="main">Saumur</placeName>
+        <location>
+          <geo>47.26 -0.08</geo>
+        </location>
+        <idno type="GeoNames"></idno>
       </place>
       <place xml:id="StGermain" type="building">
         <placeName type="main">Saint-Germain-en-Laye</placeName>
@@ -1575,7 +1625,7 @@
           </choice> da me, confirmo <expan><choice>
               <sic resp="GL" cert="high">Allo</sic>
               <corr>Alls</corr>
-            </choice>All'Illustrissima</expan> Eminenza vostra la mia sempre obligata <choice>
+            </choice>All'Illustrissima</expan>. Eminenza vostra la mia sempre obligata <choice>
             <orig>seruitu</orig>
             <reg>servitu</reg>
           </choice> le facio profondissima <choice>
@@ -1884,7 +1934,7 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Aglie">Aglie</persName>
+            <persName ref="#Aglie">Agliè</persName>
             <placeName>Turin</placeName>
             <date>1639-01-14</date>
           </correspAction>
@@ -1904,18 +1954,18 @@
               <orig>Reuerendissimo</orig>
               <reg>Reverendissimo</reg>
             </choice> Signor mio Patrone Colendissimo.</salute></opener>
-        <p>Intendera V.E. da questi Signori che se ne ritornano, come alla fine habbia <choice>
+        <p>Intendera Vostra Eminenza da questi Signori che se ne ritornano, come alla fine habbia <choice>
             <orig>hauuto</orig>
             <reg>havuto</reg>
           </choice> termine il negotio del <persName ref="Monod">Padre Monodo</persName>, all'hora
           que la sua <choice>
             <orig>improuisa</orig>
-            <reg>improvisa</reg>
-          </choice> fuga da <placeName ref="Cuneo">Cuneosa</placeName>, confini dogni risolutione
+            <reg>improvvisa</reg>
+          </choice> fuga da <placeName ref="Cuneo">Cuneosa</placeName>, confini d'ogni risolutione
           hauia poco men che tolto à M.R. l'arbitrio de'ssequire quanto si era doppo molte dispute
-          determinato, conforme al gusto é sentimento di E.V. Egli mal suo grado e stato condotto
-          nel <placeName ref="#Montmelian">Castello de Mommeliano</placeName>, oue piu che sicuro
-          eben custodito, non hauera piu campo d'esserciare il suo talento <choice>
+          determinato, conforme al gusto é sentimento di Eminenza Vostra Egli mal suo grado e stato condotto
+          nel <placeName ref="#Montmelian">Castello de Mommeliano</placeName>, <choice><orig>oue</orig><reg>ove</reg></choice> piu che sicuro
+          e ben custodito, non <choice><orig>hauera</orig><reg>havera</reg></choice> piu campo d'esserciare il suo talento <choice>
             <orig>imperuersato</orig>
             <reg>imperversato</reg>
           </choice> dalla propria passione ; veramente non si puo negare che questo non sia stato
@@ -1926,17 +1976,17 @@
           <choice>
             <orig>prouate</orig>
             <reg>provate</reg>
-          </choice> ben ne puonno far fede, io soché non meno dal molto ingegno di V.E. come dalla
+          </choice> ben ne puonno far fede, io so ché non meno dal molto ingegno di Vostra Eminenza come dalla
           corte se relatione qual gli e ne fara il <persName ref="#Estrades">Signor
-            d'Estrada</persName> non potra esser che pienamente autenticato l'infinito zelocol quale
+            d'Estrada</persName> non potra esser che pienamente autenticato l'infinito zelo col quale
           m'impiego in quelle cose nelle quali veggo concorrer il suo desiderio, conesso pero che
           aguisa del nochiero di Cesare questa riuscita non ha al cun riguardo alla mia condotta,
           mentre la fortuna ed'authorita di chi m'ha potuto commendare, ha in questo caso
-          auuollorata ogni debolezza e superata ogni difficolta : resta solo che V.E. mantenghi in
+          <orig>auuollorata</orig><reg>avvallorata</reg> ogni debolezza e superata ogni difficolta : resta solo che Vostre Eminenza mantenghi in
           credito i suoi <choice>
             <orig>seruitori</orig>
             <reg>servitori</reg>
-          </choice> col far veder apresso di questa R. casa ch'à ragione si <choice>
+          </choice> col far veder apresso di questa Real casa ch'à ragione si <choice>
             <orig>deuono</orig>
             <reg>devono</reg>
           </choice> seguire i motti di quella generosita, qual non so valer cosa alcuna che per
@@ -1954,7 +2004,7 @@
           </choice> maggior bene che di <choice>
             <orig>seruir</orig>
             <reg>servir</reg>
-          </choice> à S. Majesta sotto gli auspicii di V.E. da chi per sempre implorando con ogni <choice>
+          </choice> à Sua Majesta sotto gli auspicii di Vostra Eminenza da chi per sempre implorando con ogni <choice>
             <orig>reuerenza</orig>
             <reg>reverenza</reg>
           </choice> il vero sostegno e <choice>
@@ -1963,11 +2013,11 @@
           </choice> d'alla sua buona gratia humilmente gli m'inchino</p>
         <closer><dateline>da <placeName ref="Turin">Torino</placeName> li 14. di. Genaro
             1639.</dateline>
-          <salute>Di V. Eminenza. Humilissimo deuotissimo ed obligatissimo <choice>
+          <salute>Di Vostra Eminenza. Humilissimo <choice><orig>deuotissimo</orig><reg>devotissimo</reg></choice> ed obligatissimo <choice>
               <orig>seruitore</orig>
               <reg>servitore</reg>
             </choice></salute>
-          <signed>Filippo d'Aglie.</signed></closer>
+          <signed>Filippo d'Agliè.</signed></closer>
       </body>
     </text>
   </TEI>
@@ -7332,4 +7382,199 @@
       </body>
     </text>
   </TEI>
+  <TEI xml:id="letter65">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Cardinal Richelieu to Hercule de Rohan, Duc de Montbazon, 23 October 1620</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date>2020</date>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <p>The Lambeth Palace Library. Thomas Murray Papers, MS 666.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <settlement>London</settlement>
+              <repository>The Lambeth Palace Library</repository>
+              <idno type="Record_ID">MS 666</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem n="0001">
+                <locus>1r</locus>
+                <p>First page</p>
+              </msItem>
+              <msItem n="0002">
+                <locus>2v</locus>
+                <p>Second page</p>
+              </msItem>
+              <msItem n="0003">
+                <locus>3r</locus>
+                <p>Third page</p>
+              </msItem>
+              <msItem n="0004">
+                <locus>4v</locus>
+                <p>Fourth page, with conclusion of letter; sender, recipient, and date</p>
+              </msItem>
+            </msContents>
+            <additional>
+              <adminInfo>
+                <note>4 pp.; copy of letter</note>
+              </adminInfo>
+            </additional>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Richelieu">Richelieu</persName>
+            <placeName ref="Saumur">Saumur</placeName>
+            <date>1620-10-23</date>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="Rohan">Rohan</persName>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note/>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="IMG_1835.JPG"/>
+        <opener><salute>Monsieur.</salute></opener>
+        <ab>Je pense que le zele que vous avez toujours monstré au
+          <lb/><choice><orig>seruice</orig><reg>service</reg></choice> du <persName ref="#Louis13">Roy</persName> et au bien de cest Estat, et l'honneur que j'ay de vous <choice><orig>auoir</orig><reg>avoir</reg></choice>
+          <lb/>pour <choice><sic>tesmoing</sic><corr>tesmoigne</corr></choice> du devoir, qu'en toutes occasions j'ay tasché d'y rendre, me
+          <lb/>doivent dispenser d'alleger autre raison, qui m'ait deu <choice><orig>esmouuoir</orig><reg>esmouvoir</reg></choice>, a
+          <lb/>vous addresser la presente, vous vous <choice><orig>souuenez</orig><reg>souvenez</reg></choice> assez du commende<damage><gap agent="tear"/></damage>
+          <lb/><unclear>eocpres</unclear>, qu'au mois d'avril dernier passé, je receu du Roy par vostre b<damage><gap agent="tear"/></damage>
+          <lb/>d'asseurer l'assembleé de ceux de la Religion, qui lors se tenoi<supplied>t</supplied><damage><gap agent="tear"/></damage>
+          <lb/>soubs la permission et autorité de <seg>S.M.<note>Sa Majesté</note></seg>, que tout ce qui leur a<damage><gap agent="tear"/></damage>
+          <lb/>promis, leur seroit tenue, et effectué, jusques a un Iota, a quoy ad<damage><gap agent="tear"/></damage>
+          <lb/>Monsieur le <persName ref="#Luynes">Duc de Luines</persName>, que puis que sa parole y estoit <choice><orig>interuenue</orig><reg>intervenue</reg></choice>, il la<damage><gap agent="tear"/></damage>
+          <lb/>valoir <seg><choice>
+            <orig>Breuets</orig>
+            <reg>Brevets</reg>
+          </choice><note>A short letter confirming a privilege granted by the king <hi
+            rend="italic">(Dictionnaire de l'Académie française</hi> 1694, s.v. <hi
+              rend="italic">"brevet"</hi>).</note></seg>, se sont les propres termes, et peut estre sonnoient ilz encore
+          <lb/>quelque chose de plus, aussi tost doncq je depeschay vers ladit assembleé,
+          <lb/>leur representay de quel poids <choice><orig>deuoit</orig><reg>devoit</reg></choice> estre la parole du Roy, mesme la
+          <lb/>premiere, qui leur <choice><orig>auoit</orig><reg>avoit</reg></choice> esté donneé, laquelle estant mise en deue conside-
+          <lb/>ration fit pancher la balance, emporta toutes les difficultez, sur lesquelles
+          <lb/>autrement on s'arrestoit, et fit resoudre un chacun, a renoncer a toutes autres
+          <lb/>cautions, pour se tenir a icelle seule, dont s'<choice><orig>ensuiuant</orig><reg>ensuivant</reg></choice> peu de jours apres la
+          <lb/>separation, chaque deputé pensant <choice><orig>auoir</orig><reg>avoir</reg></choice> assez proffité, et en son voyage, et en son 
+          <lb/>long sejour, puis qu'il remportoit en sa <choice><orig>Prouince</orig><reg>Province</reg></choice>, ceste seureté inviolable. Ces
+          <lb/>choses promises, comme vous <choice><orig>sauez</orig><reg>savez</reg></choice> Monsieur, consistoient en trois points prin-
+          <lb/>cipaux, la reception de deux Consrs. en la Cour du Parlement de Paris, la 
+          <lb/>restitution d'<sic resp="JT" cert="medium">electeure</sic><corr>electeur</corr>, et un estat certain des places de seureté, pour estre <unclear>j</unclear>
+          <lb/>ceux executez dans 6. mois, pour toute prefixion, sans que l'affaire de <placeName ref="Bearn">Bear<supplied>n</supplied></placeName>
+          <lb/>y peut apporter aucun accroche, pour lequel il estoit particulierement co<damage><gap agent="tear"/><supplied>n-</supplied></damage>
+          <lb/><choice><orig>uenu</orig><reg>venu</reg></choice>, qu'un <sic resp="JT" cert="high">moix</sic><corr>mois</corr>, apres lesdit 6. mois expirez, S.M. leur feroit <damage><gap agent="tear"/></damage>
+          <lb/>de <choice><orig>receuoir</orig><reg>recevoir</reg></choice> leurs deputez, et d'entendre par eux, leurs remonst<damage><gap agent="tear"/></damage>
+          <lb/>ce que dessus traitte avec Messieurs de <persName ref="#Lesdiguieres">Lesdiguieres</persName>, et de <persName ref="#Chatillon" resp="JT" cert="high">Chastellon</persName>, et o<damage><gap agent="tear"/></damage>
+          <lb/>seigneur le Prince, et Monsieur le Duc de Luines, leur <choice><orig>auoient</orig><reg>avoient</reg></choice> donné leur paro<damage><gap agent="tear"/></damage>
+          <lb/>serment, adjoustant de plus, que si dans lesdit 6. mois, les choses susdit
+          <lb/>entierement effectueés, ladit assembleé se pourroit renouer, pour se <choice><orig>pouruoir</orig><reg>pourvoir</reg></choice>
+          <lb/>la dessus vers S.M., et qu'ilz s'obligeroi<del><gap reason="illegible"/></del><add place="above">ent</add> en faire octroier le <choice><orig>Breuet</orig><reg>Brevet</reg></choice> ce que
+          <pb facs="IMG_1836.JPG"/>
+          <lb/>depuis il auroit pleu a S.M. ratifiér par sa propre bouche tesmoignant le con-
+          <lb/>tentement qu'elle <choice><orig>auoit</orig><reg>avoit</reg></choice> receu de leur obeissance.</ab>
+          <p><lb/>Or sont expirez les 6. mois et plus, sans qu'aucun de ses points soit effectué et nean<damage><gap agent="binding"/><supplied>t-</supplied></damage>
+            <lb/>moins le Roy s'est acheminé a Bearn, avec son armeé, tout au rebours de l'ordre
+            <lb/>que dessus, sans que de la part de ses sujets de la Religion, soit de Royaume soit mesme
+            <lb/>de Bearn, il soit rien <choice><orig>interuenu</orig><reg>intervenu</reg></choice>, qui l'ait deu interrompre, jugez Monsieur
+            <lb/>s'il y a matiere, et de plainte a touts et de deffiance a plus. <add place="above">Et</add> qui voyent
+            <lb/>S.M. entre tant de meilleurs affaires porter ses armes en lieu, ou on ne luy
+            <lb/>oppose que de l'armes, sa presence tant necessarie ailleurs, ou on ne rem-
+            <lb/>pare que de sa sacreé parole, et si ceux de <placeName ref="#Rochelle">la Rochelle</placeName>, chargez par l'asse<damage><gap agent="binding"/>m-</damage>
+            <lb/>bleé de <placeName ref="Loudun">Loudun</placeName>, en cas d'inexecution apres les 6. mois, de <choice><orig>conuoquer</orig><reg>convoquer</reg></choice> un autre
+            <lb/>assembleé, n'ont pas <choice><sic>sabject</sic><corr>subject</corr></choice> de la fonder sur la parole de S.M. Pardonnez
+            <lb/>moi aussi si je vous dis sur celle de Monsieur de Luines, qui nous <choice><orig>deuoit</orig><reg>devoit</reg></choice>
+            <lb/>valoir Brevets. Certes j'ay <choice><orig>serui</orig><reg>servi</reg></choice> le feu Roy 34. ans, et ne rien <choice><orig>obserué</orig><reg>observé</reg></choice>
+            <lb/>qui luy ait tant aidé a demesler de si grands affaires, et dedans et
+            <lb/>dehors, que la reputation qu'il <choice><orig>auoit</orig><reg>avoit</reg></choice> acquise, d'une parole ferme et in<damage><gap agent="binding"/><supplied>-</supplied></damage>
+            <lb/><choice><orig>uiolable</orig><reg>violable</reg></choice>, rien aussi n'y a il, qui recommende tant ceux qui ont le
+            <lb/>bonheur, d'approcher des grands Princes, que la creance qu'on a,
+            <lb/>et de leur bonne foy en eux mesmes, et du soing qu'ilz ont de la faire
+            <lb/>valloir, par tout ou ilz s'employent. Comme aussi de faict il n'y a rien,
+            <lb/>par ou les Roys approchent si pres de Dieu, que par la, Dieu <add place="above">qui</add> a fait le
+            <lb/>monde par sa parole, et par leur parole en quelque façon ilz le <choice><orig>gouvernement</orig><reg>gouvernement</reg></choice>:
+            <lb/>Et cependant, Monsieur, pesez selon vostre sincerité, si celle de nostre Roy est
+            <lb/>mesnageé, en cest endroit, avec la veneration et la Majesté qui luy
+            <lb/>est deue; Je ne suis point icy <choice><orig>aduocat</orig><reg>advocat</reg></choice> de ceux de Bearn, chacun sçait
+            <lb/>assez, quelz ont esté mes <choice><orig>aduis</orig><reg>advis</reg></choice>, et vers eux, et en noz assembleés sur ce
+            <lb/>sujet, aussi peu de ceux de la Rochelle, en ceste <choice><orig>conuocation</orig><reg>convocation</reg></choice>; j'eusse desi-
+            <lb/>ré, qu'ilz eussent eu plus de patience, qu'ilz se fassent donne plus de
+            <lb/>loisir, de recogniostre l'equité du Roy, de laquelle je ne doubte <damage agent="rubbing"><supplied>p</supplied>oi<supplied>n</supplied>t</damage>
+            <lb/>mais bien osé je dire, que de presser cette action a la rigeur, n'est
+            <lb/>pas du <choice><orig>seruice</orig><reg>service</reg></choice> de S.M. veu la juste couleur, que l'inexecution des
+            <lb/>choses promises, et l'anticipation de l'execution de Bearn luy donne,
+            <lb/>veu aussi la fondement, qu'ilz ont sujet de prendre en la parole du
+            <pb facs="IMG_1837.JPG"/>
+            <lb/>Roy tant de foys reitereé, et qu'ilz ont prise pour seule, et unique caution,
+            <lb/>apres tant de remises. Le remede seur et certain de la dissiper Monsieur, n'est pas
+            <lb/>de la Criminaliser, mais d'en <choice><orig>leuer</orig><reg>lever</reg></choice> les causes, restituer L'<choice><sic resp="JT" cert="medium">ectoure</sic><corr>electeur</corr></choice>, qui est en
+            <lb/>vostre main, <choice><orig>receuoir</orig><reg>recevoir</reg></choice> deux <choice><orig>pauures</orig><reg>pauvres</reg></choice> <unclear>Cons</unclear>, qui <seg>trampent<note>Tramper. Middle French for "tremper," to be involved or mixed up in something.</note></seg> depuis 5. ou 6. ans dans
+            <lb/>le Palais. Satisfaire en somme aux bonnes, et sainctes intentions de
+            <lb/>S.M., en est la plus courte voye.</p>
+        <p><lb/>Et qui en cherche, ou Conseille une autre, doit estre suspect de quelque conseil pl<supplied cert="medium">us</supplied>
+          <lb/><unclear>gereux</unclear>, a quoy vous, et ceux de vostre rang, avez a prendre garde. Au<damage><gap agent="tear"/></damage>
+          <lb/>Monsieur vous ay-je escrit sur ce mesme sujet; Dieu a la verité <damage><gap agent="tear"/></damage>
+          <lb/>sez a appaisé un grand <choice><orig>mouuement</orig><reg>mouvement</reg></choice> en ce Royaume la rencontre des a<damage><gap agent="tear"/></damage>
+          <lb/>ons <unclear reason="illegible">naturelles</unclear> du Roy, et de la Royne sa mere, a fait ce miracle, <damage><gap agent="tear"/></damage>
+          <lb/>ne faut il pas se promettre que to<damage><supplied>ut</supplied></damage>s autres prennent mesme fin, par foi
+          <lb/>ne se <choice><orig>trouuera</orig><reg>trouvera</reg></choice> pas une si gracieuse eau, pour esteindre nostre feu, si nous
+          <lb/>le laisons r'allumer par quelque autre bout que ce soit, nous ne <choice><orig>trouuerons</orig><reg>trouverons</reg></choice> que
+          <lb/>gens qui y jettent de l'huile, soubs ombre de faire obeir le Roy, cha-
+          <lb/>cun fera le Roy, soubs l'esperance qu'on donnera aux simples, de ruiner
+          <lb/>la Religion, on sera tout esbahy, que les plus fins auront ruiné et dissipe
+          <lb/>l'estat; Car vous estes trop prudent Monsieur: que vous imaginer, que ceste
+          <lb/>legere purgation, ait corrigé, moins domté noz <choice><orig>mauuaises</orig><reg>mauvaises</reg></choice>humeurs,
+          <lb/>les medicaments ont peu de force, sur les <choice><sic>fieuvres</sic><corr>fievres</corr></choice>, quand elles ont saisi
+          <lb/>les esprits, mais bien est il question, d'obliger telz patiens, ou plustost 
+          <lb/>impatiens, au repos, de destourner leurs fantasies, de faire peu a
+          <lb/>peu <choice><orig>euaporer</orig><reg>evaporer</reg></choice>, leurs vains <choice><sic>desseings</sic><corr>desseins</corr></choice>, ce que vous n'obtiendrez
+          <lb/>jamais en ce Royaume que par une paix, ni la paix que par un reel
+          <lb/>entretenement des edicts, ni cet entretenement que par une ferme re-
+          <lb/>solution du Roy, de s'en faire croire, de sorte que les Magistrats
+          <lb/>superieurs, en seront en exemple aux inferieurs, car si vou<damage><gap agent="tear"/></damage>
+          <lb/>tant soit peu la porte aux troubles <unclear>po.</unclear> estroite qu'elle soit,<damage><gap agent="tear"/></damage>
+          <lb/>ueiller la convoitise d'une infinité des gens, que vous n'<damage><gap agent="tear"/></damage>
+          <lb/>trop recognus, les quelz si vous armez dans les <choice><orig>prouinces</orig><reg>provinces</reg></choice>, vous co<damage agent="tear"><supplied>ntri</supplied></damage>
+          <lb/>buer a vostre escrient a leur ambition, soubs vostre authorité, a vostre proj<damage><gap agent="tear"/></damage>
+          <lb/>ruine, et <del>sy</del>si vous pensez de<del>s</del> <add place="above">les</add> y laisser sans charge, ilz en prendron<supplied>t</supplied>
+          <lb/>d'eux mesmes, et au plus fort de voz affaires se declareront voz
+          <pb facs="IMG_1838.JPG"/>
+          <lb/>ennemis. Je vous di ceci Monsieur parce qu'on nous parle des conse<damage><gap agent="binding"/></damage>
+          <lb/>violens de quelques uns, dont plusieurs se promettent, qu'a force de
+          <lb/>harceler ceux de la Religion, on les mettra aux champs, et a cela
+          <lb/>semble reduite aujourd'huy, l'esperance de ceux qui tirent prouffit
+          <lb/>du trouble: Mais je m'asseure tant du bon naturel du Roy, qu'il
+          <lb/>ny prestera jamais l'oreille, fust ce qu'en consideration de ceste
+          <lb/>derniere <choice><orig>preuue</orig><reg>preuve</reg></choice>, qu'il a eue de leur fidelité, ny ayant eu
+          <lb/>aucune ville, ni communauté, qui se soit escarteé de son <choice><orig>debuoir</orig><reg>debvoir</reg></choice>,
+          <lb/>quelque puissant example qu'elle ait véu du contraire. Et c'est a 
+          <lb/>Monsieur vostre gendre a prendre garde, que tell qui n'a peu luitter
+          <lb/>sa faveur par une force directe, n'ait but de la supplanter par
+          <lb/>une indirecte. Mais il est temps que j'abbrege mon impor-
+          <lb/>tunité, pour vous baiser tres humblement les mains en vous protestant inviolablement que je suis.</p>
+          <lb/><closer><salute>Monsieur.</salute></closer>
+      </body>
+    </text>
+  </TEI>
 </teiCorpus>
+
