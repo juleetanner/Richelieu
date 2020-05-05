@@ -6147,7 +6147,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Epinay shares evidence that the <hi rend="italic">Infante</hi> is well disposed to France.</note>
+          <note>Epinay shares evidence that the <hi rend="italic">Infante</hi> is well disposed to
+            France.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6248,7 +6249,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Montmorency assures Richelieu of the loyalty and compliance of himself and an unknown Monsieur.</note>
+          <note>Montmorency assures Richelieu of the loyalty and compliance of himself and an
+            unknown Monsieur.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6334,7 +6336,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Henriette-Marie shares her concern over an ambassador's offense to Louis XIII (or possibly Louis' offense of an ambassador).</note>
+          <note>Henriette-Marie shares her concern over an ambassador's offense to Louis XIII (or
+            possibly Louis' offense of an ambassador).</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6663,7 +6666,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note></note>
+          <note>Richelieu discusses property negotions between Louis XIII and Marie de Medici and
+            suggests possible wedding presents for Marie to present to Bernard de La Valette.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6695,8 +6699,8 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice>
-          <lb/>vous prie que la Reine envoie querir <persName ref="#Chanteloube"
-            >Chanteloube</persName>
+          <lb/>vous prie que la <persName ref="#MarieM">Reine</persName> envoie querir <persName
+            ref="#Chanteloube">Chanteloube</persName>
           <lb/>et luy die, s'<del>il lui</del>elle le trouve bon, qu'elle a sceu <lb/>que quelques <choice>
             <orig>vns</orig>
             <reg>uns</reg>
@@ -6868,9 +6872,8 @@
           <correspAction type="received">
             <persName ref="#Ferdinando">Ferdinando</persName>
             <placeName/>
-            <date/>
           </correspAction>
-          <note>Richelieu adds his support of the bishop of Beziers to that already provided by
+          <note>Richelieu adds his support of the bishop of Beziers to that previously provided by
             Louis XIII.</note>
         </correspDesc>
       </profileDesc>
@@ -6924,7 +6927,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title>Richelieu to the Duc d'Alvin, 22 February 1635</title>
+          <title>Cardinal Richelieu to the Duc d'Alvin, 22 February 1635</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -6980,7 +6983,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>Draft of a letter ordering the Duc d'Alvin to hire an engineer to make repairs to
+            the fortifications at Narbonne and Leucate in preparation for a Spanish invasion.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -7110,7 +7114,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>Richelieu declines Madame's request that he help the Chevalier de Chazueil out of a
+            difficult situation.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -7202,6 +7207,8 @@
             <placeName/>
             <date/>
           </correspAction>
+          <note>Sully asks that Richelieu grant the requests that will be made by his son, the Duc
+            d'Orval.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -7363,7 +7370,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>Louis informs Richelieu, Aligre, and Chavigny that he will not pardon Puylaurens
+            for his treasonous unless he confesses and shows complete submission to the king.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -7453,7 +7461,7 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>Henriette-Marie speaks of a "beautiful place" she gave up and her obligation to remain where she is.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -7558,7 +7566,7 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>Richelieu acknowledges Rohan's loyal service to the king and explains the rights and obligations of Protestants in France.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
