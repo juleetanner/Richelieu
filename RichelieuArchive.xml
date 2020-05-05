@@ -5050,7 +5050,9 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note type="temp" resp="#JT">TO COME</note>
+          <note>Prince Thomas and his army are approaching Turin from Asti. La Valette asks
+            Richelieu to send additional troops, especially cavalry, and money to for soldiers' pay
+            through April.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -5273,8 +5275,10 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>The letter from Richelieu of February 24 that La Valette references here is
-            reproduced in Avenel, <hi rend="italic">Lettres,</hi> Volume 6, pp. 287-88.</note>
+          <note>La Valette thanks Richelieu for promised assistance which, along with Christine's
+            2,000 infantry, minimizes the threat posed by Prince Thomas. <hi rend="ital">Note:
+            </hi>The letter from Richelieu of February 24 that La Valette references here is
+            reproduced in Avenel, <hi rend="italic">Lettres</hi> Volume 6, pp. 287-88.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -5469,7 +5473,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note type="temp" resp="#JT">TO COME</note>
+          <note>Christine assures Richelieu that she is a friend of France and requests military
+            assistance.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -5633,7 +5638,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note type="temp" resp="#JT">TO COME</note>
+          <note>Christine pleas with Richelieu to not allow the sister of his king to perish, and to
+            help her ensure her son's inheritance.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -5951,7 +5957,7 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>L'Hospital is preparing to return to the front.</note>
+          <note>L'Hospital prepares to return to the front.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6084,7 +6090,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title>Timoléon d'Epinay, Marquis de St. Luc, to Richelieu, 4 August 1631</title>
+          <title>Timoléon d'Epinay, Marquis de St. Luc, to Cardinal Richelieu, 4 August 1631</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -6141,7 +6147,7 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>Epinay shares evidence that the <hi rend="italic">Infante</hi> is well disposed to France.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6242,7 +6248,7 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>Montmorency assures Richelieu of the loyalty and compliance of himself and an unknown Monsieur.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6252,7 +6258,7 @@
         <opener><salute>Monsieur</salute></opener>
         <p><lb/>Comme le courrier <lb/>partoit, Monsieur <gap reason="illegible"/>
           <lb/>est arrivé, <gap reason="illegible"/>
-          <lb/><gap reason="illegible"/>le plus dilli- <lb/>gemment qu'il a <gap reason="illegible"/>
+          <lb/><gap reason="illegible"/>le plus dilli-<lb/>gemment qu'il a <gap reason="illegible"/>
           <lb/>a vos ordres, il a donne <lb/><gap reason="illegible"/> de vous en <gap
             reason="illegible"/>
           <lb/>et moy de vous asseurer <lb/>que je suis, <lb/>Monsieur,</p>
@@ -6328,6 +6334,7 @@
             <placeName/>
             <date/>
           </correspAction>
+          <note>Henriette-Marie shares her concern over an ambassador's offense to Louis XIII (or possibly Louis' offense of an ambassador).</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6348,7 +6355,7 @@
             <corr>preniez</corr>
           </choice>
           <lb/>en tout mes interest que je ne saye comment <lb/>vous en temoygner Le resantimant que
-            <lb/><sic resp="JT" cert="low">jan nay</sic><corr>j'en ai</corr> sy <choice>
+            <lb/><sic resp="JT" cert="medium">jan nay</sic><corr>j'en ai</corr> sy <choice>
             <sic>senest</sic>
             <corr>ce n'est</corr>
           </choice> en vous assurance <lb/>par sette Lettre que je chargeray. <lb/>Les <choice>
@@ -6656,6 +6663,7 @@
             <placeName/>
             <date/>
           </correspAction>
+          <note></note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
