@@ -5986,7 +5986,7 @@
           <correspAction type="sent">
             <persName ref="#Hospital">l'Hospital</persName>
             <placeName ref="#Dijon">Dijon</placeName>
-            <date>1635-28-05</date>
+            <date>1635-05-28</date>
           </correspAction>
           <correspAction type="received">
             <persName ref="#Richelieu">Richelieu</persName>
@@ -6055,7 +6055,7 @@
           <correspAction type="sent">
             <persName ref="#Hepburn">Hepburn</persName>
             <placeName/>
-            <date>1635-28-05</date>
+            <date>1629-08-16</date>
           </correspAction>
           <correspAction type="received">
             <persName ref="#Richeliu">Richelieu</persName>
