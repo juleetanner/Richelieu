@@ -893,6 +893,14 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>soldiers' pay</term>
+            <term>munitions</term>
+            <term>fortifications</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Richelieu">Richelieu</persName>
@@ -1122,6 +1130,13 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>soldiers' pay</term>
+            <term>court etiquette</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette">La Valette</persName>
@@ -1421,6 +1436,13 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>bereavement</term>
+            <term>court etiquette</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette">La Valette</persName>
@@ -1629,6 +1651,13 @@
         <langUsage>
           <language ident="it">Italian as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>career advancement</term>
+            <term>petitioning</term>
+            <term>court etiquette</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Villa">Villa</persName>
@@ -1736,6 +1765,14 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>military preparations</term>
+            <term>petitioning</term>
+            <term>court etiquette</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Christine">Christine of France</persName>
