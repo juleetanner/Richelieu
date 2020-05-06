@@ -134,46 +134,47 @@
         <affiliation>University of Washington</affiliation>
       </person>
       <person xml:id="Aligre">
-        <persName type="main">Aligre, Etienne d'</persName>
-        <idno type="VIAF">1490223</idno>
+        <persName type="main">Etienne d'Aligre</persName>
+        <idno type="VIAF">21161812</idno>
+        <birth when="1550"/>
+        <death when="1635"/>
         <note>Keeper of the Seals <hi rend="ital">(Garde des sceaux)</hi> of France from 1624 to
           1635.</note>
       </person>
       <person xml:id="Aglie">
-        <persName type="main">San Martino d'Agliè, Filippo, conte</persName>
-        <persName>Comte d'Aglie</persName>
+        <persName type="main">Filippo San Martino, conte d'Agliè</persName>
         <idno type="VIAF">62659363</idno>
         <birth when="1604"/>
         <death when="1667"/>
-        <note>The favorite and advisor to Christine of France during her regency.</note>
+        <note>The favorite and most trusted advisor of Christine of France during her
+          regency.</note>
       </person>
       <person xml:id="Alvin">
-        <persName>Halluin, Charles de Schomberg d'</persName>
-        <!-- confirm this is the same person -->
-        <idno type="VIAF">308694769</idno>
-        <birth when="1601-02-16"/>
-        <death when="1656-06-06"/>
+        <persName>Charles de Schomberg, duc Halluin</persName>
+        <idno type="VIAF">184477767</idno>
+        <birth when="1601"/>
+        <death when="1656"/>
+        <note>Soldier and governor of Languedoc from 1633 to 1644. After defeating the Spanish in
+          the Battle of Leucate in 1637 he would be named Marshall of France.</note>
       </person>
       <person xml:id="Argenson">
-        <persName type="main">Argenson, René de Voyer, comte d'</persName>
-        <persName>Argençon, René de Voyer, comte d'</persName>
+        <persName type="main">René de Voyer, comte d'Argenson</persName>
         <idno type="VIAF">64063641</idno>
         <birth when="1596"/>
         <death when="1651"/>
-        <note>A lawyer, councillor of state, and inspector of French forces under Richelieu.</note>
+        <note>Lawyer, councillor of state, and inspector of French forces under Richelieu.</note>
       </person>
       <person xml:id="Balzac">
-        <persName type="main">Balzac, Jean-Louis Guez de</persName>
+        <persName type="main">Jean-Louis Guez de Balzac</persName>
         <idno type="VIAF">54143917</idno>
-        <birth when="1597-05-31"/>
-        <death when="1654-02-18"/>
+        <birth when="1597"/>
+        <death when="1654"/>
         <note>A writer of popular epistolary essays and founding member of the <hi rend="italic"
             >Académie française</hi>.</note>
       </person>
       <person xml:id="Bernard">
-        <persName type="main">Épernon, Bernard de Nogaret de La Valette d'</persName>
-        <persName>Monsieur de La Valette</persName>
-        <persName>Marquis de La Valette</persName>
+        <persName type="main">Bernard de Nogaret de La Valette, duc d'Épernon</persName>
+        <persName type="alternate">Marquis de La Valette</persName>
         <idno type="VIAF">64281075</idno>
         <birth when="1592"/>
         <death when="1661-07-26"/>
@@ -181,13 +182,13 @@
           Nogaret, duc de Candalle. He became duc d'Épernon in 1642.</note>
       </person>
       <person xml:id="Bertier">
-        <persName type="main">Bertier de Montrave, Jean de</persName>
+        <persName type="main">Jean de Bertier de Montrave</persName>
         <idno type="VIAF">193883924</idno>
         <birth when="1575"/>
         <death when="1653"/>
         <note>First president of the parliament of Toulouse, from 1632 until at least 1649. In 1632
           he helped put down the rebellion of <persName ref="#Montmorency">Henri II de
-            Montmorency</persName></note>
+            Montmorency.</persName></note>
       </person>
       <person xml:id="Bragelogne">
         <persName type="main">Marie de Bragelogne‏, Madame Bouthillier</persName>
@@ -198,44 +199,42 @@
           She was entrusted with the education of Richelieu's orphaned niece (Tapié, p. 394).</note>
       </person>
       <person xml:id="Chanteloube">
-        <persName type="main">Apchon de Chanteloube, Jacques d'</persName>
+        <persName type="main">Jacques d'Apchon de Chanteloube</persName>
         <idno type="VIAF">349197</idno>
         <birth when="1590" precision="low"/>
         <death when="1641"/>
         <note>Catholic priest and pamphleteer in the service of Marie de Medici. In 1633 he was
-          involved in a failed attempt to assassinate the cardinal (Blanchard, p.151; Knecht, p.
-          55).</note>
+          involved in a failed attempt to assassinate Cardinal Richelieu (Blanchard, p.151; Knecht,
+          p. 55).</note>
       </person>
       <person xml:id="Charles1">
         <persName type="main">Charles I, king of England</persName>
         <idno type="VIAF">67750325</idno>
-        <birth when="1600-11-19"/>
-        <death when="1649-01-13"/>
-        <note>The Stuart king of England, Scotland, and Ireland from 1625 until his execution in
-          1649. In the same year he ascended the throne, Charles married Henrietta Maria, Louis
-          XIII's sister, a marriage that had been negotiated by Richelieu. The marriage is regarded
-          as the first diplomatic success of the cardinal, then an equal member in the king's
-          council (Levi, p. 81).</note>
+        <birth when="1600"/>
+        <death when="1649"/>
+        <note>Charles I reigned from 1625 until his execution in 1649. In the same year he ascended
+          the throne, Charles married Henrietta Maria, Louis XIII's sister.</note>
       </person>
       <person xml:id="CharlesE2">
-        <persName type="main">Charles-Emmanuel II, duke of Savoy</persName>
+        <persName type="main">Charles-Emmanuel II, duc de Savoy</persName>
         <idno type="VIAF">13715438</idno>
-        <birth when="1634-06-20"/>
-        <death when="1675-06-12"/>
+        <birth when="1634"/>
+        <death when="1675"/>
         <note>Second son of Victor Amadeus I, duke of Savoy, and Christine of France. He inherited
-          the duchy on the death of his elder brother Francis Hyacinth in 1638, but the regency of
+          the duchy at the age of 4 on the death of his brother Francis Hyacinth, but the regency of
           his mother was challenged by his uncles Thomas, prince of Carignano, and Maurice, prince
-          of Savoy and cardinal of Vercelli, in the Piedmontese Civil War.</note>
+          of Savoy and cardinal of Vercelli.</note>
       </person>
       <person xml:id="Chatillon">
-        <persName>Gaspard de Coligny, marquis de Chatillon</persName>
+        <persName>Gaspard III de Coligny, marquis de Chatillon</persName>
         <idno type="VIAF">232247858</idno>
-        <birth when="1584-07-26"/>
-        <death when="1646-01-04"/>
-        <note/>
+        <birth when="1584"/>
+        <death when="1646"/>
+        <note>A Huguenot general known for his loyalty to Louis XIII, named Marshall of France in
+          1622.</note>
       </person>
       <person xml:id="Chavigny">
-        <persName type="main">Bouthillier-Chavigny, Claude, comte de</persName>
+        <persName type="main">Claude Bouthillier, comte de Chavigny</persName>
         <persName>Chavigny</persName>
         <idno type="VIAF">150877448</idno>
         <birth when="1581"/>
@@ -246,76 +245,79 @@
           Joseph</persName>.</note>
       </person>
       <person xml:id="Christine">
-        <persName type="main">Christine of France</persName>
-        <persName>Christine, duchess of Savoy</persName>
+        <persName type="main">Christine, duchess de Savoy</persName>
+        <persName type="alternate">Christine of France</persName>
         <idno type="VIAF">86438866</idno>
-        <birth when="1606-02-10"/>
-        <death when="1663-12-27"/>
+        <birth when="1606"/>
+        <death when="1663"/>
         <note>Sister of Louis XIII and wife of Victor Amadeus I, duke of Savoy. At her husband's
-          death in 1637 until 1648 she was regent of Savoy, first in the name of her son Francis
-          Hyacinth (d. 1638), then in the name of her second son, Charles-Emmanuel II. Her regency
-          was challenged by her brothers-in-law Thomas, prince of Carignano, and Maurizio, prince of
-          Savoy and cardinal of Vercelli, in the Piedmontese Civil War.</note>
+          death in 1637 she was regent of Savoy, first in the name of her son Francis Hyacinth (d.
+          1638), then in the name of her second son, Charles-Emmanuel II. Her regency was challenged
+          by her brothers-in-law Tommaso, prince of Carignano, and Maurizio, prince of Savoy and
+          cardinal of Vercelli, in the Piedmontese Civil War.</note>
       </person>
       <person xml:id="Emery">
-        <persName type="main">Emery, Michel Particelli, sieur d'</persName>
-        <persName>Hemery, Michel Particelli, sieur d'</persName>
+        <persName type="main">Michel Particelli, sieur d'Emery</persName>
+        <persName>Michel Particelli, sieur d'Hemery</persName>
         <idno type="VIAF">8935394</idno>
         <birth when="1596"/>
         <death when="1650"/>
-        <note>An advisor to Richelieu and member of banking family originally from Lucca.</note>
+        <note>An advisor to Richelieu and member of a banking family from Lucca.</note>
       </person>
       <person xml:id="Epernon">
-        <persName type="main">Nogaret de La Valette, Jean-Louis de, duc d'Épernon</persName>
+        <persName type="main">Jean-Louis de Nogaret de La Valette, duc d'Épernon</persName>
         <idno type="VIAF">56742804</idno>
         <birth when="1554"/>
         <death when="1642"/>
-        <note>The first duc d'Épernon and father to Henri (d. 1639), Bernard, the second duc
-          d'Épernon, and Louis, Cardinal de La Valette.</note>
+        <note>The first duc d'Épernon and father to Henri, Bernard, the second duc d'Épernon, and
+          Louis, Cardinal de La Valette.</note>
       </person>
       <person xml:id="Epinay">
-        <persName type="main">Saint-Luc, Timoléon d'Epinay, marquis de</persName>
+        <persName type="main">Timoléon d'Epinay, marquis de Saint-Luc</persName>
+        <persName type="alternate">Timoléon d'Espinay, marquis de Saint-Luc</persName>
         <idno type="VIAF">314930167</idno>
         <birth when="1580"/>
         <death when="1644"/>
-        <note>Named vice-admiral in 1622 and marshal of France in 1627.</note>
+        <note>As a vice-admiral in 1622 he helped to put down a Huguenot rebellion at La Rochelle.
+          He was made Marshall of France in 1627.</note>
       </person>
       <person xml:id="Estrades">
-        <persName type="main">Estrades, Godefroi Louis, comte d'</persName>
-        <persName>Estrade</persName>
+        <persName type="main">Godefroi Louis, comte d'Estrades</persName>
+        <persName type="alternate">Godefroi Louis, comte d'Estrade</persName>
         <idno type="VIAF">64115268</idno>
         <birth when="1607"/>
         <death when="1686"/>
-        <note/>
+        <note>A former page of Louis XIII who would be sent on a diplomatic mission to Holland at
+          the age of 19. His diplomatic and military service would continue into the reign of Louis
+          XIV, who would make him Marshall of France in 1675.</note>
       </person>
       <person xml:id="Estrées">
-        <persName type="main">Estrées, Francois Annibal de Coeuvres, maréchal d'</persName>
+        <persName type="main">Francois Annibal de Coeuvres, maréchal d'Estrées</persName>
         <idno type="VIAF">19831371</idno>
         <birth when="1573"/>
-        <death when="1670-05-05"/>
-        <note>Named marshal of France in 1626. After his military career he entered diplomacy, and
+        <death when="1670"/>
+        <note>Named Marshal of France in 1626. After his military career he entered diplomacy, and
           was French envoy to Rome from 1636 to 1648.</note>
       </person>
       <person xml:id="Ferdinando2">
-        <persName type="main">Ferdinando II, grand-duke of Tuscany</persName>
+        <persName type="main">Ferdinando II de Medici, granduca di Toscana</persName>
         <idno type="VIAF">59056232</idno>
         <birth when="1610"/>
         <death when="1670"/>
-        <note>Grand duke of Tuscany from 1621 to 1670; friend and protector of Galileo
+        <note>Grand-Duke of Tuscany from 1621 to 1670; friend and protector of Galileo
           Galilei.</note>
       </person>
       <person xml:id="Gregory15">
-        <persName type="main">Gregory XV, Pope</persName>
-        <persName>Ludovisi, Alessandro</persName>
+        <persName type="main">Gregory XV (Ludovisi Alessandro), pope</persName>
         <idno type="VIAF">49321911</idno>
-        <birth when="1554-01-09"/>
-        <death when="1623-07-08"/>
-        <note>Pope from 1621 to 1623.</note>
+        <birth when="1554"/>
+        <death when="1623"/>
+        <note>Pope from 1621 to 1623. It was he who made Richelieu a cardinal, calling him "the
+          rampart of Catholic religion and the scourge of heretics" (Blanchard, p. 116).</note>
       </person>
       <person xml:id="Henri">
-        <persName type="main">Nogaret de Candalle, Henri de</persName>
-        <persName>Duc de Candal</persName>
-        <persName>Duc de Candalle</persName>
+        <persName type="main">Henri de Nogaret de Candalle</persName>
+        <persName type="alternate">Duc de Candal</persName>
         <idno type="VIAF">220228842</idno>
         <birth when="1591"/>
         <death when="1639"/>
@@ -327,36 +329,43 @@
         <persName type="main">Henrietta Maria, queen consort of Charles I, king of
           England</persName>
         <idno type="VIAF">52930938</idno>
-        <birth when="1609-11-25"/>
-        <death when="1669-09-10"/>
-        <note>Sister of Louis XIII, king of France.</note>
+        <birth when="1609"/>
+        <death when="1669"/>
+        <note>Sister of Louis XIII, king of France. Her marriage to Charles I had been negotiated by
+          Richelieu, and is regarded as the first diplomatic success of the cardinal, who at the
+          time was an equal member in the king's council (Levi, p. 81).</note>
       </person>
       <person xml:id="Hepburn">
-        <persName type="main">Hepburn, James, sir</persName>
+        <persName type="main">James Hepburn, sir</persName>
         <idno type="Wikisource"
           >https://en.wikisource.org/wiki/Hepburn,_James_(d.1637)_(DNB00)</idno>
         <birth/>
         <death when="1637"/>
+        <note>Scottish soldier of fortune who, as Commander of the Scots Brigade, served under
+          Chatillon in Lorraine in 1637.</note>
       </person>
       <person xml:id="Hospital">
-        <persName type="main">Hallier, Francois de l'Hospital, comte du</persName>
-        <idno type="VIAF">17326341</idno>
+        <persName type="main">Francois de l'Hospital, comte du Hallier</persName>
+        <idno type="VIAF">173264341</idno>
         <birth when="1583"/>
         <death when="1660"/>
+        <note>Youngest son in an aristocratic family who renounced the religious life for a military
+          career at the age of 15. He would represent the Louis XIII at the signing of the articles
+          of capitulation ending the seige of La Rochelle in 1628 and serve in many campaigns in the
+          Thirty Years' War.</note>
       </person>
       <person xml:id="Joseph">
-        <persName type="main">Père Joseph</persName>
-        <persName>Leclerc du Tremblay, François</persName>
+        <persName type="main">François Leclerc du Tremblay, Père Joseph</persName>
         <idno type="VIAF">54169805</idno>
-        <birth when="1577-11-04"/>
-        <death when="1638-12-17"/>
+        <birth when="1577"/>
+        <death when="1638"/>
         <note>French Capuchin friar, friend and advisor to Cardinal Richelieu, unofficial negotiator
-          with German states, the original <hi rend="italics">eminence grise</hi>. His willingness
-          to ally with Protestants thwarted Richelieu's efforts to have him named cardinal
-          Blanchard, pp. 125 and 270, n. 21).</note>
+          with German states, and the original <hi rend="italics">eminence grise</hi>. His
+          willingness to ally with Protestants against the thwarted Richelieu's efforts to have him
+          named cardinal Blanchard, pp. 125 and 270, n. 21).</note>
       </person>
       <person xml:id="Leganes">
-        <persName type="main">Leganès, Diego Felipe de Guzmàn, marquis de</persName>
+        <persName type="main">Diego Felipe de Guzmàn, marquis de Leganès</persName>
         <idno type="VIAF">59193567</idno>
         <birth when="1580"/>
         <death when="1655"/>
@@ -367,94 +376,121 @@
       <person xml:id="Lesdiguieres">
         <persName>François de Bonne Lesdiguières</persName>
         <idno type="VIAF">44455556</idno>
-        <birth when="1543-04-01"/>
-        <death when="1626-09-21"/>
+        <birth when="1543"/>
+        <death when="1626"/>
+        <note>Leader of the Huguenot resistance in Dauphiné, he served under the future Henry IV
+          from the 1580s and would be named Marshall of France by that king in 1609. He was loyal to
+          Louis XIII and, after converting to Catholicism in 1622, was made constable of
+          France.</note>
       </person>
       <person xml:id="Louis13">
         <persName type="main">Louis XIII, king of France</persName>
         <idno type="VIAF">64008583</idno>
-        <birth when="1601-09-27"/>
-        <death when="1643-05-14"/>
+        <birth when="1601"/>
+        <death when="1643"/>
+        <note>The second Bourbon king, Louis ascended the throne at the assassination of his father
+          Henry IV in 1610, and at the age of 16 in 1617, forcibly took power from his mother, Marie
+          de'Medici.</note>
       </person>
       <person xml:id="Luynes">
         <persName type="main">Charles d'Albert de Luynes</persName>
         <idno type="VIAF">32031222</idno>
-        <birth when="1578-08-05"/>
-        <death when="1621-12-15"/>
+        <birth when="1578"/>
+        <death when="1621"/>
+        <note>Grand Falconer of France and companion of Louis during the regency, he convinced the
+          young king to end the regency by force in a palace <hi rend="ital">coup d'état</hi> in
+          1617. Named constable of France in 1621, he died that same year of a fever while laying
+          seige to the Huguenot town of Montauban.</note>
       </person>
       <person xml:id="MariaAnna">
         <persName type="main">Maria Anna, consort of Ferdinand III, Holy Roman Emperor</persName>
         <idno type="VIAF">78650776</idno>
-        <birth when="1606-09-18"/>
-        <death when="1646-05-13"/>
+        <birth when="1606"/>
+        <death when="1646"/>
         <note>Sister of Philip IV, king of Spain and Anne of Austria, queen of France. In January of
           1631 She married the Austrian Hapsburg Ferdinand Ernest, future Holy Roman Emperor.
-          Richelieu opposed the strengthening alliance between the Spanish and Austrian branches of
-          the Hapsburg family (Tapié, p. 296).</note>
+          Richelieu opposed this strengthening of the alliance between the Spanish and Austrian
+          branches of the Hapsburg family (Tapié, p. 296).</note>
       </person>
       <person xml:id="MarieM">
-        <persName type="main">Marie de Médici, queen consort of Henry IV of France</persName>
+        <persName type="main">Marie de Médici, queen consort of Henry IV, king of France</persName>
         <idno type="VIAF">12420076</idno>
-        <birth when="1575-04-26"/>
-        <death when="1642-07-03"/>
+        <birth when="1575"/>
+        <death when="1642"/>
+        <note>Second wife of Henry IV, she was crowned queen the day before that king's
+          assassination and ruled as regent of France from 1610 until 1617, when she was forced from
+          power in a palace coup and expelled to Blois. Reconciled with Louis XIII in 1621, her
+          failed attempt to end Cardinal Richelieu's influence on the king at the "Day of the Dupes"
+          in 1630 would result in her permanent exile.</note>
       </person>
       <person xml:id="Maurizio">
-        <persName type="main">Maurice, prince and cardinal of Savoy</persName>
-        <persName>Maurizio, prince of Savoy and cardinal of Vercelli</persName>
+        <persName type="main">Maurizio, prince and cardinal of Savoy</persName>
+        <persName>Maurice, prince of Savoy and cardinal of Vercelli</persName>
         <idno type="VIAF">3700537</idno>
-        <birth when="1593-01-10"/>
-        <death when="1657-10-04"/>
-        <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637, Maurice and
-          his brother, Thomas Francis, prince of Carignano, attempted to take the regency from
-          Christine of France, leading to the Piedmontese Civil War.</note>
+        <birth when="1593"/>
+        <death when="1657"/>
+        <note>Brother of Victor Amadeus I, duke of Savoy. On the duke's death in 1637, Maurizio and
+          his brother Tommaso, prince of Carignano, attempted to take the regency from Christine of
+          France, prompting the Piedmontese Civil War.</note>
       </person>
       <person xml:id="Monod">
         <persName type="main">Père Monod</persName>
-        <persName>Père Monot</persName>
+        <persName type="alternate">Père Monot</persName>
         <note>Jesuit priest and Spanish sympathizer at the court of Christine, duchesse de Savoie.
           His arrest and removal to Montmélian by the French aroused Christine's anger against
           Richelieu (Tapié, p. 390).</note>
       </person>
       <person xml:id="Montmorency">
-        <persName type="main">Montmorency, Henri II, duc de</persName>
+        <persName type="main">Henri II, duc de Montmorency</persName>
         <idno type="VIAF">12461620</idno>
-        <birth when="1595-04-30"/>
-        <death when="1632-10-30"/>
+        <birth when="1595"/>
+        <death when="1632"/>
+        <note>Godson of Henry IV, governor of Languedoc, and a leading figure at the court of Louis
+          XIII. As Grand Admiral and Marshall of France he put down several Huguenot rebellions and
+          won victories against Spain in the Piedmont. In 1632 however, he joined Gaston d'Orleans,
+          Louis' brother, in a failed attempt remove Cardinal Richelieu from power. Ignoring pleas
+          for mercy throughout France, Richelieu executed Montmorency as an example to other members
+          of his class.</note>
       </person>
       <person xml:id="Noyers">
-        <persName type="main">Sublet de Noyers, Francois, Baron de Dangu</persName>
+        <persName type="main">Francois Sublet de Noyers, Baron de Dangu</persName>
         <idno type="VIAF">172592009</idno>
         <birth when="1588"/>
         <death when="1645"/>
+        <note>Secretary of State, member of the king's council, and loyal creature of Cardinal
+          Richelieu.</note>
       </person>
       <person xml:id="Orval">
-        <persName type="main">Orval, François de Béthune, duc d'</persName>
+        <persName type="main">François de Béthune, duc d'Orval</persName>
         <idno type="VIAF">316035555</idno>
         <birth when="1598"/>
         <death when="1678"/>
         <note>Son of Maximilien de Béthune, duc de Sully. </note>
       </person>
       <person xml:id="Palluau">
-        <persName type="main">Palluau, Philippe de Clerembault, comte de</persName>
+        <persName type="main">Philippe de Clerembault, comte de Palluau</persName>
         <idno type="VIAF">52082363</idno>
         <birth when="1606"/>
         <death when="1665"/>
+        <note>An officer of noble birth who would rise from captain of a company of light horsemen
+          in the 1630s to Marshall of France by 1653.</note>
       </person>
       <person xml:id="Philip4">
         <persName type="main">Philip IV, king of Spain</persName>
         <idno type="VIAF">42764</idno>
-        <birth when="1621-03-31"/>
-        <death when="1665-09-17"/>
+        <birth when="1605"/>
+        <death when="1665"/>
+        <note></note>
       </person>
       <person xml:id="Puylaurens">
-        <persName type="main">Puylaurens, Antoine de L'Age, Duc de</persName>
+        <persName type="main">Antoine de L'Age, Duc de Puylaurens</persName>
         <idno type="VIAF">315087522</idno>
         <birth when="1602"/>
         <death when="1635"/>
         <note/>
       </person>
       <person xml:id="Richelieu">
-        <persName type="main">Richelieu, Armand-Jean du Plessis, cardinal duc de</persName>
+        <persName type="main">Armand-Jean du Plessis, cardinal duc de Richelieu</persName>
         <idno type="VIAF">12314392</idno>
         <birth when="1585-09-09"/>
         <death when="1642-12-04"/>
@@ -466,13 +502,13 @@
         <death when="1654-10-16"/>
       </person>
       <person xml:id="SMaurice">
-        <persName type="main">Saint-Maurice, Thomas-François Chabod, marquis de</persName>
+        <persName type="main">Thomas-François Chabod, marquis de Saint-Maurice</persName>
         <idno type="VIAF">10793302</idno>
         <birth when="1583"/>
         <death when="1653"/>
       </person>
       <person xml:id="Sully">
-        <persName type="main">Sully, Maximilien de Béthune, duc de</persName>
+        <persName type="main">Maximilien de Béthune, duc de Sully</persName>
         <idno type="VIAF">95208305</idno>
         <birth when="1560-12-13"/>
         <death when="1641-12-22"/>
@@ -482,7 +518,7 @@
           agriculture, and rebuilt infrastructure.</note>
       </person>
       <person xml:id="Thémines">
-        <persName type="main">Thémines, Pons de Lauzières, marquis de</persName>
+        <persName type="main">Pons de Lauzières, marquis de Thémines</persName>
         <idno type="VIAF">37263293</idno>
         <birth when="1553"/>
         <death when="1627"/>
@@ -498,7 +534,7 @@
           regency from Christine of France, leading to the Piedmontese Civil War.</note>
       </person>
       <person xml:id="Turenne">
-        <persName type="main">Turenne, Henri de la Tour d'Auvergne, vicomte de</persName>
+        <persName type="main">Henri de la Tour d'Auvergne, vicomte de Turenne</persName>
         <idno type="VIAF">59190793</idno>
         <birth when="1611-09-11"/>
         <death when="1675-07-27"/>
@@ -506,7 +542,7 @@
           General.</note>
       </person>
       <person xml:id="Urban8">
-        <persName type="main">Urban VIII, Pope</persName>
+        <persName type="main">Urban VIII (Maffeo Barberini), pope</persName>
         <persName>Barberini, Maffeo</persName>
         <idno type="VIAF">96062867</idno>
         <birth when="1568-04-05"/>
@@ -514,7 +550,7 @@
         <note>Pope from 6 August 1623 to 29 July 1644.</note>
       </person>
       <person xml:id="Valette">
-        <persName type="main">La Valette, Louis de Nogaret, cardinal de</persName>
+        <persName type="main">Louis de Nogaret, cardinal de La Valette</persName>
         <idno type="VIAF">207349591</idno>
         <birth when="1593"/>
         <death when="1639"/>
@@ -522,7 +558,7 @@
           de Candalle and Bernard de Nogaret, duc d'Épernon as of 1642.</note>
       </person>
       <person xml:id="Vialart">
-        <persName type="main">Vialart, Charles</persName>
+        <persName type="main">Charles Vialart de Saint-Paul</persName>
         <persName>Saint-Paul, Charles Vialart de</persName>
         <idno type="VIAF">http://viaf.org/viaf/7665266</idno>
         <birth when="1592"/>
@@ -539,17 +575,17 @@
           Thomas, prince of Carignano and Maurice, prince of Savoy and cardinal of Vercelli.</note>
       </person>
       <person xml:id="Villa">
-        <persName type="main">Villa, Guido</persName>
+        <persName type="main">Guido Villa, marquis de Ville</persName>
         <persName>Marquis de Ville</persName>
       </person>
       <person xml:id="Wake">
-        <persName type="main">Wake, Isaac, sir</persName>
+        <persName type="main">Isaac Wake, sir</persName>
         <idno type="VIAF">76666336</idno>
         <birth when="1508"/>
         <death when="1632"/>
       </person>
       <person xml:id="Sc1">
-        <persName type="main">Charpentier, Denis</persName>
+        <persName type="main">Denis Charpentier</persName>
         <idno type="VIAF">168153953330605562889</idno>
         <birth when="1580"/>
         <death when="1647"/>
@@ -558,7 +594,7 @@
         </occupation>
       </person>
       <person xml:id="Sc2">
-        <persName type="main">Le Masle, Michel</persName>
+        <persName type="main">Michel Le Masle</persName>
         <idno type="VIAF">10935505</idno>
         <birth when="1587"/>
         <death when="1662"/>
@@ -7370,8 +7406,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Louis informs Richelieu, Aligre, and Chavigny that he will not pardon Puylaurens
-            for his treasonous unless he confesses and shows complete submission to the king.</note>
+          <note>Louis informs Richelieu, Aligre, and Chavigny that he will not pardon Puylaurens for
+            his treasonous unless he confesses and shows complete submission to the king.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -7461,7 +7497,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Henriette-Marie speaks of a "beautiful place" she gave up and her obligation to remain where she is.</note>
+          <note>Henriette-Marie speaks of a "beautiful place" she gave up and her obligation to
+            remain where she is.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -7566,7 +7603,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Richelieu acknowledges Rohan's loyal service to the king and explains the rights and obligations of Protestants in France.</note>
+          <note>Richelieu acknowledges Rohan's loyal service to the king and explains the rights and
+            obligations of Protestants in France.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
