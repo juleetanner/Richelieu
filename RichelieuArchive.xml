@@ -240,9 +240,8 @@
         <birth when="1581"/>
         <death when="1652"/>
         <note>Appointed by Richelieu to secretary of state from 1628 and superintendant of finances
-          from 1632, offices he held until the death of Louis XIII in 1642. Richelieu also sent him
-          on many diplomatic missions, sometimes with <persName ref="#PereJ">Père
-          Joseph</persName>.</note>
+          from 1632, offices he held until the death of Louis XIII in 1643. He was also sent on many
+          diplomatic missions, sometimes with <persName ref="#PereJ">Père Joseph</persName>.</note>
       </person>
       <person xml:id="Christine">
         <persName type="main">Christine, duchess de Savoy</persName>
@@ -389,8 +388,9 @@
         <birth when="1601"/>
         <death when="1643"/>
         <note>The second Bourbon king, Louis ascended the throne at the assassination of his father
-          Henry IV in 1610, and at the age of 16 in 1617, forcibly took power from his mother, Marie
-          de'Medici.</note>
+          Henry IV in 1610 and forcibly took power from his mother and regent, Marie de'Medici, in
+          1617. Considered a suspicious and insecure ruler, Louis relied on the council of a
+          succession of competing advisors and favorites, most notably Cardinal Richelieu.</note>
       </person>
       <person xml:id="Luynes">
         <persName type="main">Charles d'Albert de Luynes</persName>
@@ -447,10 +447,10 @@
         <death when="1632"/>
         <note>Godson of Henry IV, governor of Languedoc, and a leading figure at the court of Louis
           XIII. As Grand Admiral and Marshall of France he put down several Huguenot rebellions and
-          won victories against Spain in the Piedmont. In 1632 however, he joined Gaston d'Orleans,
-          Louis' brother, in a failed attempt remove Cardinal Richelieu from power. Ignoring pleas
-          for mercy throughout France, Richelieu executed Montmorency as an example to other members
-          of his class.</note>
+          won victories against Spain in the Piedmont. In 1632 he joined Gaston d'Orleans, Louis'
+          brother, in a failed attempt remove Cardinal Richelieu from power. Ignoring pleas for
+          mercy throughout France, Richelieu executed Montmorency as an example to other members of
+          his class.</note>
       </person>
       <person xml:id="Noyers">
         <persName type="main">Francois Sublet de Noyers, Baron de Dangu</persName>
@@ -480,26 +480,36 @@
         <idno type="VIAF">42764</idno>
         <birth when="1605"/>
         <death when="1665"/>
-        <note></note>
+        <note>A Hapsburg who reigned from 1621 to 1640 and would ally with the Austrian Hapsburgs
+          against France in the Thirty Years' War, 1618-48.</note>
       </person>
       <person xml:id="Puylaurens">
         <persName type="main">Antoine de L'Age, Duc de Puylaurens</persName>
         <idno type="VIAF">315087522</idno>
         <birth when="1602"/>
         <death when="1635"/>
-        <note/>
+        <note>Confidant and advisor to Gaston, duc d'Orleans, Louis XIII's brother. After aiding
+          Gaston's escape after the arrest of his co-conspirator Montmorency and facilitating the
+          politically unfavorable marriage of Gaston to Marguerite of Lorraine, Puylaurens was
+          arrested in 1635 and died in prison at Vincennes (Blanchard, pp. 151-53).</note>
       </person>
       <person xml:id="Richelieu">
         <persName type="main">Armand-Jean du Plessis, cardinal duc de Richelieu</persName>
         <idno type="VIAF">12314392</idno>
         <birth when="1585-09-09"/>
         <death when="1642-12-04"/>
+        <note/>
       </person>
       <person xml:id="Rohan">
-        <persName type="main">Hercule de Rohan, duc de Montbazon</persName>
-        <idno type="VIAF">24536478</idno>
+        <persName type="main">Henri, duc de Rohan</persName>
+        <idno type="VIAF">27134595</idno>
         <birth when="1568-08-27"/>
         <death when="1654-10-16"/>
+        <note>Huguenot military leader from one of the most distinguished families in France and a
+          favorite at the court of Henry IV. When Louis XIII moved an army to Béarn in 1620 to
+          reinstate Catholicism, Rohan entered the conflict on the side of the Protestants, and
+          would continue to support Protestant uprisings in France through the 1620s (Levi, p.
+          65).</note>
       </person>
       <person xml:id="SMaurice">
         <persName type="main">Thomas-François Chabod, marquis de Saint-Maurice</persName>
@@ -522,6 +532,9 @@
         <idno type="VIAF">37263293</idno>
         <birth when="1553"/>
         <death when="1627"/>
+        <note>Member of the court of Henry IV and supporter of Marie de'Medici during the regency,
+          named Marshall of France in 1616. In 1619 Thémines' son Antoine killed Henri du Plessis,
+          the older brother of the future Cardinal Richelieu, in a duel.</note>
       </person>
       <person xml:id="Tommaso">
         <persName type="main">Thomas Francis, prince of Carignano</persName>
@@ -538,7 +551,8 @@
         <idno type="VIAF">59190793</idno>
         <birth when="1611-09-11"/>
         <death when="1675-07-27"/>
-        <note>A French military general promoted to Marshal in 1643 and later to Marshal
+        <note>French military general instrumental in defeating the forces of Prince Tommaso in the
+          Piedmontese Civil War. He was promoted to Marshal in 1643 and later to Marshal
           General.</note>
       </person>
       <person xml:id="Urban8">
@@ -578,12 +592,6 @@
         <persName type="main">Guido Villa, marquis de Ville</persName>
         <persName>Marquis de Ville</persName>
       </person>
-      <person xml:id="Wake">
-        <persName type="main">Isaac Wake, sir</persName>
-        <idno type="VIAF">76666336</idno>
-        <birth when="1508"/>
-        <death when="1632"/>
-      </person>
       <person xml:id="Sc1">
         <persName type="main">Denis Charpentier</persName>
         <idno type="VIAF">168153953330605562889</idno>
@@ -619,7 +627,6 @@
       </person>
     </listPerson>
     <listPlace>
-      <!-- xml:id is short name; complete modern name is "main" placeName; when 17th century orthography is different tag as "obsolete." -->
       <place xml:id="Asti" type="province">
         <placeName type="main">Asti</placeName>
         <location>
@@ -903,27 +910,27 @@
         </textClass>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Richelieu">Richelieu</persName>
-            <placeName ref="#Rueil" resp="Avenel">Ruel</placeName>
-            <date resp="#Avenel">1639-01-06</date>
+            <persName ref="#Richelieu"/>
+            <placeName resp="#Avenel" ref="#Rueil"/>
+            <date resp="#Avenel" when="1639-01-06"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Valette">La Valette</persName>
+            <persName ref="#Valette"/>
             <placeName/>
             <date/>
           </correspAction>
           <correspContext>
-            <ref type="next" target="#letter10">Next letter of <persName>Cardinal de La
-                Valette</persName> to <persName>Cardinal Richelieu</persName>: <date
-                when="1639-01-17">17 January 1639</date></ref>
+            <ref type="next" target="#letter10">Next letter of <persName ref="#Valette">Cardinal de
+                La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>:
+                <date when="1639-01-17">17 January 1639</date></ref>
           </correspContext>
           <note resp="#Vialart">In the hand of <persName ref="Sc3">Cherré</persName></note>
           <note/>
           <note>Richelieu assures La Valette that requested funds and munitions for the garrisons at
             Cazal and Pignerol have been sent, and that additional troops will arrive in the spring.
-            He informs La Valette that he has written a letter of advice to Christine of France. <hi
-              rend="italic">Note:</hi> A version of this letter is reproduced in Avenel, <hi
-              rend="italic">Lettres</hi> vol. 6, p. 265.</note>
+            He also informs La Valette that he has written a letter of advice to Christine of
+            France. <hi rend="italic">Note:</hi> A version of this letter is reproduced in Avenel,
+              <hi rend="italic">Lettres</hi> vol. 6, p. 265.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -1139,12 +1146,12 @@
         </textClass>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-08</date>
+            <persName ref="#Valette"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-08"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -1445,17 +1452,17 @@
         </textClass>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-11</date>
+            <persName ref="#Valette"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-11"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
-          <note>La Valette sends condolences for the passing of Father Joseph, thanks Richelieu for
-            sending additional funds, and indicates an update on the situation with Father Monod and
+          <note>La Valette sends condolences on the passing of Father Joseph, thanks Richelieu for
+            sending additional funds, and indicates an report on the situation with Father Monod and
             military operations is forthcoming.</note>
         </correspDesc>
       </profileDesc>
@@ -1660,12 +1667,12 @@
         </textClass>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Villa">Villa</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-19</date>
+            <persName ref="#Villa"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-19"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -1698,10 +1705,10 @@
           </choice> quanto la Majesta del Re si degni di lasciarsi <choice>
             <orig>seruir</orig>
             <reg>servir</reg>
-          </choice> da me, confirmo <expan><choice>
-              <sic resp="GL" cert="high">Allo</sic>
-              <corr>Alls</corr>
-            </choice>All'Illustrissima</expan>. Eminenza vostra la mia sempre obligata <choice>
+          </choice> da me, confirmo <choice>
+            <sic resp="GL" cert="medium">Allo</sic>
+            <corr>All'Illustrissima</corr>
+          </choice>. Eminenza vostra la mia sempre obligata <choice>
             <orig>seruitu</orig>
             <reg>servitu</reg>
           </choice> le facio profondissima <choice>
@@ -1775,12 +1782,12 @@
         </textClass>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Christine">Christine of France</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-14</date>
+            <persName ref="#Christine"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-14"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -2019,12 +2026,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Aglie">Agliè</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-14</date>
+            <persName ref="#Aglie"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-14"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -2164,12 +2171,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Christine">Christine of France</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-14</date>
+            <persName ref="#Christine"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-14"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -2295,12 +2302,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Christine">Christine of France</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-14</date>
+            <persName ref="#Christine"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-14"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -2485,12 +2492,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-14</date>
+            <persName ref="#Valette"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-14"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -2713,19 +2720,19 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-17</date>
+            <persName ref="#Valette"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-17"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
           <correspContext>
-            <ref type="prev" target="#letter1">Previous letter of <persName>Cardinal
-                Richelieu</persName> to <persName>Cardinal de La Valette</persName>: <date
-                when="1639-01-06">6 January 1639</date></ref>
+            <ref type="prev" target="#letter1">Previous letter of <persName ref="#Richelieu"
+                >Cardinal Richelieu</persName> to <persName ref="#Valette">Cardinal de La
+                Valette</persName>: <date when="1639-01-06">6 January 1639</date></ref>
           </correspContext>
           <note>La Valette insists that his loyalties lie with the cardinal as opposed his brother,
             Bernard de La Valette. He requests additional funds for fortifications and to maintain
@@ -3061,12 +3068,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-17</date>
+            <persName ref="#Valette"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-17"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -3384,12 +3391,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>n.p.</placeName>
-            <date>n.d.</date>
+            <persName ref="#Valette"/>
+            <placeName/>
+            <date/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -3752,12 +3759,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>Turin</placeName>
-            <date>1639-04-15</date>
+            <persName ref="#Valette"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-04-15"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -4011,12 +4018,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>n.p.</placeName>
-            <date>n.d.</date>
+            <persName ref="#Valette"/>
+            <placeName/>
+            <date/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -4478,12 +4485,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>n.p.</placeName>
-            <date>n.d.</date>
+            <persName ref="#Valette"/>
+            <placeName/>
+            <date/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -4625,10 +4632,8 @@
             <reg>je</reg>
           </choice> vois comme grande apparence de bien esperer de vostre Campagne si les recreuës
           passent fortes, &amp; que le fonds du payement soit bien estably <choice>
-            <choice>
-              <orig>auec</orig>
-              <reg>avec</reg>
-            </choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
           </choice> le sieur Baronis, car par ce moyen <choice>
             <orig>i</orig>
             <reg>j</reg>
@@ -4875,12 +4880,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Christine">Christine of France</persName>
-            <placeName>Turin</placeName>
-            <date>1639-01-05</date>
+            <persName ref="#Christine"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-01-05"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Cardinal Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -5114,12 +5119,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>Turin</placeName>
-            <date>1639-03-19</date>
+            <persName ref="#Valette"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-03-19"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Cardinal Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -5339,12 +5344,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette">La Valette</persName>
-            <placeName>Turin</placeName>
-            <date>1639-03-09</date>
+            <persName ref="#Valette"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-03-09"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Cardinal Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -5537,12 +5542,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Christine">Christine of France</persName>
-            <placeName>Turin</placeName>
-            <date>1639-03-07</date>
+            <persName ref="#Christine"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-03-07"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Cardinal Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -5702,12 +5707,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Christine">Christine of France</persName>
-            <placeName>Turin</placeName>
-            <date>1639-03-07</date>
+            <persName ref="#Christine"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-03-07"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Cardinal Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -5867,13 +5872,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Thémines">Thémines</persName>
-            <placeName ref="#Auray">Auray</placeName>
-            <!-- Day and month recorded in letter, but not year. Way to convey precision for year is low? -->
-            <date>1627-18-08</date>
+            <persName ref="#Thémines"/>
+            <placeName ref="#Auray"/>
+            <date when="1627-08-18"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -5952,12 +5956,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Estrées">Estrées</persName>
-            <placeName ref="#Coeuvres">Coeuvres</placeName>
-            <date>1635-13-07</date>
+            <persName ref="#Estrées"/>
+            <placeName ref="#Coeuvres"/>
+            <date when="1635-07-13"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -6021,16 +6025,16 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Hospital">l'Hospital</persName>
-            <placeName ref="#Dijon">Dijon</placeName>
-            <date>1635-05-28</date>
+            <persName ref="#Hospital"/>
+            <placeName ref="#Dijon"/>
+            <date when="1635-05-28"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
-          <note>L'Hospital prepares to return to the front.</note>
+          <note>L'Hospital describes his preparations to return to the front.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6209,19 +6213,19 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Epinay">Epinay</persName>
-            <placeName ref="#Paris">Paris</placeName>
-            <date cert="high">1631-08-04</date>
+            <persName ref="#Epinay"/>
+            <placeName ref="#Paris"/>
+            <date when="1631-08-04"/>
             <note>The year is missing from dateline but is provided on the reverse of the letter,
               below the sender's name.</note>
           </correspAction>
           <correspAction type="received">
-            <persName>Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
-          <note>Epinay shares evidence that the <hi rend="italic">Infante</hi> is well disposed to
-            France.</note>
+          <note>Epinay shares news of a letter he saw that indicates the <hi rend="italic"
+              >Infante</hi> is well disposed to France.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6313,12 +6317,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Montmorency">Montmorency</persName>
-            <placeName ref="#Grange">La Grange des Prés</placeName>
-            <date>1629-20-09</date>
+            <persName ref="#Montmorency"/>
+            <placeName ref="#Grange"/>
+            <date when="1629-09-20"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -6330,7 +6334,7 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99923_132070v_0001-hpr.jpg"/>
-        <opener><salute>Monsieur</salute></opener>
+        <lb/><opener><salute>Monsieur</salute></opener>
         <p><lb/>Comme le courrier <lb/>partoit, Monsieur <gap reason="illegible"/>
           <lb/>est arrivé, <gap reason="illegible"/>
           <lb/><gap reason="illegible"/>le plus dilli-<lb/>gemment qu'il a <gap reason="illegible"/>
@@ -6400,16 +6404,16 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#HenriettaMaria">Henrietta Maria</persName>
+            <persName ref="#HenriettaMaria"/>
             <placeName/>
             <date/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
-          <note>Henriette-Marie shares her concern over an ambassador's offense to Louis XIII (or
+          <note>Henrietta Maria shares her concern over an ambassador's offense to Louis XIII (or
             possibly Louis' offense of an ambassador).</note>
         </correspDesc>
       </profileDesc>
@@ -6470,9 +6474,8 @@
             <sic><choice>
                 <orig>saues</orig>
                 <reg>saves</reg>
-                <corr>savez</corr>
-              </choice>
-            </sic>
+              </choice></sic>
+            <corr>savez</corr>
           </choice> bien desja <lb/>et combien je suis</ab>
         <lb/>
         <closer><signed>Vostre bien affectionnee <lb/>cousine <lb/>Henriette Marie</signed></closer>
@@ -6543,12 +6546,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Balzac">Balzac</persName>
+            <persName ref="#Balzac"/>
             <placeName/>
-            <date>1622-10-04</date>
+            <date when="1622-10-04"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -6560,7 +6563,7 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99921_130530v_0001-hpr_1r.jpg" n="1r"/>
-        <opener>
+        <lb/><opener>
           <lb/><dateline>4 Octob 1622</dateline>
           <lb/><salute>Monseigneur,</salute>
         </opener>
@@ -6730,12 +6733,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Richelieu">Richelieu</persName>
-            <placeName ref="#Mornans">Mornans</placeName>
-            <date>1622-11-18</date>
+            <persName ref="#Richelieu"/>
+            <placeName ref="#Mornans"/>
+            <date when="1622-11-18"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#MX">Unnamed "Monsieur"</persName>
+            <rs ref="#MX">Unknown male correspondent addressed as <q>Monsieur</q></rs>
             <placeName/>
             <date/>
           </correspAction>
@@ -6749,7 +6752,7 @@
         <pb facs="MLM99927_136119v_0001-hpr_1r.jpg"/>
         <lb/>
         <opener><dateline>Mornan 18-Nov-1622</dateline>
-          <lb/>Monsieur</opener>
+          <lb/><salute>Monsieur</salute></opener>
         <ab>Je n'ay pas fait grandes affaires puisque <lb/>quoy que <choice>
             <orig>i</orig>
             <reg>j</reg>
@@ -6855,14 +6858,17 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice> vous diray. Trop longues a escrire. <lb/>Si la Reine n'a rien, de <choice>
-            <orig>prest</orig>
-            <expan>present</expan>
+            <sic>prest</sic>
+            <corr>present</corr>
           </choice>, <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> donnerays volontiers <lb/>la grande <seg>agraffe<note>an ornamental
             clasp</note></seg> qu'a <persName ref="#Bragelogne">Madame Bouthillier</persName> ou il
-          y a de fort beaux <expan>diaman<ex>t</ex>s</expan> et ce sans <choice>
+          y a de fort beaux <choice>
+            <sic>diamans</sic>
+            <corr>diamants</corr>
+          </choice> et ce sans <choice>
             <sic>espeance</sic>
             <corr>despense</corr>
           </choice> de <lb/>paiement, rien n'estant mieux a la Reine que ce que <lb/>est a des
@@ -6880,8 +6886,8 @@
           </choice> vous prie, l'affaire de Chanteloube</p>
         <lb/>
         <closer><salute>Monsieur <lb/>Vostre tres-affectionné a vous / <choice>
-              <orig>bisnt</orig>
-              <expan>obeissant</expan>
+              <sic>bisnt</sic>
+              <corr>obeissant</corr>
             </choice></salute>
           <lb/><signed>Le Cardinal De Richelieu</signed>
           <lb/><dateline>De Mornan Le 18 Novembre 1622.</dateline></closer>
@@ -6938,12 +6944,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Richelieu">Richelieu</persName>
-            <placeName ref="#Rueil">Rueil</placeName>
-            <date>1639-01-19</date>
+            <persName ref="#Richelieu"/>
+            <placeName ref="#Rueil"/>
+            <date when="1639-01-19"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Ferdinando">Ferdinando</persName>
+            <persName ref="#Ferdinando"/>
             <placeName/>
           </correspAction>
           <note>Richelieu adds his support of the bishop of Beziers to that previously provided by
@@ -6954,7 +6960,7 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99932_136121v_0001-hpr.jpg"/>
-        <opener><lb/>Monsieur</opener>
+        <lb/><opener><salute>Monsieur</salute></opener>
         <p><lb/>Le Roy <choice>
             <orig>escriuant</orig>
             <reg>escrivant</reg>
@@ -7046,13 +7052,13 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
-            <date>1635-02-27</date>
+            <date when="1635-02-27"/>
             <note>The date of writing is indicated on the reverse of the letter.</note>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Alvin">Alvin</persName>
+            <persName ref="#Alvin"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -7178,12 +7184,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#FX">Unnamed "Madame"</persName>
+            <rs ref="#FX">Unknown female correspondent addressed as <q>Madame</q></rs>
             <placeName/>
             <date/>
           </correspAction>
@@ -7195,7 +7201,7 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99925_136118v_0001-hpr.jpg"/>
-        <opener>Madame</opener>
+        <lb/><opener><salute>Madame</salute></opener>
         <p><lb/>J'ay receu la lettre qu'il vous a pleu me <lb/>faire l'honeur de m'escrire en <choice>
             <orig>faueur</orig>
             <reg>faveur</reg>
@@ -7271,12 +7277,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Sully">Sully</persName>
+            <persName ref="#Sully"/>
             <placeName/>
-            <date>1625-01-31</date>
+            <date when="1625-01-31"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -7288,7 +7294,7 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99913_117073v_0001-_1r"/>
-        <opener><lb/><salute>Monsieur</salute></opener>
+        <lb/><opener><salute>Monsieur</salute></opener>
         <p><lb/>Je ne doubte point que comme par la sainctete de vostre profession vos <unclear
             resp="#JT" cert="high">yeux</unclear> sont <choice>
             <orig>esleues</orig>
@@ -7433,25 +7439,26 @@
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Louis13"/>
-            <placeName ref="#Plessis">Le Plessis-aux-Bois</placeName>
-            <date>1634-09-29</date>
+            <placeName ref="#Plessis"/>
+            <date when="1634-09-29"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="#Richelieu">Richelieu</persName>
-            <persName ref="#Aligre">Aligre</persName>
-            <persName ref="#Chavigny">Chavigny</persName>
+            <persName ref="#Richelieu"/>
+            <persName ref="#Aligre"/>
+            <persName ref="#Chavigny"/>
             <placeName/>
             <date/>
           </correspAction>
           <note>Louis informs Richelieu, Aligre, and Chavigny that he will not pardon Puylaurens for
-            his treasonous unless he confesses and shows complete submission to the king.</note>
+            his treasonous acts unless he confesses and shows complete submission to the
+            king.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99915_120604v_0001-hpr.jpg"/>
-        <opener><lb/><salute>Mon Cousin le Cardinal de Richelieu, et les <lb/>Sieurs <persName
+        <lb/><opener><salute>Mon Cousin le Cardinal de Richelieu, et les <lb/>Sieurs <persName
               ref="#Aligre">garde des Seaux</persName> et <persName ref="#Chavigny"
               >Boutilier</persName> secretaire <lb/>d'estat</salute></opener>
         <ab>se <choice>
@@ -7525,12 +7532,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#HenriettaMaria">Henrietta Maria</persName>
+            <persName ref="#HenriettaMaria"/>
             <placeName/>
             <date/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="Richelieu">Richelieu</persName>
+            <persName ref="#Richelieu"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -7542,7 +7549,7 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99936_200045v_0001-hpr.jpg"/>
-        <opener><salute>Mon cousin,</salute></opener>
+        <lb/><opener><salute>Mon cousin,</salute></opener>
         <ab><choice>
             <sic resp="JT" cert="high">Sette sy</sic>
             <corr>Celle-ci</corr>
@@ -7631,12 +7638,12 @@
         </langUsage>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Richelieu">Richelieu</persName>
-            <placeName ref="Saumur">Saumur</placeName>
-            <date>1620-10-23</date>
+            <persName ref="#Richelieu"/>
+            <placeName ref="#Saumur"/>
+            <date when="1620-10-23"/>
           </correspAction>
           <correspAction type="received">
-            <persName ref="Rohan">Rohan</persName>
+            <persName ref="Rohan"/>
             <placeName/>
             <date/>
           </correspAction>
@@ -7648,7 +7655,7 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="IMG_1835.JPG"/>
-        <opener><salute>Monsieur.</salute></opener>
+        <lb/><opener><salute>Monsieur.</salute></opener>
         <ab>Je pense que le zele que vous avez toujours monstré au <lb/><choice>
             <orig>seruice</orig>
             <reg>service</reg>
