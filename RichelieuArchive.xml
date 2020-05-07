@@ -15,7 +15,7 @@
       <publicationStmt>
         <publisher>Julee Tanner</publisher>
         <pubPlace>Seattle, WA</pubPlace>
-        <date>2020</date>
+        <date when="2020"/>
         <availability status="restricted">
           <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
             Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -111,7 +111,7 @@
               <imprint>
                 <publisher>Cambridge University Press</publisher>
                 <pubPlace>Cambridge</pubPlace>
-                <date>1984</date>
+                <date when="1984"/>
               </imprint>
             </monogr>
           </biblStruct>
@@ -867,7 +867,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -889,7 +889,7 @@
             <biblScope unit="page" from="1" to="2"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -1104,7 +1104,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -1126,7 +1126,7 @@
             <biblScope unit="page" from="2" to="3"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -1410,7 +1410,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -1432,7 +1432,7 @@
             <biblScope unit="page" from="3" to="4"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -1625,7 +1625,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -1647,7 +1647,7 @@
             <biblScope unit="page">4</biblScope>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -1739,7 +1739,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -1761,7 +1761,7 @@
             <biblScope unit="page">5</biblScope>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -1991,7 +1991,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -2013,7 +2013,7 @@
             <biblScope unit="page">6</biblScope>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -2136,7 +2136,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -2158,7 +2158,7 @@
             <biblScope unit="page" from="6" to="7"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -2267,7 +2267,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -2289,7 +2289,7 @@
             <biblScope unit="page">7</biblScope>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -2457,7 +2457,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -2479,7 +2479,7 @@
             <biblScope unit="page">8</biblScope>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -2685,7 +2685,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -2707,7 +2707,7 @@
             <biblScope unit="page" from="9" to="10"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -3033,7 +3033,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -3055,7 +3055,7 @@
             <biblScope unit="page" from="10" to="11"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -3356,7 +3356,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -3378,7 +3378,7 @@
             <biblScope unit="page" from="11" to="13"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -3724,7 +3724,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -3746,7 +3746,7 @@
             <biblScope unit="page" from="13" to="14"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -3983,7 +3983,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -4005,7 +4005,7 @@
             <biblScope unit="page" from="14" to="16"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -4450,7 +4450,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -4472,7 +4472,7 @@
             <biblScope unit="page" from="17" to="18"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -4845,7 +4845,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -4867,7 +4867,7 @@
             <biblScope unit="page">19</biblScope>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -5084,7 +5084,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -5106,7 +5106,7 @@
             <biblScope unit="page" from="19" to="20"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -5309,7 +5309,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -5331,7 +5331,7 @@
             <biblScope unit="page" from="20" to="21"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -5507,7 +5507,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -5529,7 +5529,7 @@
             <biblScope unit="page">21</biblScope>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -5672,7 +5672,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -5694,7 +5694,7 @@
             <biblScope unit="page">22</biblScope>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
-            <date>1649</date>
+            <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
               Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
@@ -5823,7 +5823,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -5907,7 +5907,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -5988,7 +5988,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -6054,7 +6054,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -6096,7 +6096,7 @@
           <correspAction type="sent">
             <persName ref="#Hepburn">Hepburn</persName>
             <placeName/>
-            <date>1629-08-16</date>
+            <date when="1629-08-16"/>
           </correspAction>
           <correspAction type="received">
             <persName ref="#Richeliu">Richelieu</persName>
@@ -6172,7 +6172,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -6272,7 +6272,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -6362,7 +6362,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -6491,7 +6491,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -6688,7 +6688,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -6903,7 +6903,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -7011,7 +7011,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -7147,7 +7147,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -7236,7 +7236,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -7401,7 +7401,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -7490,7 +7490,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
@@ -7592,7 +7592,7 @@
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
-          <date>2020</date>
+          <date when="2020"/>
           <availability status="restricted">
             <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
               Creative Commons Attribution--ShareAlike 4.0 International License</licence>
