@@ -340,8 +340,7 @@
           >https://en.wikisource.org/wiki/Hepburn,_James_(d.1637)_(DNB00)</idno>
         <birth/>
         <death when="1637"/>
-        <note>Scottish soldier of fortune who, as Commander of the Scots Brigade, served under
-          Chatillon in Lorraine in 1637.</note>
+        <note>Commander of the Scots Brigade who served under Chatillon in Lorraine in 1637.</note>
       </person>
       <person xml:id="Hospital">
         <persName type="main">Francois de l'Hospital, comte du Hallier</persName>
@@ -388,7 +387,7 @@
         <birth when="1601"/>
         <death when="1643"/>
         <note>The second Bourbon king, Louis ascended the throne at the assassination of his father
-          Henry IV in 1610 and forcibly took power from his mother and regent, Marie de'Medici, in
+          Henry IV in 1610 and forcibly took power from his mother and regent, Marie de Medici, in
           1617. Considered a suspicious and insecure ruler, Louis relied on the council of a
           succession of competing advisors and favorites, most notably Cardinal Richelieu.</note>
       </person>
@@ -532,7 +531,7 @@
         <idno type="VIAF">37263293</idno>
         <birth when="1553"/>
         <death when="1627"/>
-        <note>Member of the court of Henry IV and supporter of Marie de'Medici during the regency,
+        <note>Member of the court of Henry IV and supporter of Marie de Medici during the regency,
           named Marshall of France in 1616. In 1619 Thémines' son Antoine killed Henri du Plessis,
           the older brother of the future Cardinal Richelieu, in a duel.</note>
       </person>
@@ -903,9 +902,9 @@
         <textClass>
           <keywords>
             <term>Piedmont Civil War</term>
-            <term>soldiers' pay</term>
-            <term>munitions</term>
-            <term>fortifications</term>
+            <term>Recruits</term>
+            <term>Military expenditures</term>
+            <term>Fortifications</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -1140,8 +1139,9 @@
         <textClass>
           <keywords>
             <term>Piedmont Civil War</term>
-            <term>soldiers' pay</term>
-            <term>court etiquette</term>
+            <term>Military expenditures</term>
+            <term>Expressions of deference</term>
+            <term>Imprisonment</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -1445,9 +1445,9 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
-            <term>bereavement</term>
-            <term>court etiquette</term>
+            <term>Bereavement</term>
+            <term>Largesse</term>
+            <term>Expressions of gratitude</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -1462,8 +1462,8 @@
             <date/>
           </correspAction>
           <note>La Valette sends condolences on the passing of Father Joseph, thanks Richelieu for
-            sending additional funds, and indicates an report on the situation with Father Monod and
-            military operations is forthcoming.</note>
+            sending additional funds for military operations, and indicates further information on
+            the situation with Father Monod and military operations is forthcoming.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -1660,9 +1660,8 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>career advancement</term>
-            <term>petitioning</term>
-            <term>court etiquette</term>
+            <term>Preferment</term>
+            <term>Petitioning</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -1775,9 +1774,8 @@
         <textClass>
           <keywords>
             <term>Piedmont Civil War</term>
-            <term>military preparations</term>
-            <term>petitioning</term>
-            <term>court etiquette</term>
+            <term>Expressions of loyalty</term>
+            <term>Petitioning</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -2024,6 +2022,13 @@
         <langUsage>
           <language ident="it">Italian as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Expressions of loyalty</term>
+            <term>Expressions of obedience</term>
+            <term>Imprisonment</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Aglie"/>
@@ -2169,6 +2174,11 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Expressions of politesse</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Christine"/>
@@ -2300,6 +2310,12 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Petitioning</term>
+            <term>Expressions of loyalty</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Christine"/>
@@ -2490,6 +2506,14 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Imprisonment</term>
+            <term>Military expenditures</term>
+            <term>Fortifications</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
@@ -2718,6 +2742,15 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Expressions of loyalty</term>
+            <term>Military expenditures</term>
+            <term>Munitions</term>
+            <term>Imprisonment</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
@@ -3066,6 +3099,14 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Military expenditures</term>
+            <term>Mercenaries</term>
+            <term>Fortifications</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
@@ -3389,6 +3430,14 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Munitions</term>
+            <term>Fortifications</term>
+            <term>Troop movements</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
@@ -3757,6 +3806,14 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Bereavement</term>
+            <term>Troop movements</term>
+            <term>Officers</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
@@ -4016,6 +4073,15 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Recruits</term>
+            <term>Military expenditures</term>
+            <term>Diplomacy</term>
+            <term>Siege warfare</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
@@ -4483,6 +4549,13 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Siege warfare</term>
+            <term>Recruits</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
@@ -4878,6 +4951,13 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Petitioning</term>
+            <term>Expressions of loyalty</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Christine"/>
@@ -4889,8 +4969,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Christine has written Louis XIII for military aid in defending her regency of Savoy,
-            and she also asks Richelieu to plead her case with the king. She insists on her
+          <note>Christine has written Louis XIII for military aid in defending the regency of Savoy;
+            she asks Richelieu to plead her case with the king. She insists on her
             continuted willingness to serve the interests of France.</note>
         </correspDesc>
       </profileDesc>
@@ -5117,6 +5197,14 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Troop movements</term>
+            <term>Officers</term>
+            <term>Military expenditures</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
@@ -5342,6 +5430,14 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Recruits</term>
+            <term>Expressions of politesse</term>
+            <term>Expressions of deference</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
@@ -5540,6 +5636,12 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Petitioning</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Christine"/>
@@ -5705,6 +5807,12 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmont Civil War</term>
+            <term>Petitioning</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Christine"/>
@@ -6023,6 +6131,11 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Military expenditures</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Hospital"/>
@@ -6092,6 +6205,13 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Mercenaries</term>
+            <term>Officers</term>
+            <term>Expressions of gratitude</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Hepburn">Hepburn</persName>
@@ -6211,6 +6331,12 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Royal courts</term>
+            <term>Diplomacy</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Epinay"/>
@@ -6224,8 +6350,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Epinay shares news of a letter he saw that indicates the <hi rend="italic"
-              >Infante</hi> is well disposed to France.</note>
+          <note>Epinay shares the intelligence that he saw a letter signed by the Infanta Maria Anna
+            sending honors to Queen Mother Marie de Medici.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6315,6 +6441,12 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Expressions of loyalty</term>
+            <term>Expressions of obedience</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Montmorency"/>
@@ -6334,7 +6466,8 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99923_132070v_0001-hpr.jpg"/>
-        <lb/><opener><salute>Monsieur</salute></opener>
+        <lb/>
+        <opener><salute>Monsieur</salute></opener>
         <p><lb/>Comme le courrier <lb/>partoit, Monsieur <gap reason="illegible"/>
           <lb/>est arrivé, <gap reason="illegible"/>
           <lb/><gap reason="illegible"/>le plus dilli-<lb/>gemment qu'il a <gap reason="illegible"/>
@@ -6402,6 +6535,12 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Diplomacy</term>
+            <term>Royal courts</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#HenriettaMaria"/>
@@ -6413,8 +6552,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Henrietta Maria shares her concern over an ambassador's offense to Louis XIII (or
-            possibly Louis' offense of an ambassador).</note>
+          <note>Henrietta Maria shares her concern over an offence given by an ambassador to Louis
+            XIII (or possibly Louis' offense of an ambassador).</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6544,6 +6683,13 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Preferment</term>
+            <term>Religious controversy</term>
+            <term>Concern with reputation</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Balzac"/>
@@ -6563,7 +6709,8 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99921_130530v_0001-hpr_1r.jpg" n="1r"/>
-        <lb/><opener>
+        <lb/>
+        <opener>
           <lb/><dateline>4 Octob 1622</dateline>
           <lb/><salute>Monseigneur,</salute>
         </opener>
@@ -6662,8 +6809,9 @@
           </choice><lb/>autre siecle que le nostre, et que mon nom<lb/>aille Jusqu'a la posterité,
           elle scaura que cete<lb/>consideration m'obligea premierement de reche-<pb
             facs="MLM99921_130530v_0001-hpr_4v.jpg" n="4v"/><lb/>rcher vostre connoissance, et que
-          vous ayant ouÿ<lb/> parler vous gaignastes si absolument mon Espr-<lb/>it et mon
-          affection, que despuis ce temps la Je<lb/>vous regarday tousjours comme <choice>
+          vous ayant ouÿ<lb/> parler vous <seg>gaignastes<note>possibly from Middle French <hi
+                rend="italic">gaigner</hi>, to win</note></seg> si absolument mon Espr-<lb/>it et
+          mon affection, que despuis ce temps la Je<lb/>vous regarday tousjours comme <choice>
             <orig>vn</orig>
             <reg>un</reg>
           </choice> homme ext-<lb/>raordinaire, et fus passionnement.</p>
@@ -6731,6 +6879,14 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Income properties</term>
+            <term>Largesse</term>
+            <term>Marriage</term>
+            <term>Aristocracy</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Richelieu"/>
@@ -6743,7 +6899,7 @@
             <date/>
           </correspAction>
           <note>Richelieu discusses property negotions between Louis XIII and Marie de Medici and
-            suggests possible wedding presents for Marie to present to Bernard de La Valette.</note>
+            suggests wedding presents that Marie might present to Bernard de La Valette.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6846,10 +7002,9 @@
             <reg>scavoit</reg>
           </choice> bien <lb/>que c'estoit <placeName ref="#StGermain">St Germain</placeName> qui
           avoit pretendu cette <pb facs="MLM99928_136119v_0002-hpr_2v.jpg"/>
-          <lb/>cette Abbaié et quelques autres <unclear reason="illegible" resp="JT" cert="medium">
-            en auroit <del>puis</del>prits</unclear> qui <lb/>taschaient de brouiller, mais qu'elle
-          les rangeoit bien. <lb/>J'estime cela important pour plusieurs raisons. <lb/>Je
-            s<del>p</del><add place="above">ens</add> a la Reine pour faire <choice>
+          <lb/>cette Abbaié et quelques autres en auroit <del>pris</del>prits qui <lb/>taschaient de
+          brouiller, mais qu'elle les rangeoit bien. <lb/>J'estime cela important pour plusieurs
+          raisons. <lb/>Je s<del>p</del><add place="above">ens</add> a la Reine pour faire <choice>
             <orig>vn</orig>
             <reg>un</reg>
           </choice> present au <persName ref="#Bernard">Marquis <lb/>de la Valette</persName> et ses
@@ -6942,6 +7097,13 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Royal courts</term>
+            <term>Diplomacy</term>
+            <term>Social advancement</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Richelieu"/>
@@ -6952,15 +7114,15 @@
             <persName ref="#Ferdinando"/>
             <placeName/>
           </correspAction>
-          <note>Richelieu adds his support of the bishop of Beziers to that previously provided by
-            Louis XIII.</note>
+          <note>Richelieu seconds the support previously provided by Louis XIII to the brother of the bishop of Beziers.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99932_136121v_0001-hpr.jpg"/>
-        <lb/><opener><salute>Monsieur</salute></opener>
+        <lb/>
+        <opener><salute>Monsieur</salute></opener>
         <p><lb/>Le Roy <choice>
             <orig>escriuant</orig>
             <reg>escrivant</reg>
@@ -7050,6 +7212,12 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Fortifications</term>
+            <term>Munitions</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Richelieu"/>
@@ -7182,6 +7350,12 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Social advancement</term>
+            <term>Aristocracy</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Richelieu"/>
@@ -7201,7 +7375,8 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99925_136118v_0001-hpr.jpg"/>
-        <lb/><opener><salute>Madame</salute></opener>
+        <lb/>
+        <opener><salute>Madame</salute></opener>
         <p><lb/>J'ay receu la lettre qu'il vous a pleu me <lb/>faire l'honeur de m'escrire en <choice>
             <orig>faueur</orig>
             <reg>faveur</reg>
@@ -7275,6 +7450,13 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Aristocracy</term>
+            <term>Expressions of politesse</term>
+            <term>Petitioning</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Sully"/>
@@ -7294,7 +7476,8 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99913_117073v_0001-_1r"/>
-        <lb/><opener><salute>Monsieur</salute></opener>
+        <lb/>
+        <opener><salute>Monsieur</salute></opener>
         <p><lb/>Je ne doubte point que comme par la sainctete de vostre profession vos <unclear
             resp="#JT" cert="high">yeux</unclear> sont <choice>
             <orig>esleues</orig>
@@ -7436,6 +7619,13 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Aristocracy</term>
+            <term>Treachery</term>
+            <term>Royal administration</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Louis13"/>
@@ -7458,7 +7648,8 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99915_120604v_0001-hpr.jpg"/>
-        <lb/><opener><salute>Mon Cousin le Cardinal de Richelieu, et les <lb/>Sieurs <persName
+        <lb/>
+        <opener><salute>Mon Cousin le Cardinal de Richelieu, et les <lb/>Sieurs <persName
               ref="#Aligre">garde des Seaux</persName> et <persName ref="#Chavigny"
               >Boutilier</persName> secretaire <lb/>d'estat</salute></opener>
         <ab>se <choice>
@@ -7530,6 +7721,11 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Royal courts</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#HenriettaMaria"/>
@@ -7549,7 +7745,8 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="MLM99936_200045v_0001-hpr.jpg"/>
-        <lb/><opener><salute>Mon cousin,</salute></opener>
+        <lb/>
+        <opener><salute>Mon cousin,</salute></opener>
         <ab><choice>
             <sic resp="JT" cert="high">Sette sy</sic>
             <corr>Celle-ci</corr>
@@ -7636,6 +7833,14 @@
         <langUsage>
           <language ident="fr-1694acad">French as written in the 17th century</language>
         </langUsage>
+        <textClass>
+          <keywords>
+            <term>Aristocracy</term>
+            <term>Officers</term>
+            <term>Divine right theory</term>
+            <term>Religious controversy</term>
+          </keywords>
+        </textClass>
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Richelieu"/>
@@ -7655,7 +7860,8 @@
     <text xml:lang="fr-1694acad">
       <body>
         <pb facs="IMG_1835.JPG"/>
-        <lb/><opener><salute>Monsieur.</salute></opener>
+        <lb/>
+        <opener><salute>Monsieur.</salute></opener>
         <ab>Je pense que le zele que vous avez toujours monstré au <lb/><choice>
             <orig>seruice</orig>
             <reg>service</reg>
@@ -7679,7 +7885,7 @@
           vostre b<damage><gap agent="tear"/></damage>
           <lb/>d'asseurer l'assembleé de ceux de la Religion, qui lors se
             tenoi<supplied>t</supplied><damage><gap agent="tear"/></damage>
-          <lb/>soubs la permission et autorité de <seg>S.M.<note>Sa Majesté</note></seg>, que tout
+          <lb/>soubs la permission et autorité de Sa Majesté, que tout
           ce qui leur a<damage><gap agent="tear"/></damage>
           <lb/>promis, leur seroit tenue, et effectué, jusques a un Iota, a quoy ad<damage><gap
               agent="tear"/></damage>
@@ -7752,7 +7958,7 @@
             <orig>Breuet</orig>
             <reg>Brevet</reg>
           </choice> ce que <pb facs="IMG_1836.JPG"/>
-          <lb/>depuis il auroit pleu a S.M. ratifiér par sa propre bouche tesmoignant le con-
+          <lb/>depuis il auroit pleu a Sa Majesté ratifiér par sa propre bouche tesmoignant le con-
           <lb/>tentement qu'elle <choice>
             <orig>auoit</orig>
             <reg>avoit</reg>
@@ -7844,7 +8050,7 @@
           </choice>
           <unclear>Cons</unclear>, qui <seg>trampent<note>Tramper. Middle French for "tremper," to
               be involved or mixed up in something.</note></seg> depuis 5. ou 6. ans dans <lb/>le
-          Palais. Satisfaire en somme aux bonnes, et sainctes intentions de <lb/>S.M., en est la
+          Palais. Satisfaire en somme aux bonnes, et sainctes intentions de <lb/>Sa Majesté, en est la
           plus courte voye.</p>
         <p><lb/>Et qui en cherche, ou Conseille une autre, doit estre suspect de quelque conseil
             pl<supplied cert="medium">us</supplied>
