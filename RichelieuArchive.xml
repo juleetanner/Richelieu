@@ -139,8 +139,7 @@
         <idno type="VIAF">21161812</idno>
         <birth when="1550"/>
         <death when="1635"/>
-        <note>Keeper of the Seals <hi rend="ital">(Garde des sceaux)</hi> of France from 1624 to
-          1635.</note>
+        <note>Keeper of the Seals (Garde des sceaux) of France from 1624 to 1635.</note>
       </person>
       <person sortKey="San_Martino,_Filippo,_conte_d'Agliè" xml:id="Aglie">
         <persName type="main">Filippo San Martino, conte d'Agliè</persName>
@@ -183,8 +182,8 @@
         <idno type="VIAF">54143917</idno>
         <birth when="1597"/>
         <death when="1654"/>
-        <note>A writer of popular epistolary essays and founding member of the <hi rend="italic"
-            >Académie française</hi>.</note>
+        <note>A writer of popular epistolary essays and founding member of the Académie
+          française.</note>
       </person>
       <person sortKey="Nogaret_de_La_Valette,_Bernard_de,_2e_duc_d'Épernon" xml:id="Bernard">
         <persName type="main">Bernard de Nogaret de La Valette, duc d'Épernon</persName>
@@ -203,8 +202,7 @@
         <birth when="1575"/>
         <death when="1653"/>
         <note>First president of the parliament of Toulouse, from 1632 until at least 1649. In 1632
-          he helped put down the rebellion of <persName ref="#Montmorency">Henri II de
-            Montmorency.</persName></note>
+          he helped put down the rebellion of Henri II de Montmorency.</note>
       </person>
       <person sortKey="Bragelogne,_Marie_de,_Madame_Bouthillier" xml:id="Bragelogne">
         <persName type="main">Marie de Bragelogne‏, Madame Bouthillier</persName>
@@ -262,7 +260,7 @@
         <death when="1652"/>
         <note>Appointed by Richelieu to secretary of state from 1628 and superintendant of finances
           from 1632, offices he held until the death of Louis XIII in 1643. He was also sent on many
-          diplomatic missions, sometimes with <persName ref="#PereJ">Père Joseph</persName>.</note>
+          diplomatic missions, sometimes with Père Joseph.</note>
       </person>
       <person sortKey="Christine,_duchess_consort_of_Savoy" xml:id="Christine">
         <persName type="main">Christine, duchess consort of Victor Amadeus I, duke of
@@ -392,9 +390,9 @@
         <birth when="1577"/>
         <death when="1638"/>
         <note>French Capuchin friar, friend and advisor to Cardinal Richelieu, unofficial negotiator
-          with German states, and the original <hi rend="italics">eminence grise</hi>. His
-          willingness to ally with Protestants against Catholic Spain thwarted Richelieu's efforts
-          to have him named cardinal Blanchard, pp. 125 and 270, n. 21).</note>
+          with German states, and the original "eminence grise." His willingness to ally with
+          Protestants against Catholic Spain thwarted Richelieu's efforts to have him named cardinal
+          Blanchard, pp. 125 and 270, n. 21).</note>
       </person>
       <person sortKey="Leganès,_Diego_Felipe_de_Guzmàn,_marquis_de" xml:id="Leganes">
         <persName type="main">Diego Felipe de Guzmàn, marquis de Leganès</persName>
@@ -435,9 +433,9 @@
         <birth when="1578"/>
         <death when="1621"/>
         <note>Grand Falconer of France and companion of Louis during the regency, he convinced the
-          young king to end the regency by force in a palace <hi rend="ital">coup d'état</hi> in
-          1617. Named constable of France in 1621, he died that same year of a fever while laying
-          seige to the Huguenot town of Montauban.</note>
+          young king to end the regency by force in a palace coup d'état in 1617. Named constable of
+          France in 1621, he died that same year of a fever while laying seige to the Huguenot town
+          of Montauban.</note>
       </person>
       <person sortKey="Maria-Anna,_Holy_Roman_Empress" xml:id="MariaAnna">
         <persName type="main">Maria-Anna, Holy Roman Empress</persName>
@@ -917,16 +915,15 @@
         <titleStmt>
           <title><persName ref="#Richelieu">Cardinal Richelieu</persName> to <persName
               ref="#Valette">Cardinal de la Valette</persName>, 6 January 1639</title>
-          <title type="sub">As transcribed by Charles <persName ref="#Vialart">Vialart</persName>
-            and published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -959,7 +956,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Recruits</term>
             <term>Military expenditures</term>
             <term>Fortifications</term>
@@ -981,7 +978,7 @@
                 La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>:
                 <date when="1639-01-17">17 January 1639</date></ref>
           </correspContext>
-          <note resp="#Vialart">In the hand of <persName ref="Sc3">Cherré</persName></note>
+          <note resp="#Vialart">In the hand of Cherré</note>
           <note/>
           <note>Richelieu assures La Valette that requested funds and munitions have been sent, and
             that additional troops will arrive in the spring. He also indicates he has sent a letter
@@ -1154,16 +1151,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de la Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 8 January 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -1196,7 +1192,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Military expenditures</term>
             <term>Expressions of deference</term>
             <term>Imprisonment</term>
@@ -1462,16 +1458,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 11 January 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -1678,16 +1673,15 @@
         <titleStmt>
           <title>The <persName ref="#Villa">Marquis de Ville</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 19 January 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Gloria
+              de Liberali. Distributed under a Creative Commons Attribution--ShareAlike 4.0
+              International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -1792,16 +1786,15 @@
         <titleStmt>
           <title><persName ref="#Christine">Christine of France</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -1834,7 +1827,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Expressions of loyalty</term>
             <term>Petitioning</term>
           </keywords>
@@ -2046,16 +2039,15 @@
         <titleStmt>
           <title>The <persName ref="#Aglie">Conte d'Agliè</persName> to <persName ref="#Richelieu"
               >Cardinal Richelieu</persName>, 14 January 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Gloria
+              de Liberali. Distributed under a Creative Commons Attribution--ShareAlike 4.0
+              International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -2199,16 +2191,15 @@
         <titleStmt>
           <title><persName ref="#Christine">Christine of France</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -2267,7 +2258,7 @@
               <orig>Monsievr</orig>
               <reg>Monsieur</reg>
             </choice>
-            <seg>mon <choice>
+            <seg>Mon <choice>
                 <orig>Covsin</orig>
                 <reg>Cousin</reg>
               </choice>,<note>As Princes of the Church, cardinals were addressed as "Mon Cousin" by
@@ -2338,16 +2329,15 @@
         <titleStmt>
           <title><persName ref="#Christine">Christine of France</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -2537,16 +2527,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -2579,7 +2568,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Imprisonment</term>
             <term>Military expenditures</term>
             <term>Fortifications</term>
@@ -2774,16 +2763,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 17 January 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -2816,7 +2804,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Expressions of loyalty</term>
             <term>Military expenditures</term>
             <term>Munitions</term>
@@ -3132,16 +3120,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 2 February 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -3174,7 +3161,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Military expenditures</term>
             <term>Mercenaries</term>
             <term>Fortifications</term>
@@ -3465,16 +3452,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, n.d.</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -3507,7 +3493,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Munitions</term>
             <term>Fortifications</term>
             <term>Troop movements</term>
@@ -3844,16 +3830,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 15 April 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -3886,7 +3871,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Bereavement</term>
             <term>Troop movements</term>
             <term>Officers</term>
@@ -4112,16 +4097,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, n.d.</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -4154,7 +4138,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Recruits</term>
             <term>Military expenditures</term>
             <term>Diplomacy</term>
@@ -4239,7 +4223,8 @@
           Chancelier, laquelle est tres-grande pour <choice>
             <orig>vne</orig>
             <reg>une</reg>
-          </choice> personne de son aage, c'est <choice>
+          </choice> personne de son <seg>aage<note>Middle French spelling of "age."</note></seg>,
+          c'est <choice>
             <orig>vne</orig>
             <reg>une</reg>
           </choice> fiévre tierce qui tient de la continuë. <choice>
@@ -4589,16 +4574,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, n.d.</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -4631,7 +4615,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Siege warfare</term>
             <term>Recruits</term>
             <term>diplomacy</term>
@@ -4993,16 +4977,15 @@
         <titleStmt>
           <title><persName ref="#Christine">Christine of France</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 5 January 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -5035,7 +5018,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Petitioning</term>
             <term>Expressions of loyalty</term>
           </keywords>
@@ -5242,16 +5225,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 19 March 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -5284,7 +5266,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Troop movements</term>
             <term>Officers</term>
             <term>Military expenditures</term>
@@ -5476,16 +5458,15 @@
         <titleStmt>
           <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 9 March 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -5518,7 +5499,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Recruits</term>
             <term>Expressions of politesse</term>
             <term>Expressions of deference</term>
@@ -5683,16 +5664,15 @@
         <titleStmt>
           <title><persName ref="#Christine">Christine of France</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 7 March 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -5725,7 +5705,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Petitioning</term>
           </keywords>
         </textClass>
@@ -5752,7 +5732,7 @@
               <orig>Monsievr</orig>
               <reg>Monsieur</reg>
             </choice>
-            <seg>mon <choice>
+            <seg>Mon <choice>
                 <orig>Covsin</orig>
                 <reg>Cousin</reg>
               </choice>,<note>As Princes of the Church, cardinals were addressed as "Mon Cousin" by
@@ -5857,16 +5837,15 @@
         <titleStmt>
           <title><persName ref="#Christine">Christine of France</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 7 March 1639</title>
-          <title type="sub">As transcribed by <persName ref="Vialart">Charles Vialart</persName> and
-            published in 1649</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -5899,7 +5878,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Piedmont Civil War</term>
+            <term>Piedmontese Civil War</term>
             <term>Petitioning</term>
           </keywords>
         </textClass>
@@ -5926,7 +5905,7 @@
               <orig>Monsievr</orig>
               <reg>Monsieur</reg>
             </choice>
-            <seg>mon <choice>
+            <seg>Mon <choice>
                 <orig>Covsin</orig>
                 <reg>Cousin</reg>
               </choice>,<note>As Princes of the Church, cardinals were addressed as "Mon Cousin" by
@@ -6026,9 +6005,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA Unassigned.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
+              &amp; Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -6110,9 +6091,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA Unassigned.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
+              &amp; Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -6192,9 +6175,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA Unassigned.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
+              &amp; Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -6264,9 +6249,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA Unassigned.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
+              &amp; Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -6385,9 +6372,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA Unassigned.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
+              &amp; Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -6492,9 +6481,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA Unassigned.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
+              &amp; Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -6563,8 +6554,10 @@
         <p><lb/>Comme le courrier <lb/>partoit, <persName ref="Arpajon">Monsieur
             d'Arpajon</persName>
           <lb/>est arrivé, lequel <lb/>satisfera le plus dilli-<lb/>gemment qu'il ce pourra <lb/>a
-          vos ordres, il ce donne <lb/>l'<unclear>onneur</unclear> de vous en <gap
-            reason="illegible"/>
+          vos ordres, il ce donne <lb/>l'<choice>
+            <sic>onneur</sic>
+            <corr>honneur</corr>
+          </choice> de vous en <gap reason="illegible"/>
           <lb/>et moy de vous asseurer <lb/>que je suis, <lb/>Monsieur,</p>
         <lb/>
         <closer><salute><gap reason="illegible"/>tres humble <lb/>et obeissant <choice>
@@ -6588,10 +6581,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA 4801 (07). Gift of Mrs. Charles Wrightsman,
-              1993.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA 4801 (07). Gift of Mrs. Charles Wrightsman, 1993.
+              Photo courtesy the Morgan Library &amp; Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -6725,9 +6719,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA 6462.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA 6462. Photo courtesy the Morgan Library &amp;
+              Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -6932,9 +6928,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA 379.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA 379. Photo courtesy the Morgan Library &amp;
+              Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -7151,9 +7149,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. 1346-234.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. 1346-234. Photo courtesy the Morgan Library &amp;
+              Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -7266,9 +7266,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA Unassigned.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
+              &amp; Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -7338,16 +7340,14 @@
             <orig>leuees</orig>
             <reg>levees</reg>
           </choice> de gens <lb/>de guerre que le <persName ref="#Philip4">Roy D'espagne</persName>
-          fuit en la <lb/>frontiere de vostre gouvernement, me fait prendre <lb/>la plume, pour vous
+          fait en la <lb/>frontiere de vostre gouvernement, me fait prendre <lb/>la plume, pour vous
           dire que sa <choice>
             <orig>Maieste</orig>
             <reg>Majeste</reg>
-          </choice> desire <lb/><choice>
-            <sic resp="JT" cert="medium">incontinant</sic>
-            <corr>en continuant</corr>
-          </choice> la presente revue, que vous alliez <lb/>a <placeName ref="#Narbonne"
-            >Narbonne</placeName> et a <placeName ref="#Leucate">Leucate</placeName>, et meniez avec
-          vous <choice>
+          </choice> desire <lb/>
+          <unclear>en continuant</unclear> la presente revue, que vous alliez <lb/>a <placeName
+            ref="#Narbonne">Narbonne</placeName> et a <placeName ref="#Leucate">Leucate</placeName>,
+          et meniez avec vous <choice>
             <orig>vn</orig>
             <reg>un</reg>
           </choice>
@@ -7357,10 +7357,10 @@
             <orig>iugeriey</orig>
             <reg>jugeriey</reg>
           </choice> estre necessaires. Vous y tiendrez <lb/>s'il vous plaist soigneusement la main,
-          comme <lb/>aussy <unclear reason="illegible">ay</unclear> faite mettre promptement des
-          Munitions <lb/><del>et en fortifier les garnisons</del>si vous estimez qu'il <lb/><del>en
-            soit de besoin, en sorte que Ces Villes soient</del><add place="above">faille fortifier
-            la garnison de Leucate, le Roy le sent <metamark function="insertion">^</metamark></add>
+          comme <lb/>aussy ay faite mettre promptement des Munitions <lb/><del>et en fortifier les
+            garnisons</del>si vous estimez qu'il <lb/><del>en soit de besoin, en sorte que Ces
+            Villes soient</del><add place="above">faille fortifier la garnison de Leucate, le Roy le
+            sent <metamark function="insertion">^</metamark></add>
           <lb/><add place="left and bottom margin">sur vostre advis. Il <del><gap reason="illegible"
               /></del>
             <lb/><del><gap reason="illegible"/></del>y aura prit <lb/><gap reason="illegible"
@@ -7405,9 +7405,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA 1346-235.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA 1346-235. Photo courtesy the Morgan Library &amp;
+              Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -7502,9 +7504,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA 1346-254.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA 1346-254. Photo courtesy the Morgan Library &amp;
+              Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -7675,9 +7679,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA Unassigned.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
+              &amp; Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -7772,10 +7778,11 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
-            <p>The Morgan Library &amp; Museum. MA 4801 (07). Gift of Mrs. Charles Wrightsman,
-              1993.</p>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>The Morgan Library &amp; Museum. MA 4801 (07). Gift of Mrs. Charles Wrightsman, 1993.
+              Photo courtesy the Morgan Library &amp; Museum.</p>
           </availability>
         </publicationStmt>
         <sourceDesc>
@@ -7881,8 +7888,9 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
             <p>The Lambeth Palace Library. Thomas Murray Papers, MS 666. Photo Julee Tanner</p>
           </availability>
         </publicationStmt>
