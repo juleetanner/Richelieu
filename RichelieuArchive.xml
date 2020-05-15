@@ -6680,7 +6680,7 @@
         <opener><salute>Monsieur</salute></opener>
         <p><lb/>Comme le courrier <lb/>partoit, <persName ref="Arpajon">Monsieur
             d'Arpajon</persName>
-          <lb/>est arrivé, lequel <lb/>satisfera le plus dilli-<lb/>gemment qu'il ce pourra <lb/>a
+          <lb/>est arrivé, lequel <lb/>satisfera le plus dilli-<lb break="no"/>gemment qu'il ce pourra <lb/>a
           vos ordres, il ce donne <lb/>l'<choice>
             <sic>onneur</sic>
             <corr>honneur</corr>
@@ -6806,7 +6806,7 @@
           <choice>
             <sic resp="JT" cert="high">seste</sic>
             <corr>c'est</corr>
-          </choice> pour-<lb/>quoi je ne vous enparleray <choice>
+          </choice> pour-<lb break="no"/>quoi je ne vous enparleray <choice>
             <orig>dauan<lb/>tage</orig>
             <reg>davantage</reg>
           </choice> car je mesprise tant tout ce <pb facs="MLM99935_190649v_0002-hpr_2v.jpg"/>
@@ -6976,13 +6976,13 @@
         <p><lb/>C'est ce qui fait Monseigneur, que Je suis tres ayse<lb/>de vous voir aujourd'huy en <choice>
             <orig>vn</orig>
             <reg>un</reg>
-          </choice> lieu d'ou vous rempl-<lb/>irés toute la terre de lumiere, et ou vostre seul
-          exe-<lb/>mple aura tant d'autorite qu'il pourra faire <choice>
-            <orig>reue-<lb/>nir</orig>
-            <reg>reve-<lb/>nir</reg>
+          </choice> lieu d'ou vous rempl-<lb break="no"/>irés toute la terre de lumiere, et ou vostre seul
+          exe-<lb break="no"/>mple aura tant d'autorite qu'il pourra faire <choice>
+            <orig>reue-<lb break="no"/>nir</orig>
+            <reg>reve-<lb break="no"/>nir</reg>
           </choice> la face de l'eglize a la pureté de sa naissance.</p>
         <p><lb/>Certainement s'il y a apparance d'atandre ce bien<lb/>et de voir les esprits des
-          rebelles persuadés com-<lb/>me nous voyons leurs villes forcees, Vous estes celuy<lb/>de
+          rebelles persuadés com-<lb break="no"/>me nous voyons leurs villes forcees, Vous estes celuy<lb/>de
           qui nous le <choice>
             <orig>deuons</orig>
             <reg>devons</reg>
@@ -6996,7 +6996,7 @@
           </choice> pour <choice>
             <orig>vne</orig>
             <reg>une</reg>
-          </choice> derniere Instru-<lb/>ction, et la paix generalle des consciences: Et<lb/>moy,
+          </choice> derniere Instru-<lb break="no"/>ction, et la paix generalle des consciences: Et<lb/>moy,
           qui cherche il y a si longtemps l'idee de<lb/>l'eloquance sans que J'en <choice>
             <orig>trouue</orig>
             <reg>trouve</reg>
@@ -7026,11 +7026,11 @@
           elle scaura que cete<lb/>consideration m'obligea premierement de reche-<pb
             facs="MLM99921_130530v_0001-hpr_4v.jpg" n="4v"/><lb/>rcher vostre connoissance, et que
           vous ayant ouÿ<lb/> parler vous <seg>gaignastes<note>from Middle French "gaigner," to
-              win</note></seg> si absolument mon Espr-<lb/>it et mon affection, que despuis ce temps
+              win</note></seg> si absolument mon Espr-<lb break="no"/>it et mon affection, que despuis ce temps
           la Je<lb/>vous regarday tousjours comme <choice>
             <orig>vn</orig>
             <reg>un</reg>
-          </choice> homme ext-<lb/>raordinaire, et fus passionnement.</p>
+          </choice> homme ext-<lb break="no"/>raordinaire, et fus passionnement.</p>
         <closer>
           <lb/><salute>Monseigneur.<lb/>Vostre tres humble et tres obeissant <lb/><choice>
               <orig>seruiteur</orig>
@@ -7113,7 +7113,7 @@
             <date when="1622-11-18"/>
           </correspAction>
           <correspAction type="received">
-            <rs type="person" ref="#MX">Unknown male correspondent addressed as <q>Monsieur</q></rs>
+            <rs type="person" ref="#MX">unknown male correspondent</rs>
             <placeName/>
             <date/>
           </correspAction>
@@ -7576,7 +7576,7 @@
             <date/>
           </correspAction>
           <correspAction type="received">
-            <rs type="person" ref="#FX">Unknown female correspondent addressed as <q>Madame</q></rs>
+            <rs type="person" ref="#FX">unknown female correspondent</rs>
             <placeName/>
             <date/>
           </correspAction>
@@ -8194,7 +8194,7 @@
           tant de meilleurs affaires porter ses armes en lieu, ou on ne luy <lb/>oppose que de
           l'armes, sa presence tant necessarie ailleurs, ou on ne rem- <lb/>pare que de sa sacreé
           parole, et si ceux de <placeName ref="#Rochelle">la Rochelle</placeName>, chargez par
-          l'assem-<lb/>bleé de <placeName ref="Oudun">Loudun</placeName>, en cas d'inexecution apres
+          l'assem-<lb break="no"/>bleé de <placeName ref="Oudun">Loudun</placeName>, en cas d'inexecution apres
           les 6. mois, de <choice>
             <orig>conuoquer</orig>
             <reg>convoquer</reg>
