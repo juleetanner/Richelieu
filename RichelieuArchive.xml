@@ -9,7 +9,7 @@
           unpublished letters of Armand-Jean du Plessis, Cardinal Richelieu</title>
         <respStmt>
           <resp>Complied and transcribed by</resp>
-          <name ref="#JT">Juleee Tanner</name>
+          <name ref="#JT">Julee Tanner</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -426,8 +426,8 @@
           regarded as Richelieu's first diplomatic success (Levi, p. 81).</note>
       </person>
       <person sortKey="Hepburn,_James" xml:id="Hepburn">
-        <persName type="main">James Hepburn</persName>
-        <persName type="presentation">James Hepburn</persName>
+        <persName type="main">James Hepburn, Lt Col</persName>
+        <persName type="presentation">Lt Col James Hepburn</persName>
         <idno type="Wikisource"
           >https://en.wikisource.org/wiki/Hepburn,_James_(d.1637)_(DNB00)</idno>
         <birth/>
