@@ -743,7 +743,7 @@ Item number <xsl:value-of select="$num"/>:
                </xsl:attribute>
                <xsl:text>[default]</xsl:text>
              </a>
-             <xsl:text>, [normalized], [semi-diplomatic], </xsl:text>
+             <xsl:text>,&#x2003;[normalized],&#x2003;[semi-diplomatic],&#x2003;[facsimile],&#x2003;</xsl:text>
              <a>
                <xsl:attribute name="href">
                  <xsl:call-template name="rawDisplay.url">

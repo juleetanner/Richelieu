@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Julee Tanner Richelieu Archive
+I made it up —Syd, 2020-05-16
+-->
+<brand xmlns="http://www.w3.org/1999/xhtml">
+
+  <links>
+    <link rel="stylesheet" href="css/jtra/results.css" type="text/css"/>
+    <link rel="shortcut icon" href="icons/default/favicon.ico" />
+  </links>
+  
+  <dynaxml.links>
+    <link rel="stylesheet" href="css/jtra/content.css" type="text/css"/>
+    <link rel="shortcut icon" href="icons/default/favicon.ico" />
+  </dynaxml.links>
+  
+  <header>
+    <div class="header">
+      <img src="icons/jtra/R_upper_left.jpg"
+	   alt="image of “R” in Cardinal Richelieu’s handwrting, as his signature"
+	   style="width: 140px; height: 140px;"
+	   class="xtf-logo"/>
+      <img src="icons/jtra/Richelieu_upper_right.png"
+	   alt="image of Cardinal Richelieu"
+	   style="width: 140px; height: 140px;"
+	   class="your-logo" />
+      <h1 style="text-align:center;">Richelieu Archive</h1>
+      <h2 style="text-align:center;">by Julee Tanner</h2>
+      <h3>The correspondence of Armand-Jean du Plessis, cardinal duc de
+      Richelieu, encoded in <a
+      href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">TEI
+      P5</a>.</h3>
+      <br class="clear" />
+    </div>
+  </header>
+  
+  <dynaxml.header>
+    <div class="header">
+      <img src="icons/jtra/R_upper_left.jpg"
+	   alt="image of “R” in Cardinal Richelieu’s handwrting, as his signature"
+	   style="width: 140px; height: 140px;"
+	   class="xtf-logo"/>
+      <img src="icons/jtra/Richelieu_upper_right.png"
+	   alt="image of Cardinal Richelieu"
+	   style="width: 140px; height: 140px;"
+	   class="your-logo" />
+      <h1 style="text-align:center;">Richelieu Archive</h1>
+      <h2 style="text-align:center;">by Julee Tanner</h2>
+      <h3>The correspondence of Armand-Jean du Plessis, cardinal duc de
+      Richelieu, encoded in <a
+      href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">TEI
+      P5</a>.</h3>
+      <br class="clear" />
+    </div>
+  </dynaxml.header>
+  
+  <footer>
+    <div class="footer">
+      <a href="mailto:juleetanner@gmail.com">Comments? Questions?</a>
+      &#x2003;|&#x2003;
+      <a href="javascript://"
+	 onclick="javascript:window.open(
+		  '/xtf/search?smode=getLang',
+		  'popup',
+		  'width=500,height=200,resizable=no,scrollbars=no'
+		  )">Choose Language</a>
+      &#x2003;|&#x2003;
+      Brought to you by:
+      <a href="https://xtf.cdlib.org/">
+	<img src="icons/default/xtf_logo.gif"
+	     alt="eXtensible Text Framework"
+	     class="xtf-logo"/>
+      </a>
+    </div>
+  </footer>
+  
+</brand>
