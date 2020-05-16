@@ -1,3 +1,4 @@
+&   |&
 '   |d'y|0l'a|0m'a|2y|0n'a|2y|0s'y
 '`  |qu'à
 'a  |i'ay|0j'ay|0l'a|3y|0m'a|0n'a|3y|0qu'a
@@ -868,7 +869,7 @@ anqe|manquement|6ry
 anqu|manquement|6ry
 anr |anger
 ans |ainsi|1ns|1uons|1vons|1yons|0dans|0mains|0sans
-ansc|transcribed|8ption
+ansc|transcription
 ansi|ainsi
 ant |auant|1vant|1yant|2ent|0saint|2nté|0tant
 anta|auantageuse|1vantageuse|0mantuan
@@ -1923,7 +1924,7 @@ c'et|c'est
 c's |c'est
 c'st|c'est
 c't |c'est
-ca  |came|3p|2r|2s|1ela|1osa
+ca  |came|3p|2r|2s|1ela
 caa |cazal
 caab|capable
 caae|casale|2ualerie|2valerie
@@ -2454,8 +2455,8 @@ cnvi|convinced|4oitise
 cnvn|convinced
 cnvo|convoitise
 cnvr|converting
-co  |col|2me|2n|2sa|2up|1roy
-coa |coast|2sa
+co  |col|2me|2n|2up|1roy
+coa |coast
 coan|commande|8mens|;t|8r|9a|7é|3panion|6y
 coas|coast
 coat|coast
@@ -2468,12 +2469,12 @@ cocr|concorrer
 codi|condition|4uit
 codt|condition
 codu|conduit
-coe |chose|1ome|3me|3te|2nte
+coe |chose|1ome|3me|3te|2nte|2rte
 coed|colendissimo
 coei|conseil|7le|7s
 coen|colendissimo|2mmencer|6t|2ntente|8ment
 coer|coeuvres|2nseruation|<e|7er|9ons|6vation|7er|9ons|3verting
-coes|choses|1orrespondents|:re
+coes|choses|1orrespondents
 coet|competing
 coeu|coeuvres
 coev|coeuvres
@@ -2548,18 +2549,18 @@ copn|companion|6y
 copp|coppie
 cops|corps
 copt|competing|4te
-cor |corps|2urt
+cor |corps|3te|2urt
 cora|croiray
-core|contre|2rrespondents|:re|2urier|4tesy|1roire|3yre|0encore
+core|contre|2rrespondents|3te|2urier|4tesy|1roire|3yre|0encore
 corg|scourge
 cori|contribuer|:ez|2urier|4rier
 coro|control
 corp|corps
-corr|correspondents|:re|2urrier
-cors|corps|3respondents|:re|2urts
-cort|court|5esy|5s
-cos |chose|1oast|2rps|2sa|3té|1rois|0scots
-cosa|constable|2sa
+corr|correspondents|2urrier
+cors|corps|3respondents|2urts
+cort|corte|2urt|5esy|5s
+cos |chose|1oast|2rps|2sté|1rois|0scots
+cosa|constable
 cosd|considerables|9tion|8ed
 cose|chose|5s|1onseil|7le|7s|5ruation|<e|7er|9ons|6vation|7er|9ons
 cosi|conseil|7le|7s|4iderables|9tion|8ed|5stoient|4pirator|2sté|2usin|6e|2vsin
@@ -2569,9 +2570,9 @@ cosp|conspirator
 cosr|conseruation|<e|7er|9ons|6vation|7er|9ons|4ort|4tructed
 coss|choses|1onsistoient
 cost|coast|2nstable|5ructed|2sté
-cot |coast|2mte|2nte|2sté|2unt|3rt|1roit|0scots
+cot |coast|2mte|2nte|2rte|2sté|2unt|3rt|1roit|0scots
 cota|constable
-cote|compte|3te|2nte|5nte|8ment|4re|2urtesy
+cote|compte|3te|2nte|5nte|8ment|4re|2rte|2urtesy
 coti|continuation|7e|8r|7ë|4ribuer|:ez|2sté|0scottish
 cotn|contente|8ment|4inuation|7e|8r|7ë
 coto|control
@@ -2647,13 +2648,13 @@ crau|creature
 crch|cherche|2urch
 crdi|cardinal|8s
 crdn|cardinal|8s
-cre |cree|3u
+cre |corte|1ree|3u
 crea|createur|5ive|5ure
 cree|career|1reateur|3e
 crei|creative
 crem|clerembault|0sacremens
 crer|career
-cres|chrestinne|1orrespondents|:re
+cres|chrestinne|1orrespondents
 cret|chrestinne|1reateur|5ive|5ure|0decret|0secretary
 creu|creature|3u|0recreuës
 crge|charge|6s
@@ -2687,14 +2688,14 @@ crp |corps
 crpe|charpentier
 crps|corps
 crra|carriage|1roiray
-crre|correspondents|:re|1roire|3yre|0écrire
+crre|correspondents|1roire|3yre|0écrire
 crri|carriage|1herré|1ourrier
-crrs|correspondents|:re
+crrs|correspondents
 crs |corps|1rois
 crst|chrestinne|3istine
-crt |court|1roit
+crt |corte|2urt|1roit
 crta|certain
-crte|courtesy|1reateur|0écrites
+crte|corte|2urtesy|1reateur|0écrites
 crti|certain|1reative
 crts|courts
 crtu|creature
@@ -2705,8 +2706,7 @@ crwn|crowned
 cry |croy
 crye|croyre
 cryr|croyre
-cs  |cas|1ens|2s|1osa|1œur
-csa |cosa
+cs  |cas|1ens|2s|1œur
 csae|casale
 csal|casale
 cse |cause|1este|1hose
@@ -2741,7 +2741,7 @@ ctae|citadelle
 ctai|captain|1ertain
 ctbr|octobre
 ctde|citadelle
-cte |ceste|2tte|1omte|2nte
+cte |ceste|2tte|1omte|2nte|2rte
 ctea|casteau|1hâteau
 ctel|castelan
 cten|contente|8ment
@@ -8997,7 +8997,6 @@ nzem|vnzieme
 nzie|vnzieme
 nzim|vnzieme
 o   |bon|0col|2n|0foy|0io|0mon|2y|0nom|2n|2s|0one|2t|1se|2é|1u|1ve|1ù|0roi|2y|0so|2n|1uo|0vol|2s|2z|0who|1on|0you
-oa  |cosa
 oabl|notably
 oage|voyage
 oal |loyal|0royal
@@ -9482,11 +9481,11 @@ ordn|ordonnance|6é
 ordo|ordonnance|6é
 ordr|bordering|0l'ordre|0ordre|5s
 ords|ordres
-ore |force|0loire|0notre|0ordre|1utre|2ure|0porte|0sorte
+ore |corte|0force|0loire|0notre|0ordre|1utre|2ure|0porte|0sorte
 ored|forced
 orem|horsemen
 orer|bordering|0former|0porter
-ores|correspondents|:re|0forces|3tes|0ordres
+ores|correspondents|0forces|3tes|0ordres
 orga|morgan|0organized
 orgi|organized|2iginal
 orgn|morgan|0organized|2iginal
@@ -9523,17 +9522,17 @@ orps|corps
 orqu|pourquoy
 orr |ordre
 orra|lorraine|0pourra
-orre|correspondents|:re|0ordre|5s
+orre|correspondents|0ordre|5s
 orri|courrier|0lorraine
 orro|pourroient|6ns
-orrs|correspondents|:re|0ordres
+orrs|correspondents|0ordres
 ors |corps|0forts|0iours|0jours|0lors
 orse|horsemen
 orsm|horsemen
-ort |court|0fort|4s|0mort|0north|0porte|0sorte|0tort
+ort |corte|2urt|0fort|4s|0mort|0north|0porte|0sorte|0tort
 orta|pourtant
 ortc|forthcoming
-orte|courtesy|0fortes|0northern|0porte|5r|0sorte
+orte|corte|2urtesy|0fortes|0northern|0porte|5r|0sorte
 ortf|fortifications|7ed|8r
 orth|forthcoming|0north|5ern|5western
 orti|fortifications|7ed|8r|0sortir|6a
@@ -9548,8 +9547,7 @@ oruo|pouruoir
 orva|d'orval
 orve|pourveu
 orvo|pourvoir
-os  |bois|2ns|0cosa|0dois|0fois|0lors|0mois|2st|0nos|2us|0ose|2é|0pons|0roys|0sois|0tost|2us|0vois|2s|2us
-osa |cosa
+os  |bois|2ns|0dois|0fois|0lors|0mois|2st|0nos|2us|0ose|2é|0pons|0roys|0sois|0tost|2us|0vois|2s|2us
 osan|toscana
 osca|toscana
 oscn|toscana
@@ -9597,7 +9595,7 @@ otau|montauban
 otba|montbazon
 otbl|notably
 otbr|octobre
-ote |comte|2nte|0doute|0fonte|0notre|0other|1utre|0porte|0sorte|0toute
+ote |comte|2nte|2rte|0doute|0fonte|0notre|0other|1utre|0porte|0sorte|0toute
 otec|protection|7or
 oted|hosted
 otei|obtenir
@@ -10920,14 +10918,14 @@ ramp|rampart|0tramper
 ramr|rampart
 ran |grand|0rohan|2man|0urban
 rana|française
-ranc|branches|0france|5is|5ois|5s|0transcribed|8ption
+ranc|branches|0france|5is|5ois|5s|0transcription
 rand|armand|0craindre|0grand|5e|6s|5s|5uca
 rane|france|0grande|6s|4ge|0rangeoit
 rang|française|5ois|0grange|0rangeoit
 ranh|branches
 rani|francis|0organized
 rano|francois|4çois|0rangeoit
-rans|crains|0francs|0grands|0transcribed|8ption
+rans|crains|0francs|0grands|0transcription
 rant|durant|0garantir|0resantimant
 ranu|granduca
 raon|raison|6nable|6s
@@ -10939,7 +10937,7 @@ rapp|rapporter
 rapr|rampart|2pporter
 rar |friar
 rard|regarded
-rasc|transcribed|8ption
+rasc|transcription
 rasn|raison|6nable|6s
 raso|raison|6nable|6s
 rate|createur|0strategic|0traiter
@@ -11466,7 +11464,7 @@ rnou|renounced
 rnra|rendra
 rnre|rendre
 rnro|rendront
-rnsc|transcribed|8ption
+rnsc|transcription
 rnst|ernest
 rnte|printemps
 rnun|renounced
@@ -11616,7 +11614,7 @@ rqus|requestes
 rrai|lorraine
 rre |frere|0ordre|0terre
 rren|surrendured
-rres|arrest|6ed|0correspondents|:re|0ordres|0represent|9er
+rres|arrest|6ed|0correspondents|0ordres|0represent|9er
 rret|arrest|6ed
 rreu|recreuës
 rrez|verrez
@@ -11678,7 +11676,7 @@ rt  |fort|0mort|0part|0sert|0tort
 rtai|certain
 rtan|partant|0restant
 rtcl|articles
-rte |perte|1orte|0reste|1hône|0sorte
+rte |corte|0perte|1orte|0reste|1hône|0sorte
 rtec|protection|7or
 rtei|retenir
 rten|partent|1retendu|6tione|0restent|2tenir
@@ -11820,7 +11818,7 @@ s't |s'est
 s'ta|s'attacher
 s'tt|s'attacher
 s'y |s'y
-sa  |cosa|0sa|2me|2n|3s|1era|1ua|1çay
+sa  |sa|2me|2n|3s|1era|1ua|1çay
 sabi|stability
 sabl|establir|8a|0stability
 sacc|s'accommoder
@@ -12811,17 +12809,17 @@ taly|italy
 tame|tramper
 tamp|tramper
 tan |tant
-tanc|transcribed|8ption
+tanc|transcription
 tane|tanner
 tann|tanner
 tanr|tanner
-tans|transcribed|8ption
+tans|transcription
 tant|autant|0estant|0tant
 tap |tapié
 tape|tramper
 tapi|tapié
 taqu|attaquer
-tasc|taschera|1ranscribed|8ption
+tasc|taschera|1ranscription
 tase|taschera
 tash|taschera
 tat |estat|0state|0tant
@@ -13033,7 +13031,7 @@ tnne|tanner
 tnnr|tanner
 tno |tenoi
 tnoi|tenoi
-tnsc|transcribed|8ption
+tnsc|transcription
 tnt |tant
 tnte|tenter
 tntr|tenter
@@ -13117,17 +13115,17 @@ tps |https|0temps
 tr  |ntri|0tiré|1ort|2ur|1res|2op|1urc
 tra |potra
 traa|trauailler|8é|3vailler|8é
-trac|transcribed|8ption
+trac|transcription
 trad|estrade|0traditional
 trae|strategic|0traiter|3mper|3uerse|3verse
 trah|trahissent
 trai|traditional|3hissent|3iter|5te|3uailler|8é|3vailler|8é
 tram|tramper
-tran|transcribed|8ption
+tran|transcription
 trao|extraordinaire
 trap|tramper
 trar|trauerse|3verse
-tras|trahissent|3nscribed|8ption
+tras|trahissent|3nscription
 trat|strategic|0traditional|3iter|5te
 trau|trauailler|8é|4erse
 trav|travailler|8é|4erse
@@ -13160,11 +13158,11 @@ trml|tremblay
 trmp|tramper
 trms|termes
 trn |turin
-trnc|transcribed|8ption
+trnc|transcription
 trne|throne|1ourner
 trng|strengthening|3onghold
 trnn|turenne
-trns|transcribed|8ption
+trns|transcription
 trnt|tirent
 tro |trois|3p
 troe|throne|1roupes|4ue|6r|7a|4ve|6r|7a
@@ -13181,7 +13179,7 @@ trpe|tramper|2oupes
 trr |terre|1irer
 trre|terre
 trs |tres|2ois
-trsc|transcribed|8ption
+trsc|transcription
 trse|trusted
 trst|trusted
 trt |tort
@@ -14559,7 +14557,8 @@ zm`n|guzmàn
 zo  |zelo
 {   |plû
 edMap index
-14560
+14558
+&   |7
 '   |35
 '`  |11
 'a  |43
@@ -15430,7 +15429,7 @@ anqe|20
 anqu|20
 anr |11
 ans |52
-ansc|24
+ansc|19
 ansi|11
 ant |47
 anta|38
@@ -16485,7 +16484,7 @@ c'et|11
 c's |11
 c'st|11
 c't |11
-ca  |29
+ca  |24
 caa |11
 caab|13
 caae|30
@@ -17016,8 +17015,8 @@ cnvi|23
 cnvn|15
 cnvo|16
 cnvr|16
-co  |29
-coa |15
+co  |25
+coa |11
 coan|44
 coas|11
 coat|11
@@ -17030,12 +17029,12 @@ cocr|15
 codi|20
 codt|15
 codu|13
-coe |29
+coe |34
 coed|18
 coei|20
 coen|44
 coer|64
-coes|31
+coes|27
 coet|15
 coeu|14
 coev|14
@@ -17110,18 +17109,18 @@ copn|18
 copp|12
 cops|11
 copt|19
-cor |16
+cor |20
 cora|13
 core|63
 corg|13
 cori|33
 coro|13
 corp|11
-corr|32
-cors|34
-cort|19
-cos |44
-cosa|19
+corr|28
+cors|30
+cort|24
+cos |41
+cosa|15
 cosd|29
 cose|67
 cosi|80
@@ -17131,9 +17130,9 @@ cosp|17
 cosr|61
 coss|25
 cost|34
-cot |49
+cot |54
 cota|15
-cote|44
+cote|49
 coti|56
 cotn|40
 coto|13
@@ -17209,13 +17208,13 @@ crau|14
 crch|19
 crdi|17
 crdn|17
-cre |13
+cre |19
 crea|24
 cree|24
 crei|14
 crem|28
 crer|12
-cres|35
+cres|31
 cret|54
 creu|28
 crge|15
@@ -17249,14 +17248,14 @@ crp |11
 crpe|17
 crps|11
 crra|22
-crre|45
+crre|41
 crri|31
-crrs|24
+crrs|20
 crs |17
 crst|24
-crt |17
+crt |22
 crta|13
-crte|33
+crte|38
 crti|22
 crts|12
 crtu|14
@@ -17267,8 +17266,7 @@ crwn|13
 cry |10
 crye|12
 cryr|12
-cs  |28
-csa |10
+cs  |23
 csae|12
 csal|12
 cse |23
@@ -17303,7 +17301,7 @@ ctae|15
 ctai|21
 ctbr|13
 ctde|15
-cte |27
+cte |32
 ctea|22
 ctel|14
 cten|20
@@ -23559,7 +23557,6 @@ nzem|13
 nzie|13
 nzim|13
 o   |116
-oa  |10
 oabl|13
 oage|12
 oal |18
@@ -24044,11 +24041,11 @@ ordn|20
 ordo|20
 ordr|34
 ords|12
-ore |57
+ore |64
 ored|12
 orem|14
 orer|31
-ores|45
+ores|41
 orga|23
 orgi|23
 orgn|31
@@ -24085,17 +24082,17 @@ orps|11
 orqu|14
 orr |11
 orra|22
-orre|34
+orre|30
 orri|24
 orro|20
-orrs|32
+orrs|28
 ors |38
 orse|14
 orsm|14
-ort |53
+ort |58
 orta|14
 ortc|17
-orte|49
+orte|54
 ortf|27
 orth|38
 orti|38
@@ -24110,8 +24107,7 @@ oruo|14
 orva|13
 orve|13
 orvo|14
-os  |107
-osa |10
+os  |101
 osan|13
 osca|13
 oscn|13
@@ -24159,7 +24155,7 @@ otau|15
 otba|15
 otbl|13
 otbr|13
-ote |71
+ote |76
 otec|20
 oted|12
 otei|13
@@ -25482,14 +25478,14 @@ ramp|22
 ramr|13
 ran |30
 rana|16
-ranc|54
+ranc|49
 rand|43
 rane|37
 rang|39
 ranh|14
 rani|24
 rano|31
-rans|48
+rans|43
 rant|35
 ranu|14
 raon|22
@@ -25501,7 +25497,7 @@ rapp|15
 rapr|22
 rar |11
 rard|14
-rasc|24
+rasc|19
 rasn|22
 raso|22
 rate|34
@@ -26028,7 +26024,7 @@ rnou|15
 rnra|12
 rnre|12
 rnro|14
-rnsc|24
+rnsc|19
 rnst|12
 rnte|15
 rnun|15
@@ -26178,7 +26174,7 @@ rqus|15
 rrai|14
 rre |25
 rren|17
-rres|59
+rres|55
 rret|16
 rreu|15
 rrez|12
@@ -26240,7 +26236,7 @@ rt  |34
 rtai|13
 rtan|22
 rtcl|14
-rte |38
+rte |45
 rtec|20
 rtei|13
 rten|45
@@ -26382,7 +26378,7 @@ s't |11
 s'ta|16
 s'tt|16
 s'y |9
-sa  |39
+sa  |33
 sabi|15
 sabl|28
 sacc|18
@@ -27373,17 +27369,17 @@ taly|11
 tame|13
 tamp|13
 tan |10
-tanc|24
+tanc|19
 tane|12
 tann|12
 tanr|12
-tans|24
+tans|19
 tant|26
 tap |12
 tape|13
 tapi|12
 taqu|14
-tasc|33
+tasc|28
 tase|14
 tash|14
 tat |24
@@ -27595,7 +27591,7 @@ tnne|12
 tnnr|12
 tno |11
 tnoi|11
-tnsc|24
+tnsc|19
 tnt |10
 tnte|12
 tntr|12
@@ -27679,17 +27675,17 @@ tps |18
 tr  |40
 tra |11
 traa|33
-trac|24
+trac|19
 trad|26
 trae|44
 trah|16
 trai|62
 tram|13
-tran|24
+tran|19
 trao|20
 trap|13
 trar|21
-tras|33
+tras|28
 trat|38
 trau|26
 trav|26
@@ -27722,11 +27718,11 @@ trml|14
 trmp|13
 trms|12
 trn |11
-trnc|24
+trnc|19
 trne|20
 trng|28
 trnn|13
-trns|24
+trns|19
 trnt|12
 tro |14
 troe|40
@@ -27743,7 +27739,7 @@ trpe|20
 trr |17
 trre|11
 trs |15
-trsc|24
+trsc|19
 trse|13
 trst|13
 trt |10
@@ -29120,4 +29116,4 @@ zlo |10
 zm`n|13
 zo  |10
 {   |10
-              269471
+              269370

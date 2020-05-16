@@ -17,8 +17,7 @@
   
   <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
 
-  <!-- By default the output path is currently set to work on Syd’s desktop. -->
-  <xsl:param name="outDir" select="'/var/lib/tomcat8/webapps/JTR/data'"/>
+  <xsl:param name="outDir" select="'xtf/data/'"/>
   <!-- Remove trailing slash, if any: -->
   <xsl:variable name="outPath" select="normalize-space($outDir) => replace('/$','')"/>
 

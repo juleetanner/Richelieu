@@ -102,38 +102,39 @@
           standard ways that 17th century French differs from modern French might find this short
           guide by Thomas Luckett at Portland State University helpful: <ref target="http://web.pdx.edu/~brtl/Old-Regime-French.htm">Reading Old Regime
           French</ref>.</p>
-            <p>Essential as these resources are to deciphering the letters in this archive, they also
-          demonstrate the degree to which orthography, letter formation, and punctuation were not
-          yet standardized in seventeenth century France. Spelling was phonetic and varied, even
-          within a single document and even for proper nouns. The letters "f" and "s," "p" and "q,"
-          "r" and "t" were often indistinguishable. Commas were nearly non-existant, and
-          end-punctuation was often omitted, especially at the ends of lines. The informality and
-          assumed privacy of the epistolary form seem to have only encouraged these ambiguities and
-          variations. </p>
+            <p>Essential as these resources are to deciphering the letters in this archive, they also do
+          reveal the extent to which orthography, letter formation, and punctuation were not yet
+          standardized in seventeenth century France. Spelling was phonetic and varied, even within
+          a single document and even for proper nouns. The letters "f" and "s," "p" and "q," "r" and
+          "t" were often indistinguishable, making consideration of the context of the surrounding
+          words essential. Commas were nearly non-existant, and full-stop punctuation was often
+          omitted, especially at the ends of lines. The informality and assumed privacy of the
+          epistolary form may have only encouraged these ambiguities and variations. </p>
             <p>The archival letters in this collection are either hand-written documents in manuscript
           or are letters transcribed and printed in the seventeenth century. In the modern
           transcriptions of the print letters, elements that have more to do with page design than
           the original (lost) manuscript letters have not been retained. These include line breaks,
           soft end-of-line hyphens, the all-caps presentation of opening and closing salutations,
-          running heads, letter titles, page numbers, and page signatures. In the modern
-          transcriptions of manuscript letters, design elements have been retained to the extent
-          possible, to facilitate the coordinated reading of facsimile and transcription. (It should
-          be noted that a word hyphenated in a transcription will not return in a database search of
-          the the word as normally spelled.)</p>
-            <p>In all of the transcriptions, of letters in early modern print and manuscript, original
+          running heads, letter titles, page numbers, and page signatures. In the transcriptions of
+          manuscript letters, design elements have been retained to the extent possible, to
+          facilitate the coordinated reading of facsimile and transcription. (It should be noted
+          that, for all transcriptions, a hyphenated word will not return in a search of the the
+          word as normally spelled.)</p>
+            <p>In all of the transcriptions, of both early modern print and manuscript letters, original
           spelling and punctuation have been retained, with the following exceptions for correction
           and normalization:</p>
             <correction>
-               <p>Correction. In the semi-diplomatic view, two corrections have been made silently:
-            First, known abbreviations have been expanded, as with Mr./Monsieur, S.M./Sa Majesté,
-            and V.E./Vostre Eminence. Second, in words that have been connected to a preceding
-            article or pronoun, apostrophes have been added, as with daffection/d'affection,
-            nest/n'est, and mescrire/m'escrire. </p>
+               <p>Correction. In the semi-diplomatic view, two types of correction have been made
+            silently: First, known abbreviations have been expanded, as with Mr./Monsieur, S.M./Sa
+            Majesté, and V.E./Vostre Eminence. Second, in words that have been connected to a
+            preceding article or pronoun, apostrophes have been added, as with
+            daffection/d'affection, nest/n'est, and mescrire/m'escrire. </p>
                <p>Any spellings that that are evidnet errors, in that they would lead to a
             mispronounciation of a known word, are highlighted in the transcription. Hovering over
             the highlighted word will prompt display of the corrected spelling.</p>
-               <p>Any words that are illegible or not recognizable as words have been transcribed to the
-            extent possible and are immediately followed by question mark.</p>
+               <p>Any words that are completely illegible are indicated with a bracked question mark. Words that are simply  
+            not recognizable as words have been transcribed to the extent possible and are
+            immediately followed by question mark.</p>
             </correction>
             <normalization>
                <p>Normalization. In 17th century paleography and typography, "u" and "v" were two forms
@@ -143,8 +144,8 @@
             words.</p>
                <p>In this archive, the user may choose to view either a "semi-diplomatic" transcription,
             which reproduces the u, v, i, and j just as they were written in the source text, or a
-            "normalized" transcription, which converts each letter to its appropriate noun or
-            verb form.</p>
+            "normalized" transcription, which converts each letter to its appropriate noun or verb
+            form.</p>
             </normalization>
          </editorialDecl>
       </encodingDesc>

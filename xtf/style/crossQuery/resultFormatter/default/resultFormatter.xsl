@@ -650,11 +650,7 @@ Item number <xsl:value-of select="$num"/>:
                         <xsl:otherwise>none</xsl:otherwise>
                      </xsl:choose>
                   </a>
-                  <xsl:text>&#160;</xsl:text>
-                  <xsl:variable name="type" select="meta/type"/>
-                  <span class="typeIcon">
-                     <img src="{$icon.path}i_{$type}.gif" class="typeIcon"/>
-                  </span>
+                 <!-- typeIcon removed here -->
                </td>
                <td class="col4">
                   <xsl:text>&#160;</xsl:text>
@@ -669,14 +665,7 @@ Item number <xsl:value-of select="$num"/>:
                <b>Language:&#160;&#160;</b>
              </td>
              <td class="col3">
-               <xsl:choose>
-                 <xsl:when test="meta/year">
-                   <xsl:value-of select="replace(meta/year[1],'^.+ ','')"/>
-                 </xsl:when>
-                 <xsl:otherwise>
-                   <xsl:apply-templates select="meta/date"/>
-                 </xsl:otherwise>
-               </xsl:choose>
+               <xsl:sequence select="string( meta/language )"/>
              </td>
              <td class="col4">
                <xsl:text>&#160;</xsl:text>

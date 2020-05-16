@@ -7,7 +7,11 @@ contributor
 date
 type
 format
+language
 relation
 coverage
+rights
+correspFrom
+correspTo
 set
 year
