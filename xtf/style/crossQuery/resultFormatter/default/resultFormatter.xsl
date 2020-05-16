@@ -79,7 +79,7 @@
    <xsl:template match="/" exclude-result-prefixes="#all">
      <xsl:result-document href="/tmp/rFdebug.xml">
        <duck>
-         <xsl:copy-of select="//facet"/>
+         <xsl:copy-of select="/"/>
        </duck>
      </xsl:result-document>
      <xsl:choose>
@@ -615,91 +615,9 @@ Item number <xsl:value-of select="$num"/>:
       </xsl:variable>
       
       <div id="main_{@rank}" class="docHit">    
-         <table>          
-            <tr>
-               <td class="col1">
-                  <xsl:choose>
-                     <xsl:when test="$sort = ''">
-                        <b><xsl:value-of select="@rank"/></b>
-                     </xsl:when>
-                     <xsl:otherwise>
-                        <xsl:text>&#160;</xsl:text>
-                     </xsl:otherwise>
-                  </xsl:choose>
-               </td>
-               <td class="col2">
-                  <xsl:if test="$sort = 'creator'">
-                     <a name="{$anchor}"/>
-                  </xsl:if>
-                  <b>Author:&#160;&#160;</b>
-               </td>
-               <td class="col3">
-                  <xsl:choose>
-                     <xsl:when test="meta/creator">
-                        <xsl:apply-templates select="meta/creator[1]"/>
-                     </xsl:when>
-                     <xsl:otherwise>none</xsl:otherwise>
-                  </xsl:choose>
-               </td>
-               <td class="col4">
-                  <!-- Add/remove logic for the session bag (only if session tracking enabled) -->
-                  <xsl:if test="session:isEnabled()">
-                     <xsl:choose>
-                        <xsl:when test="$smode = 'showBag'">
-                           <script type="text/javascript">
-                              remove_<xsl:value-of select="@rank"/> = function() {
-                                 var span = YAHOO.util.Dom.get('remove_<xsl:value-of select="@rank"/>');
-                                 span.innerHTML = "Deleting...";
-                                 YAHOO.util.Connect.asyncRequest('GET', 
-                                    '<xsl:value-of select="concat($xtfURL, $crossqueryPath, '?smode=removeFromBag;identifier=', $identifier)"/>',
-                                    {  success: function(o) { 
-                                          var main = YAHOO.util.Dom.get('main_<xsl:value-of select="@rank"/>');
-                                          main.parentNode.removeChild(main);
-                                          --(YAHOO.util.Dom.get('itemCount').innerHTML);
-                                       },
-                                       failure: function(o) { span.innerHTML = 'Failed to delete!'; }
-                                    }, null);
-                              };
-                           </script>
-                           <span id="remove_{@rank}">
-                              <a href="javascript:remove_{@rank}()">Delete</a>
-                           </span>
-                        </xsl:when>
-                        <xsl:when test="session:noCookie()">
-                           <span><a href="javascript:alert('To use the bag, you must enable cookies in your web browser.')">Requires cookie*</a></span>                                 
-                        </xsl:when>
-                        <xsl:otherwise>
-                           <xsl:choose>
-                              <xsl:when test="session:getData('bag')/bag/savedDoc[@id=$indexId]">
-                                 <span>Added</span>
-                              </xsl:when>
-                              <xsl:otherwise>
-                                 <script type="text/javascript">
-                                    add_<xsl:value-of select="@rank"/> = function() {
-                                       var span = YAHOO.util.Dom.get('add_<xsl:value-of select="@rank"/>');
-                                       span.innerHTML = "Adding...";
-                                       YAHOO.util.Connect.asyncRequest('GET', 
-                                          '<xsl:value-of select="concat($xtfURL, $crossqueryPath, '?smode=addToBag;identifier=', $identifier)"/>',
-                                          {  success: function(o) { 
-                                                span.innerHTML = o.responseText;
-                                                ++(YAHOO.util.Dom.get('bagCount').innerHTML);
-                                             },
-                                             failure: function(o) { span.innerHTML = 'Failed to add!'; }
-                                          }, null);
-                                    };
-                                 </script>
-                                 <span id="add_{@rank}">
-                                    <a href="javascript:add_{@rank}()">Add</a>
-                                 </span>
-                              </xsl:otherwise>
-                           </xsl:choose>
-                           <xsl:value-of select="session:setData('queryURL', concat($xtfURL, $crossqueryPath, '?', $queryString))"/>
-                        </xsl:otherwise>
-                     </xsl:choose>
-                  </xsl:if>
-               </td>
-            </tr>
-            <tr>
+         <table>
+           <!-- <tr> for "Author:" removed here -->
+            <tr> <!-- row for "Title:" -->
                <td class="col1">
                   <xsl:text>&#160;</xsl:text>
                </td>
@@ -742,28 +660,29 @@ Item number <xsl:value-of select="$num"/>:
                   <xsl:text>&#160;</xsl:text>
                </td>
             </tr>
-            <tr>
-               <td class="col1">
-                  <xsl:text>&#160;</xsl:text>
-               </td>
-               <td class="col2">
-                  <b>Published:&#160;&#160;</b>
-               </td>
-               <td class="col3">
-                  <xsl:choose>
-                     <xsl:when test="meta/year">
-                        <xsl:value-of select="replace(meta/year[1],'^.+ ','')"/>
-                     </xsl:when>
-                     <xsl:otherwise>
-                        <xsl:apply-templates select="meta/date"/>
-                     </xsl:otherwise>
-                  </xsl:choose>
-               </td>
-               <td class="col4">
-                  <xsl:text>&#160;</xsl:text>
-               </td>
-            </tr>
-            <xsl:if test="meta/subject">
+           <!-- <tr> for "Published:" removed here -->
+           <tr>
+             <td class="col1">
+               <xsl:text>&#160;</xsl:text>
+             </td>
+             <td class="col2">
+               <b>Language:&#160;&#160;</b>
+             </td>
+             <td class="col3">
+               <xsl:choose>
+                 <xsl:when test="meta/year">
+                   <xsl:value-of select="replace(meta/year[1],'^.+ ','')"/>
+                 </xsl:when>
+                 <xsl:otherwise>
+                   <xsl:apply-templates select="meta/date"/>
+                 </xsl:otherwise>
+               </xsl:choose>
+             </td>
+             <td class="col4">
+               <xsl:text>&#160;</xsl:text>
+             </td>
+           </tr>
+           <xsl:if test="meta/subject">
                <tr>
                   <td class="col1">
                      <xsl:text>&#160;</xsl:text>
