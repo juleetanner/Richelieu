@@ -36,6 +36,7 @@
       select="replace( $inputFileName,'\.xml$', '_'||@xml:id||'.xml')"/>
     <xsl:result-document href="{$outPath}/{$outputFileName}">
       <xsl:copy>
+        <xsl:namespace name="xtf" select="'http://cdlib.org/xtf'"/>
         <xsl:apply-templates select="/teiCorpus/@*"/>
         <xsl:apply-templates select="@*"/>
         <xsl:apply-templates select="teiHeader" mode="merge"/>

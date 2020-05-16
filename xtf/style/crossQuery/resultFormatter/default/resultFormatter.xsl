@@ -614,139 +614,152 @@ Item number <xsl:value-of select="$num"/>:
          </xsl:choose>
       </xsl:variable>
       
-      <div id="main_{@rank}" class="docHit">    
-         <table>
-           <!-- <tr> for "Author:" removed here -->
-            <tr> <!-- row for "Title:" -->
-               <td class="col1">
-                  <xsl:text>&#160;</xsl:text>
-               </td>
-               <td class="col2">
-                  <xsl:if test="$sort = 'title'">
-                     <a name="{$anchor}"/>
-                  </xsl:if>
-                  <b>Title:&#160;&#160;</b>
-               </td>
-               <td class="col3">
-                  <a>
-                     <xsl:attribute name="href">
-                        <xsl:choose>
-                           <xsl:when test="matches(meta/display, 'dynaxml')">
-                              <xsl:call-template name="dynaxml.url">
-                                 <xsl:with-param name="path" select="$path"/>
-                              </xsl:call-template>
-                           </xsl:when>
-                           <xsl:otherwise>
-                              <xsl:call-template name="rawDisplay.url">
-                                 <xsl:with-param name="path" select="$path"/>
-                              </xsl:call-template>
-                           </xsl:otherwise>
-                        </xsl:choose>
-                     </xsl:attribute>
-                     <xsl:choose>
-                        <xsl:when test="meta/title">
-                           <xsl:apply-templates select="meta/title[1]"/>
-                        </xsl:when>
-                        <xsl:otherwise>none</xsl:otherwise>
-                     </xsl:choose>
-                  </a>
-                 <!-- typeIcon removed here -->
-               </td>
-               <td class="col4">
-                  <xsl:text>&#160;</xsl:text>
-               </td>
-            </tr>
-           <!-- <tr> for "Published:" removed here -->
-           <tr> <!-- row for "Language:" -->
+     <div id="main_{@rank}" class="docHit">    
+       <table>
+
+         <!-- <tr> for "Author:" removed here -->
+
+         <tr> <!-- row for "Title:" -->
+           <td class="col1">
+             <xsl:text>&#160;</xsl:text>
+           </td>
+           <td class="col2">
+             <xsl:if test="$sort = 'title'">
+               <a name="{$anchor}"/>
+             </xsl:if>
+             <b>Title:&#160;&#160;</b>
+           </td>
+           <td class="col3">
+             <a>
+               <xsl:attribute name="href">
+                 <xsl:choose>
+                   <xsl:when test="matches(meta/display, 'dynaxml')">
+                     <xsl:call-template name="dynaxml.url">
+                       <xsl:with-param name="path" select="$path"/>
+                     </xsl:call-template>
+                   </xsl:when>
+                   <xsl:otherwise>
+                     <xsl:call-template name="rawDisplay.url">
+                       <xsl:with-param name="path" select="$path"/>
+                     </xsl:call-template>
+                   </xsl:otherwise>
+                 </xsl:choose>
+               </xsl:attribute>
+               <xsl:choose>
+                 <xsl:when test="meta/title">
+                   <xsl:apply-templates select="meta/title[1]"/>
+                 </xsl:when>
+                 <xsl:otherwise>none</xsl:otherwise>
+               </xsl:choose>
+             </a>
+             <!-- typeIcon removed here -->
+           </td>
+           <td class="col4">
+             <xsl:text>&#160;</xsl:text>
+           </td>
+         </tr>
+
+         <!-- <tr> for "Published:" removed here -->
+
+         <tr> <!-- row for "Language:" -->
+           <td class="col1">
+             <xsl:text>&#160;</xsl:text>
+           </td>
+           <td class="col2">
+             <b>Language:&#160;&#160;</b>
+           </td>
+           <td class="col3">
+             <xsl:sequence select="string( meta/language )"/>
+           </td>
+           <td class="col4">
+             <xsl:text>&#160;</xsl:text>
+           </td>
+         </tr>
+
+         <tr> <!-- row for "Summary:" -->
+           <td class="col1">
+             <xsl:text>&#160;</xsl:text>
+           </td>
+           <td class="col2">
+             <b>Summary:&#160;&#160;</b>
+           </td>
+           <td class="col3">
+             <xsl:sequence select="string( meta/description )"/>
+           </td>
+           <td class="col4">
+             <xsl:text>&#160;</xsl:text>
+           </td>
+         </tr>
+
+         <xsl:if test="meta/subject"> <!-- row for "Keywords:" -->
+           <tr>
              <td class="col1">
                <xsl:text>&#160;</xsl:text>
              </td>
              <td class="col2">
-               <b>Language:&#160;&#160;</b>
+               <b>Keywords:&#160;&#160;</b>
              </td>
              <td class="col3">
-               <xsl:sequence select="string( meta/language )"/>
+               <xsl:apply-templates select="meta/subject"/>
              </td>
              <td class="col4">
                <xsl:text>&#160;</xsl:text>
              </td>
            </tr>
-           <tr> <!-- row for "Summary:" -->
+         </xsl:if>
+
+         <xsl:if test="snippet"> <!-- row for "Matches:" -->
+           <tr>
              <td class="col1">
                <xsl:text>&#160;</xsl:text>
              </td>
              <td class="col2">
-               <b>Summary:&#160;&#160;</b>
+               <b>Matches:&#160;&#160;</b>
+               <br/>
+               <xsl:value-of select="@totalHits"/> 
+               <xsl:value-of select="if (@totalHits = 1) then ' hit' else ' hits'"/>&#160;&#160;&#160;&#160;
              </td>
-             <td class="col3">
-               <xsl:sequence select="string( meta/description )"/>
-             </td>
-             <td class="col4">
-               <xsl:text>&#160;</xsl:text>
+             <td class="col3" colspan="2">
+               <xsl:apply-templates select="snippet" mode="text"/>
              </td>
            </tr>
-           <xsl:if test="meta/subject"> <!-- row for "Keywords:" -->
-               <tr>
-                  <td class="col1">
-                     <xsl:text>&#160;</xsl:text>
-                  </td>
-                  <td class="col2">
-                     <b>Keywords:&#160;&#160;</b>
-                  </td>
-                  <td class="col3">
-                     <xsl:apply-templates select="meta/subject"/>
-                  </td>
-                  <td class="col4">
-                     <xsl:text>&#160;</xsl:text>
-                  </td>
-               </tr>
-            </xsl:if>
-            <xsl:if test="snippet"> <!-- row for "Matches:" -->
-               <tr>
-                  <td class="col1">
-                     <xsl:text>&#160;</xsl:text>
-                  </td>
-                  <td class="col2">
-                     <b>Matches:&#160;&#160;</b>
-                     <br/>
-                     <xsl:value-of select="@totalHits"/> 
-                     <xsl:value-of select="if (@totalHits = 1) then ' hit' else ' hits'"/>&#160;&#160;&#160;&#160;
-                  </td>
-                  <td class="col3" colspan="2">
-                     <xsl:apply-templates select="snippet" mode="text"/>
-                  </td>
-               </tr>
-            </xsl:if>
-            
-            <!-- "more like this" -->
-            <tr> <!-- "row for Similar Items:" -->
-               <td class="col1">
-                  <xsl:text>&#160;</xsl:text>
-               </td>
-               <td class="col2">
-                  <b>Similar&#160;Items:&#160;&#160;</b>
-               </td>
-               <td class="col3" colspan="2">
-                  <script type="text/javascript">
-                     getMoreLike_<xsl:value-of select="@rank"/> = function() {
-                        var span = YAHOO.util.Dom.get('moreLike_<xsl:value-of select="@rank"/>');
-                        span.innerHTML = "Fetching...";
-                        YAHOO.util.Connect.asyncRequest('GET', 
-                           '<xsl:value-of select="concat('search?smode=moreLike;docsPerPage=5;identifier=', $identifier)"/>',
-                           { success: function(o) { span.innerHTML = o.responseText; },
-                             failure: function(o) { span.innerHTML = "Failed!" } 
-                           }, null);
-                     };
-                  </script>
-                  <span id="moreLike_{@rank}">
-                     <a href="javascript:getMoreLike_{@rank}()">Find</a>
-                  </span>
-               </td>
-            </tr>
-            
-         </table>
-      </div>
-      
+         </xsl:if>            
+
+         <!-- <tr> for "more like this" aka "Similar Items:" removed here -->
+
+         <tr><!-- row for "View:" -->
+           <td class="col1">
+             <xsl:text>&#160;</xsl:text>
+           </td>
+           <td class="col2">
+             <b>View:&#160;&#160;</b>
+           </td>
+           <td class="col3">
+             <a>
+               <xsl:attribute name="href">
+                 <xsl:call-template name="dynaxml.url">
+                   <xsl:with-param name="path" select="$path"/>
+                 </xsl:call-template>
+               </xsl:attribute>
+               <xsl:text>[default]</xsl:text>
+             </a>
+             <xsl:text>, [normalized], [semi-diplomatic], </xsl:text>
+             <a>
+               <xsl:attribute name="href">
+                 <xsl:call-template name="rawDisplay.url">
+                   <xsl:with-param name="path" select="$path"/>
+                 </xsl:call-template>
+               </xsl:attribute>
+               <xsl:text>[XML]</xsl:text>
+             </a>
+           </td>
+           <td class="col4">
+             <xsl:text>&#160;</xsl:text>
+           </td>
+         </tr>
+       </table>
+     </div>
+     
    </xsl:template>
    
    <!-- ====================================================================== -->
