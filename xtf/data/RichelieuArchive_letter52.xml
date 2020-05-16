@@ -131,7 +131,7 @@
    <standOff>
       <listPerson>
          <person xml:id="JT" role="principal_investigator">
-            <persName>Julee Tanner</persName>
+            <persName>Juleee Tanner</persName>
             <affiliation>University of Washington</affiliation>
          </person>
          <person xml:id="SB" role="consultant">
@@ -379,8 +379,8 @@
           regarded as Richelieu's first diplomatic success (Levi, p. 81).</note>
          </person>
          <person sortKey="Hepburn,_James" xml:id="Hepburn">
-            <persName type="main">James Hepburn</persName>
-            <persName type="presentation">James Hepburn</persName>
+            <persName type="main">James Hepburn, Lt Col</persName>
+            <persName type="presentation">Lt Col James Hepburn</persName>
             <idno type="Wikisource">https://en.wikisource.org/wiki/Hepburn,_James_(d.1637)_(DNB00)</idno>
             <birth/>
             <death when="1637"/>

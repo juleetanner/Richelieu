@@ -657,7 +657,7 @@ Item number <xsl:value-of select="$num"/>:
                </td>
             </tr>
            <!-- <tr> for "Published:" removed here -->
-           <tr>
+           <tr> <!-- row for "Language:" -->
              <td class="col1">
                <xsl:text>&#160;</xsl:text>
              </td>
@@ -671,13 +671,27 @@ Item number <xsl:value-of select="$num"/>:
                <xsl:text>&#160;</xsl:text>
              </td>
            </tr>
-           <xsl:if test="meta/subject">
+           <tr> <!-- row for "Summary:" -->
+             <td class="col1">
+               <xsl:text>&#160;</xsl:text>
+             </td>
+             <td class="col2">
+               <b>Summary:&#160;&#160;</b>
+             </td>
+             <td class="col3">
+               <xsl:sequence select="string( meta/description )"/>
+             </td>
+             <td class="col4">
+               <xsl:text>&#160;</xsl:text>
+             </td>
+           </tr>
+           <xsl:if test="meta/subject"> <!-- row for "Keywords:" -->
                <tr>
                   <td class="col1">
                      <xsl:text>&#160;</xsl:text>
                   </td>
                   <td class="col2">
-                     <b>Subjects:&#160;&#160;</b>
+                     <b>Keywords:&#160;&#160;</b>
                   </td>
                   <td class="col3">
                      <xsl:apply-templates select="meta/subject"/>
@@ -687,7 +701,7 @@ Item number <xsl:value-of select="$num"/>:
                   </td>
                </tr>
             </xsl:if>
-            <xsl:if test="snippet">
+            <xsl:if test="snippet"> <!-- row for "Matches:" -->
                <tr>
                   <td class="col1">
                      <xsl:text>&#160;</xsl:text>
@@ -705,7 +719,7 @@ Item number <xsl:value-of select="$num"/>:
             </xsl:if>
             
             <!-- "more like this" -->
-            <tr>
+            <tr> <!-- "row for Similar Items:" -->
                <td class="col1">
                   <xsl:text>&#160;</xsl:text>
                </td>

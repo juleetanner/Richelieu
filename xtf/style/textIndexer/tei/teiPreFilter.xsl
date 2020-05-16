@@ -253,35 +253,30 @@
       </xsl:choose>
    </xsl:template>
    
-   <!-- description: modified 2020-05-06 to process <correspDesc> —Syd --> 
-   <xsl:template name="get-tei-description">
-     <!-- Note: intended to cover JT's Richelieu data, not generic TEI -->
-     <xsl:for-each select="/TEI/teiHeader/profileDesc/correspDesc">
-       <!-- there is only 1 -->
-       <description xtf:meta="true">
-         <xsl:apply-templates select="correspAction" mode="corresAction2description"/>
-       </description>
-     </xsl:for-each>
-   </xsl:template>
-  <xsl:template match="correspAction" mode="corresAction2description">
-    <xsl:if test="date|placeName">
-      <xsl:variable name="plcref" select="@ref"/>
-      <xsl:sequence select="concat(
-        @type,
-        ': ',
-        if ( date/@when ) then string( date/@when ) else '',
-        if ( placeName/@ref )
-          then
-            concat(
-              if ( @type eq 'sent' ) then ' from ' else ' at ',
-              //place[ @xml:id eq substring-after( $plcref,'#')]/placeName[@type eq 'main']
-              )
-          else ''        
-        )"/> 
-    </xsl:if>
+  <!-- description: modified 2020-05-16 to process correspDesc/note —Syd --> 
+  <!-- Note: intended to cover JT's Richelieu data, not generic TEI -->
+  <xsl:template name="get-tei-description">
+    <!--
+       Previous version tried to generate a description from the
+       <correspAction> elements, perhaps to use instead of <title>,
+       but I abandoned that idea when JT requested a particular
+       <note> be used as the "Summary" field.
+     -->
+    <xsl:for-each select="/TEI/teiHeader//correspDesc[note[not(@resp)]]">
+      <xsl:if test="note[not(@resp)][2]">
+        <xsl:message select="concat(
+          '&#x0A;Warning: there are 2+ note elements (without @resp) in correspDesc of ',
+          ancestor::TEI/@xml:id,
+          ', so I am just taking the 1st, thus probably getting this Summary wrong.'
+          )"/>
+      </xsl:if>
+      <description xtf:meta="true">
+        <xsl:sequence select="normalize-space( note[not(@resp)][1] )"/>
+      </description>
+    </xsl:for-each>
   </xsl:template>
-   
-   <!-- publisher -->
+  
+  <!-- publisher -->
    <xsl:template name="get-tei-publisher">
       <xsl:choose>
          <xsl:when test="//*:fileDesc/*:publicationStmt/*:publisher">
