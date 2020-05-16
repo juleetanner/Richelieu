@@ -9,7 +9,7 @@
           unpublished letters of Armand-Jean du Plessis, Cardinal Richelieu</title>
         <respStmt>
           <resp>Complied and transcribed by</resp>
-          <name ref="#JT">Julee Tanner</name>
+          <name ref="#JT">Juleee Tanner</name>
         </respStmt>
       </titleStmt>
       <publicationStmt>
@@ -178,14 +178,13 @@
             "normalized" transcription, which converts each letter to its appropriate noun or verb
             form.</p>
         </normalization>
-
       </editorialDecl>
     </encodingDesc>
   </teiHeader>
   <standOff>
     <listPerson>
       <person xml:id="JT" role="principal_investigator">
-        <persName>Julee Tanner</persName>
+        <persName>Juleee Tanner</persName>
         <affiliation>University of Washington</affiliation>
       </person>
       <person xml:id="SB" role="consultant">
