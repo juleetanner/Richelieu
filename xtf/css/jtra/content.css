@@ -17,3 +17,10 @@ background-color: #D6DCE5;
 
 /* ========= JTR added ========= */
 span.moo { color: #3F7F3F; }
+span.del { text-decoration: line-through; }
+span.add:before { content: "\\"; }
+span.add:after  { content: "/"; }
+span.gap,
+span.supplied { color: #50555A; }
+span.unclear:after { color: #50555A; content: "[?]"; }
+

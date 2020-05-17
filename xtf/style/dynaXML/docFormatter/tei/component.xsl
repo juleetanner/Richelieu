@@ -911,7 +911,7 @@
       </xsl:if>    
       
    </xsl:template>
-   
+
   <!-- ====================================================================== -->
   <!-- persNames and placeNames                                               -->
   <!-- ====================================================================== -->
@@ -927,6 +927,25 @@
         )"/>
     </xsl:variable>
     <span class="moo" title="{$title}">
+      <xsl:apply-templates/>
+    </span>
+  </xsl:template>
+  
+  <!-- ====================================================================== -->
+  <!-- phrase-level: <gap>, <unclear>, <del>, <add>                           -->
+  <!-- ====================================================================== -->
+  
+  <xsl:template match="gap[@reason]">
+    <span class="gap">
+      <xsl:variable name="reason" select="if (@reason eq 'illegible') then 'illeg' else @reason"/>
+      <xsl:text>[</xsl:text>
+      <xsl:value-of select="$reason"/>
+      <xsl:text>]</xsl:text>
+    </span>
+  </xsl:template>
+
+  <xsl:template match="del|add|supplied|unclear">
+    <span class="{local-name(.)}">
       <xsl:apply-templates/>
     </span>
   </xsl:template>
