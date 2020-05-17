@@ -1010,10 +1010,11 @@
    <text xml:lang="it">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>The <persName ref="#Villa">Marquis de Ville</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 19 January 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L04avail">Transcribed by Gloria de Liberali. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_04.jpg"/>
@@ -1023,7 +1024,7 @@
                   <reg>Reverendissimo</reg>
                </choice> Signor mio Patron Colendissimo</salute>
          </opener>
-         <p>Ho pagato affettionamente <persName ref="Emery">Monsieur d'Hemery</persName> signifie à
+         <p>Ho pagato affettionamente <persName n="first" ref="Emery">Monsieur d'Hemery</persName> signifie à
           Vostre Eminenza la mia singolar <choice>
                <orig>deuotione</orig>
                <reg>devotione</reg>

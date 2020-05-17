@@ -1016,10 +1016,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 17 January 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L10avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_09.jpg"/>
@@ -1226,7 +1228,7 @@
                <orig>enuoyé</orig>
                <reg>envoyé</reg>
             </choice> les Plans du Pont de Sture, &amp; de la despense par estima- tion.</p>
-         <p>Le Magazin du foing sera fait dans la fin de Février, nous le faisons à Cazal, <placeName ref="#Asti">Ast</placeName> &amp; <placeName ref="#Turin">Turin</placeName>. Enfin,
+         <p>Le Magazin du foing sera fait dans la fin de Février, nous le faisons à Cazal, <placeName n="first" ref="#Asti">Ast</placeName> &amp; <placeName n="first" ref="#Turin">Turin</placeName>. Enfin,
           Monsiegneur, <choice>
                <orig>ie</orig>
                <reg>je</reg>
@@ -1253,7 +1255,7 @@
                <orig>ie</orig>
                <reg>je</reg>
             </choice> vous en sçaurois dire, la bonté que V. Eminence de vouloir tesmoigner à
-            <persName ref="#Tommaso">Monsieur le Prince<certainty locus="name" degree=".6"/>
+            <persName n="first" ref="#Tommaso">Monsieur le Prince<certainty locus="name" degree=".6"/>
             </persName> l'honneur qu'elle m'a fait de me croire son tres-humble <choice>
                <orig>seruiteur</orig>
                <reg>serviteur</reg>

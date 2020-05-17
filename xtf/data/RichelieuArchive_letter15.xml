@@ -1010,10 +1010,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, n.d.</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L15avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_17.jpg"/>
@@ -1028,7 +1030,7 @@
                <orig>auez</orig>
                <reg>avez</reg>
             </choice> sceu par le sieur de Pizieux comme le <persName ref="#Tommaso">Prince
-            Thomas</persName> est party de <placeName ref="#Flanders">Flandres</placeName> pour
+            Thomas</persName> est party de <placeName n="first" ref="#Flanders">Flandres</placeName> pour
           venir icy, &amp; veu les Lettres qui ont esté écrites au dit sieur de Pizieux, dont on a
           enuoyé la coppie à <persName ref="#Christine">Madame</persName>, <choice>
                <orig>ie</orig>
@@ -1111,7 +1113,7 @@
                <orig>ie</orig>
                <reg>je</reg>
             </choice> vous ay mandé par Monsieur d'<persName ref="#Argenson">Argençon</persName>, de
-            <persName ref="Palluau">Palluau</persName>, &amp; de Bonnelle, sur ce suiet ; car si les
+            <persName n="first" ref="Palluau">Palluau</persName>, &amp; de Bonnelle, sur ce suiet ; car si les
           ennemis <choice>
                <orig>enuoyent</orig>
                <reg>envoyent</reg>
@@ -1208,7 +1210,7 @@
             </choice> du Chancelier sur la response que nous <choice>
                <orig>auons</orig>
                <reg>avons</reg>
-            </choice> a faire à la declaration du <persName ref="#Leganes">Marquis de
+            </choice> a faire à la declaration du <persName n="first" ref="#Leganes">Marquis de
             Leganez</persName>. <choice>
                <orig>Ie</orig>
                <reg>Je</reg>
@@ -1228,7 +1230,7 @@
             </choice> grand <choice>
                <orig>preiudice</orig>
                <reg>prejudice</reg>
-            </choice> aux affaires du <persName ref="Louis13">Roy</persName>, Vostre Eminence
+            </choice> aux affaires du <persName n="first" ref="Louis13">Roy</persName>, Vostre Eminence
           commandera ce qu'il luy plaira que nous fassions en ce cas la, il me sembleroit à propos
           de donner presentement les domaines que Vostre Eminence a promis au Chancelier, à Prat,
           &amp; au Major de Cazal Solera, parce que ce sera <choice>
@@ -1301,7 +1303,7 @@
                <reg>revolte</reg>
             </choice>, neantmoins elle connoit bien qu'elle est perdué, si elle n'a vostre protection,
           &amp; celle du Roy. La Citadelle de Turin, est bien asseurée, Madame se porte bien, son
-            <persName ref="#CharlesE2">fils</persName> est en bonne santé, elle espere <choice>
+            <persName n="first" ref="#CharlesE2">fils</persName> est en bonne santé, elle espere <choice>
                <orig>auoir</orig>
                <reg>avoir</reg>
             </choice> trois ou quatre mil François, lesquels <choice>

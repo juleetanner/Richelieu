@@ -1027,10 +1027,11 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>The <persName ref="#Balzac">Seigneur de Balzac</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 4 October 1622</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L57avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA 6462. Photo courtesy the Morgan Library &amp; Museum.</div>
       </front>
       <body>
          <pb facs="MLM99921_130530v_0001-hpr_1r.jpg" n="1r"/>
@@ -1046,7 +1047,7 @@
                <orig>auoir</orig>
                <reg>avoir</reg>
             </choice> fermé ma lettre, Il a passé J'ay un courrier<lb/>dequi J'ai appris que le
-            <persName ref="#Gregory15">Pape</persName> vous <choice>
+            <persName n="first" ref="#Gregory15">Pape</persName> vous <choice>
                <orig>auoit</orig>
                <reg>avoit</reg>
             </choice> fait Cardinal.<lb/>Je ne doute point que cette <choice>

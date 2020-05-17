@@ -1012,10 +1012,11 @@
    <text xml:lang="it">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>The <persName ref="#Aglie">Conte d'Agliè</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L06avail">Transcribed by Gloria de Liberali. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_06.jpg"/>
@@ -1028,11 +1029,11 @@
          <p>Intendera Vostra Eminenza da questi Signori che se ne ritornano, come alla fine habbia <choice>
                <orig>hauuto</orig>
                <reg>havuto</reg>
-            </choice> termine il negotio del <persName ref="Monod">Padre Monodo</persName>, all'hora
+            </choice> termine il negotio del <persName n="first" ref="Monod">Padre Monodo</persName>, all'hora
           que la sua <choice>
                <orig>improuisa</orig>
                <reg>improvvisa</reg>
-            </choice> fuga da <placeName ref="Cuneo">Cuneosa</placeName>, confini d'ogni risolutione
+            </choice> fuga da <placeName n="first" ref="Cuneo">Cuneosa</placeName>, confini d'ogni risolutione
           hauia poco men che tolto à M.R. l'arbitrio de'ssequire quanto si era doppo molte dispute
           determinato, conforme al gusto é sentimento di Eminenza Vostra Egli mal suo grado e stato
           condotto nel <placeName ref="#Montmelian">Castello de Mommeliano</placeName>, <choice>

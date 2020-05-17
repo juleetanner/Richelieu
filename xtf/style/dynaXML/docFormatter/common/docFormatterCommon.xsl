@@ -157,7 +157,7 @@
    
    <xsl:param name="http.user-agent"/>
    <!-- WARNING: Inclusion of 'Wget' is for testing only, please remove before going into production -->
-   <xsl:param name="robots" select="'Googlebot|Slurp|msnbot|Teoma|Wget'"/>
+   <xsl:param name="robots" select="'Googlebot|Slurp|msnbot|Teoma'"/>
    
    <!-- ====================================================================== -->
    <!-- Button Bar Templates                                                   -->

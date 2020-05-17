@@ -1013,10 +1013,11 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>The <persName ref="#Sully">Duc de Sully</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 31 January 1625</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L62avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA 1346-254. Photo courtesy the Morgan Library &amp; Museum.</div>
       </front>
       <body>
          <pb facs="MLM99913_117073v_0001-hpr_1r.jpg"/>
@@ -1062,7 +1063,7 @@
             </choice> par vos lettres <lb/>sur laquelle me fondant. Je vous suplie <choice>
                <orig>auoir</orig>
                <reg>avoir</reg>
-            </choice> agreable de dire librement a mon <lb/>fils <persName ref="Orval">d'orval</persName> (auquel J'ay donne charge de vous faire entendre mes demandes)
+            </choice> agreable de dire librement a mon <lb/>fils <persName n="first" ref="Orval">d'orval</persName> (auquel J'ay donne charge de vous faire entendre mes demandes)
           <lb/>si les choses et les personnes sont maintenant en telle disposition que J'en
           <lb/>puisse tirer <choice>
                <orig>fauorable</orig>

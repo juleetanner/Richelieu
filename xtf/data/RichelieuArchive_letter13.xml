@@ -1010,10 +1010,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 15 April 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L13avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_13.jpg"/>
@@ -1027,7 +1029,7 @@
          <p>La perte que <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>'ay faite de <persName ref="#Henri">Monsieur de Candale</persName> m'a obligé de
+            </choice>'ay faite de <persName n="first" ref="#Henri">Monsieur de Candale</persName> m'a obligé de
           l'aller assister à <placeName ref="#Casale">Cazal</placeName> dans sa maladie, de sorte
           que <choice>
                <orig>ie</orig>
@@ -1093,7 +1095,7 @@
             <choice>
                <orig>vn</orig>
                <reg>un</reg>
-            </choice> Gentil-homme à <persName ref="Epernon">Monsieur d'Espernon</persName> pour luy
+            </choice> Gentil-homme à <persName n="first" ref="Epernon">Monsieur d'Espernon</persName> pour luy
           faire <choice>
                <orig>sçauoir</orig>
                <reg>sçavoir</reg>
@@ -1104,7 +1106,7 @@
             </choice>'ay eu l'honneur de vous écrire, <persName ref="#Christine">Madame</persName> ne
           croit pas que le <persName ref="#Urban8">Pape</persName>, ou pour mieux dire, le Cardinal
           Barberin, soit fort affectionné, ny pour la France, ny pour elle, elle croit qu'il est
-          pour le <persName ref="Maurizio">Cardinal de Sauoye</persName> contre ses interests, au
+          pour le <persName n="first" ref="Maurizio">Cardinal de Sauoye</persName> contre ses interests, au
           moins me le dit-elle ainsi.</p>
          <pb facs="Vialart_letters_Page_14.jpg"/>
          <p>Nos Trouppes sont en bon estat, nous <choice>

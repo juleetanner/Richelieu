@@ -1011,10 +1011,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Valette">Cardinal de la Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 8 January 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L02avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_02.jpg"/>
@@ -1053,7 +1055,7 @@
             </choice> pour l'armée, &amp; cent mil <choice>
                <orig>liures</orig>
                <reg>livres</reg>
-            </choice> pour les garnisons de <placeName ref="#Casal">Cazal</placeName> &amp; de
+            </choice> pour les garnisons de <placeName n="first" ref="#Casal">Cazal</placeName> &amp; de
             <placeName ref="#Pinerolo">Pignerol</placeName>, nous n'en <choice>
                <orig>auons</orig>
                <reg>avons</reg>
@@ -1123,7 +1125,7 @@
             </choice>, est la plus importante affaire que nous puissons <choice>
                <orig>auoir</orig>
                <reg>avoir</reg>
-            </choice> pour l'armée, &amp; pour le <placeName ref="Monferrato">Montferrat</placeName>.
+            </choice> pour l'armée, &amp; pour le <placeName n="first" ref="Monferrato">Montferrat</placeName>.
           C'est pourquoy <choice>
                <orig>ie</orig>
                <reg>je</reg>
@@ -1147,11 +1149,11 @@
                <orig>iusques</orig>
                <reg>jusques</reg>
             </choice> icy dans l'Italie.</p>
-         <p>L'affaire du <persName ref="#Monod">Pere Monot</persName> est terminée, <persName ref="#Christine">Madame</persName> l'<choice>
+         <p>L'affaire du <persName n="first" ref="#Monod">Pere Monot</persName> est terminée, <persName ref="#Christine">Madame</persName> l'<choice>
                <orig>enuoye</orig>
                <reg>envoye</reg>
-            </choice> dans le <placeName ref="#Montmelian">Casteau de Montmelian</placeName>, ainsi
-          que Messieurs <persName ref="#Palluau">de Palluau</persName> &amp; <persName ref="#Estrades">d'Estrade</persName> vous dirons, luy-mesme nous a donné le moyen par sa
+            </choice> dans le <placeName n="first" ref="#Montmelian">Casteau de Montmelian</placeName>, ainsi
+          que Messieurs <persName n="first" ref="#Palluau">de Palluau</persName> &amp; <persName ref="#Estrades">d'Estrade</persName> vous dirons, luy-mesme nous a donné le moyen par sa
           fuite de l'obtenir de Madame. <choice>
                <orig>Ie</orig>
                <reg>Je</reg>
@@ -1223,7 +1225,7 @@
             </choice>, elle croit que l'affaire du Pere Monot luy <choice>
                <orig>seruira</orig>
                <reg>servira</reg>
-            </choice> à obtenir quelque chose du <persName ref="#Louis13">Roy</persName>, &amp; de
+            </choice> à obtenir quelque chose du <persName n="first" ref="#Louis13">Roy</persName>, &amp; de
           Vostre Eminence ainsi que luy diront Messieurs de Palluau &amp; d'Estrade, comme aussi les
           efforts que le Comte Philippe l'abbé de la Monta, &amp; dom Fœlix ont fait pour l'affaire
           du Pere Monot.</p>
@@ -1248,7 +1250,7 @@
                <reg>service</reg>
             </choice> du Roy.</p>
          <closer>
-            <dateline>De <placeName ref="Turin">Turin</placeName> ce 8. <choice>
+            <dateline>De <placeName n="first" ref="Turin">Turin</placeName> ce 8. <choice>
                   <orig>Ianuier</orig>
                   <reg>Janvier</reg>
                </choice> 1639.</dateline>

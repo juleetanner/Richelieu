@@ -23,6 +23,10 @@
 
   <xsl:variable name="inputFileName" select="tokenize( document-uri(/),'/')[last()]"/>
   <xsl:variable name="corpusHeader" select="/teiCorpus/teiHeader" as="element(teiHeader)"/>
+
+  <!-- currently unsed keys: -->
+  <xsl:key name="persName-by-ref" match="body//persName" use="@ref"/>
+  <xsl:key name="placeName-by-ref" match="body//placeName" use="@ref"/>
   
   <xsl:mode name="merge" on-no-match="shallow-copy"/>
   <xsl:mode on-no-match="shallow-copy"/>
@@ -106,10 +110,18 @@
           <front>
             <xsl:comment> This &lt;front> inserted automatically to ensure there is a &lt;titlePage> </xsl:comment>
             <titlePage>
-              <titlePart type="sub">
-                brought to you by XTF
+              <titlePart type="main">
+                <xsl:apply-templates select="../teiHeader/fileDesc/titleStmt/title"/>
               </titlePart>
             </titlePage>
+            <!--
+              Note: generated <div> in <front> (which are <div1> in original XTF) must have
+              a @type to match that in xtf/style/dynaXML/docFormatter/tei/titlepage.xsl,
+              and must have an @xml:id, whose value is irrelevant, I think. —Syd, 2020-05-17
+            -->
+            <div type="copyright" xml:id="L{translate( ../@xml:id,'[letr]','')}avail">
+              <xsl:value-of select="normalize-space( ../teiHeader/fileDesc//availability)"/>
+            </div>
           </front>
         </xsl:otherwise>
       </xsl:choose>
@@ -117,7 +129,28 @@
     </xsl:copy>
   </xsl:template>
 
-
+  <!-- put an n=first on the first of any given <persName> -->
+  <xsl:template match="body//persName">
+    <xsl:variable name="myRef" select="normalize-space(@ref)"/>
+    <xsl:copy>
+      <xsl:if test="not(preceding::persName[ancestor::body][@ref eq $myRef])">
+        <xsl:attribute name="n" select="'first'"/>
+      </xsl:if>
+      <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+  </xsl:template>
+     
+  <!-- put an n=first on the first of any given <placeName> -->
+  <xsl:template match="body//placeName">
+    <xsl:variable name="myRef" select="normalize-space(@ref)"/>
+    <xsl:copy>
+      <xsl:if test="not(preceding::placeName[ancestor::body][@ref eq $myRef])">
+        <xsl:attribute name="n" select="'first'"/>
+      </xsl:if>
+      <xsl:apply-templates select="@*|node()"/>
+    </xsl:copy>
+  </xsl:template>
+  
   <!--
     If you, dear reader, do not find more intelligent licensing information either in
     this file (which means this should have been deleted) or in the parent repository,

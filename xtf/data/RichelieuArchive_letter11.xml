@@ -1012,10 +1012,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 2 February 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L11avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_10.jpg"/>
@@ -1202,7 +1204,7 @@
                   <orig>Sauoye</orig>
                   <reg>Savoye</reg>
                </choice>
-            </persName> a obtenu de l'<persName ref="#Ferdinand3">Empereur</persName> pour
+            </persName> a obtenu de l'<persName n="first" ref="#Ferdinand3">Empereur</persName> pour
           la tutelle du Duc de <choice>
                <orig>Sauoye</orig>
                <reg>Savoye</reg>
@@ -1218,8 +1220,8 @@
             </choice> qui est aupres du Roy, pendant que <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>'estois dans le <placeName ref="#Monferrato">Monferrat</placeName>, elle estoit
-          venuë de <placeName ref="#Rome">Rome</placeName>.</p>
+            </choice>'estois dans le <placeName n="first" ref="#Monferrato">Monferrat</placeName>, elle estoit
+          venuë de <placeName n="first" ref="#Rome">Rome</placeName>.</p>
          <p>Madame ne sçauroit subsister, ny mesme garder ses places, si le Roy ne luy paye les 3000.
           hommes de pied qu'il a accoustumé, Vostre Eminence le pourra <choice>
                <orig>sçauoir</orig>

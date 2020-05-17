@@ -33,10 +33,11 @@
       ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
       POSSIBILITY OF SUCH DAMAGE.
    -->
-      
-   <xsl:param name="icon.path" select="concat($xtfURL, 'icons/default/')"/>
+
+   <!-- Bug fix 2020-05-17 by Syd: c/default/$brand/ in next 2: -->
+   <xsl:param name="icon.path" select="concat($xtfURL, 'icons/', $brand, '/')"/>
    
-   <xsl:param name="css.path" select="concat($xtfURL, 'css/default/')"/>
+   <xsl:param name="css.path" select="concat($xtfURL, 'css/', $brand, '/')"/>
    
    <xsl:param name="content.css" select="'tei.css'"/>
    

@@ -1009,10 +1009,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Christine">Christine of France</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 5 January 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L16avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_19.jpg"/>
@@ -1059,7 +1061,7 @@
             </choice> de sa Majesté, que celles que <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>'obtiendray par vostre moyen, &amp; tant plus à cette heure que le <persName ref="#SMaurice">Marquis de Sainct Maurice</persName> m'a escrit de vostre part, que vous
+            </choice>'obtiendray par vostre moyen, &amp; tant plus à cette heure que le <persName n="first" ref="#SMaurice">Marquis de Sainct Maurice</persName> m'a escrit de vostre part, que vous
           luy <choice>
                <orig>auiez</orig>
                <reg>aviez</reg>

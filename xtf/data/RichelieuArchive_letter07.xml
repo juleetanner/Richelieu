@@ -1006,10 +1006,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Christine">Christine of France</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L07avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_06.jpg"/>

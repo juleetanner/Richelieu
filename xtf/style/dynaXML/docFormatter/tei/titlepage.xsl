@@ -52,34 +52,38 @@
       
       <div align="center">
          <span class="down1">
-            <xsl:if test="/*/*:text/*:front/*:div1[@type='dedication']">
+            <xsl:if test="/*/*:text/*:front/*:div[@type='dedication']">
                <xsl:text> [</xsl:text>
                <a>
                   <xsl:attribute name="href">javascript://</xsl:attribute>
                   <xsl:attribute name="onclick">
-                     <xsl:text>javascript:window.open('</xsl:text><xsl:value-of select="$doc.path"/>&#038;doc.view=popup&#038;chunk.id=<xsl:value-of select="/*/*:text/*:front/*:div1[@type='dedication']/@*:id"/><xsl:text>','popup','width=300,height=300,resizable=yes,scrollbars=yes')</xsl:text>
+                     <xsl:text>javascript:window.open('</xsl:text><xsl:value-of select="$doc.path"/>&#038;doc.view=popup&#038;chunk.id=<xsl:value-of select="/*/*:text/*:front/*:div[@type='dedication']/@*:id"/><xsl:text>','popup','width=300,height=300,resizable=yes,scrollbars=yes')</xsl:text>
                   </xsl:attribute>
                   <xsl:text>Dedication</xsl:text>
                </a>
                <xsl:text>] </xsl:text>
             </xsl:if>
-            <xsl:if test="/*/*:text/*:front/*:div1[@type='copyright']">
+            <xsl:if test="/*/*:text/*:front/*:div[@type='copyright']">
                <xsl:text> [</xsl:text>
                <a>
                   <xsl:attribute name="href">javascript://</xsl:attribute>
                   <xsl:attribute name="onclick">
-                     <xsl:text>javascript:window.open('</xsl:text><xsl:value-of select="$doc.path"/>&#038;doc.view=popup&#038;chunk.id=<xsl:value-of select="/*/*:text/*:front/*:div1[@type='copyright']/@*:id"/><xsl:text>','popup','width=300,height=300,resizable=yes,scrollbars=yes')</xsl:text>
+                    <xsl:text>javascript:window.open('</xsl:text>
+                    <xsl:value-of select="$doc.path"/>
+                    <xsl:text>&#038;doc.view=popup&#038;chunk.id=</xsl:text>
+                    <xsl:value-of select="/*/*:text/*:front/*:div[@type='copyright']/@*:id"/>
+                    <xsl:text>','popup','width=300,height=300,resizable=yes,scrollbars=yes')</xsl:text>
                   </xsl:attribute>
                   <xsl:text>Copyright</xsl:text>
                </a>
                <xsl:text>] </xsl:text>
             </xsl:if>
-            <xsl:if test="/*/*:text/*:front/*:div1[@type='epigraph']">
+            <xsl:if test="/*/*:text/*:front/*:div[@type='epigraph']">
                <xsl:text> [</xsl:text>
                <a>
                   <xsl:attribute name="href">javascript://</xsl:attribute>
                   <xsl:attribute name="onclick">
-                     <xsl:text>javascript:window.open('</xsl:text><xsl:value-of select="$doc.path"/>&#038;doc.view=popup&#038;chunk.id=<xsl:value-of select="/*/*:text/*:front/*:div1[@type='epigraph']/@*:id"/><xsl:text>','popup','width=300,height=300,resizable=yes,scrollbars=yes')</xsl:text>
+                     <xsl:text>javascript:window.open('</xsl:text><xsl:value-of select="$doc.path"/>&#038;doc.view=popup&#038;chunk.id=<xsl:value-of select="/*/*:text/*:front/*:div[@type='epigraph']/@*:id"/><xsl:text>','popup','width=300,height=300,resizable=yes,scrollbars=yes')</xsl:text>
                   </xsl:attribute>
                   <xsl:text>Epigraph</xsl:text>
                </a>
@@ -92,7 +96,7 @@
    
    <xsl:template match="*:titlePart" mode="titlepage">
       <xsl:choose>
-         <xsl:when test="@type='subtitle'">
+         <xsl:when test="@type = ('sub','subtitle')">
             <h4><i><xsl:apply-templates/></i></h4>
          </xsl:when>
          <xsl:otherwise>
@@ -135,15 +139,15 @@
       </h6>
    </xsl:template>
    
-   <xsl:template match="*:div1[@type='dedication']" mode="titlepage">
+   <xsl:template match="*:div[@type='dedication']" mode="titlepage">
       <xsl:apply-templates/>
    </xsl:template>
    
-   <xsl:template match="*:div1[@type='copyright']" mode="titlepage">
+   <xsl:template match="*:div[@type='copyright']" mode="titlepage">
       <xsl:apply-templates/>
    </xsl:template>
    
-   <xsl:template match="*:div1[@type='epigraph']" mode="titlepage">
+   <xsl:template match="*:div[@type='epigraph']" mode="titlepage">
       <xsl:apply-templates/>
    </xsl:template>
    

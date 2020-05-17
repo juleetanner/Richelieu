@@ -1012,10 +1012,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="Richelieu">Cardinal Richelieu</persName> to <persName ref="#Ferdinando2">Ferdinando II de Medici</persName>, 19 January 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L59avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. 1346-234. Photo courtesy the Morgan Library &amp; Museum.</div>
       </front>
       <body>
          <pb facs="MLM99932_136121v_0001-hpr.jpg"/>
@@ -1032,7 +1034,7 @@
                <orig>faueur</orig>
                <reg>faveur</reg>
             </choice> du frere de Monsieur L’<orig>Euesque</orig>
-            <reg>Evesque</reg> de <placeName ref="Beziers">Beziers</placeName>
+            <reg>Evesque</reg> de <placeName n="first" ref="Beziers">Beziers</placeName>
             <lb/>sur le <choice>
                <orig>suiet</orig>
                <reg>sujet</reg>

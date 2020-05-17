@@ -1016,10 +1016,11 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>The <persName ref="#Montmorency">Duc de Montmorency</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 20 September 1629</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L55avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library &amp; Museum.</div>
       </front>
       <body>
          <pb facs="MLM99923_132070v_0001-hpr.jpg"/>
@@ -1028,7 +1029,7 @@
             <salute>Monsieur</salute>
          </opener>
          <p>
-            <lb/>Comme le courrier <lb/>partoit, <persName ref="Arpajon">Monsieur
+            <lb/>Comme le courrier <lb/>partoit, <persName n="first" ref="Arpajon">Monsieur
             d'Arpajon</persName>
             <lb/>est arrivé, lequel <lb/>satisfera le plus dilli-<lb break="no"/>gemment qu'il ce pourra <lb/>a
           vos ordres, il ce donne <lb/>l'<choice>

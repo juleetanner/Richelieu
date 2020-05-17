@@ -1011,10 +1011,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L09avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_08.jpg"/>
@@ -1103,7 +1105,7 @@
                <reg>travaux</reg>
             </choice>, &amp; vous en rendre compte.</p>
          <p>
-            <persName ref="Turenne">Monsieur de la Tour</persName> est <choice>
+            <persName n="first" ref="Turenne">Monsieur de la Tour</persName> est <choice>
                <orig>arriué</orig>
                <reg>arrivé</reg>
             </choice> icy depuis deux <choice>
@@ -1134,8 +1136,8 @@
                <orig>seruir</orig>
                <reg>servir</reg>
             </choice> en Italie, que le le double de celle qui passera de France.</p>
-         <p>Le Nonce a ordre du <persName ref="#Urban8">Pape</persName> de traiter l'accommodement du
-            <persName ref="Maurice">Cardinal de <choice>
+         <p>Le Nonce a ordre du <persName n="first" ref="#Urban8">Pape</persName> de traiter l'accommodement du
+            <persName n="first" ref="Maurice">Cardinal de <choice>
                   <orig>Sauoye</orig>
                   <reg>Savoye</reg>
                </choice>

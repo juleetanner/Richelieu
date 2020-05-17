@@ -1020,10 +1020,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Richelieu">Cardinal Richelieu</persName> to an <persName ref="#MX">unnamed "Monsieur,"</persName> 18 November 1622</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L58avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA 379. Photo courtesy the Morgan Library &amp; Museum.</div>
       </front>
       <body>
          <pb facs="MLM99927_136119v_0001-hpr_1r.jpg"/>
@@ -1054,7 +1056,7 @@
                <orig>ie</orig>
                <reg>je</reg>
             </choice>
-            <lb/>vous prie que la <persName ref="#MarieM">Reine</persName> envoie querir <persName ref="#Chanteloube">Chanteloube</persName>
+            <lb/>vous prie que la <persName n="first" ref="#MarieM">Reine</persName> envoie querir <persName n="first" ref="#Chanteloube">Chanteloube</persName>
             <lb/>et luy die, s'<del>il lui</del>elle le trouve bon, qu'elle a sceu <lb/>que quelques <choice>
                <orig>vns</orig>
                <reg>uns</reg>
@@ -1072,8 +1074,8 @@
             <lb/>avoir. Sur cela elle a esté bien aise de s'eclaircir <lb/>avec luy de la <choice>
                <sic>faur</sic>
                <corr>faveur</corr>
-            </choice> avec laquelle cette affaire <lb/>s'en passee. Que le Roy desirant <placeName ref="Buzay">Buzay</placeName> et <lb/>
-            <placeName ref="#Quimperle">
+            </choice> avec laquelle cette affaire <lb/>s'en passee. Que le Roy desirant <placeName n="first" ref="Buzay">Buzay</placeName> et <lb/>
+            <placeName n="first" ref="#Quimperle">
                <choice>
                   <orig>Quinperlay</orig>
                   <reg resp="JT" cert="medium">Quimperlé</reg>
@@ -1115,7 +1117,7 @@
           estant desja <choice>
                <sic resp="JT" cert="medium">esteinte</sic>
                <reg>estendue</reg>
-            </choice> par <lb/>L'Abbaié de de <placeName ref="Pibrac">Pibrac</placeName> qui <choice>
+            </choice> par <lb/>L'Abbaié de de <placeName n="first" ref="Pibrac">Pibrac</placeName> qui <choice>
                <orig>auoit</orig>
                <reg>avoit</reg>
             </choice> vaqué per an par <unclear reason="illegible">annum</unclear>. Elle
@@ -1126,7 +1128,7 @@
           qu'elle <choice>
                <orig>scauoit</orig>
                <reg>scavoit</reg>
-            </choice> bien <lb/>que c'estoit <placeName ref="#StGermain">St Germain</placeName> qui
+            </choice> bien <lb/>que c'estoit <placeName n="first" ref="#StGermain">St Germain</placeName> qui
           avoit pretendu cette <pb facs="MLM99928_136119v_0002-hpr_2v.jpg"/>
             <lb/>cette Abbaié et quelques autres en auroit <del>pris</del>prits qui <lb/>taschaient de
           brouiller, mais qu'elle les rangeoit bien. <lb/>J'estime cela important pour plusieurs
@@ -1148,7 +1150,7 @@
                <reg>je</reg>
             </choice> donnerays volontiers <lb/>la grande <seg>agraffe<note>an ornamental
             clasp</note>
-            </seg> qu'a <persName ref="#Bragelogne">Madame Bouthillier</persName> ou il
+            </seg> qu'a <persName n="first" ref="#Bragelogne">Madame Bouthillier</persName> ou il
           y a de fort beaux diamans et ce sans <choice>
                <sic>espeance</sic>
                <corr>despense</corr>

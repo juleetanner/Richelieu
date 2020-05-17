@@ -1014,10 +1014,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Richelieu">Cardinal Richelieu</persName> to the <persName ref="#Alvin">Duc d'Alvin</persName>, 27 February 1635</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L60avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library &amp; Museum.</div>
       </front>
       <body>
          <pb facs="MLM99930_136120v_0001-hpr.jpg"/>
@@ -1032,13 +1034,13 @@
             </choice>des <choice>
                <orig>leuees</orig>
                <reg>levees</reg>
-            </choice> de gens <lb/>de guerre que le <persName ref="#Philip4">Roy D'espagne</persName>
+            </choice> de gens <lb/>de guerre que le <persName n="first" ref="#Philip4">Roy D'espagne</persName>
           fait en la <lb/>frontiere de vostre gouvernement, me fait prendre <lb/>la plume, pour vous
           dire que sa <choice>
                <orig>Maieste</orig>
                <reg>Majeste</reg>
             </choice> desire <lb/>
-            <unclear>en continuant</unclear> la presente revue, que vous alliez <lb/>a <placeName ref="#Narbonne">Narbonne</placeName> et a <placeName ref="#Leucate">Leucate</placeName>,
+            <unclear>en continuant</unclear> la presente revue, que vous alliez <lb/>a <placeName n="first" ref="#Narbonne">Narbonne</placeName> et a <placeName n="first" ref="#Leucate">Leucate</placeName>,
           et meniez avec vous <choice>
                <orig>vn</orig>
                <reg>un</reg>

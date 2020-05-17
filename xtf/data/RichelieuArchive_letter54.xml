@@ -1014,10 +1014,11 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>The <persName ref="#Epinay">Marquis de Saint-Luc</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 4 August 1631</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L54avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library &amp; Museum.</div>
       </front>
       <body>
          <pb facs="MLM99917_126906v_0001-hpr.jpg"/>
@@ -1034,14 +1035,14 @@
                <orig>scauoir</orig>
                <reg>scavoir</reg>
             </choice> plustost ce que Je luy ay apris, que vostre <lb/>amy venoit avec titre
-          d'Ambassadeur de <persName ref="#MariaAnna">L'Infante</persName>
+          d'Ambassadeur de <persName n="first" ref="#MariaAnna">L'Infante</persName>
             <lb/>pour <seg>donner part<note>to inform someone of something, to share a
             secret</note>
             </seg> au <persName ref="Louis13">Roy</persName> des honneurs qu'elle <choice>
                <orig>auoit</orig>
                <reg>avoit</reg>
             </choice>
-            <lb/>rendus a la <persName ref="MarieM">Reyne sa Mere</persName>. J'en ay veu
+            <lb/>rendus a la <persName n="first" ref="MarieM">Reyne sa Mere</persName>. J'en ay veu
           l'Instruction <lb/>signee d'elle si bien que sa negotiation luy donnera <lb/>moyen de vous
           entretenir tant qu'il vous plaira. <lb/>J'auray l'honneur de vous veoir demain a vostre
           disner <lb/>&amp; vous en diray davantage &amp; croy que le tout sera <lb/>a vostre

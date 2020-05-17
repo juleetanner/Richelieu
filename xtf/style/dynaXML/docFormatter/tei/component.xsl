@@ -1,6 +1,7 @@
-<xsl:stylesheet version="2.0" 
+<xsl:stylesheet version="3.0" 
    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
    xmlns="http://www.w3.org/1999/xhtml" 
+   xpath-default-namespace="http://www.tei-c.org/ns/1.0"
    exclude-result-prefixes="#all">
    
    <!--
@@ -911,4 +912,23 @@
       
    </xsl:template>
    
+  <!-- ====================================================================== -->
+  <!-- persNames and placeNames                                               -->
+  <!-- ====================================================================== -->
+  
+  <xsl:template match="persName[@n eq 'first']|placeName[@n eq 'first']">
+    <xsl:variable name="title">
+      <xsl:variable name="ref" select="substring( normalize-space( @ref ), 2 )"/>
+      <xsl:variable name="entity" select="//*[ @xml:id eq $ref ]"/>
+      <xsl:value-of select="concat(
+        $entity/(persName|placeName)[@type eq 'main'],
+        '.&#x0A;',
+        normalize-space( $entity/note )
+        )"/>
+    </xsl:variable>
+    <span class="moo" title="{$title}">
+      <xsl:apply-templates/>
+    </span>
+  </xsl:template>
+  
 </xsl:stylesheet>

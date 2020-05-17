@@ -1014,10 +1014,14 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Louis13">Louis XIII</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, <persName ref="#Aligre">Etienne d'Aligre</persName>,
+            and the <persName ref="#Chavigny">Comte de Chavigny</persName>, 29 September
+            1634</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L63avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library &amp; Museum.</div>
       </front>
       <body>
          <pb facs="MLM99915_120604v_0001-hpr.jpg"/>
@@ -1027,12 +1031,12 @@
                <seg>Mon Cousin<note>As Princes of the Church, cardinals were addressed as
                 "Mon Cousin" by royalty.</note>
                </seg> le Cardinal de Richelieu, et les <lb/>Sieurs
-              <persName ref="#Aligre">garde des Seaux</persName> et <persName ref="#Chavigny">Boutilier</persName> secretaire <lb/>d'estat</salute>
+              <persName n="first" ref="#Aligre">garde des Seaux</persName> et <persName ref="#Chavigny">Boutilier</persName> secretaire <lb/>d'estat</salute>
          </opener>
          <ab>se <choice>
                <orig>souuiendront</orig>
                <reg>souviendront</reg>
-            </choice>, que je ne pardonne <lb/>point a <persName ref="#Puylaurens">Puilaurens</persName> qu'a condition qu'il <lb/>declare sincerement toutes les
+            </choice>, que je ne pardonne <lb/>point a <persName n="first" ref="#Puylaurens">Puilaurens</persName> qu'a condition qu'il <lb/>declare sincerement toutes les
           entreprizes <lb/>projets et dessains qui ont esté faits <lb/>a sa cognoisansse contre ma
           personne mon <lb/>Estat et les miens, et si il ne se conduit <lb/>estant dans ce Royaume
           sans me donner <lb/>juste sujet de soubson <choice>
@@ -1042,7 +1046,7 @@
           sujet doit faire,</ab>
          <lb/>
          <closer>
-            <dateline>fait au <placeName ref="Plessis">Plesis du bois</placeName> ce 29
+            <dateline>fait au <placeName n="first" ref="Plessis">Plesis du bois</placeName> ce 29
             Septembre 1634</dateline>
             <lb/>
             <signed>Louis</signed>

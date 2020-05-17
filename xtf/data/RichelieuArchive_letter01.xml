@@ -1018,10 +1018,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Richelieu">Cardinal Richelieu</persName> to <persName ref="#Valette">Cardinal de la Valette</persName>, 6 January 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L01avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_01.jpg"/>
@@ -1043,14 +1045,14 @@
                <orig>pourueu</orig>
                <reg>pourveu</reg>
             </choice> en sorte à l'argent necessaire à la subsistance des Troupes qui sont en Italie,
-          que vous n'en manquerez point s'il plaist à Dieu, <persName ref="#Argenson">Monsieur
-            d'Argençon</persName> passant à <placeName ref="#Lyon">Lyon</placeName> donna ordre de
+          que vous n'en manquerez point s'il plaist à Dieu, <persName n="first" ref="#Argenson">Monsieur
+            d'Argençon</persName> passant à <placeName n="first" ref="#Lyon">Lyon</placeName> donna ordre de
           faire partir cent soixante mil <choice>
                <orig>liures</orig>
                <reg>livres</reg>
             </choice> que vous apprehendez ne vous estre pas si-tost données.</p>
-         <p>L'argent necessaire pour les garnisons de <placeName ref="#Casale">Cazal</placeName>
-          &amp; <placeName ref="#Pinerolo">Pignerol</placeName>, pour le mois de <choice>
+         <p>L'argent necessaire pour les garnisons de <placeName n="first" ref="#Casale">Cazal</placeName>
+          &amp; <placeName n="first" ref="#Pinerolo">Pignerol</placeName>, pour le mois de <choice>
                <orig>Ianuier</orig>
                <reg>Janvier</reg>
             </choice>, <choice>
@@ -1059,7 +1061,7 @@
             </choice> &amp; Mars, est party depuis deux <choice>
                <orig>iours</orig>
                <reg>jours</reg>
-            </choice> au contentement de Messieurs <persName ref="#Emery">d'Hemery</persName> &amp;
+            </choice> au contentement de Messieurs <persName n="first" ref="#Emery">d'Hemery</persName> &amp;
           d'Argençon.</p>
          <p>Les ordres necessaires pour vos munitions de guerre sont donnez de telle sorte, que vous
           en aurez tout contentement. </p>
@@ -1067,7 +1069,7 @@
          <p>Les Troupes que vous ne desirez pas qui soient licentiées selon que vous l'<choice>
                <orig>auez</orig>
                <reg>avez</reg>
-            </choice> mandé à <persName ref="#Noyers">Monsieur de Noyers</persName>, ne le seront
+            </choice> mandé à <persName n="first" ref="#Noyers">Monsieur de Noyers</persName>, ne le seront
           pas.</p>
          <p>Au reste, on ne vous les <choice>
                <orig>enuoyera</orig>
@@ -1087,7 +1089,7 @@
                <reg>suivrons</reg>
             </choice> asseurement ce que vous desirez.</p>
          <p>
-            <persName ref="#Turenne">Monsieur de Turenne</persName> a ses ordres pour vous aller <choice>
+            <persName n="first" ref="#Turenne">Monsieur de Turenne</persName> a ses ordres pour vous aller <choice>
                <orig>trouuer</orig>
                <reg>trouver</reg>
             </choice> en Italie, nous le <choice>
@@ -1101,7 +1103,7 @@
             <choice>
                <orig>Ie</orig>
                <reg>Je</reg>
-            </choice> m'en vay à <placeName ref="#Paris">Paris</placeName> où <choice>
+            </choice> m'en vay à <placeName n="first" ref="#Paris">Paris</placeName> où <choice>
                <orig>ie</orig>
                <reg>je</reg>
             </choice> feray <choice>
@@ -1128,7 +1130,7 @@
               compilation (vol. 6, p. 265) specifies "la fonte des canons"</note>
             </seg> de
           Cazal.</p>
-         <p>Quant à <persName ref="#Christine">Madame</persName>
+         <p>Quant à <persName n="first" ref="#Christine">Madame</persName>
             <choice>
                <orig>i</orig>
                <reg>j</reg>
@@ -1141,7 +1143,7 @@
             </choice> elle, par la lettre que <choice>
                <orig>ie</orig>
                <reg>je</reg>
-            </choice> luy ay escrite par le <persName ref="#Estrades">sieur d'Estrade</persName> d'en <choice>
+            </choice> luy ay escrite par le <persName n="first" ref="#Estrades">sieur d'Estrade</persName> d'en <choice>
                <orig>vser</orig>
                <reg>user</reg>
             </choice> ainsi, si elle mesprise les conseils que la lumiere naturelle luy doit donner
@@ -1163,7 +1165,7 @@
             </choice> impatience pour le détromper de l'opinion qu'il pourroit <choice>
                <orig>auoir</orig>
                <reg>avoir</reg>
-            </choice> que vos affaires, &amp; celles de <persName ref="#Bernard">Monsieur de la
+            </choice> que vos affaires, &amp; celles de <persName n="first" ref="#Bernard">Monsieur de la
             Valette</persName>, fussent <choice>
                <orig>coniointes</orig>
                <reg>conjointes</reg>

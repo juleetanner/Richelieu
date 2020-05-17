@@ -1,5 +1,6 @@
-<xsl:stylesheet version="2.0" 
-   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+<xsl:stylesheet version="3.0" 
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
    xmlns:xtf="http://cdlib.org/xtf"
    xmlns="http://www.w3.org/1999/xhtml"
    xmlns:session="java:org.cdlib.xtf.xslt.Session"
@@ -330,18 +331,22 @@
                   <td align="left" valign="top">
                      <div class="content">
                         <!-- BEGIN CONTENT -->
+                       <!--
+                         Since we have no <div> element in JTR, $chunk.id is not being
+                         set correctly. So do 2 things: test for null, as well as '0',
+                         and process entire body of document in 1st <when> clause. Here
+                         at JTR we should probably never hit the <otherwise>.
+                       -->
+                       <xsl:variable name="beginning" as="xs:boolean"
+                         select="$chunk.id = ('0', '')"/>
                         <xsl:choose>
-                          <!--
-                            The single chunk.id=0 <when> was changed to 2 <when>s
-                            2020-05-06 —Syd
-                          -->
-                          <xsl:when test="$chunk.id eq '0'  and  not(//div)">
-                            <xsl:apply-templates select="TEI/text/body/node()"/>
+                          <xsl:when test="$beginning">
+                            <xsl:apply-templates select="/*/*:text/*:front/*:titlePage"/>
+                            <xsl:if test="not(/TEI/text/body//div)">
+                              <xsl:apply-templates select="TEI/text/body/node()"/>
+                            </xsl:if>
                           </xsl:when>
-                          <xsl:when test="$chunk.id = '0'">
-                              <xsl:apply-templates select="/*/*:text/*:front/*:titlePage"/>
-                           </xsl:when>
-                           <xsl:otherwise>
+                          <xsl:otherwise>
                               <xsl:apply-templates select="key('div-id', $chunk.id)"/>          
                            </xsl:otherwise>
                         </xsl:choose>

@@ -1020,10 +1020,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Richelieu">Cardinal Richelieu</persName> to the <persName ref="#Montbazon">Duc de Montbazon</persName>, 23 October 1620</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L65avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Lambeth Palace Library. Thomas Murray Papers, MS 666. Photo Julee Tanner</div>
       </front>
       <body>
          <pb facs="RA_letter65_p_1.jpg"/>
@@ -1069,7 +1071,7 @@
             <lb/>promis, leur seroit tenue, et effectué, jusques a un Iota, a quoy ad<damage>
                <gap agent="tear"/>
             </damage>
-            <lb/>Monsieur le <persName ref="#Luynes">Duc de Luines</persName>, que puis que sa parole
+            <lb/>Monsieur le <persName n="first" ref="#Luynes">Duc de Luines</persName>, que puis que sa parole
           y estoit <choice>
                <orig>interuenue</orig>
                <reg>intervenue</reg>
@@ -1107,7 +1109,7 @@
           Consrs. en la Cour du Parlement de Paris, la <lb/>restitution d'<sic resp="JT" cert="medium">electeure</sic>
             <corr>electeur</corr>, et un estat certain des places de
           seureté, pour estre i- <lb/>ceux executez dans 6. mois, pour toute prefixion, sans que
-          l'affaire de <placeName ref="Bearn">Bear<supplied>n</supplied>
+          l'affaire de <placeName n="first" ref="Bearn">Bear<supplied>n</supplied>
             </placeName>
             <lb/>y peut apporter aucun accroche, pour lequel il estoit particulierement co<damage>
                <gap agent="tear"/>
@@ -1128,7 +1130,7 @@
             </choice> leurs deputez, et d'entendre par eux, leurs remonst<damage>
                <gap agent="tear"/>
             </damage>
-            <lb/>ce que dessus traitte avec Messieurs de <persName ref="#Lesdiguieres">Lesdiguieres</persName>, et de <persName ref="#Chatillon" resp="JT" cert="high">Chastellon</persName>, et o<damage>
+            <lb/>ce que dessus traitte avec Messieurs de <persName n="first" ref="#Lesdiguieres">Lesdiguieres</persName>, et de <persName n="first" ref="#Chatillon" resp="JT" cert="high">Chastellon</persName>, et o<damage>
                <gap agent="tear"/>
             </damage>
             <lb/>seigneur le Prince, et Monsieur le Duc de Luines, leur <choice>
@@ -1169,8 +1171,8 @@
           a touts et de deffiance a plus. <add place="above">Et</add> qui voyent <lb/>S.M. entre
           tant de meilleurs affaires porter ses armes en lieu, ou on ne luy <lb/>oppose que de
           l'armes, sa presence tant necessarie ailleurs, ou on ne rem- <lb/>pare que de sa sacreé
-          parole, et si ceux de <placeName ref="#Rochelle">la Rochelle</placeName>, chargez par
-          l'assem-<lb break="no"/>bleé de <placeName ref="Oudun">Loudun</placeName>, en cas d'inexecution apres
+          parole, et si ceux de <placeName n="first" ref="#Rochelle">la Rochelle</placeName>, chargez par
+          l'assem-<lb break="no"/>bleé de <placeName n="first" ref="Oudun">Loudun</placeName>, en cas d'inexecution apres
           les 6. mois, de <choice>
                <orig>conuoquer</orig>
                <reg>convoquer</reg>

@@ -1010,10 +1010,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, 19 March 1639</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L17avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_19.jpg"/>
@@ -1036,7 +1038,7 @@
                <reg>advis</reg>
             </choice> comme les Ennemis se sont assemblez, &amp; qu'il semble qu'ils veuillent tourner
           du costé d'<placeName ref="#Asti">Ast</placeName>. On dit que le <persName ref="#Tommaso">Prince Thomas</persName> commande l'armée, ce qui me fait soupçonnner quelques
-          intelligences, nos Troupes sont assemblées aupres de <placeName ref="Moncalvo">
+          intelligences, nos Troupes sont assemblées aupres de <placeName n="first" ref="Moncalvo">
                <choice>
                   <orig>Moncalue</orig>
                   <reg>Moncalve</reg>
@@ -1098,7 +1100,7 @@
                <orig>i</orig>
                <reg>j</reg>
             </choice>'ay m'empesche d'escrire à vostre Eminence les particularitez des complimens que
-            <persName ref="Christine">Madame</persName> m'a fait pour vous que <choice>
+            <persName n="first" ref="Christine">Madame</persName> m'a fait pour vous que <choice>
                <orig>ie</orig>
                <reg>je</reg>
             </choice> mande à <persName ref="#Chavigny">Monsieur de <choice>
@@ -1168,7 +1170,7 @@
                </choice> Monsieur d'<persName ref="#Argenson">Argenson</persName> &amp; Baronis, <choice>
                   <orig>i</orig>
                   <reg>j</reg>
-               </choice>'escris à <placeName ref="Lyon">Lyon</placeName> &amp; en <placeName ref="#Dauphine">Dauphiné</placeName> pour faire passer nos Troupes, car elles ne
+               </choice>'escris à <placeName n="first" ref="Lyon">Lyon</placeName> &amp; en <placeName ref="#Dauphine">Dauphiné</placeName> pour faire passer nos Troupes, car elles ne
             sçauroient estre icy <choice>
                   <orig>deuers</orig>
                   <reg>devers</reg>

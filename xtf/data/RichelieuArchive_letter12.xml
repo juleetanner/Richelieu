@@ -1011,10 +1011,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, n.d.</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L12avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_11.jpg"/>
@@ -1052,7 +1054,7 @@
                <orig>ie</orig>
                <reg>je</reg>
             </choice> croy qu'il n'y aura point de manquement.</p>
-         <p>Des cent mil-francs que <persName ref="Lauzon">Monsieur de Lauson</persName> doit <choice>
+         <p>Des cent mil-francs que <persName n="first" ref="Lauzon">Monsieur de Lauson</persName> doit <choice>
                <orig>enuoyer</orig>
                <reg>envoyer</reg>
             </choice>, les cinquante mil sont <choice>
@@ -1108,7 +1110,7 @@
             </choice>'ay eu des <choice>
                <orig>nouuelles</orig>
                <reg>nouvelles</reg>
-            </choice> des recreuës du <placeName ref="#Languedoc">Languedoc</placeName> par Monsieur
+            </choice> des recreuës du <placeName n="first" ref="#Languedoc">Languedoc</placeName> par Monsieur
           de Castelan, vous verrez, s'il vous plaist, ce qu'il m'en mande par sa Lettre, afin de
           commander qu'on y remedie, car il faut que toutes les recreuës &amp; la <choice>
                <orig>Caualerie</orig>
@@ -1127,7 +1129,7 @@
             </choice>'ay <choice>
                <orig>enuoyez</orig>
                <reg>envoyez</reg>
-            </choice> en <placeName ref="#Lyonnais">Lyonnois</placeName> &amp; en <placeName ref="#Dauphine">Dauphiné</placeName>, j'en dépesche encore <choice>
+            </choice> en <placeName n="first" ref="#Lyonnais">Lyonnois</placeName> &amp; en <placeName n="first" ref="#Dauphine">Dauphiné</placeName>, j'en dépesche encore <choice>
                <orig>vn</orig>
                <reg>un</reg>
             </choice> autre en Languedoc, pour <choice>
@@ -1244,7 +1246,7 @@
             </choice> qui se <choice>
                <orig>trouuoit</orig>
                <reg>trouvoit</reg>
-            </choice> sur le Chenchio par le moyen du <persName ref="#Maurizio">Cardinal de <choice>
+            </choice> sur le Chenchio par le moyen du <persName n="first" ref="#Maurizio">Cardinal de <choice>
                   <orig>Sauoye</orig>
                   <reg>Savoye</reg>
                </choice>

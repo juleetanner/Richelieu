@@ -1011,10 +1011,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, n.d.</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L14avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_14.jpg"/>
@@ -1369,7 +1371,7 @@
             </choice> jugemens qu'on fait d'elle, quand à moy il me semble que <choice>
                <orig>ie</orig>
                <reg>je</reg>
-            </choice> connois mieux ses interests que ses pensées, le <persName ref="#Aglie">Comte
+            </choice> connois mieux ses interests que ses pensées, le <persName n="first" ref="#Aglie">Comte
             Philippe</persName> le sçait bien, elle m'a promis qu'elle s'asseurera de Nice, <choice>
                <orig>ie</orig>
                <reg>je</reg>

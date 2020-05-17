@@ -1009,10 +1009,12 @@
    <text xml:lang="fr-1694acad">
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
-            <titlePart type="sub">
-                brought to you by XTF
-              </titlePart>
+            <titlePart type="main">
+               <title>
+                  <persName ref="#Richelieu">Cardinal Richelieu</persName> to an <persName ref="#FX">unnamed "Madame,"</persName> n.d.</title>
+            </titlePart>
          </titlePage>
+         <div type="copyright" xml:id="L61avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA 1346-235. Photo courtesy the Morgan Library &amp; Museum.</div>
       </front>
       <body>
          <pb facs="MLM99925_136118v_0001-hpr.jpg"/>

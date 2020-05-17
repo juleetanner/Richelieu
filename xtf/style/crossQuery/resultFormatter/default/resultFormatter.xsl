@@ -676,21 +676,23 @@ Item number <xsl:value-of select="$num"/>:
            </td>
          </tr>
 
-         <tr> <!-- row for "Summary:" -->
-           <td class="col1">
-             <xsl:text>&#160;</xsl:text>
-           </td>
-           <td class="col2">
-             <b>Summary:&#160;&#160;</b>
-           </td>
-           <td class="col3">
-             <xsl:sequence select="string( meta/description )"/>
-           </td>
-           <td class="col4">
-             <xsl:text>&#160;</xsl:text>
-           </td>
-         </tr>
-
+         <xsl:if test="meta/description"> <!-- row for "Summary:" -->
+           <tr>
+             <td class="col1">
+               <xsl:text>&#160;</xsl:text>
+             </td>
+             <td class="col2">
+               <b>Summary:&#160;&#160;</b>
+             </td>
+             <td class="col3">
+               <xsl:sequence select="string( meta/description )"/>
+             </td>
+             <td class="col4">
+               <xsl:text>&#160;</xsl:text>
+             </td>
+           </tr>
+         </xsl:if>
+         
          <xsl:if test="meta/subject"> <!-- row for "Keywords:" -->
            <tr>
              <td class="col1">
