@@ -738,7 +738,7 @@
         <persName>Cheré</persName>
         <persName>Chéré</persName>
         <occupation>
-          <desc>Secretary to Richelieu, cousin of <persName ref="Sc1">Charpentier</persName></desc>
+          <desc>Secretary to Richelieu, cousin of <persName ref="#Sc1">Charpentier</persName></desc>
         </occupation>
         <note>Secretary to Richelieu, cousin of Charpentier.</note>
       </person>
@@ -1450,7 +1450,7 @@
           </choice>, est la plus importante affaire que nous puissons <choice>
             <orig>auoir</orig>
             <reg>avoir</reg>
-          </choice> pour l'armée, &amp; pour le <placeName ref="Monferrato">Montferrat</placeName>.
+          </choice> pour l'armée, &amp; pour le <placeName ref="#Monferrato">Montferrat</placeName>.
           C'est pourquoy <choice>
             <orig>ie</orig>
             <reg>je</reg>
@@ -1575,7 +1575,7 @@
             <orig>seruice</orig>
             <reg>service</reg>
           </choice> du Roy.</p>
-        <closer><dateline>De <placeName ref="Turin">Turin</placeName> ce 8. <choice>
+        <closer><dateline>De <placeName ref="#Turin">Turin</placeName> ce 8. <choice>
               <orig>Ianuier</orig>
               <reg>Janvier</reg>
             </choice> 1639.</dateline></closer>
@@ -1659,7 +1659,7 @@
               <reg>Monseigneur</reg>
             </choice>,</salute></opener>
         <p>
-          <orig>I</orig><reg>J</reg>'ay apris la mort du <persName ref="Joseph">Pere
+          <orig>I</orig><reg>J</reg>'ay apris la mort du <persName ref="#Joseph">Pere
             Joseph</persName>
           <choice>
             <orig>auec</orig>
@@ -1790,7 +1790,7 @@
               <reg>serviteur</reg>
             </choice>,</salute>
           <signed>le Cardinal de la Valette.</signed>
-          <dateline>De <placeName ref="Turin">Turin</placeName> le 11. <choice>
+          <dateline>De <placeName ref="#Turin">Turin</placeName> le 11. <choice>
               <orig>Ianuier</orig>
               <reg>Janvier</reg>
             </choice> 1639.</dateline></closer>
@@ -1875,7 +1875,7 @@
               <orig>Reuerendissimo</orig>
               <reg>Reverendissimo</reg>
             </choice> Signor mio Patron Colendissimo</salute></opener>
-        <p>Ho pagato affettionamente <persName ref="Emery">Monsieur d'Hemery</persName> signifie à
+        <p>Ho pagato affettionamente <persName ref="#Emery">Monsieur d'Hemery</persName> signifie à
           Vostre Eminenza la mia singolar <choice>
             <orig>deuotione</orig>
             <reg>devotione</reg>
@@ -1902,7 +1902,7 @@
             <orig>reuerenza</orig>
             <reg>reverenza</reg>
           </choice>.</p>
-        <closer><dateline>In <placeName ref="Turin">Torino</placeName> l'19. Genaro 1639.</dateline>
+        <closer><dateline>In <placeName ref="#Turin">Torino</placeName> l'19. Genaro 1639.</dateline>
           <salute>Di Vostra Eminenza, Umilissimo &amp; obligatissimo <choice>
               <orig>seruitore</orig>
               <reg>servitore</reg>
@@ -2138,7 +2138,7 @@
           </choice> fois <choice>
             <orig>auec</orig>
             <reg>avec</reg>
-          </choice> fruict, comme aussi le <persName ref="SMaurice">Marquis de Saint
+          </choice> fruict, comme aussi le <persName ref="#SMaurice">Marquis de Saint
             Maurice</persName>, qui vous rendra cette Lettre, afin que <choice>
             <orig>ie</orig>
             <reg>je</reg>
@@ -2162,7 +2162,7 @@
               <orig>Covsin</orig>
               <reg>Cousin </reg>
             </choice>, Vostre affectionnée Cousine</salute> Chrestienne. <dateline>Du <placeName
-              ref="Turin">Turin</placeName> ce 14. <orig>Ianuier</orig><reg>Janvier</reg>
+              ref="#Turin">Turin</placeName> ce 14. <orig>Ianuier</orig><reg>Janvier</reg>
             1639.</dateline></closer>
       </body>
     </text>
@@ -2250,11 +2250,11 @@
         <p>Intendera Vostra Eminenza da questi Signori che se ne ritornano, come alla fine habbia <choice>
             <orig>hauuto</orig>
             <reg>havuto</reg>
-          </choice> termine il negotio del <persName ref="Monod">Padre Monodo</persName>, all'hora
+          </choice> termine il negotio del <persName ref="#Monod">Padre Monodo</persName>, all'hora
           que la sua <choice>
             <orig>improuisa</orig>
             <reg>improvvisa</reg>
-          </choice> fuga da <placeName ref="Cuneo">Cuneosa</placeName>, confini d'ogni risolutione
+          </choice> fuga da <placeName ref="#Cuneo">Cuneosa</placeName>, confini d'ogni risolutione
           hauia poco men che tolto à M.R. l'arbitrio de'ssequire quanto si era doppo molte dispute
           determinato, conforme al gusto é sentimento di Eminenza Vostra Egli mal suo grado e stato
           condotto nel <placeName ref="#Montmelian">Castello de Mommeliano</placeName>, <choice>
@@ -2310,7 +2310,7 @@
             <orig>conseruatione</orig>
             <reg>conservatione</reg>
           </choice> d'alla sua buona gratia humilmente gli m'inchino</p>
-        <closer><dateline>da <placeName ref="Turin">Torino</placeName> li 14. di. Genaro
+        <closer><dateline>da <placeName ref="#Turin">Torino</placeName> li 14. di. Genaro
             1639.</dateline>
           <salute>Di Vostra Eminenza. Humilissimo <choice>
               <orig>deuotissimo</orig>
@@ -2633,7 +2633,7 @@
           vous dira. <choice>
             <orig>I</orig>
             <reg>J</reg>
-          </choice>'ay chargé le <persName ref="SMaurice">Marquis de Saint Maurice</persName> mon
+          </choice>'ay chargé le <persName ref="#SMaurice">Marquis de Saint Maurice</persName> mon
           Ambassadeur de s'expliquer particulierement sur ce <choice>
             <orig>suiet</orig>
             <reg>sujet</reg>
@@ -2740,7 +2740,7 @@
         <p>Messieurs de <persName ref="#Palluau">Palluau</persName> &amp; d'<persName
             ref="#Estrades">Estrade</persName> rendront compte à Vostre Eminence de ce qui s'est
           passé dans leur voyage, &amp; de la resolution que Madame a prise de mettre le <persName
-            ref="Monod">Pere Monot</persName> à <placeName ref="#Montmelian">Mommelian</placeName>,
+            ref="#Monod">Pere Monot</persName> à <placeName ref="#Montmelian">Mommelian</placeName>,
           ainsi que <choice>
             <orig>ie</orig>
             <reg>je</reg>
@@ -2814,7 +2814,7 @@
             <orig>trauaux</orig>
             <reg>travaux</reg>
           </choice>, &amp; vous en rendre compte.</p>
-        <p><persName ref="Turenne">Monsieur de la Tour</persName> est <choice>
+        <p><persName ref="#Turenne">Monsieur de la Tour</persName> est <choice>
             <orig>arriué</orig>
             <reg>arrivé</reg>
           </choice> icy depuis deux <choice>
@@ -2846,7 +2846,7 @@
             <reg>servir</reg>
           </choice> en Italie, que le le double de celle qui passera de France.</p>
         <p>Le Nonce a ordre du <persName ref="#Urban8">Pape</persName> de traiter l'accommodement du
-            <persName ref="Maurice">Cardinal de <choice>
+            <persName ref="#Maurice">Cardinal de <choice>
               <orig>Sauoye</orig>
               <reg>Savoye</reg>
             </choice></persName>
@@ -3501,7 +3501,7 @@
           </choice>'escris à Monsieur de <persName ref="#Chavigny">Chauigny</persName> ce que <choice>
             <orig>i</orig>
             <reg>j</reg>
-          </choice>'ay appris du decret que le <persName ref="Maurice">Cardinal de <choice>
+          </choice>'ay appris du decret que le <persName ref="#Maurice">Cardinal de <choice>
               <orig>Sauoye</orig>
               <reg>Savoye</reg>
             </choice></persName> a obtenu de l'<persName ref="#Ferdinand3">Empereur</persName> pour
@@ -3688,7 +3688,7 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice> croy qu'il n'y aura point de manquement.</p>
-        <p>Des cent mil-francs que <persName ref="Lauzon">Monsieur de Lauson</persName> doit <choice>
+        <p>Des cent mil-francs que <persName ref="#Lauzon">Monsieur de Lauson</persName> doit <choice>
             <orig>enuoyer</orig>
             <reg>envoyer</reg>
           </choice>, les cinquante mil sont <choice>
@@ -4106,7 +4106,7 @@
           <choice>
             <orig>vn</orig>
             <reg>un</reg>
-          </choice> Gentil-homme à <persName ref="Epernon">Monsieur d'Espernon</persName> pour luy
+          </choice> Gentil-homme à <persName ref="#Epernon">Monsieur d'Espernon</persName> pour luy
           faire <choice>
             <orig>sçauoir</orig>
             <reg>sçavoir</reg>
@@ -4117,7 +4117,7 @@
           </choice>'ay eu l'honneur de vous écrire, <persName ref="#Christine">Madame</persName> ne
           croit pas que le <persName ref="#Urban8">Pape</persName>, ou pour mieux dire, le Cardinal
           Barberin, soit fort affectionné, ny pour la France, ny pour elle, elle croit qu'il est
-          pour le <persName ref="Maurizio">Cardinal de Sauoye</persName> contre ses interests, au
+          pour le <persName ref="#Maurizio">Cardinal de Sauoye</persName> contre ses interests, au
           moins me le dit-elle ainsi.</p>
         <pb facs="Vialart_letters_Page_14.jpg"/>
         <p>Nos Trouppes sont en bon estat, nous <choice>
@@ -4145,7 +4145,7 @@
         <p><choice>
             <orig>I</orig>
             <reg>J</reg>
-          </choice>'attens maintenant le Regiment de <persName ref="Turenne">la Tour</persName>,
+          </choice>'attens maintenant le Regiment de <persName ref="#Turenne">la Tour</persName>,
           lequel n'est pas arriué dans le temps que Monsieur le Comte nous <choice>
             <orig>auoit</orig>
             <reg>avoit</reg>
@@ -4222,7 +4222,7 @@
             <reg>je</reg>
           </choice> suis.</p>
         <closer><salute>Vostre, &amp;c.</salute>
-          <dateline>De <placeName ref="Turin">Turin</placeName> ce 15. <choice>
+          <dateline>De <placeName ref="#Turin">Turin</placeName> ce 15. <choice>
               <orig>Auril</orig>
               <reg>Avril</reg>
             </choice> 1639.</dateline></closer>
@@ -4870,7 +4870,7 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice> vous ay mandé par Monsieur d'<persName ref="#Argenson">Argençon</persName>, de
-            <persName ref="Palluau">Palluau</persName>, &amp; de Bonnelle, sur ce suiet ; car si les
+            <persName ref="#Palluau">Palluau</persName>, &amp; de Bonnelle, sur ce suiet ; car si les
           ennemis <choice>
             <orig>enuoyent</orig>
             <reg>envoyent</reg>
@@ -4989,7 +4989,7 @@
           </choice> grand <choice>
             <orig>preiudice</orig>
             <reg>prejudice</reg>
-          </choice> aux affaires du <persName ref="Louis13">Roy</persName>, Vostre Eminence
+          </choice> aux affaires du <persName ref="#Louis13">Roy</persName>, Vostre Eminence
           commandera ce qu'il luy plaira que nous fassions en ce cas la, il me sembleroit à propos
           de donner presentement les domaines que Vostre Eminence a promis au Chancelier, à Prat,
           &amp; au Major de Cazal Solera, parce que ce sera <choice>
@@ -5196,7 +5196,7 @@
           </choice>'écris <choice>
             <orig>vne</orig>
             <reg>une</reg>
-          </choice> Lettre au <persName ref="Louis13">Roy</persName>, Monsieur mon Frere, pour luy
+          </choice> Lettre au <persName ref="#Louis13">Roy</persName>, Monsieur mon Frere, pour luy
           demander sa protection, &amp; des puissans secours, selon la necessité que <choice>
             <orig>i</orig>
             <reg>j</reg>
@@ -5446,7 +5446,7 @@
           </choice> comme les Ennemis se sont assemblez, &amp; qu'il semble qu'ils veuillent tourner
           du costé d'<placeName ref="#Asti">Ast</placeName>. On dit que le <persName ref="#Tommaso"
             >Prince Thomas</persName> commande l'armée, ce qui me fait soupçonnner quelques
-          intelligences, nos Troupes sont assemblées aupres de <placeName ref="Moncalvo"><choice>
+          intelligences, nos Troupes sont assemblées aupres de <placeName ref="#Moncalvo"><choice>
               <orig>Moncalue</orig>
               <reg>Moncalve</reg>
             </choice></placeName>, où <choice>
@@ -5506,7 +5506,7 @@
             <orig>i</orig>
             <reg>j</reg>
           </choice>'ay m'empesche d'escrire à vostre Eminence les particularitez des complimens que
-            <persName ref="Christine">Madame</persName> m'a fait pour vous que <choice>
+            <persName ref="#Christine">Madame</persName> m'a fait pour vous que <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> mande à <persName ref="#Chavigny">Monsieur de <choice>
@@ -5544,7 +5544,7 @@
           ceux de <placeName ref="#Casale">Cazal</placeName> seroient d'<choice>
             <orig>aduis</orig>
             <reg>advis</reg>
-          </choice> que le <persName ref="Louis13">Roy</persName> donnast 6000. <choice>
+          </choice> que le <persName ref="#Louis13">Roy</persName> donnast 6000. <choice>
             <orig>liures</orig>
             <reg>livres</reg>
           </choice> de pension aux principaux Gentils-hommes de la ville, Vostre Eminence commandera
@@ -5561,7 +5561,7 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice> dois,</p>
-        <closer>Vostre, &amp;c. <dateline>De <placeName ref="Turin">Turin</placeName> ce 10. Mars
+        <closer>Vostre, &amp;c. <dateline>De <placeName ref="#Turin">Turin</placeName> ce 10. Mars
             1639.</dateline></closer>
         <postscript>
           <p><choice>
@@ -5573,7 +5573,7 @@
             </choice> Monsieur d'<persName ref="#Argenson">Argenson</persName> &amp; Baronis, <choice>
               <orig>i</orig>
               <reg>j</reg>
-            </choice>'escris à <placeName ref="Lyon">Lyon</placeName> &amp; en <placeName
+            </choice>'escris à <placeName ref="#Lyon">Lyon</placeName> &amp; en <placeName
               ref="#Dauphine">Dauphiné</placeName> pour faire passer nos Troupes, car elles ne
             sçauroient estre icy <choice>
               <orig>deuers</orig>
@@ -6221,7 +6221,7 @@
       <fileDesc>
         <titleStmt>
           <title>The <persName ref="#Estrees">Maréchal d'Estrées</persName> to <persName
-              ref="Richelieu">Cardinal Richelieu</persName>, 13 July 1635</title>
+              ref="#Richelieu">Cardinal Richelieu</persName>, 13 July 1635</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -6431,7 +6431,7 @@
         </textClass>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Hepburn">Hepburn</persName>
+            <persName ref="#Hepburn"/>
             <placeName/>
             <date when="1629-08-16"/>
           </correspAction>
@@ -6586,11 +6586,11 @@
           </choice> plustost ce que Je luy ay apris, que vostre <lb/>amy venoit avec titre
           d'Ambassadeur de <persName ref="#MariaAnna">L'Infante</persName>
           <lb/>pour <seg>donner part<note>to inform someone of something, to share a
-            secret</note></seg> au <persName ref="Louis13">Roy</persName> des honneurs qu'elle <choice>
+            secret</note></seg> au <persName ref="#Louis13">Roy</persName> des honneurs qu'elle <choice>
             <orig>auoit</orig>
             <reg>avoit</reg>
           </choice>
-          <lb/>rendus a la <persName ref="MarieM">Reyne sa Mere</persName>. J'en ay veu
+          <lb/>rendus a la <persName ref="#MarieM">Reyne sa Mere</persName>. J'en ay veu
           l'Instruction <lb/>signee d'elle si bien que sa negotiation luy donnera <lb/>moyen de vous
           entretenir tant qu'il vous plaira. <lb/>J'auray l'honneur de vous veoir demain a vostre
           disner <lb/>&amp; vous en diray davantage &amp; croy que le tout sera <lb/>a vostre
@@ -6686,7 +6686,7 @@
         <pb facs="MLM99923_132070v_0001-hpr.jpg"/>
         <lb/>
         <opener><salute>Monsieur</salute></opener>
-        <p><lb/>Comme le courrier <lb/>partoit, <persName ref="Arpajon">Monsieur
+        <p><lb/>Comme le courrier <lb/>partoit, <persName ref="#Arpajon">Monsieur
             d'Arpajon</persName>
           <lb/>est arrivé, lequel <lb/>satisfera le plus dilli-<lb break="no"/>gemment qu'il ce pourra <lb/>a
           vos ordres, il ce donne <lb/>l'<choice>
@@ -6821,7 +6821,7 @@
           <lb/>qui peut faire que sy se n'estoit <lb/>Le <choice>
             <orig>seruice</orig>
             <reg>service</reg>
-          </choice> du <persName ref="Louis13">Roy mon frere</persName> je <choice>
+          </choice> du <persName ref="#Louis13">Roy mon frere</persName> je <choice>
             <sic>nan</sic>
             <corr>n'en</corr>
           </choice>
@@ -7176,7 +7176,7 @@
             <sic>faur</sic>
             <corr>faveur</corr>
           </choice> avec laquelle cette affaire <lb/>s'en passee. Que le Roy desirant <placeName
-            ref="Buzay">Buzay</placeName> et <lb/><placeName ref="#Quimperle"><choice>
+            ref="#Buzay">Buzay</placeName> et <lb/><placeName ref="#Quimperle"><choice>
               <orig>Quinperlay</orig>
               <reg resp="JT" cert="medium">Quimperlé</reg>
             </choice></placeName> j'avois cedé volontairement Buzay sans <lb/>condition, entre les
@@ -7214,7 +7214,7 @@
           estant desja <choice>
             <sic resp="JT" cert="medium">esteinte</sic>
             <reg>estendue</reg>
-          </choice> par <lb/>L'Abbaié de de <placeName ref="Pibrac">Pibrac</placeName> qui <choice>
+          </choice> par <lb/>L'Abbaié de de <placeName ref="#Pibrac">Pibrac</placeName> qui <choice>
             <orig>auoit</orig>
             <reg>avoit</reg>
           </choice> vaqué per an par <unclear reason="illegible">annum</unclear>. Elle
@@ -7273,7 +7273,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="Richelieu">Cardinal Richelieu</persName> to <persName
+          <title><persName ref="#Richelieu">Cardinal Richelieu</persName> to <persName
               ref="#Ferdinando2">Ferdinando II de Medici</persName>, 19 January 1639</title>
         </titleStmt>
         <publicationStmt>
@@ -7353,7 +7353,7 @@
             <orig>faueur</orig>
             <reg>faveur</reg>
           </choice> du frere de Monsieur L’<orig>Euesque</orig><reg>Evesque</reg> de <placeName
-            ref="Beziers">Beziers</placeName>
+            ref="#Beziers">Beziers</placeName>
           <lb/>sur le <choice>
             <orig>suiet</orig>
             <reg>sujet</reg>
@@ -7738,7 +7738,7 @@
           </choice> par vos lettres <lb/>sur laquelle me fondant. Je vous suplie <choice>
             <orig>auoir</orig>
             <reg>avoir</reg>
-          </choice> agreable de dire librement a mon <lb/>fils <persName ref="Orval"
+          </choice> agreable de dire librement a mon <lb/>fils <persName ref="#Orval"
             >d'orval</persName> (auquel J'ay donne charge de vous faire entendre mes demandes)
           <lb/>si les choses et les personnes sont maintenant en telle disposition que J'en
           <lb/>puisse tirer <choice>
@@ -7774,7 +7774,7 @@
             <reg>avec</reg>
           </choice> trop de liberte et de <lb/>me tenir pour entierement <unclear reason="illegible"
             >aguis</unclear> a vostre service de quoy l'obeissance <lb/>que Je rendray incessamment
-          a vos commandemens vous <gap reason="cancelled"/>
+          a vos commandemens vous <del><gap reason="illegible"/></del>
           <lb/>vous feront des <choice>
             <orig>preuues</orig>
             <reg>preuves</reg>
@@ -7891,7 +7891,7 @@
           </choice> soubmision et <lb/>depandance de mes volontés ainsi que <lb/>tout bon et fidelle
           sujet doit faire,</ab>
         <lb/>
-        <closer><dateline>fait au <placeName ref="Plessis">Plesis du bois</placeName> ce 29
+        <closer><dateline>fait au <placeName ref="#Plessis">Plesis du bois</placeName> ce 29
             Septembre 1634</dateline>
           <lb/><signed>Louis</signed></closer>
       </body>
@@ -8155,7 +8155,7 @@
           Consrs. en la Cour du Parlement de Paris, la <lb/>restitution d'<sic resp="JT"
             cert="medium">electeure</sic><corr>electeur</corr>, et un estat certain des places de
           seureté, pour estre i- <lb/>ceux executez dans 6. mois, pour toute prefixion, sans que
-          l'affaire de <placeName ref="Bearn">Bear<supplied>n</supplied></placeName>
+          l'affaire de <placeName ref="#Bearn">Bear<supplied>n</supplied></placeName>
           <lb/>y peut apporter aucun accroche, pour lequel il estoit particulierement co<damage><gap
               agent="tear"/><supplied>n-</supplied></damage>
           <lb/><choice>
@@ -8202,7 +8202,7 @@
           tant de meilleurs affaires porter ses armes en lieu, ou on ne luy <lb/>oppose que de
           l'armes, sa presence tant necessarie ailleurs, ou on ne rem- <lb/>pare que de sa sacreé
           parole, et si ceux de <placeName ref="#Rochelle">la Rochelle</placeName>, chargez par
-          l'assem-<lb break="no"/>bleé de <placeName ref="Oudun">Loudun</placeName>, en cas d'inexecution apres
+          l'assem-<lb break="no"/>bleé de <placeName ref="#Oudun">Loudun</placeName>, en cas d'inexecution apres
           les 6. mois, de <choice>
             <orig>conuoquer</orig>
             <reg>convoquer</reg>

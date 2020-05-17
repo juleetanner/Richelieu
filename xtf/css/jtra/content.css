@@ -23,4 +23,6 @@ span.add:after  { content: "/"; }
 span.gap,
 span.supplied { color: #50555A; }
 span.unclear:after { color: #50555A; content: "[?]"; }
-
+span.correg:before { color: #50555A; content: "{";}
+span.correg { color: #50555A; }
+span.correg:after { color: #50555A; content: "}"; }

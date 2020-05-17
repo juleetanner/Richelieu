@@ -20,7 +20,8 @@ div.header {
 	 width: 99%;
 	 border-bottom: 0;
 	 margin: 0 auto;
-	 background-color: #B1B8C6;
+	 background-color: #2A1A2E;
+         color: #E2C78E;
 }
 
 div.header > h1,
@@ -29,6 +30,7 @@ div.header > h3 {
                   text-align: center;
                   margin: 1ex 12em 0ex 12em;
                   }
+div.header > h3 > a { color: #F3D448; text-decoration: none; }
 div.header img {
 	border: 0;
 }

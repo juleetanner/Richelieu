@@ -16,9 +16,12 @@ form {
 div.header {
 	 border-bottom: 0;
 	 margin: 0 auto;
-	 background-color: #B1B8C6;
+	 background-color: #2A1A2E;
 	 height: 100%;
+         color: #E2C78E;
 }
+
+div.header > h3 > a { color: #F3D448; text-decoration: none; }
 
 div.header img {
 	border: 0;

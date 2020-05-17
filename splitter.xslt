@@ -23,7 +23,8 @@
 
   <xsl:variable name="inputFileName" select="tokenize( document-uri(/),'/')[last()]"/>
   <xsl:variable name="corpusHeader" select="/teiCorpus/teiHeader" as="element(teiHeader)"/>
-
+  <xsl:variable name="apos" select='"&apos;"'/>
+  
   <!-- currently unsed keys: -->
   <xsl:key name="persName-by-ref" match="body//persName" use="@ref"/>
   <xsl:key name="placeName-by-ref" match="body//placeName" use="@ref"/>
@@ -149,6 +150,15 @@
       </xsl:if>
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
+  </xsl:template>
+  
+  <xsl:template match="text()">
+    <xsl:value-of select="
+      replace( ., $apos,'’')
+      => replace('\s&quot;', ' “')
+      => replace('&quot;', '”')
+      => replace('([0-9])-([0-9])','$1–$2')
+      "/>
   </xsl:template>
   
   <!--

@@ -935,9 +935,9 @@
   <!-- phrase-level: <gap>, <unclear>, <del>, <add>                           -->
   <!-- ====================================================================== -->
   
-  <xsl:template match="gap[@reason]">
+  <xsl:template match="gap">
     <span class="gap">
-      <xsl:variable name="reason" select="if (@reason eq 'illegible') then 'illeg' else @reason"/>
+      <xsl:variable name="reason" select="if (@reason eq 'illegible') then 'illeg' else 'missing text'"/>
       <xsl:text>[</xsl:text>
       <xsl:value-of select="$reason"/>
       <xsl:text>]</xsl:text>
@@ -947,6 +947,13 @@
   <xsl:template match="del|add|supplied|unclear">
     <span class="{local-name(.)}">
       <xsl:apply-templates/>
+    </span>
+  </xsl:template>
+  
+  <xsl:template match="choice">
+    <xsl:apply-templates select="sic|orig"/>
+    <span class="correg">
+      <xsl:apply-templates select="corr|reg"/>
     </span>
   </xsl:template>
   

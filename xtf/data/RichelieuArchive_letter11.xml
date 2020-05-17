@@ -151,16 +151,16 @@
             <affiliation>University of Washington</affiliation>
          </person>
          <person sortKey="Aligre,_Etienne_d'" xml:id="Aligre">
-            <persName type="main">Etienne d'Aligre</persName>
-            <persName type="presentation">Etienne d'Aligre</persName>
+            <persName type="main">Etienne d’Aligre</persName>
+            <persName type="presentation">Etienne d’Aligre</persName>
             <idno type="VIAF">21161812</idno>
             <birth when="1550"/>
             <death when="1635"/>
             <note>Keeper of the Seals (Garde des sceaux) of France from 1624 to 1635.</note>
          </person>
          <person sortKey="San_Martino,_Filippo,_conte_d'Agliè" xml:id="Aglie">
-            <persName type="main">Filippo San Martino, conte d'Agliè</persName>
-            <persName type="presentation">Conte d'Agliè</persName>
+            <persName type="main">Filippo San Martino, conte d’Agliè</persName>
+            <persName type="presentation">Conte d’Agliè</persName>
             <idno type="VIAF">62659363</idno>
             <birth when="1604"/>
             <death when="1667"/>
@@ -168,8 +168,8 @@
           regency.</note>
          </person>
          <person sortKey="Schomberg,_Charles_de,_duc_d'Halluin" xml:id="Alvin">
-            <persName type="main">Charles de Schomberg, duc d'Halluin</persName>
-            <persName type="presentation">Duc d'Halluin</persName>
+            <persName type="main">Charles de Schomberg, duc d’Halluin</persName>
+            <persName type="presentation">Duc d’Halluin</persName>
             <idno type="VIAF">184477767</idno>
             <birth when="1601"/>
             <death when="1656"/>
@@ -177,16 +177,16 @@
           in 1637 after his victory at the Battle of Leucate.</note>
          </person>
          <person sortKey="Voyer,_René_de,_comte_d'Argenson" xml:id="Argenson">
-            <persName type="main">René de Voyer, comte d'Argenson</persName>
-            <persName type="presentation">Comte d'Argenson</persName>
+            <persName type="main">René de Voyer, comte d’Argenson</persName>
+            <persName type="presentation">Comte d’Argenson</persName>
             <idno type="VIAF">64063641</idno>
             <birth when="1596"/>
             <death when="1651"/>
             <note>Lawyer, councillor of state, and inspector of French forces under Richelieu.</note>
          </person>
          <person sortKey="Arpajon,_Louis,_duc_d'" xml:id="Arpajon">
-            <persName type="main">Louis, duc d'Arpajon</persName>
-            <persName type="presentation">Duc d'Arpajon</persName>
+            <persName type="main">Louis, duc d’Arpajon</persName>
+            <persName type="presentation">Duc d’Arpajon</persName>
             <idno type="VIAF">81597703</idno>
             <birth when="1590"/>
             <death when="1679"/>
@@ -204,14 +204,14 @@
          </person>
          <person sortKey="Nogaret_de_La_Valette,_Bernard_de,_2e_duc_d'Épernon"
                  xml:id="Bernard">
-            <persName type="main">Bernard de Nogaret de La Valette, 2e duc d'Épernon</persName>
+            <persName type="main">Bernard de Nogaret de La Valette, 2e duc d’Épernon</persName>
             <persName type="alternate">Marquis de La Valette</persName>
-            <persName type="presentation">2e duc d'Épernon</persName>
+            <persName type="presentation">2e duc d’Épernon</persName>
             <idno type="VIAF">64281075</idno>
             <birth when="1592"/>
             <death when="1661-07-26"/>
             <note>French general and brother of Henri de Nogaret, duc de Candalle (d. 1639), and Louis
-          de Nogaret, Cardinal de La Valette. He became duc d'Épernon on his father's death in
+          de Nogaret, Cardinal de La Valette. He became duc d’Épernon on his father’s death in
           1642.</note>
          </person>
          <person sortKey="Bertier_de_Montrave,_Jean_de" xml:id="Bertier">
@@ -230,10 +230,10 @@
             <birth when="1590"/>
             <death when="1673"/>
             <note>Wife of Claude Bouthillier, comte de Chavigny. She was entrusted with the education of
-          Richelieu's orphaned niece (Tapié, p. 394).</note>
+          Richelieu’s orphaned niece (Tapié, p. 394).</note>
          </person>
          <person sortKey="Chanteloube,_Jacques_d'Apchon_de" xml:id="Chanteloube">
-            <persName type="main">Jacques d'Apchon de Chanteloube</persName>
+            <persName type="main">Jacques d’Apchon de Chanteloube</persName>
             <persName type="presentation">Jacques de Chanteloube</persName>
             <idno type="VIAF">349197</idno>
             <birth when="1590" precision="low"/>
@@ -289,16 +289,16 @@
             <idno type="VIAF">86438866</idno>
             <birth when="1606"/>
             <death when="1663"/>
-            <note>Sister of Louis XIII and wife of Victor Amadeus I, duke of Savoy. At the duke's death
+            <note>Sister of Louis XIII and wife of Victor Amadeus I, duke of Savoy. At the duke’s death
           in 1637 she became regent, first in the name of her son Francis Hyacinth (d. 1638), then
           in the name of her second son, Charles-Emmanuel II. Her regency was challenged by her
           brothers-in-law Thomas, prince of Carignano, and Maurice, prince of Savoy, in the
           Piedmontese Civil War.</note>
          </person>
          <person sortKey="Emery,_Michel_Particelli,_sieur_d'" xml:id="Emery">
-            <persName type="main">Michel Particelli, sieur d'Emery</persName>
-            <persName type="alternate">Michel Particelli, sieur d'Hemery</persName>
-            <persName type="presentation">Sieur d'Emery</persName>
+            <persName type="main">Michel Particelli, sieur d’Emery</persName>
+            <persName type="alternate">Michel Particelli, sieur d’Hemery</persName>
+            <persName type="presentation">Sieur d’Emery</persName>
             <idno type="VIAF">8935394</idno>
             <birth when="1596"/>
             <death when="1650"/>
@@ -306,17 +306,17 @@
          </person>
          <person sortKey="Nogaret_de_la_Valette,_Jean-Louis_de,_1e_duc_d'Épernon"
                  xml:id="Epernon">
-            <persName type="main">Jean-Louis de Nogaret de La Valette, 1e duc d'Épernon</persName>
-            <persName type="presentation">1e Duc d'Épernon</persName>
+            <persName type="main">Jean-Louis de Nogaret de La Valette, 1e duc d’Épernon</persName>
+            <persName type="presentation">1e Duc d’Épernon</persName>
             <idno type="VIAF">56742804</idno>
             <birth when="1554"/>
             <death when="1642"/>
-            <note>First duc d'Épernon and father of Henri (d. 1639), Bernard (2e duc d'Épernon), and
+            <note>First duc d’Épernon and father of Henri (d. 1639), Bernard (2e duc d’Épernon), and
           Louis, Cardinal de La Valette.</note>
          </person>
          <person sortKey="Epinay,_Timoléon_d',_marquis_de_Saint-Luc" xml:id="Epinay">
-            <persName type="main">Timoléon d'Epinay, marquis de Saint-Luc</persName>
-            <persName type="alternate">Timoléon d'Espinay, marquis de Saint-Luc</persName>
+            <persName type="main">Timoléon d’Epinay, marquis de Saint-Luc</persName>
+            <persName type="alternate">Timoléon d’Espinay, marquis de Saint-Luc</persName>
             <persName type="presentation">Marquis de Saint-Luc</persName>
             <idno type="VIAF">314930167</idno>
             <birth when="1580"/>
@@ -325,9 +325,9 @@
           named Marshall of France in 1627.</note>
          </person>
          <person sortKey="Estrades,_Godefroi_Louis,_comte_d'" xml:id="Estrades">
-            <persName type="main">Godefroi Louis, comte d'Estrades</persName>
-            <persName type="alternate">Godefroi Louis, comte d'Estrade</persName>
-            <persName type="presentation">Comte d'Estrades</persName>
+            <persName type="main">Godefroi Louis, comte d’Estrades</persName>
+            <persName type="alternate">Godefroi Louis, comte d’Estrade</persName>
+            <persName type="presentation">Comte d’Estrades</persName>
             <idno type="VIAF">64115268</idno>
             <birth when="1607"/>
             <death when="1686"/>
@@ -337,8 +337,8 @@
          </person>
          <person sortKey="Coeuvres,_Francois_Annibal_de,_maréchal_d'Estrées"
                  xml:id="Estrees">
-            <persName type="main">Francois Annibal de Coeuvres, maréchal d'Estrées</persName>
-            <persName type="presentation">Maréchal d'Estrées</persName>
+            <persName type="main">Francois Annibal de Coeuvres, maréchal d’Estrées</persName>
+            <persName type="presentation">Maréchal d’Estrées</persName>
             <idno type="VIAF">19831371</idno>
             <birth when="1573"/>
             <death when="1670"/>
@@ -361,8 +361,8 @@
             <idno type="VIAF">49321911</idno>
             <birth when="1554"/>
             <death when="1623"/>
-            <note>Pope from 1621 to 1623. He called Richelieu the "rampart of Catholic religion and the
-          scourge of heretics" and elevated him to cardinal in 1622 (Blanchard, p. 116).</note>
+            <note>Pope from 1621 to 1623. He called Richelieu the “rampart of Catholic religion and the
+          scourge of heretics” and elevated him to cardinal in 1622 (Blanchard, p. 116).</note>
          </person>
          <person sortKey="Nogaret_de_Candalle,_Henri_de" xml:id="Henri">
             <persName type="main">Henri de Nogaret de Candalle</persName>
@@ -371,8 +371,8 @@
             <idno type="VIAF">220228842</idno>
             <birth when="1591"/>
             <death when="1639"/>
-            <note>Eldest son of the first duc d'Épernon, and brother of Bernard and Louis, Cardinal de
-          La Valette. On Henri's death in 1639, his brother Bernard would inherit the title.</note>
+            <note>Eldest son of the first duc d’Épernon, and brother of Bernard and Louis, Cardinal de
+          La Valette. On Henri’s death in 1639, his brother Bernard would inherit the title.</note>
          </person>
          <person sortKey="Henrietta_Maria,_queen_consort_of_England"
                  xml:id="HenriettaMaria">
@@ -383,8 +383,8 @@
             <birth when="1609"/>
             <death when="1669"/>
             <note>Sister of Louis XIII, king of France. Her marriage to Charles I was negotiated by
-          Richelieu, who at the time was an equal member of the king's council. The negotiation is
-          regarded as Richelieu's first diplomatic success (Levi, p. 81).</note>
+          Richelieu, who at the time was an equal member of the king’s council. The negotiation is
+          regarded as Richelieu’s first diplomatic success (Levi, p. 81).</note>
          </person>
          <person sortKey="Hepburn,_James" xml:id="Hepburn">
             <persName type="main">James Hepburn, Lt Col</persName>
@@ -396,7 +396,7 @@
           Valette in 1636. He was killed in Lorraine in 1637 while serving under Chatillon.</note>
          </person>
          <person sortKey="Hospital,_Francois_de_l',_comte_du_Hallier" xml:id="Hospital">
-            <persName type="main">Francois de l'Hospital, comte du Hallier</persName>
+            <persName type="main">Francois de l’Hospital, comte du Hallier</persName>
             <persName type="presentation">Comte du Hallier</persName>
             <idno type="VIAF">173264341</idno>
             <birth when="1583"/>
@@ -404,7 +404,7 @@
             <note>Youngest son in an aristocratic family who renounced the religious life to pursue a
           military career at the age of 15. He would represent Louis XIII at the signing of the
           articles of capitulation ending the seige of La Rochelle in 1628 and serve in many
-          campaigns in the Thirty Years' War.</note>
+          campaigns in the Thirty Years’ War.</note>
          </person>
          <person sortKey="Leclerc_du_Tremblay,_François,_père_Joseph" xml:id="Joseph">
             <persName type="main">François Leclerc du Tremblay, père Joseph</persName>
@@ -413,9 +413,9 @@
             <birth when="1577"/>
             <death when="1638"/>
             <note>French Capuchin friar, friend and advisor to Richelieu, unofficial negotiator with
-          German states, and the original "eminence grise." His willingness to ally France with
+          German states, and the original “eminence grise.” His willingness to ally France with
           Protestant powers against Catholic Spain prevented his elevation to cardinal, despite
-          Richelieu's efforts (Blanchard, pp. 125 and 270, n. 21).</note>
+          Richelieu’s efforts (Blanchard, pp. 125 and 270, n. 21).</note>
          </person>
          <person sortKey="Leganès,_Diego_Felipe_de_Guzmàn,_marquis_de" xml:id="Leganes">
             <persName type="main">Diego Felipe de Guzmàn, marquis de Leganès</persName>
@@ -425,7 +425,7 @@
             <death when="1655"/>
             <note>Cousin of the Count of Olivares, first minister to Philip IV of Spain and, as of 1635,
           captain general and governor of the Duchy of Milan. He was active in the Piedmontese Civil
-          War, 1639-41.</note>
+          War, 1639–41.</note>
          </person>
          <person sortKey="Lesdiguières,_François_de_Bonne,_duc_de" xml:id="Lesdiguieres">
             <persName type="main">François de Bonne, duc de Lesdiguières</persName>
@@ -450,7 +450,7 @@
           competing advisors and favorites, most notably Richelieu.</note>
          </person>
          <person sortKey="Luynes,_Charles_d'Albert_de" xml:id="Luynes">
-            <persName type="main">Charles d'Albert de Luynes</persName>
+            <persName type="main">Charles d’Albert de Luynes</persName>
             <persName type="presentation">Charles de Luynes</persName>
             <idno type="VIAF">32031222</idno>
             <birth when="1578"/>
@@ -474,15 +474,15 @@
          </person>
          <person sortKey="Medici,_Marie_de',_queen_consort_of_Henry_IV,_king_of_France"
                  xml:id="MarieM">
-            <persName type="main">Marie de'Medici, queen consort of Henry IV, king of France</persName>
-            <persName type="presentation">Marie de'Medici</persName>
+            <persName type="main">Marie de’Medici, queen consort of Henry IV, king of France</persName>
+            <persName type="presentation">Marie de’Medici</persName>
             <idno type="VIAF">12420076</idno>
             <birth when="1575"/>
             <death when="1642"/>
-            <note>Second wife of Henry IV, crowned queen of France the day before the king's
+            <note>Second wife of Henry IV, crowned queen of France the day before the king’s
           assassination in 1610. In 1617 she was forced from power in a palace coup and expelled to
           Blois. Though she reconciled with Louis and returned to court in 1621, her attempt to end
-          Richelieu's influence in 1630 on the "Day of the Dupes" would result in her permanent
+          Richelieu’s influence in 1630 on the “Day of the Dupes” would result in her permanent
           exile.</note>
          </person>
          <person sortKey="Maurice,_prince_of_Savoy_and_cardinal_of_Vercelli"
@@ -501,7 +501,7 @@
             <persName type="alternate">Père Monot</persName>
             <persName type="presentation">Père Monod</persName>
             <note>Jesuit priest and Spanish sympathizer at the court of Christine, duchess of Savoy. His
-          arrest and removal to Montmélian by the French aroused Christine's anger against Richelieu
+          arrest and removal to Montmélian by the French aroused Christine’s anger against Richelieu
           (Tapié, p. 390).</note>
          </person>
          <person sortKey="Montbazon,_Hercule,_duc_de" xml:id="Montbazon">
@@ -522,7 +522,7 @@
             <death when="1632"/>
             <note>Godson of Henri IV, governor of Languedoc, and a leading figure at the court of Louis
           XIII. As Grand Admiral and Marshall of France he put down several Huguenot rebellions and
-          won victories against Spain in the Piedmont. In 1632 he joined Gaston d'Orleans, Louis'
+          won victories against Spain in the Piedmont. In 1632 he joined Gaston d’Orleans, Louis’
           brother, in a failed attempt remove Cardinal Richelieu from power. Ignoring pleas for
           mercy throughout France, Richelieu executed Montmorency as an example to other members of
           his class.</note>
@@ -533,12 +533,12 @@
             <idno type="VIAF">172592009</idno>
             <birth when="1588"/>
             <death when="1645"/>
-            <note>Secretary of State, member of the king's council, and loyal creature of Cardinal
+            <note>Secretary of State, member of the king’s council, and loyal creature of Cardinal
           Richelieu.</note>
          </person>
          <person sortKey="Orval,_François_de_Béthune,_duc_d'" xml:id="Orval">
-            <persName type="main">François de Béthune, duc d'Orval</persName>
-            <persName type="presentation">Duc d'Orval</persName>
+            <persName type="main">François de Béthune, duc d’Orval</persName>
+            <persName type="presentation">Duc d’Orval</persName>
             <idno type="VIAF">316035555</idno>
             <birth when="1598"/>
             <death when="1678"/>
@@ -560,19 +560,19 @@
             <birth when="1605"/>
             <death when="1665"/>
             <note>Hapsburg king who reigned from 1621 to 1640 and allied with the Austrian Hapsburgs
-          against France in the Thirty Years' War, 1618-48.</note>
+          against France in the Thirty Years’ War, 1618–48.</note>
          </person>
          <person sortKey="Puylaurens,_Antoine_de_L'Age,_duc_de" xml:id="Puylaurens">
-            <persName type="main">Antoine de L'Age, Duc de Puylaurens</persName>
+            <persName type="main">Antoine de L’Age, Duc de Puylaurens</persName>
             <persName type="presentation">Duc de Puylaurens</persName>
             <idno type="VIAF">315087522</idno>
             <birth when="1602"/>
             <death when="1635"/>
-            <note>Confidant and advisor to Gaston, duc d'Orleans, Louis XIII's brother. Puylaurens was
-          arrested in 1635 for aiding Gaston's escape from France in the aftermath of a failed
+            <note>Confidant and advisor to Gaston, duc d’Orleans, Louis XIII’s brother. Puylaurens was
+          arrested in 1635 for aiding Gaston’s escape from France in the aftermath of a failed
           attempt to remove Richelieu from power, and for facilitating the politically unfavorable
           marriage of Gaston to Marguerite of Lorraine. Puylaurens died at Vincennes after seven
-          months of imprisonment (Blanchard, pp. 151-53).</note>
+          months of imprisonment (Blanchard, pp. 151–53).</note>
          </person>
          <person sortKey="Richelieu,_Armand-Jean_du_Plessis,_cardinal_duc_de"
                  xml:id="Richelieu">
@@ -599,7 +599,7 @@
             <birth when="1560-12-13"/>
             <death when="1641-12-22"/>
             <note>Protestant favorite of Henry IV, Chief minister and from 1589, and superintendent of
-          finances from 1600 until Henry's assassination in 1610. Sully helped to bring financial
+          finances from 1600 until Henry’s assassination in 1610. Sully helped to bring financial
           stability to France after the wars of religion, put down Huguenot rebellions, encouraged
           agriculture, and rebuilt infrastructure.</note>
          </person>
@@ -609,8 +609,8 @@
             <idno type="VIAF">37263293</idno>
             <birth when="1553"/>
             <death when="1627"/>
-            <note>Member of the court of Henry IV and supporter of Marie de'Medici during the regency,
-          named Marshall of France in 1616. In 1619 Thémines' son Antoine killed Henri du Plessis,
+            <note>Member of the court of Henry IV and supporter of Marie de’Medici during the regency,
+          named Marshall of France in 1616. In 1619 Thémines’ son Antoine killed Henri du Plessis,
           the older brother of the future Cardinal Richelieu, in a duel.</note>
          </person>
          <person sortKey="Thomas_Francis,_prince_of_Carignano" xml:id="Tommaso">
@@ -625,7 +625,7 @@
          </person>
          <person sortKey="Turenne,_Henri_de_la_Tour_d'Augergne,_vicomte_de"
                  xml:id="Turenne">
-            <persName type="main">Henri de la Tour d'Auvergne, vicomte de Turenne</persName>
+            <persName type="main">Henri de la Tour d’Auvergne, vicomte de Turenne</persName>
             <persName type="presentation">Vicomte de Turenne</persName>
             <idno type="VIAF">59190793</idno>
             <birth when="1611-09-11"/>
@@ -649,7 +649,7 @@
             <birth when="1593"/>
             <death when="1639"/>
             <note>Cardinal and lieutenant general in the French army, brother of Henri de Nogaret, duc
-          de Candalle and Bernard de Nogaret, duc d'Épernon as of 1642.</note>
+          de Candalle and Bernard de Nogaret, duc d’Épernon as of 1642.</note>
          </person>
          <person sortKey="Vialart,_Charles_de_Saint-Paul" xml:id="Vialart">
             <persName type="main">Charles Vialart de Saint-Paul</persName>
@@ -666,7 +666,7 @@
             <death when="1637-10-07"/>
             <note>Husband of Christine of France. His death in 1637 and the death of his eldest son,
           Francis Hyacinth, in 1639 lead to the Piedmontese Civil War, as the regency of Christine
-          was challenged by the duke's brothers, Thomas, prince of Carignano and Maurice, prince of
+          was challenged by the duke’s brothers, Thomas, prince of Carignano and Maurice, prince of
           Savoy.</note>
          </person>
          <person sortKey="Ville,_Guido_Villa,_marquis_de" xml:id="Villa">
@@ -703,7 +703,7 @@
             <persName>Cheré</persName>
             <persName>Chéré</persName>
             <occupation>
-               <desc>Secretary to Richelieu, cousin of <persName ref="Sc1">Charpentier</persName>
+               <desc>Secretary to Richelieu, cousin of <persName ref="#Sc1">Charpentier</persName>
                </desc>
             </occupation>
             <note>Secretary to Richelieu, cousin of Charpentier.</note>
@@ -897,7 +897,7 @@
             </location>
             <idno type="GeoNames">3173152</idno>
             <note>Part of the Piedmont gained by Savoy in the War of the Mantuan Succession,
-          1628-31.</note>
+          1628–31.</note>
          </place>
          <place sortKey="Montmélian,_Château_de"
                 xml:id="Montmelian"
@@ -974,8 +974,8 @@
                <geo>48.87 -2.18</geo>
             </location>
             <idno type="GeoNames">2982235</idno>
-            <note>Commune located half-way between Louis XIII's primary residence at
-          Saint-Germain-en-Laye and Paris. Richelieu's preferred residence from 1633 until his death
+            <note>Commune located half-way between Louis XIII’s primary residence at
+          Saint-Germain-en-Laye and Paris. Richelieu’s preferred residence from 1633 until his death
           in 1642 was at Rueil.</note>
          </place>
          <place sortKey="Saumur" xml:id="Saumur" type="commune">
@@ -1032,39 +1032,39 @@
           protection, vous <choice>
                <orig>trouuerez</orig>
                <reg>trouverez</reg>
-            </choice> bon, s'il vous plaist, que <choice>
+            </choice> bon, s’il vous plaist, que <choice>
                <orig>ie</orig>
                <reg>je</reg>
             </choice> vous en rende graces tres humbles, &amp; que <choice>
                <orig>ie</orig>
                <reg>je</reg>
             </choice> vous renouuelle les asseurances de mon tres-humble ser- uice, &amp; de ma
-          reconnoissance, ce qu'il a plû à Vostre Eminence de dire à Monsieur le Prince sur mon
+          reconnoissance, ce qu’il a plû à Vostre Eminence de dire à Monsieur le Prince sur mon
           suiet, me touche plus sensiblement que <choice>
                <orig>ie</orig>
                <reg>je</reg>
             </choice> ne puis vous le repre- senter ; <choice>
                <orig>Ie</orig>
                <reg>Je</reg>
-            </choice> diray seulement à Vostre Eminence qu'elle ne se trompera <choice>
+            </choice> diray seulement à Vostre Eminence qu’elle ne se trompera <choice>
                <orig>iamais</orig>
                <reg>jamais</reg>
-            </choice> de croire que rien au monde n'est capable de me separer de son <choice>
+            </choice> de croire que rien au monde n’est capable de me separer de son <choice>
                <orig>seruice</orig>
                <reg>service</reg>
-            </choice>, ny de m'oster la confiance que <choice>
+            </choice>, ny de m’oster la confiance que <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>'ay d'<choice>
+            </choice>’ay d’<choice>
                <orig>auoir</orig>
                <reg>avoir</reg>
-            </choice> part dans l'honneur de vos bonnes graces.</p>
+            </choice> part dans l’honneur de vos bonnes graces.</p>
          <p>
             <choice>
                <orig>Ie</orig>
                <reg>Je</reg>
-            </choice> n'ay point eu l'honneur de vous escrire depuis le partement de Monsieur de
-            <persName ref="#Palluau">Palluau</persName>, parce que j'ay esté dix ou douze <choice>
+            </choice> n’ay point eu l’honneur de vous escrire depuis le partement de Monsieur de
+            <persName ref="#Palluau">Palluau</persName>, parce que j’ay esté dix ou douze <choice>
                <orig>iours</orig>
                <reg>jours</reg>
             </choice> dans nos quartiers, &amp; à <placeName ref="#Casale">Cazal</placeName> pour
@@ -1104,48 +1104,48 @@
             </choice> dans tout le mois vn Regiment pour <choice>
                <orig>releuer</orig>
                <reg>relever</reg>
-            </choice> celuy d'Aiguebonne, qui est dans <placeName ref="#Pinerolo">Pignerol</placeName>, il en sortira pour le moins aussi fort que celuy de Nerestan ,&amp;
-          pour ce qu'il y <choice>
+            </choice> celuy d’Aiguebonne, qui est dans <placeName ref="#Pinerolo">Pignerol</placeName>, il en sortira pour le moins aussi fort que celuy de Nerestan ,&amp;
+          pour ce qu’il y <choice>
                <orig>auoit</orig>
                <reg>avoit</reg>
-            </choice> trop de difficulté à faire passer deux mil hommes d'Infanterie durant ce mois,
+            </choice> trop de difficulté à faire passer deux mil hommes d’Infanterie durant ce mois,
           &amp; que cela incommoderoit nos recreuës, <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>'ay pensé si Vostre Eminence le <choice>
+            </choice>’ay pensé si Vostre Eminence le <choice>
                <orig>trouuoit</orig>
                <reg>trouvoit</reg>
             </choice> bon de <choice>
                <orig>leuer</orig>
                <reg>lever</reg>
-            </choice> dix Compagnies d'Infanterie Monferraine, &amp; d'essayer de faire sept ou huict
-          cens hommes, afin d'<choice>
+            </choice> dix Compagnies d’Infanterie Monferraine, &amp; d’essayer de faire sept ou huict
+          cens hommes, afin d’<choice>
                <orig>auoir</orig>
                <reg>avoir</reg>
-            </choice> six mil hommes de pied effectifs dans la fin de Février, pour m'opposer aux
+            </choice> six mil hommes de pied effectifs dans la fin de Février, pour m’opposer aux
           entreprises des Ennemis, en attendant que nos recreuës <choice>
                <orig>arriuent</orig>
                <reg>arrivent</reg>
             </choice>.</p>
          <pb facs="Vialart_letters_Page_11.jpg"/>
-         <p>Ledit Regiment Monferrain, s'il se peut maintenir, fera moindre despense qu'<choice>
+         <p>Ledit Regiment Monferrain, s’il se peut maintenir, fera moindre despense qu’<choice>
                <orig>vn</orig>
                <reg>un</reg>
             </choice> autre, &amp; ces Compagnies estant fortes comme celuy qui le commandera me le
           promet, nous en tireront beaucoup <choice>
                <orig>dauantage</orig>
                <reg>davantage</reg>
-            </choice>. Vostre Eminence me fera, s'il luy plaist l'honneur de me faire sçauoir son
+            </choice>. Vostre Eminence me fera, s’il luy plaist l’honneur de me faire sçauoir son
           intention sur la <choice>
                <orig>leuée</orig>
                <reg>levée</reg>
             </choice> dudict Regiment, qui se fera en douze <choice>
                <orig>iours</orig>
                <reg>jours</reg>
-            </choice>, si nous sommes payez de l'argent que vous <choice>
+            </choice>, si nous sommes payez de l’argent que vous <choice>
                <orig>auez</orig>
                <reg>avez</reg>
-            </choice> ordonné pour nos subsistances, ou qu'au moins le fond en soit asseuré.</p>
+            </choice> ordonné pour nos subsistances, ou qu’au moins le fond en soit asseuré.</p>
          <p>Nous ferons <choice>
                <orig>vn</orig>
                <reg>un</reg>
@@ -1162,7 +1162,7 @@
             </choice> autre par le moyen duquel on nous <choice>
                <orig>auancera</orig>
                <reg>avancera</reg>
-            </choice> l'argent tous les mois, &amp; cela estant nous <choice>
+            </choice> l’argent tous les mois, &amp; cela estant nous <choice>
                <orig>conseruerons</orig>
                <reg>conserverons</reg>
             </choice> six mil hommes de pied effectifs, sans les recreuës lesquelles seront en fort
@@ -1181,7 +1181,7 @@
             </choice> ne me trompe ; <choice>
                <orig>I</orig>
                <reg>J</reg>
-            </choice>'eusse bien souhaitté <choice>
+            </choice>’eusse bien souhaitté <choice>
                <orig>vn</orig>
                <reg>un</reg>
             </choice> Regiment Allemand, pour <choice>
@@ -1191,20 +1191,20 @@
             <choice>
                <orig>receuoir</orig>
                <reg>recevoir</reg>
-            </choice> ceux dela mesme Nation que nous pourrions tirer des Ennemis, mais s'il se peut
+            </choice> ceux dela mesme Nation que nous pourrions tirer des Ennemis, mais s’il se peut
           nous nous en passerons.</p>
          <p>
             <choice>
                <orig>I</orig>
                <reg>J</reg>
-            </choice>'escris à Monsieur de <persName ref="#Chavigny">Chauigny</persName> ce que <choice>
+            </choice>’escris à Monsieur de <persName ref="#Chavigny">Chauigny</persName> ce que <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>'ay appris du decret que le <persName ref="Maurice">Cardinal de <choice>
+            </choice>’ay appris du decret que le <persName ref="#Maurice">Cardinal de <choice>
                   <orig>Sauoye</orig>
                   <reg>Savoye</reg>
                </choice>
-            </persName> a obtenu de l'<persName n="first" ref="#Ferdinand3">Empereur</persName> pour
+            </persName> a obtenu de l’<persName n="first" ref="#Ferdinand3">Empereur</persName> pour
           la tutelle du Duc de <choice>
                <orig>Sauoye</orig>
                <reg>Savoye</reg>
@@ -1214,53 +1214,53 @@
             </choice> croy que Vostre Eminence en aura veu la coppie qui a esté <choice>
                <orig>enuoyée</orig>
                <reg>envoyée</reg>
-            </choice> à l'Ambassadeur de <choice>
+            </choice> à l’Ambassadeur de <choice>
                <orig>Sauoye</orig>
                <reg>Savoye</reg>
             </choice> qui est aupres du Roy, pendant que <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>'estois dans le <placeName n="first" ref="#Monferrato">Monferrat</placeName>, elle estoit
+            </choice>’estois dans le <placeName ref="#Monferrato">Monferrat</placeName>, elle estoit
           venuë de <placeName n="first" ref="#Rome">Rome</placeName>.</p>
          <p>Madame ne sçauroit subsister, ny mesme garder ses places, si le Roy ne luy paye les 3000.
-          hommes de pied qu'il a accoustumé, Vostre Eminence le pourra <choice>
+          hommes de pied qu’il a accoustumé, Vostre Eminence le pourra <choice>
                <orig>sçauoir</orig>
                <reg>sçavoir</reg>
             </choice> par Baronis.</p>
-         <p>Les Espagnols font de grands preparatifs d'argent &amp; d'hommes, comme Vostre Eminence
+         <p>Les Espagnols font de grands preparatifs d’argent &amp; d’hommes, comme Vostre Eminence
           le peut <choice>
                <orig>sçauoir</orig>
                <reg>sçavoir</reg>
-            </choice> par la voye de Gennes, mais s'il passe 10000. hommes de pieds effectifs dans
-          toutes nos recreuës, &amp; que l'argent qu'on nous destine vienne à temps, <choice>
+            </choice> par la voye de Gennes, mais s’il passe 10000. hommes de pieds effectifs dans
+          toutes nos recreuës, &amp; que l’argent qu’on nous destine vienne à temps, <choice>
                <orig>ie</orig>
                <reg>je</reg>
-            </choice> ne croy pas que nous ayons rien à craindre, ny qu'ils nous empeschent d'entrer
+            </choice> ne croy pas que nous ayons rien à craindre, ny qu’ils nous empeschent d’entrer
           dans leurs pays, ainsi que Messieurs de <persName ref="#Palluau">Palluau</persName> &amp;
-            d'<persName ref="#Estrades">Estrade</persName> vous le pourront dire, <choice>
+            d’<persName ref="#Estrades">Estrade</persName> vous le pourront dire, <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>'attends la response des dépesches qu'ils ont portées pour parler à Madame,
+            </choice>’attends la response des dépesches qu’ils ont portées pour parler à Madame,
           conformement aux ordres que <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>'en <choice>
+            </choice>’en <choice>
                <orig>receuray</orig>
                <reg>recevray</reg>
-            </choice>, i'<choice>
+            </choice>, i’<choice>
                <orig>enuoyeray</orig>
                <reg>envoyeray</reg>
-            </choice> dans peu de temps le marché du Pont d'Esture à Vostre Eminence, on y <choice>
+            </choice> dans peu de temps le marché du Pont d’Esture à Vostre Eminence, on y <choice>
                <orig>trauaillera</orig>
                <reg>travaillera</reg>
-            </choice> aussi-tost qu'on aura de l'argent, les demy-lunes de Cazal seront <choice>
+            </choice> aussi-tost qu’on aura de l’argent, les demy-lunes de Cazal seront <choice>
                <orig>acheuées</orig>
                <reg>achevées</reg>
             </choice> dans trois sepmaines, on ne pert point de temps à la fonte des canons, ny à y
           mettre les <choice>
                <orig>prouisions</orig>
                <reg>provisions</reg>
-            </choice> que vostre Eminence a ordonné d'y mettre, qui est tout ce que <choice>
+            </choice> que vostre Eminence a ordonné d’y mettre, qui est tout ce que <choice>
                <orig>ie</orig>
                <reg>je</reg>
             </choice> luy peus dire, apres vous <choice>
