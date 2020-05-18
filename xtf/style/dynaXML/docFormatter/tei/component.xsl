@@ -879,20 +879,21 @@
      <xsl:if test="$anchor.id=@*:id">
        <a name="X"></a>
      </xsl:if>
-     <hr class="pb"/>
+     <hr class="pb-pre"/>
      <div align="center">
        <xsl:text>&#x2015; </xsl:text>
-       <a href="./images/small/{@facs}.jpg" class="run-head">
+       <a href="./images/small/{@facs}" class="run-head">
          <xsl:text>click here for page image: small, </xsl:text>
        </a>
-       <a href="./images/medium/{@facs}.jpg" class="run-head">
+       <a href="./images/medium/{@facs}" class="run-head">
          <xsl:text>medium, </xsl:text>
        </a>
-       <a href="./images/large/{@facs}.jpg" class="run-head">
+       <a href="./images/large/{@facs}" class="run-head">
          <xsl:text>large </xsl:text>
        </a>
        <xsl:text>&#x2015;</xsl:text>
      </div>
+     <hr class="pb-post"/>
    </xsl:template>
    
    <xsl:template match="*:milestone">

@@ -109,6 +109,16 @@ height: 1px;
 margin-top: 3%;
 }
 
+hr.pb-pre {
+            color: #303030;
+            height: 1px;
+            }
+
+hr.pb-post {
+            color: #A0A0A0;
+            height: 1px;
+            }
+
 /* FONT CHANGES */
 
 .normal  {
