@@ -130,11 +130,15 @@
     </xsl:copy>
   </xsl:template>
 
+  <!--
+    Note: following two templates have no concern of overwriting an existing
+    (persName|placeName)/@n, because there are none in the input.
+  -->
   <!-- put an n=first on the first of any given <persName> -->
   <xsl:template match="body//persName">
     <xsl:variable name="myRef" select="normalize-space(@ref)"/>
     <xsl:copy>
-      <xsl:if test="not(preceding::persName[ancestor::body][@ref eq $myRef])">
+      <xsl:if test="not(preceding::persName[ancestor::body][normalize-space(@ref) eq $myRef])">
         <xsl:attribute name="n" select="'first'"/>
       </xsl:if>
       <xsl:apply-templates select="@*|node()"/>
@@ -145,11 +149,30 @@
   <xsl:template match="body//placeName">
     <xsl:variable name="myRef" select="normalize-space(@ref)"/>
     <xsl:copy>
-      <xsl:if test="not(preceding::placeName[ancestor::body][@ref eq $myRef])">
+      <xsl:if test="not(preceding::placeName[ancestor::body][normalize-space(@ref) eq $myRef])">
         <xsl:attribute name="n" select="'first'"/>
       </xsl:if>
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
+  </xsl:template>
+  
+  <!--
+    Convert <note> (which is encoded where the note is anchored) to a sequence
+    of <ref><note>, as XTF expects the <ref>, and does not care where the <note>
+    is.
+  -->
+  <xsl:template match="body//note[ not( @type eq 'temp') ]">
+    <xsl:variable name="id" select="generate-id()"/>
+    <xsl:variable name="refNum">
+      <xsl:number level="any" from="body" format="[1]"/>
+    </xsl:variable>
+    <ref type="fnoteref" target="#{$id}">
+      <xsl:sequence select="$refNum"/>
+    </ref>
+    <note type="footnote" xml:id="{$id}" n="{$refNum}">
+      <xsl:apply-templates select="@* except ( @type, @xml:id, @n )"/>
+      <xsl:apply-templates select="node()"/>
+    </note>
   </xsl:template>
   
   <xsl:template match="text()">

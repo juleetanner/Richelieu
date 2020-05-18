@@ -1037,7 +1037,8 @@
             </choice> fait l’honneur de mécrire du <choice>
                <orig>vnzieme</orig>
                <reg>unzieme</reg>
-            </choice> &amp; <seg>vingtiéme Fevrier<note>This letter is reproduced in the Avenel
+            </choice> &amp; <seg>vingtiéme Fevrier<ref type="fnoteref" target="#d1e8913">[1]</ref>
+               <note type="footnote" xml:id="d1e8913" n="[1]">This letter is reproduced in the Avenel
               compilation, vol. 6, pp. 283–84.</note>
             </seg>, le soin qu’il vous plaist de prendre,
           non seulement de <choice>
@@ -1083,7 +1084,8 @@
           Chancelier, laquelle est tres-grande pour <choice>
                <orig>vne</orig>
                <reg>une</reg>
-            </choice> personne de son <seg>aage<note>Middle French spelling of “age.”</note>
+            </choice> personne de son <seg>aage<ref type="fnoteref" target="#d1e9011">[2]</ref>
+               <note type="footnote" xml:id="d1e9011" n="[2]">Middle French spelling of “age.”</note>
             </seg>,
           c’est <choice>
                <orig>vne</orig>

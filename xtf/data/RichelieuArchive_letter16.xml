@@ -1027,7 +1027,8 @@
                <seg>mon <choice>
                      <orig>Covsin</orig>
                      <reg>Cousin</reg>
-                  </choice>,<note>As Princes of the Church, cardinals were addressed as “Mon Cousin” by
+                  </choice>,<ref type="fnoteref" target="#d1e10769">[1]</ref>
+                  <note type="footnote" xml:id="d1e10769" n="[1]">As Princes of the Church, cardinals were addressed as “Mon Cousin” by
                 royalty.</note>
                </seg>
             </salute>

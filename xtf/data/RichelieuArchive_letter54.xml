@@ -1036,7 +1036,8 @@
                <reg>scavoir</reg>
             </choice> plustost ce que Je luy ay apris, que vostre <lb/>amy venoit avec titre
           d’Ambassadeur de <persName n="first" ref="#MariaAnna">L’Infante</persName>
-            <lb/>pour <seg>donner part<note>to inform someone of something, to share a
+            <lb/>pour <seg>donner part<ref type="fnoteref" target="#d1e13644">[1]</ref>
+               <note type="footnote" xml:id="d1e13644" n="[1]">to inform someone of something, to share a
             secret</note>
             </seg> au <persName ref="#Louis13">Roy</persName> des honneurs qu’elle <choice>
                <orig>auoit</orig>

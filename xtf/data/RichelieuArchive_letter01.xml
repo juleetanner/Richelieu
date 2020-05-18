@@ -1127,7 +1127,8 @@
             </choice> suis aussi tres-aise que vous fassiez <choice>
                <orig>trauailler</orig>
                <reg>travailler</reg>
-            </choice> à la <seg>fonte<note>The version of this letter reproduced in the Avenel
+            </choice> à la <seg>fonte<ref type="fnoteref" target="#d1e2354">[1]</ref>
+               <note type="footnote" xml:id="d1e2354" n="[1]">The version of this letter reproduced in the Avenel
               compilation (vol. 6, p. 265) specifies “la fonte des canons”</note>
             </seg> de
           Cazal.</p>

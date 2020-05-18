@@ -1025,7 +1025,8 @@
          <lb/>
          <opener>
             <salute>
-               <seg>Mon cousin<note>As Princes of the Church, cardinals were addressed as
+               <seg>Mon cousin<ref type="fnoteref" target="#d1e14039">[1]</ref>
+                  <note type="footnote" xml:id="d1e14039" n="[1]">As Princes of the Church, cardinals were addressed as
                 “Mon Cousin” by royalty.</note>
                </seg>
             </salute>

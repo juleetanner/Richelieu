@@ -1028,7 +1028,8 @@
          <lb/>
          <opener>
             <salute>
-               <seg>Mon Cousin<note>As Princes of the Church, cardinals were addressed as
+               <seg>Mon Cousin<ref type="fnoteref" target="#d1e16588">[1]</ref>
+                  <note type="footnote" xml:id="d1e16588" n="[1]">As Princes of the Church, cardinals were addressed as
                 “Mon Cousin” by royalty.</note>
                </seg> le Cardinal de Richelieu, et les <lb/>Sieurs
               <persName n="first" ref="#Aligre">garde des Seaux</persName> et <persName ref="#Chavigny">Boutilier</persName> secretaire <lb/>d’estat</salute>

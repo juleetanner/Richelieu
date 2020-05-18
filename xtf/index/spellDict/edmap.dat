@@ -7,6 +7,7 @@
 'hem|d'hemery
 'hme|d'hemery
 'lvi|d'alvin
+'med|de'medici
 .wik|en.wikisource.org
 `   |là|0à
 a   |ad|1ge|1ie|2t|1l|2l|1me|2y|1st|1u|2x|1y|2e|2t|0car|2s|1ha|0da|2y|0far|0ha|2s|0la|2w|0ma|2l|2y|1ia|0par|2s|0sa|2n|1ua|0va|2y|0war|2y
@@ -56,11 +57,14 @@ abas|ambassadeur|8or
 abay|abbaye
 abb |abbé
 abba|abbaié|4ye
-abbe|abbaye
+abbe|abbaye|3rege
+abbg|abbrege
 abbi|abbaié|3é
+abbr|abbrege
 abby|abbaye
 abdo|abandonnerez
 abec|sabject
+abeg|abbrege
 aber|albert|0barberini
 abet|albert|0lambeth
 abi |abbé
@@ -79,6 +83,8 @@ abol|absolument
 abon|narbonne
 abot|about
 abou|about|2solument
+abre|abbrege
+abrg|abbrege
 abrt|albert
 absl|absolument
 abso|absolument
@@ -116,6 +122,7 @@ acet|accepté
 aceu|acheuées
 acev|achevées
 ach |march
+acha|taschaient
 ache|acheminé|4uées|4vées|0taschera
 achi|acheminé|4uées|4vées
 achm|acheminé
@@ -245,7 +252,7 @@ advo|advisor|7s
 advs|advis|5er|5or|7s
 advt|advantage
 ae  |age|1ie|2se|1me|1uec|3z|1vec|3z|1ye|0came|0dame|0gage|0laye|0made|2ke|2le|0name|0page|2pe|2ye|0same|0tage|2ke
-aeab|agreable
+aeab|agreable|8s
 aec |auec|1vec
 aect|affection|9nee|:é|;e
 aed |named
@@ -312,15 +319,15 @@ aft |after
 afte|after|5math
 aftm|aftermath
 aftr|after|5math
-ag  |age|2ir|0gage|0page|0tage
-agab|agreable
+ag  |age|2ir|0gage|0page|0rang|0tage
+agab|agreable|8s
 agai|against
 agan|against
 agas|against
 agcu|agriculture
 age |age|1nger|0gage|0page|0tage
-agea|agreable
-ageb|agreable|1iguebonne
+agea|agreable|8s
+ageb|agreable|8s|1iguebonne
 ageg|argençon
 agel|bragelogne
 agen|argenson|5t|5çon|1ugmenter
@@ -353,10 +360,10 @@ agnt|argent
 ago |façon
 agon|façon
 agr |agir|1nger
-agra|agreable
-agrb|agreable
+agra|agreable|8s
+agrb|agreable|8s
 agrc|agriculture
-agre|agreable|1ligre
+agre|agreable|8s|1ligre
 agri|agriculture
 agru|agriculture
 ags |aguis
@@ -379,9 +386,10 @@ ahon|apchon
 ahor|authorite
 ahui|acheuées
 ahvi|achevées
-ai  |abbé|1fin|1gir|1ie|2se|2t|1mis|1sti|1vis|0fais|3t|0main|3s|0paix
+ai  |abbé|1fin|1gir|1ie|2se|2t|1mis|1sti|1vis|0fais|3t|0main|3s|0pain|3x
 aia |maria
-aian|alliance
+aiag|mariage
+aian|alliance|0faisant
 aiba|annibal
 aich|maréchal
 aicl|articles
@@ -420,7 +428,7 @@ aili|facilitating
 aill|aille|1rtillerie|0faille
 aily|family
 aimi|maximilien
-ain |affin|2in|1insi|0main|4s|0plain|0saint|1pain
+ain |affin|2in|1insi|0main|4s|0pain|1lain|0saint|1pain
 aina|gaignastes
 ainc|alincourt|0sainct
 aind|craindre|0gained
@@ -429,18 +437,19 @@ aing|aiding|0having|0laying
 aini|ainsi
 aino|alincourt
 ains|against|1insi|0crains|0mains|0vaines
-aint|maintenant|0plainte|0sainct|4t
+aint|maintenant|0plainte|7s|0sainct|4t
 aion|action|0faisons|0raison|6s|0saison
 aios|adiouster
 aiou|adiouster
 air |agir|1uoir|1voir|0faire
 aira|admiral|0plaira
 aire|aligre|0clairement|0faire|0plaire
-ais |aduis|2vis|1guis|1insi|2se|1mis|1vis|0fais|3ts|0mains|3s|0paris|0satis
+ais |aduis|2vis|1guis|1insi|2se|1mis|1vis|2ois|0fais|3ts|0mains|3s|0paris|0satis
+aisa|faisant
 aise|adviser|1ise|0baiser|0laisser|7ay|7ez
 aisf|satisfaits
-aisi|ainsi
-aisn|faisons|0raison|6s|0saison
+aisi|ainsi|0malisi
+aisn|faisant|4ons|0raison|6s|0saison
 aiso|advisor|7s|1ristocratic|0faisons|0raison|6s|0saison
 aisr|baiser|0maistre
 aiss|laisser|7ay|7ez
@@ -511,10 +520,12 @@ alid|allied
 alie|aligre|2lied|0galilei|6o|0hallier|0italie
 alig|aligre
 alih|agliè
+alii|malisi
 alil|galilei|6o
 alin|alincourt|2liance
 alio|alincourt
 alir|aligre|0valoir
+alis|malisi
 alit|qualite
 all |aille|1ll|3a|3er|3ow|3y|0dalla
 alla|alla|3emand|3iance|0dalla|0palluau
@@ -549,6 +560,7 @@ alrt|albert
 als |also|0seals
 alsa|alessandro
 alse|valsery
+alsi|malisi
 also|also
 alsr|valsery
 alss|alessandro|2tesse
@@ -613,7 +625,7 @@ amti|amitié
 amur|saumur
 amy |amy|1rmy|0parmy
 amz |armez
-an  |afin|1nna|0dans|0jean|0main|2ny|0quan|0san|3s|0tant
+an  |afin|1nna|0dans|0jean|0main|2ny|0pain|0quan|0rang|0san|3s|0tant
 ana |anna
 anal|candal|6e|6le
 anan|antans
@@ -642,9 +654,9 @@ anel|avenel
 anen|mantenghi|0randent
 aner|anger|0mander|6ez|0tanner
 anes|années|0nantes|0vaines
-ang |along|1nger|0dangu
+ang |along|1nger|0dangu|0rang
 anga|française
-ange|anger|0grange|0languedoc
+ange|anger|0changer|0grange|0languedoc
 ango|françois
 angr|anger
 angu|dangu|0languedoc
@@ -658,18 +670,21 @@ anis|années|0garnisons|0spanish
 anki|banking
 ankn|banking
 anks|thanks
-ann |anna|3ée|0canon
+anm |annum
+ann |anna|3um|3ée|0canon
 anna|anna|3ibal
 annb|annibal
 anne|année|5s|0tanner
 anni|annibal|3ée|5s
+annm|annum
 annr|tanner
 anns|années|2tans|0canons
+annu|annum
 ano |canon
 anoi|antoine
 anon|antoine|0canon|5s
 anos|canons
-anou|éuanouyes
+anou|mantouë|0éuanouyes
 anqe|manquement|6ry
 anqu|manquement|6ry
 anr |anger
@@ -682,13 +697,14 @@ ante|chanteloube|0maintenant|2ntenghi|0nantes
 anti|antoine|0santé
 antm|neantmoins
 antn|antans|3oine|0mantenghi
-anto|antoine|0quanto
+anto|antoine|0mantouë|0quanto
 ants|antans|0nantes
-antu|mantuan
-anu |dangu
+antu|mantouë|4uan
+anu |annum|0dangu
 anua|january|0mantuan
 anue|ianuier|0januier|0languedoc|0manquement|6ry
 anui|ianuier|0januier
+anum|annum
 anur|january
 anve|janvier
 anvi|janvier
@@ -697,13 +713,14 @@ ao  |also|0caso|0paro
 aodi|raordinaire
 aoen|auoient|1voient
 aog |along
-aoi |auoir|4t|1voir|4t
+aoi |auoir|4t|1voir|4s|4t
 aoie|auoient|1voient
 aoin|antoine|1ppointed|1uoient|1voient
 aoir|auoir|1voir|0valoir
-aois|aurois
+aois|aurois|1vois
 aoit|auoit|2roit|1voit
 aole|parole|6s
+aoll|parolle
 aolu|absolument
 aomm|accommoder
 aomp|accompanied
@@ -714,7 +731,7 @@ aons|auons|2rons|1vons|1yons|0canons
 aor |auoir|1voir
 aord|according|0raordinaire
 aori|autorite|0favorite|8s|0raordinaire
-aos |auons|1vons|1yons
+aos |auons|1vois|3ns|1yons
 aose|aroused
 aot |about|1uoit|1voit
 aou |about
@@ -802,8 +819,9 @@ aqus|acquistar
 aqut|acquitter
 ar  |agir|1rmy|1ura|0car|0far|2ur|0mars|0near|0par|3o|3t|0war|3s|0year
 ara |aura|4y|0maria
-arab|agreable
+arab|agreable|8s
 arad|armand
+arag|mariage
 arai|parfaitement
 araj|arpajon
 aran|armand|0garantir|0partant
@@ -827,10 +845,10 @@ ardi|cardinal|8s|0raordinaire
 ardn|cardinal|8s|0pardon|6nez
 ardo|pardon|6nez
 are |apres|1rmes|4z|3ée|1urez|2tre|0faire|0garde|0marie|0parce|0share
-area|agreable|0sharealike
-areb|agreable
+area|agreable|8s|0sharealike
+areb|agreable|8s
 aree|career
-areg|argençon
+areg|abbrege|1rgençon
 areh|apprehender
 arei|sacreé
 arem|autrement|0partement
@@ -850,12 +868,12 @@ argu|marguerite
 arh |march
 arha|marshal|7l
 ari |april|1rmée|1uril|1vril|0maria|4e|0paris
-aria|carriage|0maria|3riage|0parliament
+aria|carriage|0maria|5ge|3riage|0parliament
 arib|attribution
 aric|agriculture|1rticles|0maréchal|2urice|0particelli|6ulier|;ement
 arie|armée|2riuent|6r|4ve|6d|6nt|6r|0marie|3ried
 arif|sacrifie
-arig|carignano
+arig|carignano|0mariage
 arih|maréchal
 arii|arrivé
 aril|april|1rticles|4llerie|1uril|1vril
@@ -871,7 +889,7 @@ arl |april|1uril|1vril
 arla|parliament
 arle|charles|0parler|6ay|3ole|6s
 arli|parliament
-arll|artillerie
+arll|artillerie|0parolle
 arlr|parler|6ay
 arm |armes|4z|3y|3ée|0parmy
 arma|armand
@@ -894,7 +912,7 @@ aroa|approaching
 aroc|approchions
 aroe|aroused|0parole|6s
 aroi|aurois|5t|0baronis
-arol|parole|6s
+arol|parole|6s|5le
 aron|aurons|0baron|5is|0narbonne|0pardon|6nez
 aros|aroused|1urois|4ns
 arot|auroit
@@ -942,13 +960,14 @@ arz |armez|1urez
 as  |aise|1lso|1mis|1sks|2t|3i|1vis|0cas|3o|0dans|0east|0fais|0has|0mais|2rs|0pas|2ys|0sans|0wars
 asae|casale
 asal|casale
+asan|faisant
 asar|gaspard
 asas|assassinate|;d|:ion
 asbu|hapsburg|8s
-asca|lasciarsi
+asca|lasciarsi|0taschaient
 ascd|ascended
 asce|ascended|0taschera
-asch|taschera
+asch|taschaient|5era
 asci|lasciarsi
 ascn|ascended
 ase |aise|1ssez|0cause|0fasse|0masle|0passe
@@ -962,7 +981,7 @@ aser|asseurances|8t|6e|7r|6é|0baiser|0eastern|0haster|0passer|6oit|7nt|0valsery
 ases|causes
 aseu|asseurances|8t|6e|7r|6é
 asez|assez
-asha|marshal|7l
+asha|marshal|7l|0taschaient
 ashe|taschera
 ashi|washington
 ashn|washington
@@ -1068,6 +1087,7 @@ atoi|antoine|1utorite
 atol|catholic|8ism
 aton|action|1ntoine|0gaston
 ator|authorite|3orite|0quatorze
+atou|mantouë
 atqu|attaquer
 atr |after|1utre|0later
 atrb|attribution
@@ -1160,6 +1180,7 @@ aujr|aujourd
 auju|aujourd
 aul |auril|0paul
 aule|caualerie
+aum |annum
 auma|bauman
 aume|augmenter
 aumn|augmenter|0bauman
@@ -1173,7 +1194,7 @@ auns|auons|2rons
 aunt|aduantage|1uant|5age|2tant|0dauantage
 auo |auoir|4t|3ns
 auoe|auoient|0sauoye
-auoi|auoient|4r|4t|2rois|5t|2torite|0sçauoir
+auoi|auoient|4r|4t|2rois|5t|2torite|0scauoit|1çauoir
 auon|auoient|3ns|2rons
 auor|aujourd|2oir|2thorite|3orite
 auos|auons|2rois|4ns
@@ -1266,14 +1287,14 @@ aven|advenir|1venel|2oient
 aver|auvergne|0faveur|6s|0havera
 aveu|faveur|6s
 avez|avez|2iez|0savez
-avi |advis|1viez|3s|2oir|4t|2ril
+avi |advis|1viez|3s|2oir|4s|4t|2ril
 avie|adviser|1viez|2oient|0janvier
 avig|chavigny|0having
 avil|avril
 avin|avoient|0having
 avio|advisor|7s
 avir|avoir
-avis|advis|5er|5or|7s|1vis
+avis|advis|5er|5or|7s|1vis|2ois
 avit|avoit
 aviz|aviez
 avl |avril
@@ -1287,13 +1308,13 @@ avni|advenir
 avnl|avenel
 avns|avons
 avnt|advantage|1vant|5age|0davantage
-avo |avoir|4t|3ns|0savoy
+avo |avoir|4s|4t|3ns|0savoy
 avoa|savoyard
 avoe|avoient|0savoye
-avoi|avoient|4r|4t|0favorite|8s|0sçavoir
+avoi|avoient|4r|4s|4t|0favorite|8s|0scavoit|1çavoir
 avon|avoient|3ns
 avor|avoir|0favorite|8s
-avos|avons
+avos|avois|3ns
 avot|avoit
 avoy|savoy|5ard|5e
 avr |avoir|2ril
@@ -1302,7 +1323,7 @@ avre|pauvres
 avrg|auvergne
 avri|avril|0favorite|8s
 avrl|avril
-avs |advis|1vis|2ons
+avs |advis|1vis|2ois|3ns
 avse|adviser
 avso|advisor|7s
 avt |avant|2oit
@@ -1424,9 +1445,12 @@ bb  |abbé
 bbae|abbaye
 bbai|abbaié
 bbay|abbaye
+bbeg|abbrege
 bber|barberini
 bbi |abbé
 bbii|abbaié
+bbre|abbrege
+bbrg|abbrege
 bbye|abbaye
 bcae|became
 bcam|became
@@ -1480,7 +1504,7 @@ beom|become
 beon|besoin
 beor|before
 ber |bearn|1uer
-bera|bernard|0liberali
+bera|bernard|0liberali|8té
 bere|before|2rtier
 beri|bertier
 bern|bearn|2rnard
@@ -1531,18 +1555,21 @@ bigi|obligé|6e
 bih |birth
 bihn|béthune
 bihu|béthune
-bin |bien|1ring
+bin |bien|2snt|1ring
 bine|bienueillance
 bing|bring
+bint|bisnt
 binu|bienueillance
 bir |birth
 birh|birth
 birt|birth
-bis |blois|1ois
+bis |bisnt|1lois|1ois
 bise|baiser
+bisn|bisnt
 bisr|baiser
 biss|obeissance|8t
-bit |birth
+bist|bisnt
+bit |birth|2snt|1ruit
 bita|brittany
 bith|birth|1éthune
 bitn|béthune
@@ -1566,7 +1593,7 @@ blge|obligea|6r|7ez
 blgi|obligé|6e
 bli |blois
 blia|obligata|7ion|:s
-blie|obligea|6r|7ez
+blie|obligea|6r|7ez|1ubliey
 blig|obligata|7ion|:s|5ea|6r|7ez|5é|6e
 blii|obligé|6e
 blis|blois
@@ -1598,7 +1625,7 @@ bnn |bonne
 bnne|bonne|5s
 bnns|bonnes
 bns |bons
-bnt |bonté
+bnt |bisnt|1onté
 bnti|bonté
 bnue|bienueillance
 bo  |bois|2n|3s
@@ -1665,6 +1692,7 @@ brch|branches
 brde|bordering
 brdr|bordering
 bree|breuets|3vets
+breg|abbrege
 brel|bragelogne
 brer|barberini|1ordering
 bret|breuets|3vets
@@ -1678,13 +1706,13 @@ brgl|bragelogne
 brgo|bourgogne
 brh |birth
 brhe|brother|7s
-bri |bring
+bri |bring|2uit
 bria|brigade|3ttany
 brid|brigade
 brie|bertier
 brig|brigade|3ng
 brin|bring
-brit|brittany
+brit|brittany|2uit
 brn |baron|1earn|1ring
 brna|bernard
 brnc|branches
@@ -1698,15 +1726,17 @@ broh|brother|7s
 broi|baronis
 bron|baron|5is
 brot|brother|7s
-brt |birth
+brt |birth|1ruit
 brta|brittany
 brte|bertier|1rother|7s
 brth|birth|1rother|7s
 brti|bertier
 brtt|brittany
+bru |bruit
 brua|february
 brue|breuets
-brut|breuets
+brui|bruit
+brut|breuets|2uit
 brve|brevets
 brvt|brevets
 bs  |bois|2ns
@@ -1721,10 +1751,13 @@ bsig|beseiged
 bsin|besoin
 bsis|subsistance|;s|7er
 bslu|absolument
+bsn |bisnt
+bsnt|bisnt
 bsoi|besoin
 bsol|absolument
 bson|besoin
 bsou|absolument
+bst |bisnt
 bsta|obstacle
 bstc|obstacle
 bsur|obscurcir
@@ -1762,14 +1795,16 @@ buet|breuets
 bugo|bourgogne
 buhe|bouche
 buhi|bouthillier
+bui |bruit
 buil|rebuilt
+buit|bruit
 buma|bauman
 bumn|bauman
 bur |buer
 burb|bourbon
 burg|bourgogne
 buro|bourbon|4gogne
-but |about
+but |about|0bruit
 buth|bouthillier
 buti|bouthillier
 bux |beaux
@@ -1813,7 +1848,7 @@ caee|career
 cael|castelan
 caer|career
 caes|causes
-cage|charge|6s|6z
+cage|changer|3rge|6s|6z
 cagn|carignano|1raignent
 cahl|catholic|8ism
 caho|catholic|8ism
@@ -1845,8 +1880,8 @@ can |canon
 cana|candal|6e|6le
 canc|chancelier
 cand|candal|6e|6le|1raindre
-cane|chancelier|4teloube
-cang|échange
+cane|chancelier|4ger|4teloube
+cang|changer|0échange
 canl|candal|6e|6le
 cann|canon|5s
 cano|canon|5s
@@ -1854,6 +1889,7 @@ cans|canons|1rains
 cant|chanteloube
 cao |canon|2so
 caod|chabod
+caoi|scauoit|3voit
 caol|catholic|8ism
 caon|canon|5s
 caos|canons
@@ -1901,9 +1937,9 @@ caud|claude
 caue|caualerie|3se|5s|1laude
 caug|chauigny
 cauh|capuchin
-caui|caution|1hauigny
+caui|caution|1hauigny|0scauoit
 caul|caualerie
-cauo|caution
+cauo|caution|0scauoit
 caur|scaura
 caus|cause|5s
 caut|caution
@@ -1911,8 +1947,9 @@ caux|sceaux
 cava|cavalerie
 cave|cavalerie
 cavg|chavigny
-cavi|chavigny
+cavi|chavigny|0scavoit
 cavl|cavalerie
+cavo|scavoit
 caz |cazal
 caza|cazal
 cazl|cazal
@@ -1948,15 +1985,17 @@ ccrd|according
 ccsi|occasion|8s
 ccta|occitane
 ccut|accoutumé
+cd  |cedé
 cdal|candal|6e|6le
 cde |ceder
 cder|ceder
+cdi |cedé
 cdim|académie
 cdin|cardinal|8s
 cdit|condition
 cdot|condotto
 cdr |ceder
-ce  |came|1e|2la|2ns|3t|2s|2ux|1he|3f|1iel|1ome|2se|1ree|3u|0once|0vice
+ce  |came|1e|2dé|2la|2ns|3t|2s|2ux|1he|3f|1iel|1ome|2se|1ree|3u|0once|0sceu|0vice
 cea |cela
 ceae|createur
 ceai|certain|1reative
@@ -1964,8 +2003,9 @@ ceat|createur|5ive|5ure
 ceau|cheuaux|3vaux|1reature|0sceaux
 ceax|sceaux
 cech|cherche
-ced |ceder
+ced |ceder|3é
 cede|ceder
+cedi|cedé
 cedr|ceder
 cee |ceder|2lle|2ste|2tte|2uer|1ree
 ceed|cependant
@@ -1974,7 +2014,7 @@ ceen|cependant
 ceer|career|1eder|2uer
 cees|celles
 cef |chef|2ief
-cei |cheré
+cei |cedé|1heré
 ceiv|received
 cel |cela|3le|3uy|1iel
 cela|cela
@@ -2018,7 +2058,7 @@ ceti|certain|1reative
 cetr|central|4uries|6y
 cett|cette
 cetu|centuries|6y|1reature
-ceu |celuy|2uer|3x|1reu|0receu
+ceu |celuy|2uer|3x|1reu|0receu|0sceu
 ceua|cheuaux
 ceue|ceuer|0receue
 ceui|acheuées
@@ -2049,12 +2089,12 @@ cha |cha
 chab|chabod|3mblé
 chac|chancelier
 chad|chabod
-chae|challenged|3ncelier|4teloube|3rge|6s|6z|4les|4pentier|3stellon
-chag|charge|6s|6z|3uigny|3vigny|0échange
+chae|challenged|3ncelier|4ger|4teloube|3rge|6s|6z|4les|4pentier|3stellon
+chag|changer|3rge|6s|6z|3uigny|3vigny|0échange
 chai|chatillon|3uigny|3vigny
 chal|challenged|3mblé|3rles|3tillon
 cham|chamblé
-chan|chancelier|4teloube|0échange
+chan|chancelier|4ger|4teloube|0échange
 chao|chabod
 chap|charpentier
 char|charge|6s|6z|4les|4pentier
@@ -2085,7 +2125,7 @@ chet|chrestinne
 cheu|acheuées|0cheuaux|3vaux
 chev|achevées|0chevaux|4reuse
 chf |chef|2ief
-chge|charge|6s|6z
+chge|changer|3rge|6s|6z
 chi |cheré|2ief|2éré
 chie|chief
 chif|chief
@@ -2101,8 +2141,8 @@ chmb|chamblé|0schomberg
 chmi|acheminé
 chml|chamblé
 chnc|chancelier
-chne|chancelier|4teloube
-chng|échange
+chne|chancelier|4ger|4teloube
+chng|changer|0échange
 chnt|chanteloube
 cho |chose
 chob|schomberg
@@ -2146,7 +2186,7 @@ chvi|achevées|0chavigny
 chvr|chevreuse
 chvu|chevaux
 chy |duchy
-ci  |ci|2el|2nq|2ty|1ét
+ci  |cedé|1i|2el|2nq|2ty|1ét
 ciad|citadelle
 ciae|citadelle
 cide|accident|0citadelle
@@ -2278,7 +2318,7 @@ cnfe|confie
 cnfi|confiance|5dant|5e|5rmo|7s
 cnfo|conformement
 cnfr|confirmo|7s|4ormement
-cnge|congez
+cnge|changer|1ongez
 cngz|congez
 cnia|confiance
 cnid|confidant|3siderable|9tion|8ed
@@ -2296,6 +2336,7 @@ cnno|connoissant|7tre|:z|6t
 cnns|canons|1onons
 cno |canon|1uneo
 cnoi|connoissant|7tre|:z|6t
+cnom|economizing
 cnon|canon|5s|1onons
 cnoq|conuoquer|3voquer
 cnor|conformement|3sort
@@ -2411,8 +2452,9 @@ conf|confiance|5dant|5e|5rmo|7s|4ormement
 cong|congez
 coni|condition|3fiance|5dant|5e|5rmo|7s|3iure|3noissant|7tre|:z|6t|3seil|7le|7s|4iderable|9tion|8ed|5stoient|4pirator|3tinuatione|7e|8lles|8r|7ë|4ribuer|:ez|3vinced|2uncil|7lor
 conj|conjurant|6e
+conm|economizing
 conn|connoissant|7tre|:z|6t|3ons|3tente|8ment|4inuatione|7e|8lles|8r|7ë|3vinced|0reconnoissance|9tre
-cono|condotto|3formement|3noissant|7tre|:z|6t|3ons|3sort|3trol|3uoquer|3voquer
+cono|condotto|3formement|3noissant|7tre|:z|6t|3ons|3sort|3trol|3uoquer|3voquer|0economizing
 conp|conspirator
 conq|conuoquer|3voquer
 conr|concern|3firmo|7s|4ormement|3iure|3jurant|6e|3seruation|<e|7er|9ons|6vation|7er|9ons|4ort|4tructed|3trasti|5e|5ibuer|:ez|5ol|3verting
@@ -2423,6 +2465,7 @@ conv|converting|5ying|4inced|4oquer
 cony|conveying|2unty
 conz|congez
 cooi|connoissant|7tre|:z|6t
+coom|economizing
 coon|commons|2nons
 cooq|conuoquer|3voquer
 coor|conformement|3sort
@@ -2607,7 +2650,7 @@ csal|casale
 cse |cause|1este|1hose|1ose
 csei|conseil|7le|7s
 csel|castelan
-cser|conseruation|<e|7er|9ons|6vation|7er|9ons|0rocservieres
+cser|conseruation|<e|7er|9ons|6vation|7er|9ons|0rocseruieres|6vieres
 cses|causes|1hoses
 csi |costé
 csid|considerable|9tion|8ed
@@ -2643,7 +2686,7 @@ cti |costé
 ctie|active
 ctil|chatillon
 ctin|action|0continuatione|7e|8lles|8r|7ë
-ctio|action|0caution
+ctio|action|0caution|0dictionnaire
 ctiv|active
 ctle|castle
 ctob|october
@@ -2663,7 +2706,7 @@ ctti|scottish
 ctur|centuries|6y
 ctve|active
 cty |city
-cu  |ceux|1oup|3r|1reu|1œur
+cu  |ceux|1oup|3r|1reu|1œur|0sceu
 cuae|caualerie
 cual|caualerie
 cuau|cheuaux
@@ -2691,6 +2734,7 @@ cuns|cuneosa
 cunt|count|5y
 cuny|county
 cuo |cuneo
+cuoi|scauoit
 cuoq|conuoquer
 cuos|cuneosa
 cup |coup
@@ -2731,6 +2775,7 @@ cvil|civil
 cvin|convinced|2vsin
 cvl |civil
 cvle|cavalerie
+cvoi|scavoit
 cvoq|convoquer
 cvre|chevreuse
 cvsi|covsin
@@ -2746,13 +2791,15 @@ d   |ad|0d|1a|2y|1e|2l|2s|2u|1i|2t|2x|1u|2c|0end|0nd|0syd
 d'ai|d'alvin
 d'al|d'alvin
 d'av|d'alvin
+d'ed|de'medici
 d'ee|d'hemery
 d'em|d'hemery
 d'he|d'hemery
 d'hm|d'hemery
 d'li|d'alvin
 d'lv|d'alvin
-d'me|d'hemery
+d'md|de'medici
+d'me|d'hemery|1e'medici
 d'vi|d'alvin
 da  |da|2me|2ns|2y|1ira
 daa |dalla
@@ -2815,11 +2862,14 @@ dch |duchy
 dche|duchess
 dchs|duchess
 dchy|duchy
+dcio|dictionnaire
 dcla|declareront|6ée
 dclr|declareront|6ée
 dcmb|decembre
 dcq |doncq
 dcri|describes
+dcti|dictionnaire
+dcto|dictionnaire
 dcus|discusses
 dcy |duchy
 dd  |died
@@ -2834,6 +2884,9 @@ ddre|addressed
 ddrs|addressed
 ddti|additional
 de  |dame|1e|2l|2my|2s|3i|2u|3e|3x|1ied|3u|2re|1uel|2ke|0made|0sede
+de'd|de'medici
+de'e|de'medici
+de'm|de'medici
 dea |death|2lay|2sia|3ja
 dead|demande|7r|6é
 deah|death
@@ -2860,7 +2913,7 @@ deds|dedans
 dee |deue
 deea|defeating
 deeb|decembre
-deed|dependra
+deed|de'medici|2pendra
 deei|dessein|7gs
 deem|decembre
 deen|deffendre|6sive|2pendra|2spense
@@ -2870,7 +2923,8 @@ deeu|demeurayray|6er
 defa|defeating
 defe|defeating|3fendre|6sive
 deff|deffendre|6sive
-defn|deffendre|6sive
+defi|definition
+defn|deffendre|6sive|3inition
 defr|godefroi
 deft|defeating
 deg |degni|1iego
@@ -2881,7 +2935,8 @@ deh |death
 dei |degni|2nis|2qui|2si|4a|4r
 deia|desia|4rant
 deie|derniers|2sire|6use|2voient
-dein|demain
+deii|definition
+dein|definition|2main
 deir|desir|5ant|5e|6use|2uoir|2voir
 deis|denis|2puis
 deit|despite|2uoit|2voit
@@ -2895,8 +2950,8 @@ dely|delay
 dem |demy
 dema|demain|4nde|7r|6é
 demb|decembre
-demd|demande|7r|6é
-deme|d'hemery|1emeurayray|6er
+demd|de'medici|2mande|7r|6é
+deme|d'hemery|1e'medici|2meurayray|6er
 demi|demain
 demn|demain|4nde|7r|6é
 demr|demeurayray|6er
@@ -2905,7 +2960,7 @@ demy|demy
 den |degni|2nis
 dend|demande|7r|6é|2pendra|1épend|6ent
 dene|derniers
-deni|advenir|0degni|2nis|2rniers
+deni|advenir|0definition|2gni|2nis|2rniers
 dens|dedans|2nis|2uons|2vons
 dent|deuant
 deo |diego
@@ -2966,6 +3021,7 @@ deus|depuis|2ssus|2uons
 deut|deuant|3oit
 deux|deux
 deuy|dequoy
+deva|redevable
 deve|devoient
 devi|debvoir|2voient|5r|5t
 devn|devons
@@ -2984,6 +3040,9 @@ dffe|deffendre|6sive
 dffi|difficile|6olta|6ulté
 dffn|deffendre|6sive
 dfic|difficile|6olta|6ulté
+dfii|definition
+dfin|definition
+dfni|definition
 dght|daughter
 dgi |degni
 dgit|dignite
@@ -2997,13 +3056,15 @@ dhem|d'hemery
 dhes|duchess
 dhme|d'hemery
 dhy |duchy
-di  |desi|1i|2ed|3u|2ra|3e|2t|2x|1ois|3t
+di  |cedé|0desi|1i|2ed|3u|2ra|3e|2t|2x|1ois|3t
 dia |desia|1ira|4y
 diai|déplaisir
 diay|diray
-dica|indicates
-dici|medici
+dica|indicates|0medicaments
+dici|dictionnaire|0medici
+dico|dictionnaire
 dics|discusses
+dict|dictionnaire
 dicu|discusses
 did |died
 die |died|3go|3u|2re
@@ -3027,6 +3088,7 @@ digt|dignite
 diic|difficile|6olta|6ulté
 diie|diligemment|6nce
 diig|diligemment|6nce
+diio|dictionnaire
 diip|dissipe
 diit|dignite
 dij |dijon
@@ -3042,7 +3104,7 @@ din |dijon
 dind|dépend|6ent
 dine|disner
 ding|aiding|0during|0ending|0riding
-dini|dignite
+dini|definition|1ignite
 dinr|disner
 dint|dignite|2ront
 dio |diego|2jon
@@ -3084,9 +3146,9 @@ dist|distributed
 disu|discusses
 dit |dit|1oit|0ladit|1edit
 dite|mediterranean
-diti|additional|0distributed
+diti|additional|0dictionnaire|2stributed
 ditm|détromper
-dito|détromper
+dito|dictionnaire|1étromper
 ditr|distributed|1étromper
 diu |dieu
 diua|rediuable
@@ -3126,6 +3188,7 @@ dmad|demande|7r|6é
 dmai|demain
 dman|demain|4nde|7r|6é
 dme |dame
+dmed|de'medici
 dmer|demeurayray|6er
 dmeu|demeurayray|6er
 dmi |domté
@@ -3197,7 +3260,7 @@ donb|donnât
 donc|donc|4q
 done|donne|5e|5r|6a|5z|4ée
 doni|donnoit|4é|5e
-donn|donnast|4e|5e|5r|6a|5z|4oit|4ât|4é|5e|0ordonner|6é
+donn|donnast|4e|5e|5r|6a|5z|4oit|4ât|4é|5e|0ordonnance|6er|6é
 dono|donnoit
 donq|doncq
 donr|donner|6a
@@ -3320,6 +3383,7 @@ dt  |dit|1oit|2nt
 dte |doute
 dth |death
 dti |domté
+dtio|dictionnaire
 dtom|détromper
 dtou|destourner
 dtri|distributed
@@ -3419,7 +3483,10 @@ dwn |down
 dx  |deux|1ix
 dy  |day|1emy
 dze |douze
-e   |age|1ie|1me|1ye|0ben|0ce|2s|1he|0de|2l|2s|2u|0e|1n|2d|1st|1t|1u|2e|2t|2x|1xe|0feu|0he|2r|0ie|0je|0le|2s|0me|2n|2r|2s|0ne|2l|0one|1se|1ve|0per|2u|0que|0re|0se|2s|1he|0tel|0une|1se|0veu|1ie|1ne
+e   |age|1ie|1me|1ye|0ben|0ce|2s|1he|0de|2l|2s|2u|0e|1n|2d|2s|1st|1t|1u|2e|2t|2x|1xe|0feu|0he|2r|0ie|0je|0le|2s|0me|2n|2r|2s|0ne|2l|0one|1se|1ve|0per|2u|0que|0re|0se|2s|1he|0tel|0une|1se|0veu|1ie|1ne
+e'ed|de'medici
+e'md|de'medici
+e'me|de'medici
 e.ik|en.wikisource.org
 e.wi|en.wikisource.org
 e.wk|en.wikisource.org
@@ -3539,13 +3606,16 @@ ecme|became|3ome
 ecmm|recommandation
 ecnc|reconciled
 ecnd|second
+ecnm|economizing
 ecnn|reconnoissance|9tre
+ecno|economizing
 ecoc|reconciled
 ecod|second
 ecoe|become|0encore
 ecog|recognus
-ecom|become|0recommandation
-econ|recognus|4nciled|5noissance|9tre|2ncontre|0second
+ecom|become|0economizing|0recommandation
+econ|economizing|0recognus|4nciled|5noissance|9tre|2ncontre|0second
+ecoo|economizing
 ecor|encore|4uraged|0secourrons|6s
 ecot|escouter
 ecou|encouraged|1scouter|0secourrons|6s
@@ -3575,21 +3645,23 @@ ecut|escouter|1xecuted|7r|6ion
 ecvo|recevoir
 ecvr|recevra
 ecy |ecry|0mercy
-ed  |died|0end|0held|0lead|0pied|0rend|0sede|2nd
+ed  |cedé|0died|0end|0held|0lead|0pied|0rend|0sede|2nd
 edan|dedans
 edas|dedans
 edat|education
-edca|education
+edca|education|0medicaments
 edci|medici
 edct|education
 ede |ceder|0sede
+edea|redevable
 eden|rendent
 eder|ceder|0leader
 edes|eldest
 edet|eldest
-edi |ledit
-edia|rediuable
-edic|medici
+edev|redevable
+edi |cedé|0ledit
+edia|medicaments|0rediuable
+edic|medicaments|5i
 edie|mediterranean
 edig|ending|0lesdiguieres|8ères
 edii|medici
@@ -3610,6 +3682,7 @@ edua|education|0rediuable
 educ|education
 edui|perdué|0reduite
 edut|education|0reduite
+edva|redevable
 ee  |been|2ne|0cree|0deue|0elle|1ue|1xe|0here|0mere|0peer|2re|0reve|0sede|2xe|0were
 eean|espeance
 eeat|defeating|0elevated|6ion
@@ -3621,7 +3694,7 @@ eedi|remedier
 eeem|euenement|1venement
 eeer|keeper
 eeig|beseiged
-eein|esteinte
+eein|esteindre|6te
 eeiv|received
 eell|expelled|0rebellion|9s
 eemb|decembre
@@ -3630,7 +3703,7 @@ eeml|exemple
 eemp|exemple
 een |been|0queen|0seven
 eenc|regence|6y
-eend|cependant|0dependra|0entendra|7e
+eend|cependant|0dependra|0entendra|7e|1stendue
 eene|euenement|1venement
 eeni|retenir
 eenm|euenement|1venement
@@ -3665,7 +3738,7 @@ eeuo|receuoir
 eeur|demeurayray|6er|0receura
 eeus|receus
 eeut|executed|7r|6ion
-eeva|elevated|6ion
+eeva|elevated|6ion|0redevable
 eeve|relever
 eevo|recevoir
 eevr|recevra
@@ -3690,8 +3763,10 @@ effr|efforts
 effs|effets
 efft|effectifs|6s|6ué|4t|5s|3orts
 efi |enfin
-efin|enfin
+efii|definition
+efin|definition|0enfin
 efn |enfin
+efni|definition
 efoe|before
 efor|before|0efforts
 efot|efforts
@@ -3714,6 +3789,7 @@ egie|regimens|7t
 egim|regimens|7t
 egin|region
 egio|region
+egir|seguire
 egis|reçois
 egl |egli
 egla|england
@@ -3735,10 +3811,13 @@ egot|negotiated|8ion|8or|6o
 egrd|regarday|6ed
 egti|negotiated|8ion|8or|6o
 egu |reçu
+egui|seguire
+egur|seguire
 eher|netherlands|0rechercher
-ei  |desi|0egli|1sti|3é|0levi|0rené
+ei  |cedé|0desi|0egli|1sti|3é|0levi|0rené
 eia |desia
 eiay|epinay
+eica|medicaments
 eici|medici
 eide|residence
 eie |exile|0leuée|2vée|0peine|0reine|0seige
@@ -3753,12 +3832,13 @@ eil |exile|0peril|0rueil
 eile|exile|0meilleu|7re|0veille
 eill|meilleu|7re|0veille
 eima|estima
-eime|estimez|0regimens|7t
+eime|estime|6z|0regimens|7t
 eimo|estimoit
 ein |enfin|0peine|0reign|3ne
 eina|epinay|1spinay
 eine|eminence|6za|0peine|0reigned|3ne|0seigneur
 eing|ending
+eini|definition
 einn|eminence|6za|1tienne
 einy|epinay
 eion|region|0serions
@@ -3850,7 +3930,7 @@ embs|embrassé
 emdi|remedier
 eme |emery|0mesme
 emec|empesche|0remerciemens
-emed|remedier
+emed|de'medici|0remedier
 emee|empereur
 emei|remedier
 emen|eminence|6za
@@ -3878,7 +3958,7 @@ emo |tempo
 emoa|removal
 emoe|remove
 emoi|tesmoignage|8e|9r
-emor|emporta|0remportoit
+emor|emporta|0remporte|7oit
 emot|emporta
 emou|esmouvoir
 emov|esmouvoir|0removal|5e
@@ -3887,8 +3967,8 @@ emp |tempo|4s
 empc|empesche
 empe|empereur|5or|4sche|3ress|0temple
 empl|employer|1xample|2emple|0temple
-empo|emperor|3loyer|3orta|0remportoit|0tempo
-empr|empereur|5or|3orta|3ress|0remportoit
+empo|emperor|3loyer|3orta|0remporte|7oit|0tempo
+empr|empereur|5or|3orta|3ress|0remporte|7oit
 emps|empesche|3ress|0temps
 empt|emporta
 empy|employer
@@ -3909,7 +3989,7 @@ emuv|esmouvoir
 emva|removal
 emve|remove
 emy |demy|0emery
-en  |been|2n|3e|1ien|0cens|3t|0en|2d|0gens|0jean|0men|0rend|3é|1ien|0send|3s|3t|0uenu|0when
+en  |been|2n|3e|1ien|0cens|3t|0en|2d|2s|0gens|0jean|0men|0rend|3é|1ien|0send|3s|3t|0uenu|0when
 en.i|en.wikisource.org
 en.k|en.wikisource.org
 en.w|en.wikisource.org
@@ -3978,6 +4058,7 @@ enns|gennes
 eno |envoy|0pieno|0tenoi
 enoe|encore|2uoye|6nt|6r|7a|2voie|4ye|6r|7a|8y
 enoi|enuoyé|2voie|4yé|0tenoi
+enom|economizing
 enon|rencontre|3ounced
 enor|encore|4uraged
 enou|encouraged|0renounced
@@ -3997,7 +4078,7 @@ enrs|entrusted|2uers|2vers
 enrt|entretenir
 enru|entrusted
 enry|henry
-ens |cens|0denis|0gens|0lents|0miens|0pense|0rends|0sens
+ens |cens|0denis|0ens|0gens|0lents|0miens|0pense|0rends|0sens
 ensb|sensiblement
 ense|enseuelies|0pense|5r|4ées
 ensi|ensuivant|0pension|4ées|0sensiblement
@@ -4057,9 +4138,12 @@ eomm|recommandation
 eon |selon
 eonc|reconciled
 eond|second
+eonm|economizing
 eonn|reconnoissance|9tre
+eono|economizing
 eons|deuons|2vons
 eont|feront|0seront
+eoom|economizing
 eore|before|0encore
 eort|efforts|1mporta
 eose|repose
@@ -4117,7 +4201,7 @@ epoc|reproches
 epod|reproduced
 epoe|repose
 epon|respondray|6se
-epor|emporta|0remportoit
+epor|emporta|0remporte|7oit
 epos|repose
 epot|emporta
 epoy|employer
@@ -4185,7 +4269,7 @@ erdi|ferdinand|9o|0perdué
 erdn|ferdinand|9o
 erdr|perdray|5e
 erdu|perdué
-ere |entre|1stre|0frere|0here|2ure|0mere|0pere|3te|0serve|0terre|0were
+ere |entre|1stre|0frere|0here|2ure|0mere|0pere|3te|0serre|3ve|0terre|0were
 ered|served
 erei|heretics
 erel|vercelli
@@ -4236,9 +4320,9 @@ eroi|feroit|0seroient|5s|5t
 eron|feront|0personal|6ne|8s|0serions|3ont
 eros|serois
 erot|feroit|4nt|0seroit|4nt
-err |terre
+err |serre|0terre
 erra|perdray
-erre|guerre|0perdre|0terre|0verrez
+erre|guerre|0perdre|0serre|0terre|0verrez
 erri|cherré
 errz|verrez
 ers |leurs|0vers|0years
@@ -4269,7 +4353,7 @@ ervn|serving
 ervr|servir|6ont
 ervt|serviteur|6ori
 ery |ecry|1mery|0feray|0henry|0mercy|0seray
-es  |cens|2s|0des|3i|0east|1st|3i|3é|0gens|0les|0mes|0pres|0sens|2s|0tres|0vers|0west
+es  |cens|2s|0des|3i|0east|1ns|1st|3i|3é|0gens|0les|0mes|0pres|0sens|2s|0tres|0vers|0west
 esa |desia|3ja|0estat
 esab|estabilshing|5lir
 esad|estrade|7s
@@ -4302,10 +4386,11 @@ esdt|lesdit
 ese |ceste|0estes|3re|1usse|0mesme|0pense|0reste|0seste
 esea|espeance|4rance
 esec|especially|0respect|7s
+esed|estendue
 esee|enseuelies|1sleues|2pere|6r
 eseg|beseiged
-esei|beseiged|0dessein|7gs|0especially|2teinte
-esen|despense|0espeance|2teinte|0presence|6t|7e|8ment|0restent
+esei|beseiged|0dessein|7gs|0especially|2teindre|6te
+esen|despense|0espeance|2teindre|6te|4ndue|0presence|6t|7e|8ment|0restent
 eser|eastern|1sperance|5e|6r|0penser|0western
 eses|estes|0mesmes
 eseu|enseuelies|1sleues
@@ -4314,10 +4399,10 @@ esi |desi|4a|4r|0esti|3é
 esia|desia|4rant|0espinay|2tima
 esib|sensiblement
 esid|president|0residence
-esie|desire|6use|0estimez|3rées|0messieurs|0pensées|0residence
+esie|desire|6use|0estime|6z|3rées|0messieurs|0pensées|0residence
 esig|beseiged|0lesdiguieres|8ères
-esim|estima|5ez|5oit
-esin|besoin|0espinay|2teinte
+esim|estima|5e|6z|5oit
+esin|besoin|0espinay|2teindre|6te
 esio|estimoit|0pension
 esir|desir|5ant|5e|6use|0escrire
 esis|escris|0resistance
@@ -4331,13 +4416,14 @@ eslu|esleues|0resolution
 eslv|resolved
 esm |mesme
 esma|estima
-esme|estimez|0mesme|5s
+esme|estime|6z|0mesme|5s
 esmi|tesmoignage|8e|9r
 esmo|esmouvoir|2timoit|0tesmoignage|8e|9r
 esms|mesmes
 esmu|esmouvoir
 esmv|esmouvoir
 esna|espinay
+esnd|estendue
 esns|estans
 esnt|estant
 esoi|besoin|0estoit|0tesmoignage|8e|9r
@@ -4375,15 +4461,15 @@ esss|dessus|0essays
 esst|resistance
 essu|dessus
 essy|essayer|7ons|5s
-est |ceste|0east|1st|3at|3es|3i|3re|3é|0least|0reste|0seste|0west
+est |ceste|0east|1st|3at|3es|3i|3re|3é|0least|0prest|0reste|0seste|0west
 esta|estabilshing|5lir|4ns|5t|4t|5e|5s|3ima|3rade|7s|0questa|0restant
 estb|estabilshing|5lir
-estd|estrade|7s
-este|ceste|0eastern|1state|3einte|4s|3imez|3re|4ées|3ure|0preste|6ra|0reste|5nt|0seste|0western
-esti|estabilshing|3einte|3i|4ma|5ez|5oit|3oit|3rées|3é|0questi|0restitution
+estd|estendue|3rade|7s
+este|ceste|0eastern|1state|3eindre|6te|4ndue|4s|3ime|6z|3re|4ées|3ure|0preste|6ra|0reste|5nt|0seste|0western
+esti|estabilshing|3eindre|6te|3i|4ma|5e|6z|5oit|3oit|3rées|3é|0questi|0restitution
 estl|establir
-estm|estima|5ez|5oit
-estn|estans|5t|3einte|0restant|4ent
+estm|estima|5e|6z|5oit
+estn|estans|5t|3eindre|6te|4ndue|0restant|4ent
 esto|destourner|0epistolary|1stimoit|3oit|0restoring
 estr|eastern|1strade|7s|4e|4ées|3ure|0restoring|0western
 ests|estans|4ts|3es
@@ -4413,11 +4499,11 @@ etat|estant|4t|5e|5s
 etbi|estabilshing
 etbl|establir
 ete |ceste|2tte|0entre|1stes|3re|0perte|0reste|0seste|2tte
-eted|entendra|7e
+eted|entendra|7e|1stendue
 etee|between|0entered
-etei|esteinte|0retenir
+etei|esteindre|6te|0retenir
 etem|extrement|0september
-eten|entendra|7e|1steinte|1tienne|0pretend|7s|6tions|0restent|2tenir
+eten|entendra|7e|1steindre|6te|4ndue|1tienne|0pretend|7s|6tions|0restent|2tenir
 etep|entreprendre|7ise|:s
 eter|eastern|1ntered|3iere|7ment|3rer|0letter|0netherlands|0tenter|0western
 etes|estes
@@ -4427,17 +4513,17 @@ ethe|netherlands
 ethr|netherlands
 eti |esti|3é
 etia|estima
-etie|bertier|0entiere|7ment|1stimez|3rées|1tienne|0retirer
+etie|bertier|0entiere|7ment|1stime|6z|3rées|1tienne|0retirer
 etil|gentil
-etim|estima|5ez|5oit|1xtréme|0sentimens
-etin|esteinte|1tienne
+etim|estima|5e|6z|5oit|1xtréme|0sentimens
+etin|esteindre|6te|1tienne
 etio|estimoit
 etir|entiere|7ment|0retirer
 etit|estoit|0restitution
 etma|estima
-etme|estimez
+etme|estime|6z
 etmo|estimoit
-etnd|entendra|7e
+etnd|entendra|7e|1stendue
 etni|retenir
 etnn|etienne
 etns|estans
@@ -4472,7 +4558,7 @@ etur|centuries|6y|0esture|0returned
 etus|entrusted
 etwe|between
 etz |metz
-eu  |ceux|1reu|0deu|3e|3x|1ieu|0eu|2e|2t|2x|0feu|0leur|1ieu|0peu|3r|3t|1leu|0reçu|0seul|1çeu|0uenu|0veu|3t|3x
+eu  |ceux|1reu|0deu|3e|3x|1ieu|0eu|2e|2t|2x|0feu|0leur|1ieu|0peu|3r|3t|1leu|0reçu|0sceu|1eul|1çeu|0uenu|0veu|3t|3x
 eua |equal
 eual|equal
 euan|deuant
@@ -4495,7 +4581,7 @@ eui |dequi|0leuée|0serui
 euic|seruice|7s
 euie|leuée
 euil|rebuilt
-euir|deuoir|0seruir|6ons
+euir|deuoir|0seguire|2ruir|6ons
 euis|depuis|0requis
 euit|deuoit|0jesuit|0reduite|0seruiteur|6ori
 euiv|ensuivant
@@ -4643,6 +4729,7 @@ ezir|beziers
 ee |obeÿe
 f   |far|1eu|1in|2t|1oy
 fa  |fais|3t|2r|2ur|3t|1era|1iat
+faan|faisant
 face|france
 fach|franchise
 faci|facilitating|1rancis
@@ -4665,14 +4752,15 @@ fago|façon|1rançois
 fahe|father
 fahr|father
 fai |faire|3s|3t|4e|4s
+faia|faisant
 faid|failed
 faie|failed|4le|3re|3te|5s|2ssiez
 faii|facilitating
 fail|facilitating|2iled|4le|2mily
-fain|faisons
+fain|faisant|4ons
 faio|faisons
 fair|affaire|7s|6s|0faire
-fais|fais|4ons|3tes|4s
+fais|fais|4ant|4ons|3tes|4s
 fait|fait|4e|5s|4s
 faiy|family
 falc|falconer
@@ -4708,9 +4796,10 @@ fara|faudra
 fare|faire
 fari|favorite|8s
 fas |fais|3ts|2sse
+fasa|faisant
 fase|fasse|4iez
 fasi|fassiez
-fasn|faisons
+fasn|faisant|4ons
 faso|faisons
 fass|fasse|4iez
 fat |fait|4e|4s|2ut|1iat
@@ -4852,7 +4941,7 @@ fher|father
 fi  |afin|0fais|3t|1iat|2ls|2n|2t|1ois
 fia |fiat|1riar
 fiac|finances|6ial
-fian|finances|6ial
+fian|faisant|1inances|6ial
 fiar|friar
 fiat|fiat
 fibe|foible
@@ -4892,7 +4981,7 @@ fin |affin|2in|0enfin|0fin
 fina|finances|6ial|3iray
 finc|finances|6ial
 find|friend
-fini|finiray|0infinies|6té
+fini|definition|0finiray|0infinies|6té
 finn|finances|6ial
 finr|finiray
 fion|faisons
@@ -4905,7 +4994,8 @@ firi|féurier|2vrier
 firs|first
 firt|first
 fis |fais|3ts|1ils|2rst|1ois
-fisn|faisons
+fisa|faisant
+fisn|faisant|4ons
 fiso|faisons
 fist|first
 fit |fait|4e|4s|1iat|2rst|2t
@@ -5141,6 +5231,7 @@ frun|fortune
 frut|fruict
 fry |feray
 fs  |fais|1ils|1ois|1ust
+fsan|faisant
 fse |fasse
 fsie|fassiez
 fson|faisons
@@ -5291,7 +5382,7 @@ gdon|godson
 gdsn|godson
 gdso|godson
 ge  |age|0gage|1ens|1uez|0page|0sçeu|0tage
-geab|agreable
+geab|agreable|8s
 geai|germain
 gean|german
 geao|genaro
@@ -5342,7 +5433,7 @@ ggio|maggiormente
 ggna|gaignastes
 ggor|gregory
 gher|higher
-ght |light|0right
+ght |light|0might|0right
 gi  |agir|0egli|0gift|1li|1ré|0ogni
 gicu|agriculture
 gid |guido
@@ -5452,7 +5543,7 @@ gpar|gaspard
 gr  |agir|0gré
 gra |grace|3nd
 graa|gratia
-grab|agreable
+grab|agreable|8s
 grac|grace|5s
 grad|grand|5e|6s|5s|5uca
 grae|grace|5s|3nde|6s|4ge
@@ -5471,8 +5562,8 @@ grde|garde|1rande|6s
 grds|grands
 grdu|granduca
 gre |garde|1race|2ise
-grea|agreable
-greb|agreable
+grea|agreable|8s
+greb|agreable|8s
 greg|gregory
 greo|gregory
 grer|gregory
@@ -5521,7 +5612,7 @@ gu  |guez|0reçu|0sçeu
 gu`n|guzmàn
 gud |guido
 gudo|guido
-gue |guez
+gue |guez|0ligue
 gueb|aiguebonne
 guee|guerre
 guen|guyenne|0huguenot
@@ -5531,6 +5622,7 @@ guez|guez
 gui |aguis|0guido
 guid|guido
 guio|guido
+guir|seguire
 guis|aguis
 gum`|guzmàn
 gumn|guzmàn
@@ -5576,7 +5668,7 @@ hae |share
 haea|hauera|2vera|0sharealike
 haer|haster|2uera|2vera
 haf |half
-hage|charge|6s|6z
+hage|changer|3rge|6s|6z
 haie|hallier
 haig|chauigny|3vigny|0having
 hail|chatillon
@@ -5592,8 +5684,8 @@ hamb|chamblé
 haml|chamblé
 han |rohan
 hanc|chancelier
-hane|chancelier|4teloube
-hang|having|0échange
+hane|chancelier|4ger|4teloube
+hang|changer|0having|0échange
 hank|thanks
 hans|thanks
 hant|chanteloube
@@ -5782,6 +5874,7 @@ hn  |when
 hnce|chancelier
 hne |rhône
 hneu|honneur|3teux
+hnge|changer
 hni |henri
 hnie|henrietta
 hnks|thanks
@@ -5994,7 +6087,7 @@ hyur|hyuer
 hyv |hyver
 hyve|hyver
 hyvr|hyver
-i   |aie|2t|0ci|1ét|0di|2t|2x|0fin|2t|0gli|1ré|0him|2s|0i|1cy|1e|1i|2i|1l|2s|2z|1o|1v|0mia|2l|1oi|0ni|0piu|0qui|0roi|0si|2x|0vie|0xiv
+i   |aie|2t|0ci|1ét|0di|2t|2x|0fin|2t|0gli|1ré|0him|2s|0i|1cy|1e|1i|2i|1l|2s|2z|1o|1v|0lui|0mia|2l|1oi|0ni|0piu|0qui|0roi|0si|2x|0vie|0xiv
 ia  |dira|0fiat|0iray|0mia
 ia.o|viaf.org
 iaai|iamais
@@ -6036,11 +6129,11 @@ iaui|ianuier
 iay |diray|0iray|1taly
 ibac|pibrac
 ibar|library
-ibea|liberali
-iber|liberali|5té
+ibea|liberali|8té
+iber|liberali|8té|5té
 ibet|liberté
 ible|foible
-ibra|liberali|3rary|0pibrac
+ibra|liberali|8té|3rary|0pibrac
 ibrc|pibrac
 ibrr|library
 ibrt|liberté
@@ -6060,6 +6153,7 @@ ichn|échange
 ici |écris
 icie|écrire
 icii|inciting
+icio|dictionnaire
 icir|écrire
 icis|écris
 icit|inciting
@@ -6080,8 +6174,8 @@ icrr|écrire
 icrs|écris
 ics |écris
 ict |huict
-icti|inciting
-icto|victor|6ies|6y
+icti|dictionnaire|0inciting
+icto|dictionnaire|0victor|6ies|6y
 ictr|victor|6ies|6y
 icue|picques
 icuo|sicuro
@@ -6135,7 +6229,7 @@ ient|intentionnées|9s|0soient|0tirent
 ienu|bienueillance
 ieo |diego|0pieno
 ier |inter|0prier|0sieur|0tirer
-iera|liberali
+iera|liberali|8té
 ierc|intercession
 iere|fievres|0interest|8s|0prieres
 ieri|inherit|7ance
@@ -6188,13 +6282,13 @@ ifue|influence
 ig  |king
 igad|brigade
 igat|ingrat
-ige |seige|1iege
+ige |ligue|0seige|1iege
 igeb|aiguebonne
 iger|higher|0pignerol
-igh |light|0right
+igh |light|0might|0right
 ighe|higher
 ighr|higher
-ight|light|0right|0wrightsman
+ight|light|0might|0right|0wrightsman
 igif|signifie
 igin|imaginer|0original|0signing
 igit|dignite
@@ -6215,10 +6309,11 @@ igra|ingrat
 igre|aligre|0figure
 igri|ignoring
 igrt|ingrat
-igt |light|0right
+igt |light|0might|0right
 igti|vingtiéme
+igu |ligue
 igub|aiguebonne
-igue|aiguebonne|0figure
+igue|aiguebonne|0figure|0ligue
 igur|figure
 ihag|échange
 ihan|échange
@@ -6228,7 +6323,7 @@ iher|higher|0inherit|7ance
 ihes|wishes
 ihng|échange
 ihri|inherit|7ance
-iht |light|0right
+iht |light|0might|0right
 ihun|béthune
 ii  |ii|2i|1uré|0prié|0tiré|0viii|0wiki|0xiii
 iica|indicates
@@ -6336,7 +6431,7 @@ imte|imputer
 imti|impatience
 imue|imputer
 imut|imputer
-in  |afin|0bien|0cinq|0fin|0king|0lion|0main|0prin|0rien|0soin
+in  |afin|0bien|0cinq|0fin|0king|0lion|0main|0pain|1rin|0rien|0soin
 inac|finances|6ial
 inam|infamous
 inan|finances|6ial|0infanta|6erie|6ry
@@ -6422,7 +6517,7 @@ inor|ignoring|1nforms|0signor
 inou|éuanouyes
 inov|involved
 inpc|inspector
-inpe|inspector
+inpe|inspector|0quinperlay
 inq |cinq
 inqa|cinquante
 inqu|cinquante
@@ -6446,7 +6541,7 @@ insr|instrumental
 inss|insists
 inst|insists|3trumental|0minister
 insu|insecure|3trumental
-int |inter|0point|0saint
+int |bisnt|0inter|0point|0saint
 intc|intercession
 inte|intelligences|4ntionnées|9s|4r|5cession|5est|8s|5national|5uenu|2vitera|0maintenant
 inti|inciting|2utile|0vingtiéme
@@ -6560,6 +6655,7 @@ irth|birth
 irty|thirty
 iry |diray|0iray
 is  |aise|1mis|1vis|0bois|0dois|0fais|1ils|1ois|0his|0ils|0mais|1ois|0pris|2és|1uis|0rise|0sois|1uis|0vois
+isan|faisant
 isci|riuscita
 iscs|discusses
 iscu|discusses|0insecure
@@ -6575,8 +6671,10 @@ isio|mission|7s
 isip|dissipe
 isis|insists
 isit|insists
+isn |bisnt
 isne|disner
 isnr|disner
+isnt|bisnt
 ison|faisons|0raison|6s|0saison
 isos|disposer|6oit
 ispc|inspector
@@ -6594,7 +6692,7 @@ issi|dissipe|0mission|7s
 isso|mission|7s|0puissons
 issp|dissipe
 isst|insists
-ist |first
+ist |bisnt|0first
 iste|sister
 isti|distributed
 isto|aristocratic|0epistolary
@@ -6602,7 +6700,7 @@ istr|distributed|0instrumental|0maistre|0sister
 istu|instrumental
 isue|iusques
 isus|discusses
-it  |ait|0city|1ét|0dit|1oit|0fait|1iat|2t|0gift|0site|1oit
+it  |ait|0city|1ét|0dit|1oit|0fait|1iat|2t|0gift|0prit|0site|1oit
 ita |italy
 itad|citadelle
 itae|citadelle|0italie
@@ -6626,6 +6724,7 @@ ithu|béthune
 itie|italie
 itii|amitié
 itil|inutile
+itio|dictionnaire
 itl |italy|0title
 itle|italie|0title
 itli|italie
@@ -6655,6 +6754,7 @@ iuao|éuanouyes
 iuat|situation|0viuant
 iuau|éuanouyes
 iuci|riuscita
+iue |ligue
 iueb|aiguebonne
 iuen|doiuent
 iues|liures|0viures
@@ -6912,7 +7012,7 @@ kown|known
 kper|keeper
 ks  |asks
 kwn |known
-l   |al|2l|0col|0del|0gli|0il|2s|2z|0l|1a|2w|1e|2s|1t|1uc|2y|1à|0mal|1il|0nel|0plû|0tel|0vol
+l   |al|2l|0col|0del|0gli|0il|2s|2z|0l|1a|2w|1e|2s|1t|1uc|2i|2y|1à|0mal|1il|0nel|0plû|0tel|0vol
 l`  |là
 la  |alla|0cela|0la|2w|2ye|1ead
 labe|lambeth
@@ -6941,10 +7041,10 @@ laia|lasciarsi|0plaira
 laie|clairement|0laisser|7ay|7ez|0plaire
 laig|laying
 laih|lauzières
-lain|laying|1eading|0plain|5te
+lain|laying|1eading|0plain|5te|7s
 lair|clairement|0plaira|5e
 lais|laisser|7ay|7ez|0plaist
-lait|ladit|0plainte|4st
+lait|ladit|0plainte|7s|4st
 lal |loyal
 lalt|loyalty
 lamb|lambeth
@@ -6958,7 +7058,7 @@ lang|languedoc|2ying
 lanh|blanchard|0leganès
 lanr|flandre
 lans|valans
-lant|plainte
+lant|plainte|7s
 lanu|languedoc
 laqe|laquelle
 laql|laquelle
@@ -6996,10 +7096,10 @@ layr|lawyer
 lazh|lauzières
 lazi|lauzières
 lbar|library
-lbea|liberali
-lber|albert|0liberali|5té
+lbea|liberali|8té
+lber|albert|0liberali|8té|5té
 lbet|albert|0lambeth|1iberté
-lbra|liberali|3rary
+lbra|liberali|8té|3rary
 lbrr|library
 lbrt|albert|0liberté
 lc  |luc
@@ -7084,7 +7184,7 @@ leqe|lequel|2squelles|7s
 leql|lequel
 lequ|lequel|2squelles|7s
 ler |aller|0later|1euer|3r|4s|2ver|0older|0ruler
-lera|liberali|0solera
+lera|liberali|8té|0solera
 lere|clerembault|0lettre|6s
 lerm|clerembault
 lers|leurs
@@ -7123,44 +7223,47 @@ lf  |half|0life
 lfe |life
 lgah|leganès
 lgan|leganès
+lge |ligue
 lgh |light
 lghi|longhi
 lght|light
 lgnh|leganès
 lgre|aligre
 lgt |light
-lgue|languedoc|1ongue|6s
+lgu |ligue
+lgue|languedoc|1igue|1ongue|6s
 lht |light
-li  |egli|0gli|0levi|1ieu|2fe|2on
+li  |egli|0gli|0levi|1ieu|2fe|2on|1ui
 lian|alliance
 liar|library|0olivares
-liba|liberali|3rary
-libe|liberali|5té
-libr|liberali|5té|3rary
+liba|liberali|8té|3rary
+libe|liberali|8té|5té
+libr|liberali|8té|5té|3rary
 libt|liberté
 lice|license
 licn|license
 lico|alincourt
 lics|license
-lie |leuée|2vée|1ieu|2fe|1oire
-liea|liberali
+lie |leuée|2vée|1ieu|2fe|2gue|1oire
+liea|liberali|8té
 lied|allied|0relied
 liee|lieutenant
 lien|license
-lier|liberali|5té|1umiere
+lier|liberali|8té|5té|1umiere
 lies|license|2ures|2vres|1uines
 liet|liberté|2eutenant
 lieu|lieu|4tenant
 lif |life
 life|life
-lig |light
+lig |light|3ue
 liga|obligata|7ion|:s
-lige|aligre|0diligemment|6nce|0obligea|6r|7ez
+lige|aligre|0diligemment|6nce|0ligue|0obligea|6r|7ez
 ligh|light
 ligi|obligé|6e|0religion|7us
 lign|coligny|0éloigne
 ligr|aligre
 ligt|light
+ligu|ligue
 lih |agliè|0light
 liht|light
 lile|galilei|6o
@@ -7170,27 +7273,28 @@ line|luines
 ling|laying
 lino|alincourt
 lins|license|1uines
-lint|plainte
+lint|plainte|7s
 lio |lion
 lion|lion
 lipe|felipe
 lipp|filippo
 lir |loire
-lira|liberali|3rary|0plaira
+lira|liberali|8té|3rary|0plaira
 lire|aligre|0clairement|0gloire|0liures|2vres|1oire|0plaire
 lirr|library
 lirs|liures|2vres
 lirt|liberté
 lis |blois|0louis
 lise|laisser|7ay|7ez
+lisi|malisi
 liss|laisser|7ay|7ez
 list|plaist
 lit |ladit|1edit|1ight
 lita|military
 lite|lieutenant
 liti|politically
-liu |lieu
-liue|lieutenant|2ures
+liu |lieu|2gue
+liue|lieutenant|2gue|2ures
 liur|liures
 lius|liures
 liut|lieutenant
@@ -7278,7 +7382,7 @@ lone|longue|6s
 long|along|0longhi|4ue|6s
 lonh|longhi
 loni|longhi
-lont|volontez|6é|7s
+lont|volontes|7z|6iers|6é|7s
 lonu|longue|6s
 lor |loire|2rs
 lora|gloria|0lorraine
@@ -7347,7 +7451,7 @@ lts |lents
 ltss|altesse
 ltte|letter|4re|6s
 lttr|letter|4re|6s
-lu  |leur|1ieu|1uc|2y|0pleu|2us
+lu  |leur|1ieu|1uc|2i|2y|0pleu|2us
 lua |lucca
 luat|leucate
 luc |luc|3ca
@@ -7358,13 +7462,13 @@ lude|claude
 ludi|ludovisi
 ludo|ludovisi
 ludv|ludovisi
-lue |leuer|3ée
+lue |leuer|3ée|1igue
 lueb|luxembourg
 luel|laquelle|1equel
 luem|luxembourg
 luer|leuer|1umiere
 lues|liures|1uines|2ynes
-lui |leuée|1ouis
+lui |leuée|1ouis|1ui
 luie|leuée|1uines|2miere|0plusieurs
 luih|lauzières
 luin|luines
@@ -7444,6 +7548,7 @@ m   |ame|2y|0him|0km|0m|1a|2l|2y|1e|2n|2r|2s|1ia|2l|1oi|2n|2y|1rs|1s|0nom|0sm
 ma  |ma|2de|2in|3s|2ke|2l|3e|2ny|2rs|2y|1ia
 maa |maria
 maae|madame
+maag|mariage
 maai|malmaison|2uuais|7e|3vais|7es
 maam|madame
 mac |march
@@ -7477,16 +7582,17 @@ magu|marguerite
 mah |march
 maha|marshal|7l
 mai |main|4s|3s|2ndé|2ria|4e
-maia|maria|3riage
+maia|maria|5ge|3riage
 maic|maréchal|2urice
 maie|maiesté|3ntenant|2rie|3ried
+maig|mariage
 maih|maréchal
-maii|maximilien
+maii|malisi|2ximilien
 maim|maximilien
 main|demain|0imaginer|0main|4s|4tenant|2rtino
 maio|maggiormente
 mair|maistre
-mais|iamais|0jamais|0magistrats|2iesté|3ns|3s|4tre
+mais|iamais|0jamais|0magistrats|2iesté|3ns|3s|4tre|2lisi
 mait|magistrats|2iesté|3ntenant|3stre
 maje|majesta|6e|6é
 majs|majesta|6e|6é
@@ -7496,8 +7602,9 @@ make|make
 mal |mal|3e|2sle
 mala|malmaison
 male|female|0male|2sle
-mali|malmaison
+mali|malisi|3maison
 malm|malmaison
+mals|malisi
 mama|malmaison
 mame|madame
 mami|malmaison|2ximilien
@@ -7507,22 +7614,24 @@ mand|armand|0demande|7r|6é|0mande|5r|6ez|4é
 mane|maintenant|2nde|5r|6ez|3quement|6ry|3tenghi
 mani|mandé
 mann|mantenghi
+mano|mantouë
 manq|manquement|6ry
 manr|mander|6ez
 mans|mains
-mant|maintenant|2ntenghi|4uan
-manu|emmanuel|0manquement|6ry|3tuan
+mant|maintenant|2ntenghi|4ouë|4uan
+manu|emmanuel|0manquement|6ry|3touë|4uan
 many|many
+maou|mantouë
 maqe|manquement|6ry|2rques
 maqi|marquis
 maqu|manquement|6ry|2rques|5is
 mar |march|3ia|4e|3s
-mara|maria|3riage|3shal|7l
+mara|maria|5ge|3riage|3shal|7l
 marc|march|3échal|2urice
 mare|marguerite|3ie|3ques|3ried
-marg|marguerite
+marg|marguerite|3iage
 marh|march|3shal|7l|3échal
-mari|maria|4e|3quis|3riage|5ed|3tino|3échal|2urice
+mari|maria|5ge|4e|3quis|3riage|5ed|3tino|3échal|2urice
 marn|martino
 marq|marques|5is
 marr|marriage|5ed
@@ -7533,6 +7642,7 @@ mas |mains|3s|2rs|2sle
 masa|marshal|7l
 mase|masle
 mash|marshal|7l
+masi|malisi
 masl|masle
 masr|maistre
 mass|ambassadeur|8or
@@ -7541,8 +7651,9 @@ mata|mantuan
 mate|maintenant|2ntenghi
 mati|impatience|0martino
 matn|mantenghi|2rtino
+mato|mantouë
 matr|maistre
-matu|mantuan
+matu|mantouë|4uan
 maua|mantuan|2uuais|7e|3vais|7es
 mauc|maurice
 maue|manquement|6ry|2rguerite|3ques
@@ -7572,6 +7683,7 @@ mcy |mercy
 md  |made
 mdae|madame
 mdam|madame
+mdca|medicaments
 mdci|medici
 mdde|middle
 mddl|middle
@@ -7579,7 +7691,8 @@ mde |made|2nde|1onde
 mder|mander|6ez
 mdeu|amadeus
 mdi |mandé
-mdic|medici
+mdia|medicaments
+mdic|medicaments|5i
 mdie|mediterranean
 mdii|medici
 mdit|mediterranean
@@ -7590,18 +7703,21 @@ me  |ame|0came|1ome|0dame|0made|2ke|2le|1e|2n|2r|3e|2s|2tz|1ple|0name|0rome|0sam
 mebe|member|6s
 mebr|member|6s
 mec |mercy
+meca|medicaments
 meci|medici
 mecy|mercy
 med |named
-medc|medici
+meda|medicaments
+medc|medicaments|5i
 mede|mediterranean
-medi|medici|4terranean|0remedier
+medi|medicaments|5i|4terranean|0remedier
 medt|mediterranean
 mee |mere|2sme
 meea|meneray
 meer|member|6s|2neray
 mees|mesmes
-meic|medici
+meia|medicaments
+meic|medicaments|5i
 meie|mediterranean|2illeu|7re|2rite|2ssieurs
 meii|medici
 meil|meilleu|7re
@@ -7665,19 +7781,25 @@ mffo|maffeo
 mgan|morgan
 mggi|maggiormente
 mggo|maggiormente
+mgh |might
+mght|might
 mgin|imaginer
 mgio|maggiormente
 mgis|magistrats
 mgit|magistrats
 mgst|magistrats
+mgt |might
 mgue|marguerite
 mhel|michel
 mher|mother
+mht |might
 mi  |amis|0main|3s|1ia|2l|1oi|3s
 mia |maria|1ia|2lan
 miac|miracle
+miag|mariage
 mial|miracle
 mian|milan
+mica|medicaments
 mice|michel
 mich|maréchal|1ichel
 mici|medici
@@ -7695,8 +7817,13 @@ mies|maiesté|1iens
 miet|maiesté
 mieu|mieux
 miex|mieux
+mig |might
+migh|might
+migt|might
+mih |might
 mihe|michel
 mihl|michel
+miht|might
 miia|military
 miii|amitié
 miio|mission|7s
@@ -7724,11 +7851,12 @@ mira|admiral|0miracle
 mirc|miracle
 mirl|miracle
 mis |amis|0mains|3s|1iens|1oins|3s
-misi|mission|7s
+misi|malisi|1ission|7s
 miso|mission|7s
 misr|maistre
 miss|mission|7s
 mist|magistrats|2iesté|3stre|1inister
+mit |might
 mita|military
 mite|maintenant|1editerranean|2rite
 miti|amitié|0munitions
@@ -7747,13 +7875,15 @@ mlai|malmaison
 mlan|milan
 mle |male|2sle|1ple
 mlia|military
-mlis|umilissimo
+mlii|malisi
+mlis|malisi|0umilissimo
 mlit|military
 mlle|meilleu|7re
 mlma|malmaison
 mlmi|malmaison
 mln |milan
 mloy|employer
+mlsi|malisi
 mlta|military
 mmai|malmaison
 mman|commande|8mens|;t|8r|9a|7é|0emmanuel
@@ -7806,6 +7936,7 @@ mnne|mienne
 mno |monod|4t
 mnod|monod
 mnot|monot
+mnou|mantouë
 mnqe|manquement|6ry
 mnqu|manquement|6ry
 mnra|meneray|1ontrave
@@ -7823,10 +7954,10 @@ mnth|months
 mnti|montmélian|1unitions
 mntm|montmorency|5élian
 mntn|mantenghi
-mnto|montmorency
+mnto|mantouë|1ontmorency
 mntr|mentre|1ontrave
 mnts|months
-mntu|mantuan|1ontauban
+mntu|mantouë|4uan|1ontauban
 mnua|mantuan
 mnue|manquement|6ry
 mny |many
@@ -7952,7 +8083,7 @@ mple|complete|0mple|0simple|0temple
 mplo|employer
 mply|employer
 mpo |tempo
-mpor|emporta|0importance|8t|6uner|0remportoit
+mpor|emporta|0importance|8t|6uner|0remporte|7oit
 mpot|emporta|0importance|8t|6uner
 mpoy|employer
 mpre|empereur|3ress
@@ -7972,6 +8103,7 @@ mqui|marquis
 mr  |mars|1er|3e|1ort|1rs
 mra |maria
 mrac|miracle
+mrag|mariage
 mral|miracle
 mran|morgan|3nan|6t
 mras|embrassé
@@ -7988,9 +8120,10 @@ mrgu|marguerite
 mrh |march
 mrha|marshal|7l
 mri |maria|4e
-mria|maria|3riage
+mria|maria|5ge|3riage
 mric|maréchal|2urice
 mrie|marie|3ried|1erite
+mrig|mariage
 mrih|maréchal
 mrin|martino
 mrir|mourir
@@ -8053,6 +8186,7 @@ mtii|amitié
 mtin|martino
 mtmi|montmélian
 mtmo|montmorency
+mtou|mantouë
 mtra|mettra|1ontrave
 mtre|mentre|2ttre
 mtta|mettra
@@ -8102,7 +8236,7 @@ myes|moyens
 myn |moyen
 myns|moyens
 mz  |metz
-n   |ben|1on|0con|0en|2d|0fin|0men|1on|0n|1d|1e|2l|1i|1om|2n|2s|1y|0one|2s|2t|0san|1on|0un|2e|2s|0vn|2e|0won
+n   |ben|1on|0con|0en|2d|2s|0fin|0men|1on|0n|1d|1e|2l|1i|1om|2n|2s|2w|1y|0one|2s|2t|0san|1on|0un|2e|2s|0vn|2e|2s|0won
 n.ik|en.wikisource.org
 n.wi|en.wikisource.org
 n.wk|en.wikisource.org
@@ -8275,7 +8409,7 @@ nfrm|informs
 nfrs|infrastructure
 nfue|influence
 nfvo|unfavorable
-ng  |king
+ng  |king|0rang
 ngae|nogaret
 ngan|england
 ngar|nogaret
@@ -8363,6 +8497,7 @@ nnia|annibal
 nnib|annibal
 nnie|année|5s|0donnée
 nnis|années
+nnm |annum
 nnme|unnamed
 nnmi|ennemis
 nnoi|connoissant|7tre|:z|6t|0donnoit|0sonnoient
@@ -8370,7 +8505,9 @@ nnow|unknown
 nnte|nantes
 nntm|neantmoins
 nnts|nantes
-no  |nom|2n|2s|2us
+nnu |annum
+nnum|annum
+no  |nom|2n|2s|2us|2w
 noab|notably
 noae|nogaret
 noal|notably
@@ -8439,7 +8576,7 @@ novb|november|6re
 nove|nouvelle|8s|2vember|6re
 novl|nouvelle|8s
 novm|november|6re
-now |known
+now |known|0now
 nown|known
 noy |envoy
 noye|enuoye|6nt|6r|7a|2voye|6r|7a|8y|0noyers
@@ -8449,7 +8586,10 @@ noys|noyers
 npal|enparleray
 npar|enparleray
 npec|inspector
+npia|nuptials
 nprl|enparleray
+npta|nuptials
+npti|nuptials
 nq  |cinq
 nqua|cinquante
 nque|manquement|6ry
@@ -8476,7 +8616,7 @@ nrth|north|5ern|5western
 nrtw|northwestern
 nrus|entrusted
 nry |henry
-ns  |bons|0cens|0dans|0gens|0nos|2us|0ons|0pons|0sans|1ens|0uns
+ns  |bons|0cens|0dans|0ens|0gens|0nos|2us|0ons|0pons|0sans|1ens|0uns|0vns
 nscu|insecure
 nse |pense
 nsec|insecure|3pector
@@ -8533,6 +8673,7 @@ nthr|netherlands
 nths|months
 nthw|northwestern
 nti |bonté|0ntri|0santé|0until
+ntia|nuptials
 ntie|entiere|7ment
 ntil|gentil|0inutile|0until
 ntim|sentimens
@@ -8547,6 +8688,7 @@ ntns|antans
 ntnt|intentionnées|9s
 ntoi|antoine
 nton|antoine
+ntou|mantouë
 ntr |entre|0inter|0notre|1tri
 ntra|central|1ontrasti|0montrave
 ntrc|intercession
@@ -8574,6 +8716,7 @@ nuel|nouuelle|8s|3velle|8s
 nuem|nouembre
 nuer|enuers|0numbers
 nues|enuers
+nuia|nuptials
 nuie|ianuier|0januier
 nuil|inutile
 nuiv|ensuivant
@@ -8581,6 +8724,7 @@ nuk |venuë
 nul |nulle
 nule|nulle
 null|nulle
+num |annum
 numb|nouembre|1umbers
 nume|numbers
 numr|numbers
@@ -8588,10 +8732,14 @@ nuoe|enuoye|6nt|6r|7a
 nuoi|enuoyé
 nuoq|conuoquer
 nuoy|enuoye|6nt|6r|7a|5é
+nupa|nuptials
+nupi|nuptials
+nupt|nuptials
 nure|nature|6lles
 nurs|enuers
 nus |nous
-nuti|inutile
+nuta|nuptials
+nuti|inutile|0nuptials
 nutl|inutile
 nuue|nouuelle|8s
 nuul|nouuelle|8s
@@ -8624,6 +8772,7 @@ nvte|invitera
 nvy |envoy
 nvye|envoye|6r|7a|8y
 nvyi|envoyé
+nw  |now
 nwbe|newberry
 nwbr|newberry
 nwer|newberry
@@ -8637,7 +8786,7 @@ nyrs|noyers
 nzem|vnzieme
 nzie|vnzieme
 nzim|vnzieme
-o   |bon|0col|2n|0foy|0io|0moi|2n|2y|0nom|2n|2s|0one|2s|2t|1se|1u|1ve|1ù|0roi|2y|0so|2n|1uo|0vol|2s|2z|0who|1on
+o   |bon|0col|2n|0foy|0io|0moi|2n|2y|0nom|2n|2s|2w|0one|2s|2t|1se|1u|1ve|1ù|0roi|2y|0so|2n|1uo|0vol|2s|2z|0who|1on
 oa  |hora
 oabl|notably
 oage|voyage
@@ -8666,16 +8815,16 @@ obga|obligata|7ion|:s
 obge|obligea|6r|7ez
 obgi|obligé|6e
 obia|obligata|7ion|:s
-obie|combien|0obligea|6r|7ez|2tiendrez
+obie|combien|0obligea|6r|7ez|2tiendrez|1ubliey
 obig|obligata|7ion|:s|5ea|6r|7ez|5é|6e
 obii|obligé|6e
 obin|obtiendrez
 obis|obeissance|8t
 obl |noble
 obla|obligata|7ion|:s
-oble|foible|0noble|0obligea|6r|7ez
+oble|foible|0noble|0obligea|6r|7ez|1ubliey
 oblg|obligata|7ion|:s|5ea|6r|7ez|5é|6e
-obli|obligata|7ion|:s|5ea|6r|7ez|5é|6e
+obli|obligata|7ion|:s|5ea|6r|7ez|5é|6e|1ubliey
 obmi|soubmision
 obni|obtenir
 obs |soubs
@@ -8708,7 +8857,7 @@ occt|occitane
 oce |douce|0force|0once
 oced|forced
 ocel|rochelle
-ocer|concern|0rocservieres
+ocer|concern|0rocseruieres|6vieres
 oces|forces|0roches
 ocha|prochaine
 oche|bouche|0proche|0rochelle|5s|0touche|6r
@@ -8724,9 +8873,9 @@ ocoi|octroier
 ocq |doncq
 ocri|octroier
 ocro|octroier
-ocse|rocservieres
+ocse|rocseruieres|6vieres
 ocsi|occasion|8s
-ocsr|rocservieres
+ocsr|rocseruieres|6vieres
 octa|occitane
 octb|october
 octe|located|0october
@@ -8746,8 +8895,8 @@ odfr|godefroi
 odie|soldier
 odit|condition
 odn |oudun
-odnn|ordonner|6é
-odon|godson|0ordonner|6é
+odnn|ordonnance|6er|6é
+odon|godson|0ordonnance|6er|6é
 odot|condotto
 odr |older|1rdre
 odre|ordre|5s
@@ -8857,7 +9006,7 @@ oins|moins|0soings|4s
 oint|poinct|4t|0soient
 oir |auoir|1voir|0loire|0voir
 oire|croire|0gloire|0loire
-ois |blois|1ois|0dois|0fois|0louis|0moins|3s|0soins|3s|0trois|0vois
+ois |avois|0blois|1ois|0dois|0fois|0louis|0moins|3s|0soins|3s|0trois|0vois
 oiss|obeissance|8t
 oit |auoit|1voit|0croit|0doit|0point|0soit
 oita|occitane
@@ -8895,7 +9044,7 @@ olge|obligea|6r|7ez
 olgi|obligé|6e
 olgn|coligny
 olia|obligata|7ion|:s|1livares
-olie|obligea|6r|7ez|0soldier
+olie|obligea|6r|7ez|1ubliey|0soldier
 olig|coligny|0obligata|7ion|:s|5ea|6r|7ez|5é|6e
 olii|obligé|6e|0politically
 olin|coligny
@@ -8905,11 +9054,11 @@ oliv|olivares
 olla|holland
 olln|holland
 olnd|colendissimo|0poland
-olnt|volontez|6é|7s
+olnt|volontes|7z|6iers|6é|7s
 olo |solo
 oloi|vouloir
-olon|volontez|6é|7s
-olot|volontez|6é|7s
+olon|volontes|7z|6iers|6é|7s
+olot|volontes|7z|6iers|6é|7s
 olou|toulouse
 olr |older
 olra|solera
@@ -9036,6 +9185,7 @@ ono |monod|4t
 onod|monod
 onoe|honore
 onoi|connoissant|7tre|:z|6t|0donnoit|0sonnoient
+onom|economizing
 onon|conons
 onoq|conuoquer|3voquer
 onor|conformement|3sort|0honore
@@ -9087,9 +9237,9 @@ oobe|october
 ood |monod
 ooit|voyoit
 ook |took
-oonn|ordonner|6é
+oonn|ordonnance|6er|6é
 oons|conons
-oont|volontez|6é|7s
+oont|volontes|7z|6iers|6é|7s
 oops|troops
 oore|honore
 oose|oppose|6d
@@ -9137,8 +9287,8 @@ orcs|forces
 ord |ordre
 orde|bordering|0orders|3re|5s
 ordi|raordinaire
-ordn|ordonner|6é
-ordo|ordonner|6é
+ordn|ordonnance|6er|6é
+ordo|ordonnance|6er|6é
 ordr|bordering|0orders|3re|5s
 ords|orders|3res
 ore |force|0loire|0notre|0ordre|1utre|2vre|0porte|0sorte
@@ -9175,10 +9325,10 @@ ormr|former
 orna|mornan|6t
 orne|tourner
 orni|organized
-ornn|mornan|6t|0ordonner|6é
+ornn|mornan|6t|0ordonnance|6er|6é
 orny|fourny
 oroi|octroier
-oron|ordonner|6é
+oron|ordonnance|6er|6é
 orp |corps
 orpa|orphaned
 orph|orphaned
@@ -9223,16 +9373,16 @@ oscr|obscurcir
 oscu|obscurcir
 osd |posed
 ose |chose|1ose|0ose|2ter|0posed
-osed|hosted|0posed
+osed|hosted|0posed|3sedent
 oseg|sostegno
 oseh|joseph
 osei|conseil|7le|7s|0monseigneur|9vr
 osem|horsemen
 osep|joseph
-oser|conseruation|<e|7er|9ons|6vation|7er|9ons|0oster|0posterité|0rocservieres
+oser|conseruation|<e|7er|9ons|6vation|7er|9ons|0oster|0posterité|0rocseruieres|6vieres
 oses|choses|0possession
 osi |costé
-osib|possible
+osib|possible|7y
 osid|considerable|9tion|8ed|0outside
 osie|monsiegneur|6ur|6vr
 osin|cousin|6e|2vsin
@@ -9249,9 +9399,10 @@ osqu|mousquets
 osr |oster
 osra|vostra
 osre|nostre|0vostre
-ossb|possible
-osse|possession
-ossi|possible|0roussillon
+ossb|possible|7y
+ossd|possedent
+osse|possedent|5ssion|0rousselay
+ossi|possible|7y|0roussillon
 osss|possession
 ost |coast|2sté|0most|0oster|0tost
 osta|constable|0obstacle|0vostra
@@ -9273,6 +9424,7 @@ otbl|notably
 ote |comte|2nte|0doute|0fonte|0notre|0oster|1ther|1utre|0porte|0sorte|0toute
 otec|protection|7or
 oted|hosted
+otef|touteffois
 oteg|sostegno
 otei|obtenir
 oten|contente|8ment|0obtenir|3iendrez
@@ -9315,8 +9467,9 @@ ou  |coup|3r|0nous|0ou|0pour|0tour|3s|3t|0vous
 ouai|souhaiter|7s|7te|9r
 ouat|prouate
 oub |soubs
-oube|doubtes
-oubi|soubmision
+oube|doubtes|0oubliey
+oubi|oubliey|0soubmision
+oubl|oubliey
 oubm|soubmision
 oubo|bourbon
 oubs|soubs
@@ -9333,6 +9486,7 @@ oudr|voudrois
 oudu|oudun
 oue |douce|3te|3ze|0outre|2vre|0toute
 oueb|nouembre
+ouef|touteffois
 ouel|nouuelle|8s|3velle|8s
 ouem|mouvement|0nouembre
 ouen|doiuent|0souuent|3venir
@@ -9349,7 +9503,7 @@ ouhe|bouche|0southeast|6rn|0touche|6r
 ouhi|bouthillier|0souhaiter|7s|7te|9r
 oui |louis
 ouid|outside
-ouie|courier|0souviendront
+ouie|courier|0oubliey|0souviendront
 ouin|cousin|6e|0prouinces
 ouio|tousiours
 ouir|mourir|0ouurir
@@ -9359,7 +9513,8 @@ ouju|toujours
 oul |voulu|0would
 oula|popular
 ould|would
-ouli|vouloir
+oule|oubliey
+ouli|oubliey|0vouloir
 oulo|toulouse|0vouloir
 oulu|toulouse|0voulu
 oumb|nouembre
@@ -9399,18 +9554,19 @@ ourv|pourveu|5oir
 oury|fourny
 ous |iours|0jours|0louis|0nous|0soubs|0tous|0vous
 ousd|outside
-ouse|aroused|0soustenir
+ouse|aroused|0rousselay|0soustenir
 ousi|cousin|6e|0outside|0roussillon|0tousiours
 ousj|tousjours
 ousn|cousin|6e
 ouso|tousiours|4jours
 ousq|mousquets
-ouss|roussillon
+ouss|rousselay|5illon
 oust|soustenir
 ousu|mousquets
 out |about|0count|3rt|0doute|0outre|0south|0tout|4e
 outd|outside
-oute|courtesy|0doubtes|3te|0outre|0soustenir|3theast|6rn|0toute|5s|4tes
+oute|courtesy|0doubtes|3te|0outre|0soustenir|3theast|6rn|0toute|5ffois|5s|4tes
+outf|touteffois
 outh|bouthillier|0south|5east|6rn
 outi|bouthillier|0outside
 outr|outre
@@ -9460,7 +9616,7 @@ ovre|ouvre
 ovrn|governor
 ovsi|covsin
 ovsn|covsin
-ow  |down|0town
+ow  |down|0now|0town
 owe |power
 ower|power|5s
 owes|powers
@@ -9499,7 +9655,7 @@ oz  |voz
 oze |douze
 oe |obeÿe
 p   |p|1ar|2s|1er|2u|1iu|1lû|1p|1ut|0up
-pa  |page|2ix|2pe|2r|3o|3t|2s|2ul|2ye|3s
+pa  |page|2in|3x|2pe|2r|3o|3t|2s|2ul|2ye|3s
 paac|palace
 paae|palace
 paai|parfaitement
@@ -9524,15 +9680,15 @@ pag |page
 page|page
 pagn|espagnols
 pahl|pamphleteer
-pai |paix|2ris|2ssé|2yée|1lain|0spain
+pai |pain|3x|2ris|2ssé|2yée|1lain|0spain
 paia|parliament|1laira
 paic|particelli|6ulier|;ement
 paie|passée|2tienter|2yée|1laire
-pain|patienter|1lain|5te|0spain
+pain|pain|2tienter|1lain|5te|7s|0spain
 paio|passion|7e
 pair|partir|1laira|5e
 pais|paris|1laist|0spanish
-pait|plainte|4st
+pait|plainte|7s|4st
 paix|paix
 pajo|arpajon
 pal |paul
@@ -9540,7 +9696,7 @@ pala|palace|3luau|2rliament
 palc|palace
 pale|palace|2rler|6ay|3ole|6s
 pali|parliament
-pall|palluau
+pall|palluau|2rolle
 palr|parler|6ay
 palu|palluau
 pam |parmy
@@ -9549,15 +9705,15 @@ pamh|pamphleteer
 paml|pamphleteer
 pamp|pamphleteer
 pamy|parmy
-pan |plain|0spain
+pan |pain|1lain|0spain
 pana|appanage
 pand|poland
 pani|spanish
 pans|spanish
-pant|plainte
+pant|plainte|7s
 pao |paro
 paoe|parole|6s
-paol|parole|6s
+paol|parole|6s|5le
 paon|pardon|6nez
 pap |pape
 pape|pape|4rs
@@ -9572,10 +9728,10 @@ pard|pardon|6nez
 pare|apparence|0parce|3ler|6ay|3ole|6s|3tement|2uvres|1laire|0separeroit
 parf|parfaitement
 pari|parfaitement|3is|3liament|3ticelli|6ulier|;ement|5r
-parl|enparleray|0parler|6ay|4iament|3ole|6s
+parl|enparleray|0parler|6ay|4iament|3ole|6s|5le
 parm|parmy|3tement
 parn|pardon|6nez|3tant
-paro|pardon|6nez|3o|4le|6s
+paro|pardon|6nez|3o|4le|6s|5le
 parr|parler|6ay|3tir
 pars|papers|2ris
 part|department|0part|4ant|4ement|4icelli|6ulier|;ement|5r|4y
@@ -9706,7 +9862,7 @@ pers|papers|1erish|3mission|3sonal|6ne|8s|1owers
 pert|perte
 peru|perdué
 perv|imperversato
-pes |apres|0dupes|0pense|1leas|1res
+pes |apres|0dupes|0pense|1leas|1res|4t
 pesc|dépesche|7é|0empesche
 pesd|president
 pese|pense|5r|4ées|1resence|6t|7e|8ment|4ser|4te|6ra
@@ -9716,8 +9872,8 @@ pesn|personal|6ne|8s|1resence|6t|7e|8ment
 peso|pension|2rsonal|6ne|8s
 pesr|penser
 pess|plessis|1resser
-pest|preste|6ra|2iest
-pet |perte|2ut
+pest|prest|5e|6ra|2iest
+pet |perte|2ut|1rest
 pete|perte|1reste|6ra|3tend|7s|6tions
 peti|pureté
 petn|pretend|7s|6tions
@@ -9759,7 +9915,7 @@ phr |père
 phre|père
 pht |photo
 phto|photo
-pi  |paix|1ied|2u|1rie|3n|3s|3é|2és|1uis
+pi  |pain|3x|1ied|2u|1rie|3n|3s|3t|3é|2és|1uis
 piac|pibrac
 piar|primary
 piay|epinay
@@ -9800,14 +9956,14 @@ pilp|philip|6pe
 pima|primary
 pimo|piedmont|8ese
 pimr|primary
-pin |peine|1ieno|1lain|1oint|1rin|0spain
+pin |pain|1eine|1ieno|1lain|1oint|1rin|0spain
 pina|epinay|1spinay|0pézenas
 pinc|poinct|1rince|6s|5ipal|8ux|4icpal
 pine|peine|1ignerol|2nerolo|1rince|6s
 pini|opinion|0principal|8ux|4icpal
 pino|opinion|0pieno|2nerolo
 pinr|pignerol|2nerolo
-pint|plainte|1oinct|4t
+pint|plainte|7s|1oinct|4t
 piny|epinay
 pio |pieno|1rior
 pior|prior
@@ -9827,7 +9983,7 @@ pisq|puisque
 piss|puissance|7t|8s|5e|5ons
 pist|epistolary|0plaist|1riest
 pisu|puisque
-pit |point
+pit |point|1rit
 pita|capital
 piti|politically
 pito|epistolary
@@ -9848,11 +10004,11 @@ plaa|plaira
 plac|palace|1lace|5s
 plad|plead|1oland
 plae|palace|1lace|5s|3ire
-plai|déplaisir|0explains|0plain|5te|4ra|5e|4st
-plan|plain|5te|1oland
+plai|déplaisir|0explains|0plain|5te|7s|4ra|5e|4st
+plan|plain|5te|7s|1oland
 plar|plaira|5e
 plas|places|3ist|2eas
-plat|plainte|4st
+plat|plainte|7s|4st
 plau|puylaurens
 plc |place
 plce|palace|1lace|5s
@@ -9869,16 +10025,16 @@ pli |plain
 plia|parliament|1laira
 plie|plaire|2usieurs|0suplie
 plii|politically
-plin|plain|5te
+plin|plain|5te|7s
 plip|philip|6pe
 plir|plaira|5e
 plis|plaist
-plit|plainte|4st|1olitically
+plit|plainte|7s|4st|1olitically
 plla|palluau
 pllu|palluau
 pln |plain
 plnd|poland
-plnt|plainte
+plnt|plainte|7s
 plom|diplomacy|7tic
 ploy|employer
 plra|plaira
@@ -9912,7 +10068,7 @@ pmph|pamphleteer
 pmpl|pamphleteer
 pmpt|promptement
 pmy |parmy
-pn  |pons|3t|1rin
+pn  |pain|1ons|3t|1rin
 pnay|epinay
 pnce|prince|6s
 pnci|principal|8ux
@@ -9951,7 +10107,7 @@ pocu|ponctuellement
 pod |posed
 poe |pope|2rte|2sed|2wer
 poec|protection|7or
-poed|posed
+poed|posed|3sedent
 poer|porter|2sterité|2wer|5s
 poes|possession|2wers|1rofession|3messes|3testant
 poet|promet|6tant|7oit
@@ -9962,7 +10118,7 @@ pofs|profession
 poha|prochaine
 pohe|proche
 poi |point
-poib|possible
+poib|possible|7y
 poic|poinct
 poid|provides
 poii|politically
@@ -9974,6 +10130,7 @@ pola|poland|2pular
 pold|poland
 pole|parole|6s
 poli|politically
+poll|parolle
 poln|poland
 polt|politically
 pome|promesses|5t|6tant|7oit
@@ -10012,12 +10169,12 @@ port|emporta|0importance|8t|6uner|0porte|5r
 poru|pourquoy|4ueu|5oir
 porv|pourveu|5oir
 pos |pons|2sed
-posb|possible
-posd|posed
-pose|oppose|6d|0posed|3session|3terité|0repose
-posi|possible
+posb|possible|7y
+posd|posed|3sedent
+pose|oppose|6d|0posed|3sedent|5ssion|3terité|0repose
+posi|possible|7y
 posr|posterité
-poss|possession|4ible
+poss|possedent|5ssion|4ible|7y
 post|posterité
 pot |photo|1oint|2nt|2rte
 potc|protection|7or
@@ -10083,7 +10240,7 @@ ppse|oppose|6d
 ppua|popular
 ppul|popular
 pque|picques
-pr  |par|3o|3t|1eer|2r|3e|2ur|1our|1res|2ie|3n|3s|3é|2oj|2és|1ère
+pr  |par|3o|3t|1eer|2r|3e|2ur|1our|1res|2ie|3n|3s|3t|3é|2oj|2és|1ère
 prac|pibrac
 prai|parfaitement
 pran|partant|1ermanent|0speranze
@@ -10102,7 +10259,7 @@ prdn|pardon|6nez|1rudent
 prdo|pardon|6nez
 prdr|perdray|5e|1rendre
 prdu|perdué
-pre |apres|0parce|1ere|3te|1orte|1rend|3s|2ie|4r|3se|1ère
+pre |apres|0parce|1ere|3te|1orte|1rend|3s|4t|2ie|4r|3se|1ère
 prea|preparations|6er
 prec|protection|7or
 pred|preiudiciable|3nd|5re|3sident
@@ -10114,8 +10271,8 @@ prem|partement|1remier|7ement
 pren|prend|5re|4iés|3sence|6t|7e|8ment|3tend|7s|6tions|3vented|2udent|1yrenees
 prep|preparations|6er
 prer|parler|6ay|1orter|1refereray|6red|3ndre|3parations|6er|2ier|5es
-pres|appresso|2res|1upres|0empress|1xpressement|0pres|4ence|6t|7e|8ment|4ident|4ser|4te|6ra|2iest|2ofession|3messes|3testant|0represent|9ay
-pret|preste|6ra|3tend|7s|6tions|2iest|2omet|6tant|7oit|1ureté
+pres|appresso|2res|1upres|0empress|1xpressement|0pres|4ence|6t|7e|8ment|4ident|4ser|4t|5e|6ra|2iest|2ofession|3messes|3testant|0represent|9ay
+pret|prest|5e|6ra|3tend|7s|6tions|2iest|2omet|6tant|7oit|1ureté
 preu|preiudiciable|3uues|4ves
 prev|preuves|3vented
 prfa|parfaitement
@@ -10127,7 +10284,7 @@ prfr|prefereray|6red
 prfs|profession
 prha|prochaine
 prhe|proche
-pri |april|0paris|1eril|1rie|4r|3n|3or|3s|4e|3é|2és
+pri |april|0paris|1eril|1rie|4r|3n|3or|3s|4e|3t|3é|2és
 pria|parliament|1rimary
 pric|particelli|6ulier|;ement|1rince|6s|5ipal|8ux|4icpal
 prid|preiudiciable|3sident|2ovides
@@ -10140,13 +10297,14 @@ prin|prin|4ce|6s|5ipal|8ux|4icpal|2ouinces|3vinces
 prio|prior
 prir|partir|1rier|5es|3mary|3or
 pris|exprés|0imprisonment|0paris|1erish|3mission|1riest|3s|4e|2omis|6es|3uisions|3visions|2és
-prit|esprit|0priest
+prit|esprit|0priest|3t
 priu|preiudiciable
 prj |proj
 prl |april|0peril
 prla|parliament
 prle|parler|6ay|3ole|6s
 prli|parliament
+prll|parolle
 prlr|parler|6ay
 prm |parmy
 prma|permanent|1rimary
@@ -10174,7 +10332,7 @@ prof|profession|4ondissima
 proh|prochaine|5e
 proi|promis|6es|3uinces|5sions|3vides|5nces|5sions
 proj|proj
-prol|parole|6s
+prol|parole|6s|5le
 prom|promesses|5t|6tant|7oit|4is|6es|4ptement
 pron|pardon|6nez|1ersonal|6ne|8s|1rofondissima|3uinces|3vinces
 proo|profondissima|3pos
@@ -10195,7 +10353,7 @@ prr |prier|3or
 prra|perdray|1ourra
 prre|perdre|1rieres|2opre|6s
 prro|pourroient|7t|6nt
-prs |apres|0paris|1res|2is|4e|2és
+prs |apres|0paris|1res|4t|2is|4e|2és
 prsd|president
 prse|presence|6t|7e|8ment|4ser|4te|6ra|2ise|1ursue
 prsh|perish
@@ -10203,9 +10361,9 @@ prsi|president
 prsn|personal|6ne|8s|1resence|6t|7e|8ment
 prso|personal|6ne|8s
 prss|presser
-prst|preste|6ra|2iest
+prst|prest|5e|6ra|2iest
 prsu|pursue
-prt |part|4y|1erte|1orte
+prt |part|4y|1erte|1orte|1rest|2it
 prta|partant
 prtc|particelli|6ulier|;ement|1rotection|7or
 prte|partement|1erte|1orte|5r|1reste|6ra|3tend|7s|6tions|2otection|7or|5stant
@@ -10236,13 +10394,13 @@ ps  |pas|2ys|1lus|1ons|1res|2is|2és|1uis
 psbu|hapsburg|8s
 psd |posed
 pse |passe|1ense|1osed|1rise
-psed|posed
+psed|posed|3sedent
 psee|passee
 psen|passent|1resence|6t|7e|8ment
 pser|passer|6oit|7nt|1enser|1osterité
 pses|possession
 psi |passé
-psib|possible
+psib|possible|7y
 psid|president
 psie|passée|1ensées|1lusieurs
 psio|passion|7e|1ension
@@ -10250,18 +10408,20 @@ pson|personal|6ne|8s
 psqu|puisque
 pss |passe|4é
 pssa|puissance|7t|8s
-pssb|possible
-psse|passe|5e|5nt|5r|6oit|7nt|4ée|1ossession|1resser|1uisse
-pssi|passion|7e|4é|5e|1lessis|1ossible
+pssb|possible|7y
+pssd|possedent
+psse|passe|5e|5nt|5r|6oit|7nt|4ée|1ossedent|5ssion|1resser|1uisse
+pssi|passion|7e|4é|5e|1lessis|1ossible|7y
 pssn|passent
 psso|passion|7e|1uissons
 pssr|passer|6oit|7nt
 psss|possession
+pst |prest
 pste|posterité|1reste|6ra
 psto|epistolary|0plustost
 pstr|posterité
 psue|pursue
-pt  |part|1eut|1lût|1ont|1ut|0sept
+pt  |part|1eut|1lût|1ont|1rit|1ut|0sept
 ptai|captain
 ptan|partant|0septante
 pte |perte|1orte
@@ -10270,6 +10430,7 @@ ptem|partement|0september
 pten|patienter|1retend|7s|6tions
 pter|porter|2sterité
 ptes|protestant
+ptia|nuptials
 ptic|particelli|6ulier|;ement
 ptie|patienter
 ptin|patienter|1utting
@@ -10421,10 +10582,11 @@ qez |quelz
 qi  |qui
 qime|quimperlé
 qimp|quimperlé
-qine|quinze
+qine|quinperlay|4ze
 qini|quinziéme
+qinp|quinperlay
 qinz|quinze|5iéme
-qipe|quimperlé
+qipe|quimperlé|3nperlay
 qize|quinze
 qizi|quinziéme
 ql  |qual|2el
@@ -10435,6 +10597,7 @@ qlz |quelz
 qmpe|quimperlé
 qn  |quan
 qnd |quand
+qnpe|quinperlay
 qnto|quanto
 qnze|quinze
 qnzi|quinziéme
@@ -10472,11 +10635,11 @@ quet|questa|5i
 queu|quelque|7s
 quez|quelz
 qui |dequi|0qui
-quie|quimperlé|3nze
+quie|quimperlé|3nperlay|4ze
 quii|quinziéme
 quim|quimperlé
-quin|quinze|5iéme
-quip|quimperlé
+quin|quinperlay|4ze|5iéme
+quip|quimperlé|3nperlay
 quis|acquistar|0requis
 quit|acquitter|0qualite
 quiz|quinze|5iéme
@@ -10492,15 +10655,16 @@ qume|quimperlé
 qump|quimperlé
 qun |quan|4d|2een
 qund|quand
-qune|quinze
+qune|quinperlay|4ze
 quni|quinziéme
 quno|quanto
+qunp|quinperlay
 qunt|quanto
 qunz|quinze|5iéme
 quo |quoy
 quor|quatorze
 quoy|dequoy|0quoy
-qupe|quimperlé
+qupe|quimperlé|3nperlay
 ququ|quelque|7s
 qure|quatre
 quri|quartiers
@@ -10519,7 +10683,7 @@ quze|quinze
 quzi|quinziéme
 qy  |quoy
 r   |car|0far|0gré|0her|0mer|1rs|0par|1er|0r|1e|1oi|2y|0sur|0war
-ra  |aura|0dira|0fera|0hora|0iray|0real|0sera|0vraÿ
+ra  |aura|0dira|0fera|0hora|0iray|0rang|1eal|0sera|0vraÿ
 raai|trauaille|9r|:a|3vaille|9r|:ay
 raar|rampart
 raau|trauaux|3vaux
@@ -10542,6 +10706,7 @@ rael|bragelogne
 raen|randent
 raes|graces
 rafi|ratifiér
+rag |rang
 raga|française
 rage|bragelogne|0grange
 ragl|bragelogne
@@ -10566,12 +10731,12 @@ rama|rampart
 rame|tramper|0veramente
 ramp|rampart|0tramper
 ramr|rampart
-ran |grand|0rohan|2man|0urban
+ran |grand|0rang|1ohan|2man|0urban
 rana|française
 ranc|branches|0france|5hise|5is|5ois|5s|0transcribed|8ption
 rand|armand|0craindre|0grand|5e|6s|5s|5uca|0randent
 rane|france|0grande|6s|4ge|0randent
-rang|française|5ois|0grange
+rang|française|5ois|0grange|0rang
 ranh|branches|0franchise
 rani|francis|0organized
 rann|randent
@@ -10629,7 +10794,7 @@ rcee|receue
 rcei|received
 rcel|richelieu|1ochelle|0vercelli
 rceo|receuoir|4voir
-rcer|receura|4vra|3hercher|1ocservieres
+rcer|receura|4vra|3hercher|1ocseruieres|6vieres
 rces|forces|0graces|0receus|1oches
 rceu|receu|5e|5oir|5ra|5s|3reuës
 rcev|received|4voir|5ra
@@ -10652,8 +10817,8 @@ rcon|recognus|4nciled|5noissance|9tre|2ncontre
 rcre|recreuës
 rcrk|recruës
 rcru|recreuës|4uës
-rcse|rocservieres
-rcsr|rocservieres
+rcse|rocseruieres|6vieres
+rcsr|rocseruieres|6vieres
 rcu |receu
 rcue|receue
 rcuk|recruës
@@ -10666,17 +10831,19 @@ rcvr|recevra
 rcy |mercy
 rd  |rend
 rde |garde|0ordre
+rdea|redevable
 rden|prudent|0randent|1endent
 rder|bordering|0orders
 rdes|orders|3res
+rdev|redevable
 rdia|rediuable
 rdig|riding
 rdin|cardinal|8s|0ferdinand|9o|0riding
 rdit|reduite|0traditional
 rdiu|rediuable
 rdng|riding
-rdnn|ordonner|6é
-rdon|ordonner|6é|0pardon|6nez
+rdnn|ordonnance|6er|6é
+rdon|ordonnance|6er|6é|0pardon|6nez
 rdr |ordre
 rdra|perdray|0rendra
 rdre|ordre|5s|0perdre|0rendre
@@ -10685,9 +10852,10 @@ rds |rends
 rdua|rediuable
 rdui|perdué|0reduite
 rdut|reduite
+rdva|redevable
 re  |cree|3u|0dire|0here|0mere|0pere|1res|2ie|1ère|0re|2al|2nd|3é|2ve|2çu|1ien|2se|1ome|1uel|0tres|0were
 rea |real
-reab|agreable
+reab|agreable|8s
 reac|relasche
 read|regarday|6ed
 reae|createur
@@ -10718,15 +10886,17 @@ recs|receus
 recu|receu|5e|5oir|5ra|5s|3reuës|4uës
 recv|received|4voir|5ra
 red |prend|0rend|4s
-reda|rediuable|2ndra
-rede|rendent|4re|2sidence
+reda|redevable|3iuable|2ndra
+rede|redevable|2ndent|4re|2sidence
 redi|rediuable|3uite|2medier
 redn|rendent
 redr|prendre|0rendra|5e
 reds|rends
 redt|reduite
 redu|rediuable|3uite
+redv|redevable
 ree |cree|0frere|0receu|2ine|2ste|2ve
+reea|redevable
 reec|regence|6y|2merciemens|2spect|7s
 reed|relied|2medier
 reee|receue|2leuer|4ver|2uerendissimo|2verenza
@@ -10739,7 +10909,7 @@ reer|career|0prefereray|6red|0receura|4vra|3hercher|2ferrer|2merciemens|5sier|2q
 rees|receus|2mersier|4ts|2present|9ay|2quests
 reet|breuets|3vets|0regent|2mets|5tre
 reeu|receu|5e|5oir|5ra|5s|3reuës|2leuer|2ueuë
-reev|received|4voir|5ra|2lever
+reev|received|4voir|5ra|2devable|2lever
 refe|prefereray|6red|0referrer
 refr|prefereray|6red|0referrer
 reg |reign|2çu
@@ -10792,9 +10962,9 @@ reme|premier|7ement|0regimens|7t|2medier|4rciemens|5sier|4ts|5tre|3ove
 remi|premier|7ement|0remedier
 reml|tremblay
 remm|recommandation
-remo|removal|5e|3portoit
-remp|remportoit
-remr|remerciemens|5sier|3portoit
+remo|removal|5e|3porte|7oit
+remp|remporte|7oit
+remr|remerciemens|5sier|3porte|7oit
 rems|remersier|4ts
 remt|remets|5tre
 remv|removal|5e
@@ -10821,7 +10991,7 @@ reoi|reçois
 reol|resolution|5ved|2uolte|2volte
 reom|recommandation
 reon|recognus|4nciled|5noissance|9tre|2gion|2ncontre|3ounced|2spondray|6se
-reor|gregory|0remportoit|2storing
+reor|gregory|0remporte|7oit|2storing
 reos|repose|2çois
 reot|reuolte|2volte
 reou|renounced|2solution
@@ -10831,8 +11001,8 @@ repc|reproches|2spect|7s
 repd|reproduced
 repe|repose|3resent|9ay|2spect|7s
 repn|respondray|6se
-repo|remportoit|2pose|3roches|5duced|2spondray|6se
-repr|preparations|6er|0remportoit|2present|9ay|4oches|5duced
+repo|remporte|7oit|2pose|3roches|5duced|2spondray|6se
+repr|preparations|6er|0remporte|7oit|2present|9ay|4oches|5duced
 reps|repose|3resent|9ay
 reqe|frequently|0requerra|5sts
 reqi|requis
@@ -10850,7 +11020,7 @@ rero|reproches|5duced
 rerr|referrer
 rers|orders|0remersier|2present|9ay
 reru|recreuës|4uës
-res |apres|1rmes|0pres|0rends|2ste|0tres
+res |apres|1rmes|0pres|4t|0rends|2ste|0tres
 resa|restant
 resc|relasche|2spect|7s
 resd|president|0residence
@@ -10862,10 +11032,10 @@ reso|resolution|5ved|3pondray|6se|3toring|0treasonous
 resp|respect|7s|4ondray|6se
 resr|restoring
 ress|presser|0resistance
-rest|arrest|6ed|0chrestinne|0ernest|0nerestan|0preste|6ra|2iest|0resistance|3tant|4e|5nt|4itution|4oring|3ult
+rest|arrest|6ed|0chrestinne|0ernest|0nerestan|0prest|5e|6ra|2iest|0resistance|3tant|4e|5nt|4itution|4oring|3ult
 resu|resolution|3ult
 resv|resolved
-ret |reste
+ret |prest|0reste
 reta|restant
 rete|createur|0preste|6ra|3tend|7s|6tions|0reste|5nt|2tenir|3irer
 reti|creative|0heretics|0pureté|0restitution|2tenir|3irer
@@ -10890,7 +11060,7 @@ reut|breuets|0reduite|2sult|2uolte
 reuu|preuues|0reueuë
 reuv|preuves
 rev |reve
-reva|removal
+reva|redevable|2moval
 reve|brevets|0preuves|3vented|0relever|2move|2ve|4renza
 revl|revolte
 revn|prevented
@@ -10903,7 +11073,7 @@ rfer|prefereray|6red|0referrer
 rfes|profession
 rfon|profondissima
 rfrr|referrer
-rg  |reçu
+rg  |rang|1eçu
 rgad|brigade|0regarday|6ed
 rgai|organized
 rgan|morgan|0organized
@@ -10948,9 +11118,10 @@ rhne|rhône
 rht |rhône|1ight
 rhte|rhône
 rhtn|rhône
-ri  |gré|0iuré|0ntri|0prie|3n|3s|3é|2és|0rené|1ien|2se|1oi|0tiré
+ri  |gré|0iuré|0ntri|0prie|3n|3s|3t|3é|2és|0rené|1ien|2se|1oi|0tiré
 ria |friar|0maria
 riad|brigade
+riag|mariage
 riar|friar|0primary
 rice|prince|6s|0richelieu
 rich|maréchal|0richelieu
@@ -11013,7 +11184,7 @@ risi|riuscita
 risn|raison|6s
 riso|aristocratic|0raison|6s
 rist|aristocratic|0christine|0priest|0resistance
-rit |croit|0right
+rit |bruit|0croit|0prit|0right
 rita|brittany|0veritablement
 rite|merite|0traiter|0writer|4ten
 riti|verité
@@ -11075,12 +11246,12 @@ rmn |roman
 rmnd|armand
 rmoa|removal
 rmoe|remove
-rmor|remportoit
+rmor|remporte|7oit
 rmov|removal|5e
 rmpa|rampart
 rmpe|tramper
-rmpo|remportoit
-rmpr|rampart|1emportoit
+rmpo|remporte|7oit
+rmpr|rampart|1emporte|7oit
 rmpt|promptement
 rmrc|remerciemens
 rmrs|remersier
@@ -11091,7 +11262,7 @@ rmva|removal
 rmve|remove
 rmy |army|0parmy
 rmz |armez
-rn  |prin|0rend|3é|1ien
+rn  |prin|0rang|1end|3é|1ien
 rnan|mornan|6t
 rnar|bernard
 rnce|france|0prince|6s
@@ -11111,7 +11282,7 @@ rne |reine|1hône
 rnen|randent|1endent
 rnes|ernest
 rnet|ernest
-rng |bring
+rng |bring|0rang
 rnga|française
 rnge|grange
 rngo|françois
@@ -11137,16 +11308,16 @@ roan|rohan|2man
 roat|prouate|0royalty
 roau|royaume
 roca|prochaine
-roce|proche|0rochelle|5s|3servieres
+roce|proche|0rochelle|5s|3seruieres|6vieres
 roch|prochaine|5e|0rochelle|5s
 rocl|rochelle
-rocr|rocservieres
-rocs|roches|3servieres
+rocr|rocseruieres|6vieres
+rocs|roches|3seruieres|6vieres
 rodi|raordinaire
 roe |rome
 roec|protection|7or
 roel|rochelle
-roer|rocservieres
+roer|rocseruieres|6vieres
 roes|profession|3messes|3testant|0roches
 roet|promet|6tant|7oit
 rofe|profession
@@ -11170,6 +11341,7 @@ roit|auroit|0croit|0feroit|0seroit
 roj |proj
 rol |royal
 role|parole|6s
+roll|parolle
 rolt|reuolte|2volte|1oyalty
 rolu|resolution
 rolv|resolved
@@ -11187,7 +11359,7 @@ ronc|reconciled
 rone|crowned|0throne
 rong|stronghold
 roni|baronis
-ronn|ordonner|6é|0reconnoissance|9tre
+ronn|ordonnance|6er|6é|0reconnoissance|9tre
 rons|aurons
 ront|diront|0feront|0seront
 roon|profondissima
@@ -11204,23 +11376,23 @@ rord|raordinaire
 rore|croire|3yre|0propre|6s
 rori|raordinaire
 ros |roys|0trois
-rose|aroused|0repose|1ocservieres
+rose|aroused|0repose|1ocseruieres|6vieres|2usselay
 rosi|roussillon
-rosr|rocservieres
-ross|roussillon
+rosr|rocseruieres|6vieres
+ross|rousselay|5illon
 rot |croit
 rotc|protection|7or
 rote|brother|7s|0protection|7or|5stant
 roth|brother|7s
 rots|protestant
 roua|prouate
-roue|aroused|0troupes|4ue|6r|7a|4ve|6r|7ons
+roue|aroused|0rousselay|0troupes|4ue|6r|7a|4ve|6r|7ons
 roug|through|7out
 roui|prouinces|5sions|0roussillon|0trouué|4vé
 roum|royaume
 roun|prouinces|0renounced
 roup|troupes
-rous|aroused|0prouisions|0roussillon
+rous|aroused|0prouisions|0rousselay|5illon
 rout|prouate
 rouu|trouue|6r|7a|5é
 rouv|trouve|6r|7ons|5é
@@ -11255,7 +11427,7 @@ rpoc|reproches
 rpod|reproduced
 rpoe|repose
 rpon|respondray|6se
-rpor|rapport|1emportoit
+rpor|rapport|1emporte|7oit
 rpos|propos|0repose
 rppo|rapport
 rppr|rapport
@@ -11275,7 +11447,7 @@ rqur|requerra
 rqus|requests|4is
 rrai|lorraine
 rrdi|raordinaire
-rre |frere|0ordre|0terre
+rre |frere|0ordre|0serre|0terre
 rren|current|0surrendured
 rres|arrest|6ed|0correspondents|0ordres|0represent|9ay
 rret|arrest|6ed
@@ -11304,7 +11476,7 @@ rse |grise|0prise|0reste|1ise
 rsec|respect|7s
 rsem|horsemen
 rsen|presence|6t|7e|8ment|0restent
-rser|rocservieres
+rser|rocseruieres|6vieres
 rsha|marshal|7l
 rsid|president|0residence
 rsie|residence
@@ -11322,10 +11494,10 @@ rspc|respect|7s
 rspe|respect|7s
 rspn|respondray|6se
 rspo|respondray|6se
-rsse|presser
+rsse|presser|0rousselay
 rssi|roussillon
 rsst|resistance
-rst |first|0reste
+rst |first|0prest|0reste
 rsta|restant
 rste|preste|6ra|0reste|5nt|0trusted
 rsti|restitution
@@ -11336,7 +11508,7 @@ rstt|restitution
 rsue|pursue
 rsul|result
 rsut|result
-rt  |fort|0mort|0part|0sert|0tort
+rt  |fort|0mort|0part|1rit|0sert|0tort
 rtai|certain
 rtan|partant|0restant
 rtcl|articles
@@ -11393,14 +11565,14 @@ ruer|requerra|2uerendissimo|1uler
 rues|requests
 ruet|breuets
 rueu|reueuë
-rui |rueil|2iné|0serui
+rui |bruit|0rueil|2iné|0serui
 ruic|fruict|0seruice|7s
 ruii|ruiné
 ruil|rebuilt|1ueil
 ruin|prouinces|0ruiné
 ruir|seruir|6ons
 ruis|prouisions|0requis
-ruit|fruict|0reduite|0seruiteur|6ori
+ruit|bruit|0fruict|0reduite|0seruiteur|6ori
 rul |rueil|3l|2ler
 rule|ruler
 rulr|ruler
@@ -11414,10 +11586,11 @@ rur |ruler
 rure|reuerendissimo
 rurn|returned
 rusc|riuscita
-ruse|aroused|0trusted
+ruse|aroused|0rousselay|0trusted
 rusi|riuscita|1oussillon
-russ|roussillon
+russ|rousselay|5illon
 rust|trusted
+rut |bruit
 rute|trusted
 ruue|preuues|0trouue|6r|7a
 ruui|trouué
@@ -11461,7 +11634,7 @@ ryre|croyre
 rys |roys
 ryum|royaume
 r  |vraÿ
-s   |ast|0cas|1es|0des|0est|0has|1is|0ils|0les|0mes|1rs|1s|0nos|0ons|1se|0pas|0sa|2n|1e|2s|1he|1i|2x|1m|1o|2n|1t|1ua|2o|2r|1y|2d|0uns|1se|0vos
+s   |ast|0cas|1es|0des|0ens|1st|0has|1is|0ils|0les|0mes|1rs|1s|0nos|0ons|1se|0pas|0sa|2n|1e|2s|1he|1i|2x|1m|1o|2n|1t|1ua|2o|2r|1y|2d|0uns|1se|0vns|1os
 sa  |sa|2me|2n|3s|1era|1ua|1çay
 sabc|sabject
 sabe|sabject
@@ -11505,7 +11678,7 @@ sant|estant|0sainct|4t|2nté
 sao |savoy
 saoa|savoyard
 saoe|sauoye|2voye
-saoi|sçauoir|3voir
+saoi|scauoit|3voit|1çauoir|3voir
 saon|saison
 saoy|sauoye|2voy|5ard|5e
 sape|escape
@@ -11528,9 +11701,9 @@ sats|estats|0satis|5faits|1tates
 sau |seaux
 saua|scaura
 saue|sauoye
-saui|sçauoir
+saui|scauoit|1çauoir
 saum|saumur
-sauo|sauoye|1çauoir|4roient|7t
+sauo|sauoye|1cauoit|1çauoir|4roient|7t
 saur|saumur|1caura|1çauroient|7t
 sauu|saumur
 saux|sceaux|1eaux
@@ -11538,8 +11711,8 @@ sauy|sauoye
 sav |savez|3oy
 sava|savoyard
 save|savez|3oye
-savi|sçavoir
-savo|savoy|5ard|5e|1çavoir
+savi|scavoit|1çavoir
+savo|savoy|5ard|5e|1cavoit|1çavoir
 savy|savoy|5ard|5e
 savz|savez
 sax |seaux
@@ -11564,15 +11737,20 @@ sbse|subsequently
 sbsi|subsistance|;s|7er
 sbsq|subsequently
 sbss|subsistance|;s|7er
+sc  |sceu
 scaa|scaura
 scae|escape
+scai|scauoit|3voit
 scan|toscana|1uscany
+scao|scauoit|3voit
 scap|escape
 scar|scaura
-scau|scaura|2eaux
+scau|scauoit|4ra|2eaux
+scav|scavoit
 scax|sceaux
 scce|success|7ion
 sccs|success|7ion
+sce |sceu
 scea|sceaux
 sced|ascended
 scei|sacreé
@@ -11580,8 +11758,9 @@ scen|ascended
 scer|sincere
 sces|success|7ion
 scet|secretary
-sceu|sceaux
+sceu|sceaux|3u
 scex|sceaux
+scha|taschaient
 schb|schomberg
 sche|taschera
 schm|schomberg
@@ -11598,7 +11777,7 @@ sco |scots
 scob|schomberg
 scod|second
 scog|scourge
-scoi|scottish
+scoi|scauoit|3voit|2ottish
 scom|schomberg
 scon|second
 scor|scourge|1ecourrons|6s
@@ -11621,14 +11800,17 @@ sct |scots
 scti|scottish
 scts|scots
 sctt|scottish
-scu |escus
+scu |escus|0sceu
 scua|scaura
 scug|scourge
-scuo|sicuro
+scui|scauoit
+scuo|scauoit|1icuro
 scur|obscurcir|0scaura|2ourge|1ecourrons|6s|1icuro
 scus|discusses|0escus
 scut|escouter
 scux|sceaux
+scvi|scavoit
+scvo|scavoit
 sd  |sede|2nd|1yd
 sdat|soldats
 sde |sede
@@ -11636,7 +11818,7 @@ sdie|soldier
 sdig|lesdiguieres|8ères
 sdin|sending
 sdit|lesdit
-se  |aise|0cose|0ose|0rise|0same|1e|2de|2nd|3s|3t|2pt|2ra|3t|2s|2ul|2xe|1he|1ite|1çeu|0use
+se  |aise|0cose|0ose|0rise|0same|1ceu|1e|2de|2nd|3s|3t|2pt|2ra|3t|2s|2ul|2xe|1he|1ite|1çeu|0use
 sea |seals|3ux|2ra|4y
 seae|separeroit
 seal|seals
@@ -11661,7 +11843,7 @@ sed |posed|0sede|2nd
 sede|sede
 sedi|sending
 sedn|sending
-see |sede|2ige|2rve|2ste|2tte|2ule|2ven|2xe|1iege
+see |sede|2ige|2rre|3ve|2ste|2tte|2ule|2ven|2xe|1iege
 seea|several
 seed|served
 seem|september|2ulement
@@ -11670,7 +11852,10 @@ seer|several
 seet|secretary|2ureté
 seg |seige|1iege
 sege|seige|4neur|2rgens|1iege
+segi|seguire
 segn|seigneur|2rgens
+segr|seguire
+segu|seguire
 sei |seige|2rui|3vi
 seib|sensiblement
 seic|seruice|7s|3vice|7s
@@ -11678,9 +11863,9 @@ seie|seige|4neur|2roient
 seif|specifies
 seig|beseiged|0seige|4neur
 seim|sentimens
-sein|esteinte|0seigneur|2nding|2rions|3ving
+sein|esteindre|6te|0seigneur|2nding|2rions|3ving
 seio|serions
-seir|seruir|6ons|3vir|6ont
+seir|seguire|2ruir|6ons|3vir|6ont
 seis|serois
 seit|seroit|3uiteur|6ori|3viteur|6ori
 sel |seals|2lon|2ul|4e
@@ -11694,7 +11879,7 @@ seme|semble|6nt|6roit
 seml|semble|6nt|6roit
 sen |selon|2nd|3s|3t|2ven
 senb|sensiblement
-send|ascended|0second|2nd|4ing
+send|ascended|0estendue|0second|2nd|4ing
 sene|seigneur
 seng|strengthening
 seni|sending|3siblement|3timens
@@ -11719,16 +11904,16 @@ sepm|september
 sepn|septante
 sepr|separeroit
 sept|sept|4ante|4ember
-ser |oster|0sera|4y|3t|3ui|3ve|4i|1ieur
+ser |oster|0sera|4y|3re|3t|3ui|3ve|4i|1ieur
 sera|esperance|0sera|4y|2veral|1olera|1peranze
 serc|seruice|7s|3vice|7s
 serd|served
-sere|espere|6r|0secretary|2pareroit|2rgens|3oient|3ve|5d|2ureté
+sere|espere|6r|0secretary|2pareroit|2rgens|3oient|3re|3ve|5d|2ureté
 serg|sergens
 seri|serions|3oient|5s|5t|3ui|5ce|7s|5r|6ons|5teur|6ori|3vi|5ce|7s|5ng|5r|6ont|5teur|6ori|1uperintendant|;ent
 sern|sergens|3ions|3ont|3ving|1peranze
 sero|serions|3oient|5s|5t|4nt
-serr|seruir|6ons|3vir|6ont
+serr|serre|3uir|6ons|3vir|6ont
 sers|serois
 sert|secretary|2roit|4nt|3t|3uiteur|6ori|3viteur|6ori|2ureté
 seru|serui|5ce|7s|5r|6ons|5teur|6ori
@@ -11748,13 +11933,13 @@ setm|sentimens|2ptember
 setn|septante
 sets|sujets
 sett|sette
-seu |seaux|2rui|2ul|4e|1ieur|1çeu
+seu |sceu|1eaux|2rui|2ul|4e|1ieur|1çeu
 seuc|seruice|7s
 seue|enseuelies|1sleues|0seule|5ment|3reté
-seui|serui|5ce|7s|5r|6ons|5teur|6ori
+seui|seguire|2rui|5ce|7s|5r|6ons|5teur|6ori
 seul|seul|4e|5ment
 seum|museum|0seulement
-seur|asseurances|8t|6e|7r|6é|0secourrons|6s|2ruir|6ons|2ureté|1ieur
+seur|asseurances|8t|6e|7r|6é|0secourrons|6s|2guire|2ruir|6ons|2ureté|1ieur
 seut|seruiteur|6ori|2ureté
 seux|sceaux|1eaux
 sev |serve|4i|2ven
@@ -11788,6 +11973,7 @@ sggs|suggests
 sgi |sçait
 sgif|signifie
 sgin|signing
+sgir|seguire
 sgit|sçait
 sgne|seigneur
 sgnf|signifie
@@ -11801,9 +11987,9 @@ sgor|signor
 sgro|sçauroient|7t
 sgt |sçait
 sgu |sçeu
-sgui|sçauoir
+sgui|seguire|1çauoir
 sguo|sçauoir|4roient|7t
-sgur|sçauroient|7t
+sgur|seguire|1çauroient|7t
 sgvi|sçavoir
 sgvo|sçavoir
 sgy |sçay
@@ -11853,7 +12039,7 @@ siif|signifie
 siin|signing
 sile|simple
 sima|estima
-sime|estimez|0simple
+sime|estime|6z|0simple
 siml|simple
 simo|estimoit
 simp|simple
@@ -11981,7 +12167,7 @@ snor|signor
 sns |sans|1ens|1oins
 snsb|sensiblement
 snsi|sensiblement
-snt |saint|2nté|1ent|1ont
+snt |bisnt|0saint|2nté|1ent|1ont
 snti|santé|1entimens
 sntm|sentimens
 so  |also|0caso|0so|2in|3s|3t|2lo|2n|3t|1uo
@@ -12149,7 +12335,7 @@ srae|strategic
 sran|speranze
 srat|strategic
 sray|seray
-sre |estre|0serve|1hare|1orte
+sre |estre|0serre|3ve|1hare|1orte
 srea|sharealike
 sred|served
 sreg|strengthening
@@ -12176,7 +12362,8 @@ sroi|seroient|5s|5t
 sron|serions|3ont|1tronghold
 sros|serois
 srot|seroit|4nt
-srre|surrendured
+srr |serre
+srre|serre|1urrendured
 srrn|surrendured
 srt |sert|1orte
 srte|sorte|1trategic
@@ -12203,6 +12390,7 @@ ssas|assassinate|;d|:ion|0essays
 ssay|essayer|7ons|5s
 sse |assez|0eusse|0fasse|0passe|0seste
 sseb|assemblez|8é
+ssed|possedent
 ssee|passee
 sseg|sostegno
 ssei|dessein|7gs
@@ -12214,7 +12402,7 @@ sses|possession
 sseu|asseurances|8t|6e|7r|6é
 ssez|assez
 ssi |aussi|0passé
-ssib|possible|0sensiblement
+ssib|possible|7y|0sensiblement
 ssic|suspicious
 ssie|fassiez|0messieurs|0passée
 ssio|mission|7s|0passion|7e
@@ -12257,31 +12445,32 @@ stat|estant|4t|5e|5s|0situation|1tate|5s|2rategic
 stbi|estabilshing|0stability
 stbl|establir|0stability
 ste |ceste|0estes|3re|0juste|0oster|0reste|0seste|2tte|1ite|1orte|1tate
-sted|hosted
+sted|estendue|0hosted
 steg|sostegno|1trengthening
-stei|esteinte
+stei|esteindre|6te
 stel|castelan
 stem|september
-sten|esteinte|0restent|0strengthening
+sten|esteindre|6te|4ndue|0restent|0strengthening
 ster|eastern|0haster|0oster|0posterité|0sister|0western
 stes|estes|0states
 sth |south
 sthe|southeast|6rn
 sti |asti|0costé|0esti|3é|0santé|2tis
 stia|estima
-stie|estimez|3rées
+stie|estime|6z|3rées
 stif|satisfaits
 stil|stability
-stim|estima|5ez|5oit|0sentimens
-stin|esteinte
+stim|estima|5e|6z|5oit|0sentimens
+stin|esteindre|6te
 stio|estimoit
 stir|sortira
 stis|satis|5faits
 stit|estoit|0restitution
 stle|castle
 stma|estima
-stme|estimez
+stme|estime|6z
 stmo|estimoit
+stnd|estendue
 stng|strengthening|3onghold
 stns|estans
 stnt|estant
@@ -12311,7 +12500,7 @@ stua|situation
 stue|esture
 stur|esture
 stut|situation
-su  |cœur|0seul|1ua|2is|2o|2r|1çeu|1œur
+su  |cœur|0sceu|1eul|1ua|2is|2o|2r|1çeu|1œur
 sua |sua
 suai|souhaiter|7s|7te|9r
 suan|suivant
@@ -12348,7 +12537,7 @@ suia|suiuray|3vant|4ray
 suic|seruice|7s|1uspicious
 suie|souviendront|1uiet|2plie
 suin|suivant
-suir|seruir|6ons|1uiuray|3vray
+suir|seguire|2ruir|6ons|1uiuray|3vray
 suis|subsistance|;s|7er|2is
 suit|jesuit|0seruiteur|6ori|1uiet
 suiu|suiuray
@@ -12369,7 +12558,7 @@ sumr|saumur
 sumu|saumur
 suo |suo
 suoe|sauoye
-suoi|sçauoir
+suoi|scauoit|1çauoir
 suor|support|7er
 suoy|sauoye
 supc|suspicious
@@ -12438,7 +12627,7 @@ svn |seven
 svo |savoy
 svoa|savoyard
 svoe|savoye
-svoi|sçavoir
+svoi|scavoit|1çavoir
 svoy|savoy|5ard|5e
 svra|several|1uivray
 svre|suyvre
@@ -12470,8 +12659,9 @@ taai|trauaille|9r|:a|3vaille|9r|:ay
 taau|trauaux|3vaux
 tabi|estabilshing|0stability
 tabl|establir|0notably|0stability
+taca|taschaient
 tace|taschera
-tach|attachez|0taschera
+tach|attachez|0taschaient|5era
 tade|citadelle
 tadi|traditional
 tadr|atandre
@@ -12481,6 +12671,7 @@ taer|tanner
 taes|states
 tag |tage
 tage|tage
+taha|taschaient
 tahe|taschera
 tahi|traihison
 tai |tapié
@@ -12511,9 +12702,10 @@ tap |tapié
 tape|tramper
 tapi|tapié
 taqu|attaquer
-tasc|taschera|1ranscribed|8ption
+tasa|taschaient
+tasc|taschaient|5era|1ranscribed|8ption
 tase|taschera
-tash|taschera
+tash|taschaient|5era
 taso|treasonous
 tat |estat|0state|0tant
 tate|estate|0state|5s|2rategic|0traiter
@@ -12529,6 +12721,7 @@ tay |italy
 tbil|stability
 tc  |turc
 tcan|toscana|1uscany
+tcha|taschaient
 tche|taschera|1ouche|6r
 tdit|traditional
 te  |site|0tage|2ke|1el|3z|1ime|1res
@@ -12540,7 +12733,7 @@ tee |telle|2rre
 teer|tenter
 tees|termes
 tei |tenoi
-tein|esteinte
+tein|esteindre|6te
 tel |tel|3le|3z
 tele|telle|2mple
 tell|intelligences|0telle
@@ -12554,7 +12747,7 @@ temo|tempo|2smoignage|8e|9r
 temp|attempt|7ed|0temple|4o|4s
 tems|temps|2rmes
 ten |tenoi
-tend|attendant|6ray|6s|0entendra|7e|0tiendrez
+tend|attendant|6ray|6s|0entendra|7e|1stendue|0tiendrez
 tene|tenter
 teng|strengthening
 teni|obtenir|0retenir|0tenoi
@@ -12653,7 +12846,7 @@ tilm|vtilement
 tils|utiles
 tim |time
 tima|estima
-time|estimez|0time
+time|estime|6z|0time
 timg|témoignassiez|7er|7é
 timi|thémines|1imoléon|1émoignassiez|7er|7é
 timl|timoléon
@@ -12741,6 +12934,7 @@ toce|touche|6r
 toch|touche|6r
 tocn|toscana
 toe |toute
+toef|touteffois
 toes|toutes
 togh|though
 tohe|touche|6r
@@ -12784,12 +12978,14 @@ tosn|toscana
 toso|tousiours|4jours
 tost|tost
 tot |tort|2st|2ut|4e
-tote|toute|5s|4tes
+tote|toute|5ffois|5s|4tes
+totf|touteffois
 tots|toutes
 tott|touttes
 tou |tour|3s|3t|4e
 touc|touche|6r
-toue|touche|6r|3rner|3te|5s|4tes|1roupes|4ue|6r|7a|4ve|6r|7ons
+toue|touche|6r|3rner|3te|5ffois|5s|4tes|1roupes|4ue|6r|7a|4ve|6r|7ons
+touf|touteffois
 toug|though|2rough|7out
 touh|though|1ouche|6r
 toui|tousiours|1rouué|4vé
@@ -12800,7 +12996,7 @@ touo|toujours|3louse|3siours|4jours
 toup|troupes
 tour|tour|4ner
 tous|tous|4iours|4jours|3tes
-tout|tout|4e|5s|4tes
+tout|tout|4e|5ffois|5s|4tes
 touu|toujours|3louse|1rouue|6r|7a|5é
 touv|trouve|6r|7ons|5é
 tove|trouve|6r|7ons
@@ -12906,10 +13102,11 @@ trvi|travaille|9r|:ay|2ouvé
 trvu|travaux
 ts  |tost|2us|1res
 tsan|toscana|1uscany
-tsca|toscana|1uscany
+tsca|taschaient|1oscana|1uscany
 tsce|taschera
-tsch|taschera
+tsch|taschaient|5era
 tscn|toscana|1uscany
+tsha|taschaient
 tshe|taschera
 tsid|outside
 tsio|tousiours
@@ -12927,6 +13124,7 @@ ttau|attaquer
 ttch|attachez
 tte |cette|0sette|1tate|0title|3re|1oute
 tted|attendant|6ray|6s
+ttef|touteffois
 ttem|attempt|7ed
 tten|attendant|6ray|6s|5s
 ttep|attempt|7ed
@@ -12960,6 +13158,7 @@ tuce|touche|6r
 tuch|touche|6r
 tucn|tuscany
 tue |toute
+tuef|touteffois
 tuen|turenne
 tues|toutes
 tugh|though
@@ -12991,7 +13190,8 @@ tusn|tuscany
 tuso|tousiours|4jours
 tust|trusted
 tut |tout|4e
-tute|toute|5s|4tes|1rusted
+tute|toute|5ffois|5s|4tes|1rusted
+tutf|touteffois
 tuts|toutes
 tutt|touttes
 tuue|trouue|6r|7a
@@ -13005,7 +13205,7 @@ twee|between
 twn |town
 ty  |city
 tz  |metz|0telz
-u   |au|2x|0deu|1u|2c|0eu|2e|2t|2x|0feu|0huy|0luc|2y|0ou|0peu|1iu|1ut|0qu|2e|2i|0sua|2o|2r|0un|2e|2s|1p|1se|0veu
+u   |au|2x|0deu|1u|2c|0eu|2e|2t|2x|0feu|0huy|0luc|2i|2y|0ou|0peu|1iu|1ut|0qu|2e|2i|0sua|2o|2r|0un|2e|2s|1p|1se|0veu
 ua  |aura|0qual|3n|0sua
 uach|qualche
 uad |quand
@@ -13044,8 +13244,10 @@ uban|husband|0urban
 ubeq|subsequently
 uber|numbers
 ubet|sublet
+ubie|oubliey
 ubis|subsistance|;s|7er
-uble|humble|6ment|0sublet
+uble|humble|6ment|0oubliey|0sublet
+ubli|oubliey
 ublt|sublet
 ubmi|soubmision
 ubn |urban
@@ -13160,7 +13362,7 @@ uhai|souhaiter|7s|7te|9r
 uhes|duchess
 uhor|authorite
 uhy |duchy
-ui  |iuré|0puis|0qui|0suis
+ui  |iuré|0lui|0puis|0qui|0suis
 uian|suivant
 uic |huict
 uict|fruict|0huict
@@ -13181,13 +13383,14 @@ uils|umilissimo|1tiles
 uime|quimperlé
 uimp|quimperlé
 uin |ruiné|0turin
-uine|luines|0quinze
+uine|luines|0quinperlay|4ze
 uing|during
 uini|quinziéme|0ruiné
+uinp|quinperlay
 uins|luines
 uinz|quinze|5iéme
 uio |guido
-uipe|quimperlé
+uipe|quimperlé|3nperlay
 uiqu|puisque
 uir |auoir
 uira|suiuray|3vray
@@ -13198,7 +13401,7 @@ uiso|puissons
 uisq|puisque
 uiss|puissance|7t|8s|5e|5ons
 uisu|puisque
-uit |auoit|0huict|0suiet
+uit |auoit|0bruit|0huict|0suiet
 uiti|munitions
 uiua|suiuray
 uiur|suiuray
@@ -13234,7 +13437,7 @@ ulem|seulement
 uler|ruler
 ules|uncles|1tiles
 ulet|sublet
-ulie|suplie
+ulie|oubliey|0suplie
 ulis|umilissimo
 ulit|qualite
 ull |nulle|0sully
@@ -13317,6 +13520,7 @@ unoi|unofficial
 unos|cuneosa
 unou|éuanouyes
 unow|unknown
+unpe|quinperlay
 unr |under
 uns |auons|0funds|0uns
 unsi|unassigned
@@ -13363,6 +13567,7 @@ uper|superintendant|;ent
 upes|aupres|0dupes
 upgo|soupçons
 uphi|dauphiné
+upia|nuptials
 upic|auspicii|0suspicious
 upie|suplie
 uple|suplie
@@ -13376,6 +13581,8 @@ upre|aupres|0poupre
 upri|superintendant|;ent
 uprs|aupres
 ups |dupes
+upta|nuptials
+upti|nuptials
 uqel|auquel
 uque|auquel|0iusques|0jusques
 uqul|auquel
@@ -13472,7 +13679,7 @@ usre|lustre
 usri|austrian
 uss |aussi|4y|0eusse
 ussa|puissance|7t|8s
-usse|eusse|0puisse
+usse|eusse|0puisse|0rousselay
 ussi|aussi|0roussillon|0unassigned
 usso|puissons
 ussy|aussy
@@ -13489,6 +13696,7 @@ ut  |eut|0faut|1ust|0peut|1ut|0tout|0veut
 utan|autant
 utat|autant
 ute |autre|0doute|0juste|0outre|0toute
+utef|touteffois
 utem|autrement
 utes|autres|0toutes|0utiles
 uth |south
@@ -13497,6 +13705,7 @@ uthi|bouthillier
 utho|authorite
 uthr|authorite
 uti |until
+utia|nuptials
 utid|outside
 utie|utiles
 util|inutile|0until|1tiles
@@ -13582,7 +13791,7 @@ uzih|lauzières
 uzm`|guzmàn
 uzmn|guzmàn
 uzy |buzay
-v   |iv|0ove|0v|1a|2y|1eu|1ie|1n|2e|1ol|2s|2z|0xiv|1v
+v   |iv|0ove|0v|1a|2y|1eu|1ie|1n|2e|2s|1ol|2s|2z|0xiv|1v
 va  |va|2y|1raÿ
 va.o|viaf.org
 vaan|valans
@@ -13763,7 +13972,7 @@ viot|vicomte
 vir |avoir|0venir|1oir
 vire|viures|2vres
 virs|viures|2vres
-vis |advis|1vis|0vois
+vis |advis|1vis|2ois|0vois
 vise|adviser
 viso|advisor|7s
 vit |avoit
@@ -13805,17 +14014,17 @@ vlle|valley|1eille|1ille
 vllg|village
 vlly|valley
 vlns|valans
-vlnt|volontez|6é|7s
+vlnt|volontes|7z|6iers|6é|7s
 vloi|valoir|1ouloir
-vlon|volontez|6é|7s
+vlon|volontes|7z|6iers|6é|7s
 vlor|valoir
-vlot|volontez|6é|7s
+vlot|volontes|7z|6iers|6é|7s
 vlse|valsery
 vlsr|valsery
 vlts|valets
 vltt|valette
 vlu |voulu
-vn  |vn|2e
+vn  |vn|2e|2s
 vnce|vincennes
 vncn|vincennes
 vne |vne
@@ -13832,7 +14041,7 @@ vnir|venir
 vnk |venuë
 vnne|vienne
 vnr |venir
-vns |avons
+vns |avons|0vns
 vnt |avant
 vnta|avantage
 vnti|vingtiéme
@@ -13851,34 +14060,34 @@ voe |voie|2yer
 voen|avoient
 voer|voyer
 voge|voyage
-voi |avoir|4t|0voie|3r|3s
+voi |avoir|4s|4t|0voie|3r|3s
 voie|avoient|0devoient|0envoie|0voie
 voin|avoient
 voir|avoir|0devoir|0valoir|1oir
-vois|vois
+vois|avois|0vois
 voit|avoit|0devoit|0voyoit
 vol |vol|2ulu
 vola|violable
 volb|violable
 voli|vouloir
-voln|volontez|6é|7s
-volo|volontez|6é|7s|2uloir
-volt|revolte|0volontez|6é|7s
+voln|volontes|7z|6iers|6é|7s
+volo|volontes|7z|6iers|6é|7s|2uloir
+volt|revolte|0volontes|7z|6iers|6é|7s
 volu|voulu
 volv|involved
 vomt|vicomte
 von |avons
 vons|avons|0devons
-vont|volontez|6é|7s
+vont|volontes|7z|6iers|6é|7s
 vooi|vouloir|2yoit
-voon|volontez|6é|7s
-voot|volontez|6é|7s|2yoit
+voon|volontes|7z|6iers|6é|7s
+voot|volontes|7z|6iers|6é|7s|2yoit
 vor |avoir|0voir|2yer
 vora|vostra
 vore|vostre
 vori|favorite|8s
 voro|voudrois
-vos |avons|0vois|2s|2us
+vos |avois|3ns|0vois|2s|2us
 vosa|vostra
 vose|vostre
 vosr|vostra|5e
@@ -13932,7 +14141,7 @@ vrti|verité
 vrtu|vertu
 vru |vertu
 vr |vraÿ
-vs  |avis|0vers|1ois|2s|2us
+vs  |avis|0vers|1ns|1ois|2s|2us
 vser|valsery
 vsin|covsin
 vsra|vostra
@@ -13994,7 +14203,7 @@ vzem|vnzieme
 vzie|vnzieme
 vzim|vnzieme
 v  |vraÿ
-w   |law|0war|2y|1ho|1on
+w   |law|0now|0war|2y|1ho|1on
 wa  |war|3s|2y
 wahi|washington
 wahn|washington
@@ -14276,7 +14485,7 @@ zm`n|guzmàn
 zo  |zelo
 {   |plû
 edMap index
-14277
+14486
 &   |7
 'ali|13
 'alv|13
@@ -14286,6 +14495,7 @@ edMap index
 'hem|14
 'hme|14
 'lvi|13
+'med|15
 .wik|23
 `   |13
 a   |137
@@ -14335,11 +14545,14 @@ abas|21
 abay|12
 abb |11
 abba|17
-abbe|12
+abbe|18
+abbg|13
 abbi|17
+abbr|13
 abby|12
 abdo|18
 abec|13
+abeg|13
 aber|23
 abet|21
 abi |11
@@ -14358,6 +14571,8 @@ abol|16
 abon|14
 abot|11
 abou|21
+abre|13
+abrg|13
 abrt|12
 absl|16
 abso|16
@@ -14395,6 +14610,7 @@ acet|14
 aceu|15
 acev|15
 ach |11
+acha|16
 ache|39
 achi|29
 achm|15
@@ -14524,7 +14740,7 @@ advo|16
 advs|22
 advt|15
 ae  |115
-aeab|14
+aeab|17
 aec |15
 aect|27
 aed |11
@@ -14591,15 +14807,15 @@ aft |11
 afte|17
 aftm|15
 aftr|17
-ag  |31
-agab|14
+ag  |37
+agab|17
 agai|13
 agan|13
 agas|13
 agcu|17
 age |33
-agea|14
-ageb|25
+agea|17
+ageb|28
 ageg|15
 agel|16
 agen|33
@@ -14632,10 +14848,10 @@ agnt|12
 ago |12
 agon|12
 agr |16
-agra|14
-agrb|14
+agra|17
+agrb|17
 agrc|17
-agre|21
+agre|24
 agri|17
 agru|17
 ags |11
@@ -14658,9 +14874,10 @@ ahon|12
 ahor|15
 ahui|15
 ahvi|15
-ai  |71
+ai  |74
 aia |11
-aian|14
+aiag|13
+aian|23
 aiba|13
 aich|15
 aicl|14
@@ -14699,7 +14916,7 @@ aili|18
 aill|30
 aily|12
 aimi|16
-ain |50
+ain |55
 aina|16
 ainc|23
 aind|22
@@ -14708,18 +14925,19 @@ aing|28
 aini|11
 aino|15
 ains|42
-aint|36
+aint|39
 aion|40
 aios|15
 aiou|15
 air |29
 aira|21
 aire|39
-ais |76
+ais |81
+aisa|13
 aise|43
 aisf|16
-aisi|11
-aisn|32
+aisi|19
+aisn|37
 aiso|57
 aisr|21
 aiss|21
@@ -14790,10 +15008,12 @@ alid|12
 alie|47
 alig|12
 alih|12
+alii|12
 alil|16
 alin|23
 alio|15
 alir|20
+alis|12
 alit|13
 all |36
 alla|40
@@ -14828,6 +15048,7 @@ alrt|12
 als |17
 alsa|16
 alse|13
+alsi|12
 also|10
 alsr|13
 alss|23
@@ -14892,7 +15113,7 @@ amti|13
 amur|12
 amy |21
 amz |11
-an  |57
+an  |69
 ana |10
 anal|19
 anan|12
@@ -14921,9 +15142,9 @@ anel|12
 anen|24
 aner|31
 anes|29
-ang |24
+ang |30
 anga|16
-ange|30
+ange|39
 ango|15
 angr|11
 angu|22
@@ -14937,18 +15158,21 @@ anis|33
 anki|13
 ankn|13
 anks|12
-ann |22
+anm |11
+ann |26
 anna|16
 annb|13
 anne|23
 anni|21
+annm|11
 annr|12
 anns|27
+annu|11
 ano |11
 anoi|13
 anon|23
 anos|12
-anou|16
+anou|26
 anqe|20
 anqu|20
 anr |11
@@ -14961,13 +15185,14 @@ ante|46
 anti|21
 antm|16
 antn|29
-anto|21
+anto|31
 ants|20
-antu|13
-anu |11
+antu|19
+anu |18
 anua|22
 anue|49
 anui|22
+anum|11
 anur|13
 anve|13
 anvi|13
@@ -14976,13 +15201,14 @@ ao  |22
 aodi|17
 aoen|21
 aog |11
-aoi |23
+aoi |26
 aoie|21
 aoin|39
 aoir|25
-aois|12
+aois|18
 aoit|23
 aole|15
+aoll|13
 aolu|16
 aomm|16
 aomp|17
@@ -14993,7 +15219,7 @@ aons|37
 aor |17
 aord|28
 aori|40
-aos |23
+aos |27
 aose|13
 aot |23
 aou |11
@@ -15081,8 +15307,9 @@ aqus|15
 aqut|15
 ar  |71
 ara |20
-arab|14
+arab|17
 arad|12
+arag|13
 arai|18
 araj|13
 aran|31
@@ -15106,10 +15333,10 @@ ardi|30
 ardn|30
 ardo|17
 are |71
-area|26
-areb|14
+area|29
+areb|17
 aree|12
-areg|15
+areg|23
 areh|17
 arei|13
 arem|26
@@ -15129,12 +15356,12 @@ argu|16
 arh |11
 arha|16
 ari |47
-aria|40
+aria|44
 arib|17
 aric|70
 arie|50
 arif|14
-arig|15
+arig|24
 arih|15
 arii|13
 aril|40
@@ -15150,7 +15377,7 @@ arl |23
 arla|16
 arle|33
 arli|16
-arll|16
+arll|25
 arlr|16
 arm |29
 arma|12
@@ -15173,7 +15400,7 @@ aroa|17
 aroc|17
 aroe|24
 aroi|24
-arol|15
+arol|19
 aron|46
 aros|24
 arot|12
@@ -15221,13 +15448,14 @@ arz |17
 as  |98
 asae|12
 asal|12
+asan|13
 asar|13
 asas|25
 asbu|17
-asca|15
+asca|27
 ascd|14
 asce|24
-asch|14
+asch|21
 asci|15
 ascn|14
 ase |44
@@ -15241,7 +15469,7 @@ aser|81
 ases|12
 aseu|30
 asez|11
-asha|16
+asha|28
 ashe|14
 ashi|16
 ashn|16
@@ -15347,6 +15575,7 @@ atoi|22
 atol|19
 aton|28
 ator|32
+atou|14
 atqu|14
 atr |24
 atrb|17
@@ -15439,6 +15668,7 @@ aujr|13
 auju|13
 aul |17
 aule|15
+aum |11
 auma|12
 aume|15
 aumn|23
@@ -15452,7 +15682,7 @@ auns|17
 aunt|43
 auo |18
 auoe|21
-auoi|46
+auoi|54
 auon|23
 auor|34
 auos|21
@@ -15545,14 +15775,14 @@ aven|27
 aver|33
 aveu|15
 avez|22
-avi |33
+avi |36
 avie|35
 avig|22
 avil|11
 avin|21
 avio|16
 avir|11
-avis|27
+avis|32
 avit|11
 aviz|11
 avl |11
@@ -15566,13 +15796,13 @@ avni|13
 avnl|12
 avns|11
 avnt|37
-avo |25
+avo |28
 avoa|14
 avoe|21
-avoi|42
+avoi|53
 avon|17
 avor|24
-avos|11
+avos|15
 avot|11
 avoy|19
 avr |16
@@ -15581,7 +15811,7 @@ avre|13
 avrg|14
 avri|24
 avrl|11
-avs |21
+avs |25
 avse|13
 avso|16
 avt |16
@@ -15703,9 +15933,12 @@ bb  |11
 bbae|12
 bbai|13
 bbay|12
+bbeg|13
 bber|15
 bbi |11
 bbii|13
+bbre|13
+bbrg|13
 bbye|12
 bcae|12
 bcam|12
@@ -15759,7 +15992,7 @@ beom|12
 beon|12
 beor|12
 ber |16
-bera|23
+bera|28
 bere|19
 beri|13
 bern|18
@@ -15810,18 +16043,21 @@ bigi|16
 bih |11
 bihn|14
 bihu|14
-bin |16
+bin |21
 bine|19
 bing|11
+bint|11
 binu|19
 bir |11
 birh|11
 birt|11
-bis |16
+bis |22
 bise|12
+bisn|11
 bisr|12
 biss|19
-bit |11
+bist|11
+bit |22
 bita|14
 bith|20
 bitn|14
@@ -15845,7 +16081,7 @@ blge|20
 blgi|16
 bli |11
 blia|22
-blie|20
+blie|28
 blig|40
 blii|16
 blis|11
@@ -15877,7 +16113,7 @@ bnn |11
 bnne|14
 bnns|12
 bns |10
-bnt |12
+bnt |18
 bnti|12
 bnue|19
 bo  |16
@@ -15944,6 +16180,7 @@ brch|14
 brde|15
 brdr|15
 bree|19
+breg|13
 brel|16
 brer|25
 bret|19
@@ -15957,13 +16194,13 @@ brgl|16
 brgo|15
 brh |11
 brhe|16
-bri |11
+bri |16
 bria|20
 brid|13
 brie|13
 brig|17
 brin|11
-brit|14
+brit|19
 brn |23
 brna|13
 brnc|14
@@ -15977,15 +16214,17 @@ broh|16
 broi|13
 bron|15
 brot|16
-brt |11
+brt |17
 brta|14
 brte|24
 brth|22
 brti|13
 brtt|14
+bru |11
 brua|14
 brue|13
-brut|13
+brui|11
+brut|18
 brve|13
 brvt|13
 bs  |14
@@ -16000,10 +16239,13 @@ bsig|14
 bsin|12
 bsis|24
 bslu|16
+bsn |11
+bsnt|11
 bsoi|12
 bsol|16
 bson|12
 bsou|16
+bst |11
 bsta|14
 bstc|14
 bsur|15
@@ -16041,14 +16283,16 @@ buet|13
 bugo|15
 buhe|12
 buhi|17
+bui |11
 buil|13
+buit|11
 buma|12
 bumn|12
 bur |10
 burb|13
 burg|15
 buro|20
-but |11
+but |18
 buth|17
 buti|17
 bux |11
@@ -16092,7 +16336,7 @@ caee|12
 cael|14
 caer|12
 caes|12
-cage|18
+cage|24
 cagn|25
 cahl|19
 caho|19
@@ -16124,8 +16368,8 @@ can |11
 cana|19
 canc|16
 cand|28
-cane|25
-cang|14
+cane|30
+cang|23
 canl|19
 cann|14
 cano|14
@@ -16133,6 +16377,7 @@ cans|19
 cant|17
 cao |15
 caod|12
+caoi|19
 caol|19
 caon|14
 caos|12
@@ -16180,9 +16425,9 @@ caud|12
 caue|29
 caug|14
 cauh|14
-caui|22
+caui|31
 caul|15
-cauo|13
+cauo|22
 caur|12
 caus|14
 caut|13
@@ -16190,8 +16435,9 @@ caux|12
 cava|15
 cave|15
 cavg|14
-cavi|14
+cavi|23
 cavl|15
+cavo|13
 caz |11
 caza|11
 cazl|11
@@ -16227,15 +16473,17 @@ ccrd|15
 ccsi|17
 ccta|14
 ccut|16
+cd  |11
 cdal|19
 cde |11
 cder|11
+cdi |11
 cdim|15
 cdin|17
 cdit|15
 cdot|14
 cdr |11
-ce  |72
+ce  |83
 cea |10
 ceae|14
 ceai|22
@@ -16243,8 +16491,9 @@ ceat|24
 ceau|36
 ceax|12
 cech|13
-ced |11
+ced |15
 cede|11
+cedi|11
 cedr|11
 cee |36
 ceed|15
@@ -16253,7 +16502,7 @@ ceen|15
 ceer|23
 cees|12
 cef |15
-cei |12
+cei |18
 ceiv|14
 cel |23
 cela|10
@@ -16297,7 +16546,7 @@ ceti|22
 cetr|23
 cett|11
 cetu|27
-ceu |31
+ceu |37
 ceua|13
 ceue|19
 ceui|15
@@ -16328,12 +16577,12 @@ cha |9
 chab|19
 chac|16
 chad|12
-chae|68
-chag|42
+chae|73
+chag|48
 chai|29
 chal|37
 cham|14
-chan|35
+chan|40
 chao|12
 chap|17
 char|32
@@ -16364,7 +16613,7 @@ chet|16
 cheu|30
 chev|31
 chf |15
-chge|18
+chge|24
 chi |24
 chie|11
 chif|11
@@ -16380,8 +16629,8 @@ chmb|25
 chmi|15
 chml|14
 chnc|16
-chne|25
-chng|14
+chne|30
+chng|23
 chnt|17
 cho |11
 chob|15
@@ -16425,7 +16674,7 @@ chvi|25
 chvr|15
 chvu|13
 chy |11
-ci  |25
+ci  |31
 ciad|15
 ciae|15
 cide|25
@@ -16557,7 +16806,7 @@ cnfe|12
 cnfi|32
 cnfo|18
 cnfr|27
-cnge|12
+cnge|20
 cngz|12
 cnia|15
 cnid|36
@@ -16575,6 +16824,7 @@ cnno|28
 cnns|19
 cno |17
 cnoi|28
+cnom|17
 cnon|21
 cnoq|23
 cnor|24
@@ -16690,8 +16940,9 @@ conf|42
 cong|12
 coni|178
 conj|18
+conm|17
 conn|102
-cono|79
+cono|92
 conp|17
 conq|23
 conr|139
@@ -16702,6 +16953,7 @@ conv|36
 cony|21
 conz|12
 cooi|28
+coom|17
 coon|19
 cooq|23
 coor|24
@@ -16886,7 +17138,7 @@ csal|12
 cse |28
 csei|20
 csel|14
-cser|61
+cser|69
 cses|19
 csi |12
 csid|28
@@ -16922,7 +17174,7 @@ cti |12
 ctie|12
 ctil|15
 ctin|43
-ctio|21
+ctio|35
 ctiv|12
 ctle|12
 ctob|13
@@ -16942,7 +17194,7 @@ ctti|14
 ctur|18
 ctve|12
 cty |10
-cu  |29
+cu  |35
 cuae|15
 cual|15
 cuau|13
@@ -16970,6 +17222,7 @@ cuns|13
 cunt|14
 cuny|12
 cuo |11
+cuoi|13
 cuoq|15
 cuos|13
 cup |10
@@ -17010,6 +17263,7 @@ cvil|11
 cvin|21
 cvl |11
 cvle|15
+cvoi|13
 cvoq|15
 cvre|15
 cvsi|12
@@ -17025,13 +17279,15 @@ d   |58
 d'ai|13
 d'al|13
 d'av|13
+d'ed|15
 d'ee|14
 d'em|14
 d'he|14
 d'hm|14
 d'li|13
 d'lv|13
-d'me|14
+d'md|15
+d'me|24
 d'vi|13
 da  |24
 daa |11
@@ -17094,11 +17350,14 @@ dch |11
 dche|13
 dchs|13
 dchy|11
+dcio|18
 dcla|22
 dclr|22
 dcmb|14
 dcq |11
 dcri|15
+dcti|18
+dcto|18
 dcus|15
 dcy |11
 dd  |10
@@ -17113,6 +17372,9 @@ ddre|15
 ddrs|15
 ddti|16
 de  |68
+de'd|15
+de'e|15
+de'm|15
 dea |25
 dead|20
 deah|11
@@ -17139,7 +17401,7 @@ deds|12
 dee |10
 deea|15
 deeb|14
-deed|14
+deed|23
 deei|17
 deem|14
 deen|37
@@ -17149,7 +17411,8 @@ deeu|21
 defa|15
 defe|29
 deff|21
-defn|21
+defi|16
+defn|30
 defr|14
 deft|15
 deg |17
@@ -17160,7 +17423,8 @@ deh |11
 dei |31
 deia|17
 deie|33
-dein|12
+deii|16
+dein|22
 deir|36
 deis|17
 deit|25
@@ -17174,8 +17438,8 @@ dely|11
 dem |10
 dema|24
 demb|14
-demd|20
-deme|30
+demd|29
+deme|39
 demi|12
 demn|24
 demr|21
@@ -17184,7 +17448,7 @@ demy|10
 den |16
 dend|41
 dene|14
-deni|33
+deni|43
 dens|29
 dent|12
 deo |11
@@ -17245,6 +17509,7 @@ deus|24
 deut|17
 deux|10
 deuy|12
+deva|15
 deve|14
 devi|27
 devn|12
@@ -17263,6 +17528,9 @@ dffe|21
 dffi|28
 dffn|21
 dfic|28
+dfii|16
+dfin|16
+dfni|16
 dght|14
 dgi |11
 dgit|13
@@ -17276,13 +17544,15 @@ dhem|14
 dhes|13
 dhme|14
 dhy |11
-di  |41
+di  |48
 dia |19
 diai|16
 diay|11
-dica|15
-dici|12
+dica|28
+dici|26
+dico|18
 dics|15
+dict|18
 dicu|15
 did |10
 die |21
@@ -17306,6 +17576,7 @@ digt|13
 diic|28
 diie|22
 diig|22
+diio|18
 diip|13
 diit|13
 dij |11
@@ -17321,7 +17592,7 @@ din |11
 dind|18
 dine|12
 ding|36
-dini|13
+dini|24
 dinr|12
 dint|19
 dio |16
@@ -17363,9 +17634,9 @@ dist|17
 disu|15
 dit |27
 dite|19
-diti|29
+diti|41
 ditm|16
-dito|16
+dito|29
 ditr|28
 diu |10
 diua|15
@@ -17405,6 +17676,7 @@ dmad|20
 dmai|12
 dman|24
 dme |10
+dmed|15
 dmer|21
 dmeu|21
 dmi |12
@@ -17476,7 +17748,7 @@ donb|13
 donc|13
 done|28
 doni|20
-donn|59
+donn|65
 dono|13
 donq|11
 donr|15
@@ -17599,6 +17871,7 @@ dt  |18
 dte |11
 dth |11
 dti |12
+dtio|18
 dtom|16
 dtou|16
 dtri|17
@@ -17698,7 +17971,10 @@ dwn |10
 dx  |14
 dy  |14
 dze |11
-e   |197
+e   |200
+e'ed|15
+e'md|15
+e'me|15
 e.ik|23
 e.wi|23
 e.wk|23
@@ -17818,13 +18094,16 @@ ecme|17
 ecmm|20
 ecnc|16
 ecnd|12
+ecnm|17
 ecnn|25
+ecno|17
 ecoc|16
 ecod|12
 ecoe|20
 ecog|14
-ecom|28
-econ|55
+ecom|41
+econ|68
+ecoo|17
 ecor|35
 ecot|14
 ecou|40
@@ -17854,21 +18133,23 @@ ecut|31
 ecvo|14
 ecvr|13
 ecy |17
-ed  |49
+ed  |56
 edan|12
 edas|12
 edat|15
-edca|15
+edca|28
 edci|12
 edct|15
 ede |17
+edea|15
 eden|13
 eder|19
 edes|12
 edet|12
-edi |11
-edia|15
-edic|12
+edev|15
+edi |18
+edia|28
+edic|20
 edie|19
 edig|33
 edii|12
@@ -17889,6 +18170,7 @@ edua|26
 educ|15
 edui|22
 edut|24
+edva|15
 ee  |84
 eean|14
 eeat|30
@@ -17900,7 +18182,7 @@ eedi|14
 eeem|25
 eeer|12
 eeig|14
-eein|14
+eein|19
 eeiv|14
 eell|28
 eemb|14
@@ -17909,7 +18191,7 @@ eeml|13
 eemp|13
 een |24
 eenc|16
-eend|38
+eend|47
 eene|25
 eeni|13
 eenm|25
@@ -17944,7 +18226,7 @@ eeuo|14
 eeur|30
 eeus|12
 eeut|22
-eeva|19
+eeva|30
 eeve|13
 eevo|14
 eevr|13
@@ -17969,8 +18251,10 @@ effr|13
 effs|12
 efft|35
 efi |11
-efin|11
+efii|16
+efin|23
 efn |11
+efni|16
 efoe|12
 efor|21
 efot|13
@@ -17993,6 +18277,7 @@ egie|17
 egim|17
 egin|12
 egio|12
+egir|13
 egis|13
 egl |10
 egla|13
@@ -18014,10 +18299,13 @@ egot|28
 egrd|18
 egti|28
 egu |11
+egui|13
+egur|13
 eher|29
-ei  |38
+ei  |45
 eia |11
 eiay|12
+eica|17
 eici|12
 eide|15
 eie |46
@@ -18032,12 +18320,13 @@ eil |25
 eile|32
 eill|25
 eima|12
-eime|26
+eime|28
 eimo|14
 ein |29
 eina|20
 eine|48
 eing|12
+eini|16
 einn|26
 einy|12
 eion|21
@@ -18129,7 +18418,7 @@ embs|15
 emdi|14
 eme |18
 emec|28
-emed|14
+emed|25
 emee|14
 emei|14
 emen|18
@@ -18157,7 +18446,7 @@ emo |11
 emoa|13
 emoe|12
 emoi|23
-emor|25
+emor|28
 emot|13
 emou|15
 emov|27
@@ -18166,8 +18455,8 @@ emp |14
 empc|14
 empe|38
 empl|37
-empo|45
-empr|42
+empo|48
+empr|45
 emps|27
 empt|13
 empy|14
@@ -18188,7 +18477,7 @@ emuv|15
 emva|13
 emve|12
 emy |17
-en  |93
+en  |96
 en.i|23
 en.k|23
 en.w|23
@@ -18257,6 +18546,7 @@ enns|12
 eno |25
 enoe|47
 enoi|31
+enom|17
 enon|23
 enor|20
 enou|27
@@ -18276,7 +18566,7 @@ enrs|27
 enrt|16
 enru|15
 enry|11
-ens |57
+ens |62
 ensb|18
 ense|32
 ensi|44
@@ -18336,9 +18626,12 @@ eomm|20
 eon |11
 eonc|16
 eond|12
+eonm|17
 eonn|25
+eono|17
 eons|18
 eont|20
+eoom|17
 eore|20
 eort|21
 eose|12
@@ -18396,7 +18689,7 @@ epoc|15
 epod|16
 epoe|12
 epon|20
-epor|25
+epor|28
 epos|12
 epot|13
 epoy|14
@@ -18464,7 +18757,7 @@ erdi|27
 erdn|18
 erdr|16
 erdu|13
-ere |71
+ere |75
 ered|12
 erei|14
 erel|14
@@ -18515,9 +18808,9 @@ eroi|28
 eron|43
 eros|12
 erot|28
-err |11
+err |18
 erra|13
-erre|35
+erre|42
 erri|13
 errz|12
 ers |24
@@ -18548,7 +18841,7 @@ ervn|13
 ervr|17
 ervt|20
 ery |44
-es  |87
+es  |91
 esa |22
 esab|23
 esad|16
@@ -18581,10 +18874,11 @@ esdt|12
 ese |56
 esea|21
 esec|28
+esed|14
 esee|33
 eseg|14
-esei|47
-esen|63
+esei|52
+esen|74
 eser|46
 eses|19
 eseu|24
@@ -18593,10 +18887,10 @@ esi |26
 esia|32
 esib|18
 esid|26
-esie|65
+esie|67
 esig|35
-esim|21
-esin|29
+esim|23
+esin|34
 esio|23
 esir|33
 esis|24
@@ -18610,13 +18904,14 @@ eslu|25
 eslv|14
 esm |11
 esma|12
-esme|23
+esme|25
 esmi|23
 esmo|42
 esms|12
 esmu|15
 esmv|15
 esna|13
+esnd|14
 esns|12
 esnt|12
 esoi|39
@@ -18654,15 +18949,15 @@ esss|20
 esst|16
 essu|12
 essy|21
-est |67
+est |74
 esta|70
 estb|23
-estd|16
-este|97
-esti|78
+estd|23
+este|110
+esti|85
 estl|14
-estm|21
-estn|36
+estm|23
+estn|47
 esto|53
 estr|58
 ests|20
@@ -18692,11 +18987,11 @@ etat|21
 etbi|18
 etbl|14
 ete |59
-eted|17
+eted|26
 etee|22
-etei|23
+etei|28
 etem|26
-eten|69
+eten|80
 etep|26
 eter|76
 etes|11
@@ -18706,17 +19001,17 @@ ethe|17
 ethr|17
 eti |14
 etia|12
-etie|60
+etie|62
 etil|12
-etim|41
-etin|22
+etim|43
+etin|27
 etio|14
 etir|28
 etit|25
 etma|12
-etme|13
+etme|15
 etmo|14
-etnd|17
+etnd|26
 etni|13
 etnn|13
 etns|12
@@ -18751,7 +19046,7 @@ etur|36
 etus|15
 etwe|13
 etz |10
-eu  |112
+eu  |117
 eua |11
 eual|11
 euan|12
@@ -18774,7 +19069,7 @@ eui |26
 euic|16
 euie|12
 euil|13
-euir|25
+euir|32
 euis|20
 euit|45
 euiv|15
@@ -18922,6 +19217,7 @@ ezir|13
 ee |12
 f   |24
 fa  |33
+faan|13
 face|12
 fach|15
 faci|26
@@ -18944,14 +19240,15 @@ fago|22
 fahe|12
 fahr|12
 fai |23
+faia|13
 faid|12
 faie|34
 faii|18
 fail|34
-fain|13
+fain|18
 faio|13
 fair|26
-fais|23
+fais|28
 fait|19
 faiy|12
 falc|14
@@ -18987,9 +19284,10 @@ fara|12
 fare|11
 fari|17
 fas |19
+fasa|13
 fase|16
 fasi|13
-fasn|13
+fasn|18
 faso|13
 fass|16
 fat |25
@@ -19131,7 +19429,7 @@ fher|12
 fi  |39
 fia |16
 fiac|19
-fian|19
+fian|27
 fiar|11
 fiat|10
 fibe|12
@@ -19171,7 +19469,7 @@ fin |27
 fina|25
 finc|19
 find|12
-fini|28
+fini|40
 finn|19
 finr|13
 fion|13
@@ -19184,7 +19482,8 @@ firi|21
 firs|11
 firt|11
 fis |29
-fisn|13
+fisa|13
+fisn|18
 fiso|13
 fist|11
 fit |29
@@ -19420,6 +19719,7 @@ frun|13
 frut|12
 fry |11
 fs  |25
+fsan|13
 fse |11
 fsie|13
 fson|13
@@ -19570,7 +19870,7 @@ gdon|12
 gdsn|12
 gdso|12
 ge  |44
-geab|14
+geab|17
 geai|13
 gean|12
 geao|12
@@ -19621,7 +19921,7 @@ ggio|18
 ggna|16
 ggor|13
 gher|12
-ght |18
+ght |25
 gi  |37
 gicu|17
 gid |11
@@ -19731,7 +20031,7 @@ gpar|13
 gr  |16
 gra |15
 graa|12
-grab|14
+grab|17
 grac|14
 grad|25
 grae|26
@@ -19750,8 +20050,8 @@ grde|21
 grds|12
 grdu|14
 gre |22
-grea|14
-greb|14
+grea|17
+greb|17
 greg|13
 greo|13
 grer|13
@@ -19800,7 +20100,7 @@ gu  |24
 gu`n|13
 gud |11
 gudo|11
-gue |10
+gue |17
 gueb|16
 guee|12
 guen|23
@@ -19810,6 +20110,7 @@ guez|10
 gui |18
 guid|11
 guio|11
+guir|13
 guis|11
 gum`|13
 gumn|13
@@ -19855,7 +20156,7 @@ hae |11
 haea|30
 haer|24
 haf |10
-hage|18
+hage|24
 haie|13
 haig|29
 hail|15
@@ -19871,8 +20172,8 @@ hamb|14
 haml|14
 han |11
 hanc|16
-hane|25
-hang|22
+hane|30
+hang|31
 hank|12
 hans|12
 hant|17
@@ -20061,6 +20362,7 @@ hn  |10
 hnce|16
 hne |12
 hneu|19
+hnge|13
 hni |11
 hnie|15
 hnks|12
@@ -20273,7 +20575,7 @@ hyur|11
 hyv |11
 hyve|11
 hyvr|11
-i   |136
+i   |141
 ia  |27
 ia.o|14
 iaai|12
@@ -20315,11 +20617,11 @@ iaui|13
 iay |23
 ibac|12
 ibar|13
-ibea|14
-iber|19
+ibea|19
+iber|24
 ibet|14
 ible|12
-ibra|28
+ibra|33
 ibrc|12
 ibrr|13
 ibrt|14
@@ -20339,6 +20641,7 @@ ichn|14
 ici |12
 icie|13
 icii|14
+icio|18
 icir|13
 icis|12
 icit|14
@@ -20359,8 +20662,8 @@ icrr|13
 icrs|12
 ics |12
 ict |11
-icti|14
-icto|20
+icti|28
+icto|34
 ictr|20
 icue|13
 icuo|12
@@ -20414,7 +20717,7 @@ ient|39
 ienu|19
 ieo |18
 ier |32
-iera|14
+iera|19
 ierc|18
 iere|35
 ieri|19
@@ -20467,13 +20770,13 @@ ifue|15
 ig  |10
 igad|13
 igat|12
-ige |17
+ige |24
 igeb|16
 iger|22
-igh |18
+igh |25
 ighe|12
 ighr|12
-ight|30
+ight|37
 igif|14
 igin|33
 igit|13
@@ -20494,10 +20797,11 @@ igra|12
 igre|20
 igri|14
 igrt|12
-igt |18
+igt |25
 igti|16
+igu |11
 igub|16
-igue|24
+igue|31
 igur|12
 ihag|14
 ihan|14
@@ -20507,7 +20811,7 @@ iher|27
 ihes|12
 ihng|14
 ihri|19
-iht |18
+iht |25
 ihun|14
 ii  |49
 iica|15
@@ -20615,7 +20919,7 @@ imte|13
 imti|16
 imue|13
 imut|13
-in  |63
+in  |68
 inac|19
 inam|14
 inan|38
@@ -20701,7 +21005,7 @@ inor|30
 inou|16
 inov|14
 inpc|15
-inpe|15
+inpe|27
 inq |10
 inqa|15
 inqu|15
@@ -20725,7 +21029,7 @@ insr|18
 inss|13
 inst|34
 insu|25
-int |25
+int |32
 intc|18
 inte|90
 inti|33
@@ -20839,6 +21143,7 @@ irth|11
 irty|12
 iry |17
 is  |108
+isan|13
 isci|14
 iscs|15
 iscu|25
@@ -20854,8 +21159,10 @@ isio|16
 isip|13
 isis|13
 isit|13
+isn |11
 isne|12
 isnr|12
+isnt|11
 ison|32
 isos|19
 ispc|15
@@ -20873,7 +21180,7 @@ issi|25
 isso|26
 issp|13
 isst|13
-ist |11
+ist |18
 iste|12
 isti|17
 isto|30
@@ -20881,7 +21188,7 @@ istr|48
 istu|18
 isue|13
 isus|15
-it  |61
+it  |67
 ita |11
 itad|15
 itae|23
@@ -20905,6 +21212,7 @@ ithu|14
 itie|12
 itii|13
 itil|13
+itio|18
 itl |18
 itle|19
 itli|12
@@ -20934,6 +21242,7 @@ iuao|16
 iuat|23
 iuau|16
 iuci|14
+iue |11
 iueb|16
 iuen|13
 iues|20
@@ -21191,7 +21500,7 @@ kown|11
 kper|12
 ks  |10
 kwn |11
-l   |95
+l   |98
 l`  |9
 la  |32
 labe|13
@@ -21220,10 +21529,10 @@ laia|23
 laie|41
 laig|12
 laih|16
-lain|31
+lain|34
 lair|27
 lais|29
-lait|24
+lait|27
 lal |11
 lalt|13
 lamb|13
@@ -21237,7 +21546,7 @@ lang|21
 lanh|25
 lanr|13
 lans|12
-lant|13
+lant|16
 lanu|15
 laqe|14
 laql|14
@@ -21275,10 +21584,10 @@ layr|12
 lazh|16
 lazi|16
 lbar|13
-lbea|14
-lber|27
+lbea|19
+lber|32
 lbet|30
-lbra|20
+lbra|25
 lbrr|13
 lbrt|22
 lc  |9
@@ -21363,7 +21672,7 @@ leqe|25
 leql|12
 lequ|25
 ler |49
-lera|22
+lera|27
 lere|28
 lerm|17
 lers|11
@@ -21402,44 +21711,47 @@ lf  |16
 lfe |10
 lgah|14
 lgan|14
+lge |11
 lgh |11
 lghi|12
 lght|11
 lgnh|14
 lgre|12
 lgt |11
-lgue|25
+lgu |11
+lgue|31
 lht |11
-li  |34
+li  |38
 lian|14
 liar|23
-liba|20
-libe|19
-libr|25
+liba|25
+libe|24
+libr|30
 libt|14
 lice|13
 licn|13
 lico|15
 lics|13
-lie |33
-liea|14
+lie |38
+liea|19
 lied|20
 liee|16
 lien|13
-lier|27
+lier|32
 lies|32
 liet|24
 lieu|18
 lif |10
 life|10
-lig |11
+lig |15
 liga|22
-lige|46
+lige|53
 ligh|11
 ligi|30
 lign|23
 ligr|12
 ligt|11
+ligu|11
 lih |19
 liht|11
 lile|16
@@ -21449,27 +21761,28 @@ line|12
 ling|12
 lino|15
 lins|20
-lint|13
+lint|16
 lio |10
 lion|10
 lipe|12
 lipp|13
 lir |11
-lira|28
+lira|33
 lire|60
 lirr|13
 lirs|18
 lirt|14
 lis |18
 lise|21
+lisi|12
 liss|21
 list|12
 lit |23
 lita|14
 lite|16
 liti|17
-liu |10
-liue|22
+liu |15
+liue|27
 liur|12
 lius|12
 liut|16
@@ -21557,7 +21870,7 @@ lone|15
 long|26
 lonh|12
 loni|12
-lont|21
+lont|30
 lonu|15
 lor |15
 lora|22
@@ -21626,7 +21939,7 @@ lts |11
 ltss|13
 ltte|19
 lttr|19
-lu  |32
+lu  |35
 lua |11
 luat|13
 luc |13
@@ -21637,13 +21950,13 @@ lude|12
 ludi|14
 ludo|14
 ludv|14
-lue |16
+lue |22
 lueb|16
 luel|21
 luem|16
 luer|19
 lues|25
-lui |18
+lui |22
 luie|37
 luih|16
 luin|12
@@ -21723,6 +22036,7 @@ m   |78
 ma  |44
 maa |11
 maae|12
+maag|13
 maai|35
 maam|12
 mac |11
@@ -21756,16 +22070,17 @@ magu|16
 mah |11
 maha|16
 mai |30
-maia|18
+maia|22
 maic|22
 maie|34
+maig|13
 maih|15
-maii|16
+maii|22
 maim|16
 main|46
 maio|18
 mair|13
-mais|52
+mais|58
 mait|39
 maje|20
 majs|20
@@ -21775,8 +22090,9 @@ make|10
 mal |17
 mala|15
 male|23
-mali|15
+mali|20
 malm|15
+mals|12
 mama|15
 mame|12
 mami|25
@@ -21786,22 +22102,24 @@ mand|46
 mane|49
 mani|12
 mann|15
+mano|14
 manq|20
 manr|16
 mans|11
-mant|30
-manu|36
+mant|36
+manu|42
 many|10
+maou|14
 maqe|27
 maqi|13
 maqu|31
 mar |21
-mara|27
+mara|31
 marc|26
 mare|32
-marg|16
+marg|22
 marh|28
-mari|52
+mari|56
 marn|13
 marq|17
 marr|18
@@ -21812,6 +22130,7 @@ mas |23
 masa|16
 mase|11
 mash|16
+masi|12
 masl|11
 masr|13
 mass|21
@@ -21820,8 +22139,9 @@ mata|13
 mate|25
 mati|25
 matn|22
+mato|14
 matr|13
-matu|13
+matu|19
 maua|33
 mauc|13
 maue|36
@@ -21851,6 +22171,7 @@ mcy |11
 md  |10
 mdae|12
 mdam|12
+mdca|17
 mdci|12
 mdde|12
 mddl|12
@@ -21858,7 +22179,8 @@ mde |21
 mder|16
 mdeu|13
 mdi |12
-mdic|12
+mdia|17
+mdic|20
 mdie|19
 mdii|12
 mdit|19
@@ -21869,18 +22191,21 @@ me  |88
 mebe|15
 mebr|15
 mec |11
+meca|17
 meci|12
 mecy|11
 med |11
-medc|12
+meda|17
+medc|20
 mede|19
-medi|33
+medi|41
 medt|19
 mee |15
 meea|13
 meer|22
 mees|12
-meic|12
+meia|17
+meic|20
 meie|45
 meii|12
 meil|17
@@ -21944,19 +22269,25 @@ mffo|12
 mgan|12
 mggi|18
 mggo|18
+mgh |11
+mght|11
 mgin|14
 mgio|18
 mgis|16
 mgit|16
 mgst|16
+mgt |11
 mgue|16
 mhel|12
 mher|12
+mht |11
 mi  |33
 mia |20
 miac|13
+miag|13
 mial|13
 mian|11
+mica|17
 mice|12
 mich|22
 mici|12
@@ -21974,8 +22305,13 @@ mies|20
 miet|14
 mieu|11
 miex|11
+mig |11
+migh|11
+migt|11
+mih |11
 mihe|12
 mihl|12
+miht|11
 miia|14
 miii|13
 miio|16
@@ -22003,11 +22339,12 @@ mira|22
 mirc|13
 mirl|13
 mis |35
-misi|16
+misi|23
 miso|16
 misr|13
 miss|16
 mist|39
+mit |11
 mita|14
 mite|36
 miti|24
@@ -22026,13 +22363,15 @@ mlai|15
 mlan|11
 mle |20
 mlia|14
-mlis|16
+mlii|12
+mlis|24
 mlit|14
 mlle|17
 mlma|15
 mlmi|15
 mln |11
 mloy|14
+mlsi|12
 mlta|14
 mmai|15
 mman|43
@@ -22085,6 +22424,7 @@ mnne|12
 mno |14
 mnod|11
 mnot|11
+mnou|14
 mnqe|20
 mnqu|20
 mnra|22
@@ -22102,10 +22442,10 @@ mnth|12
 mnti|27
 mntm|25
 mntn|15
-mnto|17
+mnto|26
 mntr|21
 mnts|12
-mntu|23
+mntu|29
 mnua|13
 mnue|20
 mny |10
@@ -22231,7 +22571,7 @@ mple|36
 mplo|14
 mply|14
 mpo |11
-mpor|46
+mpor|49
 mpot|34
 mpoy|14
 mpre|20
@@ -22251,6 +22591,7 @@ mqui|13
 mr  |26
 mra |11
 mrac|13
+mrag|13
 mral|13
 mran|20
 mras|15
@@ -22267,9 +22608,10 @@ mrgu|16
 mrh |11
 mrha|16
 mri |14
-mria|18
+mria|22
 mric|22
 mrie|24
+mrig|13
 mrih|15
 mrin|13
 mrir|12
@@ -22332,6 +22674,7 @@ mtii|13
 mtin|13
 mtmi|17
 mtmo|17
+mtou|14
 mtra|21
 mtre|18
 mtta|12
@@ -22381,7 +22724,7 @@ myes|12
 myn |11
 myns|12
 mz  |10
-n   |109
+n   |118
 n.ik|23
 n.wi|23
 n.wk|23
@@ -22554,7 +22897,7 @@ nfrm|13
 nfrs|20
 nfue|15
 nfvo|17
-ng  |10
+ng  |16
 ngae|13
 ngan|13
 ngar|13
@@ -22642,6 +22985,7 @@ nnia|13
 nnib|13
 nnie|24
 nnis|13
+nnm |11
 nnme|13
 nnmi|13
 nnoi|48
@@ -22649,7 +22993,9 @@ nnow|13
 nnte|12
 nntm|16
 nnts|12
-no  |19
+nnu |11
+nnum|11
+no  |22
 noab|13
 noae|13
 noal|13
@@ -22718,7 +23064,7 @@ novb|18
 nove|29
 novl|17
 novm|18
-now |11
+now |16
 nown|11
 noy |11
 noye|45
@@ -22728,7 +23074,10 @@ noys|12
 npal|16
 npar|16
 npec|15
+npia|14
 nprl|16
+npta|14
+npti|14
 nq  |10
 nqua|15
 nque|20
@@ -22755,7 +23104,7 @@ nrth|25
 nrtw|18
 nrus|15
 nry |11
-ns  |64
+ns  |74
 nscu|14
 nse |11
 nsec|22
@@ -22812,6 +23161,7 @@ nthr|17
 nths|12
 nthw|18
 nti |33
+ntia|14
 ntie|19
 ntil|28
 ntim|15
@@ -22826,6 +23176,7 @@ ntns|12
 ntnt|23
 ntoi|13
 nton|13
+ntou|14
 ntr |30
 ntra|33
 ntrc|18
@@ -22853,6 +23204,7 @@ nuel|27
 nuem|14
 nuer|21
 nues|12
+nuia|14
 nuie|22
 nuil|13
 nuiv|15
@@ -22860,6 +23212,7 @@ nuk |12
 nul |11
 nule|11
 null|11
+num |11
 numb|22
 nume|13
 numr|13
@@ -22867,10 +23220,14 @@ nuoe|22
 nuoi|13
 nuoq|15
 nuoy|26
+nupa|14
+nupi|14
+nupt|14
 nure|18
 nurs|12
 nus |10
-nuti|13
+nuta|14
+nuti|23
 nutl|13
 nuue|17
 nuul|17
@@ -22903,6 +23260,7 @@ nvte|14
 nvy |11
 nvye|21
 nvyi|13
+nw  |9
 nwbe|14
 nwbr|14
 nwer|14
@@ -22916,7 +23274,7 @@ nyrs|12
 nzem|13
 nzie|13
 nzim|13
-o   |113
+o   |116
 oa  |10
 oabl|13
 oage|12
@@ -22945,16 +23303,16 @@ obga|22
 obge|20
 obgi|16
 obia|22
-obie|39
+obie|47
 obig|40
 obii|16
 obin|16
 obis|19
 obl |11
 obla|22
-oble|35
+oble|43
 oblg|40
-obli|40
+obli|48
 obmi|16
 obni|13
 obs |11
@@ -22987,7 +23345,7 @@ occt|14
 oce |24
 oced|12
 ocel|14
-ocer|27
+ocer|35
 oces|20
 ocha|15
 oche|44
@@ -23003,9 +23361,9 @@ ocoi|14
 ocq |11
 ocri|14
 ocro|14
-ocse|18
+ocse|26
 ocsi|17
-ocsr|18
+ocsr|26
 octa|14
 octb|13
 octe|22
@@ -23025,8 +23383,8 @@ odfr|14
 odie|13
 odit|15
 odn |11
-odnn|18
-odon|26
+odnn|24
+odon|32
 odot|14
 odr |17
 odre|14
@@ -23136,7 +23494,7 @@ oins|22
 oint|23
 oir |30
 oire|27
-ois |68
+ois |75
 oiss|19
 oit |43
 oita|14
@@ -23174,7 +23532,7 @@ olge|20
 olgi|16
 olgn|13
 olia|31
-olie|29
+olie|37
 olig|49
 olii|29
 olin|13
@@ -23184,11 +23542,11 @@ oliv|14
 olla|13
 olln|13
 olnd|26
-olnt|21
+olnt|30
 olo |10
 oloi|13
-olon|21
-olot|21
+olon|30
+olot|30
 olou|14
 olr |11
 olra|12
@@ -23315,6 +23673,7 @@ ono |14
 onod|11
 onoe|12
 onoi|48
+onom|17
 onon|12
 onoq|23
 onor|32
@@ -23366,9 +23725,9 @@ oobe|13
 ood |11
 ooit|12
 ook |10
-oonn|18
+oonn|24
 oons|12
-oont|21
+oont|30
 oops|12
 oore|12
 oose|15
@@ -23416,8 +23775,8 @@ orcs|12
 ord |11
 orde|30
 ordi|17
-ordn|18
-ordo|18
+ordn|24
+ordo|24
 ordr|30
 ords|17
 ore |57
@@ -23454,10 +23813,10 @@ ormr|12
 orna|15
 orne|13
 orni|15
-ornn|29
+ornn|35
 orny|12
 oroi|14
-oron|18
+oron|24
 orp |11
 orpa|14
 orph|14
@@ -23502,16 +23861,16 @@ oscr|15
 oscu|15
 osd |11
 ose |33
-osed|19
+osed|27
 oseg|14
 oseh|12
 osei|37
 osem|14
 osep|12
-oser|80
+oser|88
 oses|24
 osi |12
-osib|14
+osib|17
 osid|37
 osie|25
 osin|21
@@ -23528,9 +23887,10 @@ osqu|15
 osr |11
 osra|12
 osre|20
-ossb|14
-osse|16
-ossi|26
+ossb|17
+ossd|15
+osse|33
+ossi|29
 osss|16
 ost |36
 osta|33
@@ -23552,6 +23912,7 @@ otbl|13
 ote |77
 otec|20
 oted|12
+otef|16
 oteg|14
 otei|13
 oten|38
@@ -23594,8 +23955,9 @@ ou  |47
 ouai|25
 ouat|13
 oub |11
-oube|13
-oubi|16
+oube|22
+oubi|25
+oubl|13
 oubm|16
 oubo|13
 oubs|11
@@ -23612,6 +23974,7 @@ oudr|14
 oudu|11
 oue |38
 oueb|14
+ouef|16
 ouel|27
 ouem|25
 ouen|29
@@ -23628,7 +23991,7 @@ ouhe|38
 ouhi|38
 oui |11
 ouid|13
-ouie|27
+ouie|36
 ouin|26
 ouio|15
 ouir|20
@@ -23638,7 +24001,8 @@ ouju|14
 oul |18
 oula|13
 ould|11
-ouli|13
+oule|13
+ouli|22
 oulo|23
 oulu|21
 oumb|14
@@ -23678,18 +24042,19 @@ ourv|18
 oury|12
 ous |50
 ousd|13
-ouse|24
+ouse|35
 ousi|47
 ousj|15
 ousn|15
 ouso|22
 ousq|15
-ouss|16
+ouss|22
 oust|15
 ousu|15
 out |52
 outd|13
-oute|72
+oute|79
+outf|16
 outh|34
 outi|26
 outr|11
@@ -23739,7 +24104,7 @@ ovre|11
 ovrn|14
 ovsi|12
 ovsn|12
-ow  |16
+ow  |21
 owe |11
 ower|14
 owes|12
@@ -23778,7 +24143,7 @@ oz  |9
 oze |11
 oe |12
 p   |41
-pa  |41
+pa  |44
 paac|12
 paae|12
 paai|18
@@ -23803,15 +24168,15 @@ pag |10
 page|10
 pagn|15
 pahl|17
-pai |40
+pai |43
 paia|23
 paic|30
 paie|35
-pain|32
+pain|39
 paio|16
 pair|22
 pais|27
-pait|17
+pait|20
 paix|10
 pajo|13
 pal |10
@@ -23819,7 +24184,7 @@ pala|28
 palc|12
 pale|30
 pali|16
-pall|13
+pall|20
 palr|16
 palu|13
 pam |11
@@ -23828,15 +24193,15 @@ pamh|17
 paml|17
 pamp|17
 pamy|11
-pan |18
+pan |23
 pana|14
 pand|12
 pani|13
 pans|13
-pant|13
+pant|16
 pao |10
 paoe|15
-paol|15
+paol|19
 paon|17
 pap |10
 pape|14
@@ -23851,10 +24216,10 @@ pard|17
 pare|73
 parf|18
 pari|57
-parl|44
+parl|48
 parm|19
 parn|23
-paro|27
+paro|31
 parr|21
 pars|17
 part|62
@@ -23985,7 +24350,7 @@ pers|49
 pert|11
 peru|13
 perv|18
-pes |36
+pes |39
 pesc|29
 pesd|15
 pese|54
@@ -23995,8 +24360,8 @@ pesn|42
 peso|28
 pesr|12
 pess|21
-pest|22
-pet |15
+pest|24
+pet |21
 pete|38
 peti|13
 petn|23
@@ -24038,7 +24403,7 @@ phr |11
 phre|11
 pht |11
 phto|11
-pi  |43
+pi  |49
 piac|12
 piar|13
 piay|12
@@ -24079,14 +24444,14 @@ pilp|16
 pima|13
 pimo|19
 pimr|13
-pin |41
+pin |46
 pina|30
 pinc|39
 pine|38
 pini|35
 pino|28
 pinr|22
-pint|23
+pint|26
 piny|12
 pio |17
 pior|11
@@ -24106,7 +24471,7 @@ pisq|13
 piss|29
 pist|31
 pisu|13
-pit |11
+pit |16
 pita|13
 piti|17
 pito|16
@@ -24127,11 +24492,11 @@ plaa|12
 plac|21
 plad|18
 plae|26
-plai|48
-plan|22
+plai|51
+plan|25
 plar|15
 plas|22
-plat|17
+plat|20
 plau|16
 plc |11
 plce|21
@@ -24148,16 +24513,16 @@ pli |11
 plia|23
 plie|29
 plii|17
-plin|15
+plin|18
 plip|16
 plir|15
 plis|12
-plit|29
+plit|32
 plla|13
 pllu|13
 pln |11
 plnd|12
-plnt|13
+plnt|16
 plom|20
 ploy|14
 plra|12
@@ -24191,7 +24556,7 @@ pmph|17
 pmpl|17
 pmpt|17
 pmy |11
-pn  |18
+pn  |23
 pnay|12
 pnce|15
 pnci|19
@@ -24230,7 +24595,7 @@ pocu|20
 pod |11
 poe |25
 poec|20
-poed|11
+poed|19
 poer|30
 poes|50
 poet|23
@@ -24241,7 +24606,7 @@ pofs|16
 poha|15
 pohe|12
 poi |11
-poib|14
+poib|17
 poic|12
 poid|14
 poii|17
@@ -24253,6 +24618,7 @@ pola|19
 pold|12
 pole|15
 poli|17
+poll|13
 poln|12
 polt|17
 pome|29
@@ -24291,12 +24657,12 @@ port|44
 poru|24
 porv|18
 pos |15
-posb|14
-posd|11
-pose|48
-posi|14
+posb|17
+posd|19
+pose|54
+posi|17
 posr|16
-poss|22
+poss|31
 post|16
 pot |26
 potc|20
@@ -24362,7 +24728,7 @@ ppse|15
 ppua|13
 ppul|13
 pque|13
-pr  |69
+pr  |72
 prac|12
 prai|18
 pran|33
@@ -24381,7 +24747,7 @@ prdn|25
 prdo|17
 prdr|24
 prdu|13
-pre |59
+pre |62
 prea|22
 prec|20
 pred|35
@@ -24393,8 +24759,8 @@ prem|30
 pren|80
 prep|22
 prer|69
-pres|140
-pret|63
+pres|142
+pret|65
 preu|30
 prev|21
 prfa|18
@@ -24406,7 +24772,7 @@ prfr|21
 prfs|16
 prha|15
 prhe|12
-pri |54
+pri |57
 pria|24
 pric|57
 prid|35
@@ -24419,13 +24785,14 @@ prin|51
 prio|11
 prir|32
 pris|96
-prit|20
+prit|23
 priu|19
 prj |10
 prl |18
 prla|16
 prle|24
 prli|16
+prll|13
 prlr|16
 prm |11
 prma|23
@@ -24453,7 +24820,7 @@ prof|27
 proh|18
 proi|51
 proj|10
-prol|15
+prol|19
 prom|46
 pron|63
 proo|24
@@ -24474,7 +24841,7 @@ prr |15
 prra|20
 prre|29
 prro|23
-prs |35
+prs |38
 prsd|15
 prse|51
 prsh|12
@@ -24482,9 +24849,9 @@ prsi|15
 prsn|42
 prso|21
 prss|13
-prst|22
+prst|24
 prsu|12
-prt |25
+prt |35
 prta|13
 prtc|45
 prte|78
@@ -24515,13 +24882,13 @@ ps  |42
 psbu|17
 psd |11
 pse |29
-psed|11
+psed|19
 psee|12
 psen|34
 pser|39
 pses|16
 psi |12
-psib|14
+psib|17
 psid|15
 psie|32
 psio|24
@@ -24529,18 +24896,20 @@ pson|21
 psqu|13
 pss |15
 pssa|21
-pssb|14
-psse|61
-pssi|40
+pssb|17
+pssd|15
+psse|67
+pssi|43
 pssn|13
 psso|25
 pssr|21
 psss|16
+pst |11
 pste|27
 psto|26
 pstr|16
 psue|12
-pt  |36
+pt  |41
 ptai|13
 ptan|23
 pte |17
@@ -24549,6 +24918,7 @@ ptem|26
 pten|33
 pter|22
 ptes|16
+ptia|14
 ptic|30
 ptie|15
 ptin|23
@@ -24700,10 +25070,11 @@ qez |11
 qi  |9
 qime|16
 qimp|16
-qine|12
+qine|20
 qini|16
+qinp|16
 qinz|19
-qipe|16
+qipe|25
 qize|12
 qizi|16
 ql  |14
@@ -24714,6 +25085,7 @@ qlz |11
 qmpe|16
 qn  |10
 qnd |11
+qnpe|16
 qnto|12
 qnze|12
 qnzi|16
@@ -24751,11 +25123,11 @@ quet|15
 queu|16
 quez|11
 qui |16
-quie|21
+quie|29
 quii|16
 quim|16
-quin|19
-quip|16
+quin|27
+quip|25
 quis|23
 quit|24
 quiz|19
@@ -24771,15 +25143,16 @@ qume|16
 qump|16
 qun |18
 qund|11
-qune|12
+qune|20
 quni|16
 quno|12
+qunp|16
 qunt|12
 qunz|19
 quo |10
 quor|14
 quoy|18
-qupe|16
+qupe|25
 ququ|16
 qure|12
 quri|15
@@ -24798,7 +25171,7 @@ quze|12
 quzi|16
 qy  |10
 r   |66
-ra  |53
+ra  |58
 raai|36
 raar|13
 raau|19
@@ -24821,6 +25194,7 @@ rael|16
 raen|13
 raes|12
 rafi|15
+rag |10
 raga|16
 rage|24
 ragl|16
@@ -24845,12 +25219,12 @@ rama|13
 rame|24
 ramp|22
 ramr|13
-ran |30
+ran |35
 rana|16
 ranc|60
 rand|52
 rane|36
-rang|29
+rang|35
 ranh|25
 rani|24
 rann|13
@@ -24908,7 +25282,7 @@ rcee|12
 rcei|14
 rcel|34
 rceo|20
-rcer|40
+rcer|48
 rces|35
 rceu|34
 rcev|24
@@ -24931,8 +25305,8 @@ rcon|47
 rcre|15
 rcrk|14
 rcru|21
-rcse|18
-rcsr|18
+rcse|26
+rcsr|26
 rcu |11
 rcue|12
 rcuk|14
@@ -24945,17 +25319,19 @@ rcvr|13
 rcy |11
 rd  |10
 rde |18
+rdea|15
 rden|30
 rder|23
 rdes|17
+rdev|15
 rdia|15
 rdig|12
 rdin|39
 rdit|26
 rdiu|15
 rdng|12
-rdnn|18
-rdon|31
+rdnn|24
+rdon|37
 rdr |11
 rdra|21
 rdre|30
@@ -24964,9 +25340,10 @@ rds |11
 rdua|15
 rdui|22
 rdut|13
+rdva|15
 re  |108
 rea |10
-reab|14
+reab|17
 reac|14
 read|18
 reae|14
@@ -24997,15 +25374,17 @@ recs|12
 recu|40
 recv|24
 red |20
-reda|21
-rede|26
+reda|29
+rede|35
 redi|29
 redn|13
 redr|24
 reds|11
 redt|13
 redu|21
+redv|15
 ree |38
+reea|15
 reec|38
 reed|20
 reee|47
@@ -25018,7 +25397,7 @@ reer|109
 rees|46
 reet|38
 reeu|48
-reev|31
+reev|40
 refe|31
 refr|31
 reg |16
@@ -25071,9 +25450,9 @@ reme|71
 remi|30
 reml|14
 remm|20
-remo|25
-remp|16
-remr|33
+remo|28
+remp|19
+remr|36
 rems|19
 remt|17
 remv|16
@@ -25100,7 +25479,7 @@ reoi|13
 reol|35
 reom|20
 reon|75
-reor|34
+reor|37
 reos|19
 reot|20
 reou|25
@@ -25110,8 +25489,8 @@ repc|25
 repd|16
 repe|34
 repn|20
-repo|51
-repr|61
+repo|54
+repr|64
 reps|24
 reqe|31
 reqi|12
@@ -25129,7 +25508,7 @@ rero|22
 rerr|14
 rers|36
 reru|21
-res |41
+res |44
 resa|13
 resc|24
 resd|26
@@ -25141,10 +25520,10 @@ reso|54
 resp|28
 resr|15
 ress|25
-rest|110
+rest|112
 resu|21
 resv|14
-ret |11
+ret |18
 reta|13
 rete|66
 reti|59
@@ -25169,7 +25548,7 @@ reut|35
 reuu|22
 reuv|13
 rev |10
-reva|13
+reva|22
 reve|56
 revl|13
 revn|15
@@ -25182,7 +25561,7 @@ rfer|31
 rfes|16
 rfon|19
 rfrr|14
-rg  |11
+rg  |16
 rgad|27
 rgai|15
 rgan|23
@@ -25227,9 +25606,10 @@ rhne|12
 rht |18
 rhte|12
 rhtn|12
-ri  |71
+ri  |74
 ria |18
 riad|13
+riag|13
 riar|20
 rice|26
 rich|26
@@ -25292,7 +25672,7 @@ risi|14
 risn|15
 riso|29
 rist|49
-rit |18
+rit |31
 rita|29
 rite|34
 riti|13
@@ -25354,12 +25734,12 @@ rmn |11
 rmnd|12
 rmoa|13
 rmoe|12
-rmor|16
+rmor|19
 rmov|16
 rmpa|13
 rmpe|13
-rmpo|16
-rmpr|24
+rmpo|19
+rmpr|27
 rmpt|17
 rmrc|18
 rmrs|15
@@ -25370,7 +25750,7 @@ rmva|13
 rmve|12
 rmy |17
 rmz |11
-rn  |25
+rn  |30
 rnan|15
 rnar|13
 rnce|23
@@ -25390,7 +25770,7 @@ rne |18
 rnen|21
 rnes|12
 rnet|12
-rng |11
+rng |17
 rnga|16
 rnge|12
 rngo|15
@@ -25416,16 +25796,16 @@ roan|16
 roat|22
 roau|13
 roca|15
-roce|36
+roce|44
 roch|31
 rocl|14
-rocr|18
-rocs|23
+rocr|26
+rocs|31
 rodi|17
 roe |10
 roec|20
 roel|14
-roer|18
+roer|26
 roes|41
 roet|23
 rofe|16
@@ -25449,6 +25829,7 @@ roit|35
 roj |10
 rol |11
 role|15
+roll|13
 rolt|28
 rolu|16
 rolv|14
@@ -25466,7 +25847,7 @@ ronc|16
 rone|21
 rong|16
 roni|13
-ronn|39
+ronn|45
 rons|12
 ront|28
 roon|19
@@ -25483,23 +25864,23 @@ rord|17
 rore|28
 rori|17
 ros |17
-rose|34
+rose|51
 rosi|16
-rosr|18
-ross|16
+rosr|26
+ross|22
 rot |11
 rotc|20
 rote|39
 roth|16
 rots|16
 roua|13
-roue|44
+roue|55
 roug|18
 roui|48
 roum|13
 roun|26
 roup|13
-rous|37
+rous|43
 rout|13
 rouu|22
 rouv|24
@@ -25534,7 +25915,7 @@ rpoc|15
 rpod|16
 rpoe|12
 rpon|20
-rpor|24
+rpor|27
 rpos|20
 rppo|13
 rppr|13
@@ -25554,7 +25935,7 @@ rqur|14
 rqus|18
 rrai|14
 rrdi|17
-rre |25
+rre |32
 rren|26
 rres|55
 rret|16
@@ -25583,7 +25964,7 @@ rse |30
 rsec|16
 rsem|14
 rsen|35
-rser|18
+rser|26
 rsha|16
 rsid|26
 rsie|15
@@ -25601,10 +25982,10 @@ rspc|16
 rspe|16
 rspn|20
 rspo|20
-rsse|13
+rsse|24
 rssi|16
 rsst|16
-rst |18
+rst |25
 rsta|13
 rste|36
 rsti|17
@@ -25615,7 +25996,7 @@ rstt|17
 rsue|12
 rsul|12
 rsut|12
-rt  |34
+rt  |39
 rtai|13
 rtan|22
 rtcl|14
@@ -25672,14 +26053,14 @@ ruer|34
 rues|14
 ruet|13
 rueu|13
-rui |24
+rui |31
 ruic|24
 ruii|12
 ruil|19
 ruin|23
 ruir|17
 ruis|24
-ruit|37
+ruit|44
 rul |19
 rule|11
 rulr|11
@@ -25693,10 +26074,11 @@ rur |11
 rure|20
 rurn|14
 rusc|14
-ruse|22
+ruse|33
 rusi|25
-russ|16
+russ|22
 rust|13
+rut |11
 rute|13
 ruue|27
 ruui|13
@@ -25740,7 +26122,7 @@ ryre|12
 rys |10
 ryum|13
 r  |11
-s   |143
+s   |151
 sa  |33
 sabc|13
 sabe|13
@@ -25784,7 +26166,7 @@ sant|29
 sao |11
 saoa|14
 saoe|18
-saoi|20
+saoi|34
 saon|12
 saoy|25
 sape|12
@@ -25807,9 +26189,9 @@ sats|33
 sau |11
 saua|12
 saue|12
-saui|14
+saui|22
 saum|12
-sauo|32
+sauo|40
 saur|34
 sauu|12
 saux|18
@@ -25817,8 +26199,8 @@ sauy|12
 sav |15
 sava|14
 save|16
-savi|14
-savo|28
+savi|22
+savo|36
 savy|19
 savz|11
 sax |11
@@ -25843,15 +26225,20 @@ sbse|18
 sbsi|24
 sbsq|18
 sbss|24
+sc  |10
 scaa|12
 scae|12
+scai|19
 scan|21
+scao|19
 scap|12
 scar|12
-scau|18
+scau|23
+scav|13
 scax|12
 scce|18
 sccs|18
+sce |10
 scea|12
 sced|14
 scei|13
@@ -25859,8 +26246,9 @@ scen|14
 scer|13
 sces|18
 scet|15
-sceu|12
+sceu|15
 scex|12
+scha|16
 schb|15
 sche|14
 schm|15
@@ -25877,7 +26265,7 @@ sco |11
 scob|15
 scod|12
 scog|13
-scoi|14
+scoi|27
 scom|15
 scon|12
 scor|27
@@ -25900,14 +26288,17 @@ sct |11
 scti|14
 scts|11
 sctt|14
-scu |11
+scu |17
 scua|12
 scug|13
-scuo|12
+scui|13
+scuo|20
 scur|51
 scus|22
 scut|14
 scux|12
+scvi|13
+scvo|13
 sd  |18
 sdat|13
 sde |10
@@ -25915,7 +26306,7 @@ sdie|13
 sdig|25
 sdin|13
 sdit|12
-se  |92
+se  |97
 sea |22
 seae|16
 seal|11
@@ -25940,7 +26331,7 @@ sed |21
 sede|10
 sedi|13
 sedn|13
-see |50
+see |54
 seea|13
 seed|12
 seem|24
@@ -25949,7 +26340,10 @@ seer|13
 seet|23
 seg |17
 sege|30
+segi|13
 segn|21
+segr|13
+segu|13
 sei |20
 seib|18
 seic|25
@@ -25957,9 +26351,9 @@ seie|25
 seif|15
 seig|27
 seim|15
-sein|44
+sein|49
 seio|13
-seir|27
+seir|34
 seis|12
 seit|38
 sel |23
@@ -25973,7 +26367,7 @@ seme|22
 seml|22
 sen |26
 senb|18
-send|31
+send|41
 sene|14
 seng|19
 seni|32
@@ -25998,16 +26392,16 @@ sepm|15
 sepn|14
 sepr|16
 sept|23
-ser |40
+ser |44
 sera|47
 serc|25
 serd|12
-sere|65
+sere|69
 serg|13
 seri|110
 sern|39
 sero|30
-serr|27
+serr|31
 sers|12
 sert|62
 seru|37
@@ -26027,13 +26421,13 @@ setm|24
 setn|14
 sets|12
 sett|11
-seu |35
+seu |40
 seuc|16
 seue|44
-seui|37
+seui|44
 seul|19
 seum|23
-seur|70
+seur|77
 seut|28
 seux|18
 sev |19
@@ -26067,6 +26461,7 @@ sggs|14
 sgi |12
 sgif|14
 sgin|13
+sgir|13
 sgit|12
 sgne|14
 sgnf|14
@@ -26080,9 +26475,9 @@ sgor|12
 sgro|20
 sgt |12
 sgu |11
-sgui|14
+sgui|22
 sguo|25
-sgur|20
+sgur|28
 sgvi|14
 sgvo|14
 sgy |11
@@ -26132,7 +26527,7 @@ siif|14
 siin|13
 sile|12
 sima|12
-sime|21
+sime|23
 siml|12
 simo|14
 simp|12
@@ -26260,7 +26655,7 @@ snor|12
 sns |21
 snsb|18
 snsi|18
-snt |27
+snt |34
 snti|22
 sntm|15
 so  |44
@@ -26428,7 +26823,7 @@ srae|15
 sran|14
 srat|15
 sray|11
-sre |30
+sre |34
 srea|16
 sred|12
 sreg|19
@@ -26455,7 +26850,8 @@ sroi|20
 sron|29
 sros|12
 srot|16
-srre|17
+srr |11
+srre|23
 srrn|17
 srt |16
 srte|21
@@ -26482,6 +26878,7 @@ ssas|33
 ssay|21
 sse |39
 sseb|19
+ssed|15
 ssee|12
 sseg|14
 ssei|17
@@ -26493,7 +26890,7 @@ sses|16
 sseu|30
 ssez|11
 ssi |19
-ssib|28
+ssib|31
 ssic|16
 ssie|33
 ssio|28
@@ -26536,31 +26933,32 @@ stat|50
 stbi|29
 stbl|25
 ste |72
-sted|12
+sted|22
 steg|28
-stei|14
+stei|19
 stel|14
 stem|15
-sten|38
+sten|49
 ster|57
 stes|19
 sth |11
 sthe|19
 sti |41
 stia|12
-stie|20
+stie|22
 stif|16
 stil|15
-stim|32
-stin|14
+stim|34
+stin|19
 stio|14
 stir|13
 stis|18
 stit|25
 stle|12
 stma|12
-stme|13
+stme|15
 stmo|14
+stnd|14
 stng|28
 stns|12
 stnt|12
@@ -26590,7 +26988,7 @@ stua|15
 stue|12
 stur|12
 stut|15
-su  |43
+su  |48
 sua |9
 suai|25
 suan|13
@@ -26627,7 +27025,7 @@ suia|24
 suic|27
 suie|30
 suin|13
-suir|31
+suir|38
 suis|28
 suit|34
 suiu|13
@@ -26648,7 +27046,7 @@ sumr|12
 sumu|12
 suo |9
 suoe|12
-suoi|14
+suoi|22
 suor|17
 suoy|12
 supc|16
@@ -26717,7 +27115,7 @@ svn |11
 svo |11
 svoa|14
 svoe|12
-svoi|14
+svoi|22
 svoy|19
 svra|21
 svre|12
@@ -26749,8 +27147,9 @@ taai|36
 taau|19
 tabi|29
 tabl|34
+taca|16
 tace|14
-tach|24
+tach|31
 tade|15
 tadi|17
 tadr|13
@@ -26760,6 +27159,7 @@ taer|12
 taes|12
 tag |10
 tage|10
+taha|16
 tahe|14
 tahi|15
 tai |12
@@ -26790,9 +27190,10 @@ tap |12
 tape|13
 tapi|12
 taqu|14
-tasc|33
+tasa|16
+tasc|40
 tase|14
-tash|14
+tash|21
 taso|16
 tat |24
 tate|40
@@ -26808,6 +27209,7 @@ tay |11
 tbil|15
 tc  |10
 tcan|21
+tcha|16
 tche|24
 tdit|17
 te  |37
@@ -26819,7 +27221,7 @@ tee |16
 teer|12
 tees|12
 tei |11
-tein|14
+tein|19
 tel |16
 tele|17
 tell|26
@@ -26833,7 +27235,7 @@ temo|28
 temp|31
 tems|17
 ten |11
-tend|46
+tend|55
 tene|12
 teng|19
 teni|29
@@ -26932,7 +27334,7 @@ tilm|15
 tils|12
 tim |10
 tima|12
-time|19
+time|21
 timg|28
 timi|48
 timl|15
@@ -27020,6 +27422,7 @@ toce|15
 toch|15
 tocn|13
 toe |11
+toef|16
 toes|12
 togh|12
 tohe|15
@@ -27063,12 +27466,14 @@ tosn|13
 toso|22
 tost|10
 tot |21
-tote|19
+tote|26
+totf|16
 tots|12
 tott|13
 tou |19
 touc|15
-toue|63
+toue|70
+touf|16
 toug|24
 touh|22
 toui|28
@@ -27079,7 +27484,7 @@ touo|36
 toup|13
 tour|15
 tous|29
-tout|21
+tout|28
 touu|38
 touv|24
 tove|20
@@ -27185,10 +27590,11 @@ trvi|29
 trvu|13
 ts  |19
 tsan|21
-tsca|21
+tsca|32
 tsce|14
-tsch|14
+tsch|21
 tscn|21
+tsha|16
 tshe|14
 tsid|13
 tsio|15
@@ -27206,6 +27612,7 @@ ttau|14
 ttch|14
 tte |41
 tted|23
+ttef|16
 ttem|17
 tten|26
 ttep|17
@@ -27239,6 +27646,7 @@ tuce|15
 tuch|15
 tucn|13
 tue |11
+tuef|16
 tuen|13
 tues|12
 tugh|12
@@ -27270,7 +27678,8 @@ tusn|13
 tuso|22
 tust|13
 tut |13
-tute|27
+tute|34
+tutf|16
 tuts|12
 tutt|13
 tuue|18
@@ -27284,7 +27693,7 @@ twee|13
 twn |10
 ty  |10
 tz  |16
-u   |113
+u   |116
 ua  |24
 uach|13
 uad |11
@@ -27323,8 +27732,10 @@ uban|20
 ubeq|18
 uber|13
 ubet|12
+ubie|13
 ubis|24
-uble|26
+uble|35
+ubli|13
 ublt|12
 ubmi|16
 ubn |11
@@ -27439,7 +27850,7 @@ uhai|25
 uhes|13
 uhor|15
 uhy |11
-ui  |28
+ui  |33
 uian|13
 uic |11
 uict|19
@@ -27460,13 +27871,14 @@ uils|23
 uime|16
 uimp|16
 uin |19
-uine|20
+uine|28
 uing|12
 uini|24
+uinp|16
 uins|12
 uinz|19
 uio |11
-uipe|16
+uipe|25
 uiqu|13
 uir |11
 uira|19
@@ -27477,7 +27889,7 @@ uiso|14
 uisq|13
 uiss|29
 uisu|13
-uit |25
+uit |32
 uiti|15
 uiua|13
 uiur|13
@@ -27513,7 +27925,7 @@ ulem|15
 uler|11
 ules|19
 ulet|12
-ulie|12
+ulie|21
 ulis|16
 ulit|13
 ull |18
@@ -27596,6 +28008,7 @@ unoi|16
 unos|13
 unou|16
 unow|13
+unpe|16
 unr |11
 uns |23
 unsi|16
@@ -27642,6 +28055,7 @@ uper|25
 upes|19
 upgo|15
 uphi|15
+upia|14
 upic|26
 upie|12
 uple|12
@@ -27655,6 +28069,8 @@ upre|20
 upri|25
 uprs|12
 ups |11
+upta|14
+upti|14
 uqel|12
 uque|30
 uqul|12
@@ -27751,7 +28167,7 @@ usre|12
 usri|14
 uss |21
 ussa|21
-usse|19
+usse|30
 ussi|35
 usso|14
 ussy|11
@@ -27768,6 +28184,7 @@ ut  |42
 utan|12
 utat|12
 ute |39
+utef|16
 utem|15
 utes|28
 uth |11
@@ -27776,6 +28193,7 @@ uthi|17
 utho|15
 uthr|15
 uti |11
+utia|14
 utid|13
 utie|12
 util|27
@@ -27861,7 +28279,7 @@ uzih|16
 uzm`|13
 uzmn|13
 uzy |11
-v   |54
+v   |57
 va  |17
 va.o|14
 vaan|12
@@ -28042,7 +28460,7 @@ viot|13
 vir |23
 vire|18
 virs|18
-vis |22
+vis |27
 vise|13
 viso|16
 vit |11
@@ -28084,17 +28502,17 @@ vlle|25
 vllg|13
 vlly|12
 vlns|12
-vlnt|21
+vlnt|30
 vloi|20
-vlon|21
+vlon|30
 vlor|12
-vlot|21
+vlot|30
 vlse|13
 vlsr|13
 vlts|12
 vltt|13
 vlu |11
-vn  |11
+vn  |14
 vnce|15
 vncn|15
 vne |9
@@ -28111,7 +28529,7 @@ vnir|11
 vnk |12
 vnne|12
 vnr |11
-vns |11
+vns |16
 vnt |11
 vnta|14
 vnti|16
@@ -28130,34 +28548,34 @@ voe |15
 voen|13
 voer|11
 voge|12
-voi |26
+voi |29
 voie|37
 voin|13
 voir|32
-vois|10
+vois|17
 voit|27
 vol |14
 vola|14
 volb|14
 voli|13
-voln|21
-volo|28
-volt|30
+voln|30
+volo|37
+volt|39
 volu|11
 volv|14
 vomt|13
 von |11
 vons|19
-vont|21
+vont|30
 vooi|19
-voon|21
-voot|27
+voon|30
+voot|36
 vor |22
 vora|12
 vore|12
 vori|17
 voro|14
-vos |24
+vos |28
 vosa|12
 vose|12
 vosr|15
@@ -28211,7 +28629,7 @@ vrti|13
 vrtu|11
 vru |11
 vr |11
-vs  |28
+vs  |32
 vser|13
 vsin|12
 vsra|12
@@ -28273,7 +28691,7 @@ vzem|13
 vzie|13
 vzim|13
 v  |11
-w   |25
+w   |30
 wa  |15
 wahi|16
 wahn|16
@@ -28554,4 +28972,4 @@ zlo |10
 zm`n|13
 zo  |10
 {   |10
-              265138
+              270838

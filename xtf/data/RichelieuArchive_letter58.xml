@@ -1137,7 +1137,8 @@
                <orig>vn</orig>
                <reg>un</reg>
             </choice> present au <persName ref="#Bernard">Marquis <lb/>de la Valette</persName> et ses
-              <seg>nopces<note>nuptials</note>
+              <seg>nopces<ref type="fnoteref" target="#d1e15181">[1]</ref>
+               <note type="footnote" xml:id="d1e15181" n="[1]">nuptials</note>
             </seg>. Il est du tout necessaire <lb/>pour raisons
           que <choice>
                <orig>ie</orig>
@@ -1148,7 +1149,8 @@
             </choice>, <choice>
                <orig>ie</orig>
                <reg>je</reg>
-            </choice> donnerays volontiers <lb/>la grande <seg>agraffe<note>an ornamental
+            </choice> donnerays volontiers <lb/>la grande <seg>agraffe<ref type="fnoteref" target="#d1e15213">[2]</ref>
+               <note type="footnote" xml:id="d1e15213" n="[2]">an ornamental
             clasp</note>
             </seg> qu’a <persName n="first" ref="#Bragelogne">Madame Bouthillier</persName> ou il
           y a de fort beaux diamans et ce sans <choice>
@@ -1156,7 +1158,8 @@
                <corr>despense</corr>
             </choice> de <lb/>paiement, rien n’estant mieux a la Reine que ce que <lb/>est a des
           personnes qui ne possedent rien que par sa <lb/>bonté et liberalité. Si la Reine l’aggree,
-          vous manderez <lb/>a Madame Bouthillier qu’elle l’envoie <seg>par voie serre<note>Possibly
+          vous manderez <lb/>a Madame Bouthillier qu’elle l’envoie <seg>par voie serre<ref type="fnoteref" target="#d1e15236">[3]</ref>
+               <note type="footnote" xml:id="d1e15236" n="[3]">Possibly
               “by means of economizing”; see Dictionnaire de l’Académie française 1694, s.v.
               “serre,” 2nd definition.</note>
             </seg> Car <lb/>le mariage se sera dans quinze <choice>
