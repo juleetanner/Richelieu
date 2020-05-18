@@ -59,13 +59,6 @@ I made it up —Syd, 2020-05-16
     <div class="footer">
       <a href="mailto:juleetanner@gmail.com">Comments? Questions?</a>
       &#x2003;|&#x2003;
-      <a href="javascript://"
-	 onclick="javascript:window.open(
-		  '/xtf/search?smode=getLang',
-		  'popup',
-		  'width=500,height=200,resizable=no,scrollbars=no'
-		  )">Choose Language</a>
-      &#x2003;|&#x2003;
       Brought to you by:
       <a href="https://xtf.cdlib.org/">
 	<img src="icons/default/xtf_logo.gif"

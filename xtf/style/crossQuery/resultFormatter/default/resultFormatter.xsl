@@ -233,7 +233,7 @@
                            </a>
                            <xsl:text>&#160;|&#160;</xsl:text>
                         </xsl:if>
-                        <a href="{$xtfURL}{$crossqueryPath}">
+                        <a href="{$xtfURL}{$crossqueryPath}?brand={$brand}">
                            <xsl:text>New Search</xsl:text>
                         </a>
                         <xsl:if test="$smode = 'showBag'">
@@ -565,27 +565,27 @@ Item number <xsl:value-of select="$num"/>:
       <xsl:choose>
          <xsl:when test="$browse-all">
             <xsl:text>Facet | </xsl:text>
-            <a href="{$xtfURL}{$crossqueryPath}?browse-title=first;sort=title">Title</a>
+            <a href="{$xtfURL}{$crossqueryPath}?brand={$brand};browse-title=first;sort=title">Title</a>
             <xsl:text> | </xsl:text>
-            <a href="{$xtfURL}{$crossqueryPath}?browse-creator=first;sort=creator">Author</a>
+            <a href="{$xtfURL}{$crossqueryPath}?brand={$brand};browse-creator=first;sort=creator">Author</a>
          </xsl:when>
          <xsl:when test="$browse-title">
-            <a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Facet</a>
+            <a href="{$xtfURL}{$crossqueryPath}?brand={$brand};browse-all=yes">Facet</a>
             <xsl:text> | Title | </xsl:text>
-            <a href="{$xtfURL}{$crossqueryPath}?browse-creator=first;sort=creator">Author</a>
+            <a href="{$xtfURL}{$crossqueryPath}?brand={$brand};browse-creator=first;sort=creator">Author</a>
          </xsl:when>
          <xsl:when test="$browse-creator">
-            <a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Facet</a>
+            <a href="{$xtfURL}{$crossqueryPath}?brand={$brand};browse-all=yes">Facet</a>
             <xsl:text> | </xsl:text>
-            <a href="{$xtfURL}{$crossqueryPath}?browse-title=first;sort=title">Title</a>
-            <xsl:text>  | Author</xsl:text>
+            <a href="{$xtfURL}{$crossqueryPath}?brand={$brand};browse-title=first;sort=title">Title</a>
+            <xsl:text> | Author</xsl:text>
          </xsl:when>
          <xsl:otherwise>
-            <a href="{$xtfURL}{$crossqueryPath}?browse-all=yes">Facet</a>
+            <a href="{$xtfURL}{$crossqueryPath}?brand={$brand};browse-all=yes">Facet</a>
             <xsl:text> | </xsl:text>
-            <a href="{$xtfURL}{$crossqueryPath}?browse-title=first;sort=title">Title</a>
+            <a href="{$xtfURL}{$crossqueryPath}?brand={$brand};browse-title=first;sort=title">Title</a>
             <xsl:text> | </xsl:text>
-            <a href="{$xtfURL}{$crossqueryPath}?browse-creator=first;sort=creator">Author</a>
+            <a href="{$xtfURL}{$crossqueryPath}?brand={$brand};browse-creator=first;sort=creator">Author</a>
          </xsl:otherwise>
       </xsl:choose>
    </xsl:template>
