@@ -1,4 +1,4 @@
-<xsl:stylesheet version="2.0" 
+<xsl:stylesheet version="3.0" 
    xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
    xmlns:xtf="http://cdlib.org/xtf"
    xmlns="http://www.w3.org/1999/xhtml"
@@ -172,9 +172,7 @@
                      <xsl:value-of select="$doc.title"/>
                   </title>
                   <link rel="stylesheet" type="text/css" href="{$css.path}bbar.css"/>
-                  <link rel="shortcut icon" href="icons/default/favicon.ico" />
-
-
+                  <link rel="shortcut icon" href="icons/{$brand}/favicon.ico" />
                </head>
                <body>
                   <div class="bbar">
@@ -186,7 +184,7 @@
                         </tr>
                         <tr>
                            <td class="left">
-                              <a href="{$xtfURL}search" target="_top">Home</a><xsl:text> | </xsl:text>
+                              <a href="{$xtfURL}search?brand={$brand}" target="_top">Home</a><xsl:text> | </xsl:text>
                               <xsl:choose>
                                  <xsl:when test="session:getData('queryURL')">
                                     <a href="{session:getData('queryURL')}" target="_top">Return to Search Results</a>
@@ -208,15 +206,19 @@
                               <a>
                                  <xsl:attribute name="href">javascript://</xsl:attribute>
                                  <xsl:attribute name="onclick">
-                                    <xsl:text>javascript:window.open('</xsl:text><xsl:value-of select="$xtfURL"/><xsl:value-of select="$dynaxmlPath"/><xsl:text>?docId=</xsl:text><xsl:value-of
-                                       select="$docId"/><xsl:text>;doc.view=citation</xsl:text><xsl:text>','popup','width=800,height=400,resizable=yes,scrollbars=no')</xsl:text>
+                                    <xsl:text>javascript:window.open('</xsl:text>
+                                   <xsl:value-of select="$xtfURL"/>
+                                   <xsl:value-of select="$dynaxmlPath"/>
+                                   <xsl:text>?docId=</xsl:text>
+                                   <xsl:value-of select="$docId"/>
+                                   <xsl:text>;doc.view=citation;brand=</xsl:text>
+                                   <xsl:value-of select="$brand"/>
+                                   <xsl:text>','popup','width=900,height=450,resizable=yes,scrollbars=no')</xsl:text>
                                  </xsl:attribute>
                                  <xsl:text>Citation</xsl:text>
                               </a>
                               <xsl:text> | </xsl:text>
-                              <a href="{$doc.path}&#038;doc.view=print;chunk.id={$chunk.id}" target="_top">Print View</a>
-                              <xsl:text> | </xsl:text>
-                              <a href="javascript://" onclick="javascript:window.open('/xtf/search?smode=getLang','popup','width=500,height=200,resizable=no,scrollbars=no')">Choose Language</a>
+                              <a href="{$doc.path}&#038;doc.view=print;brand={$brand};chunk.id={$chunk.id}" target="_top">Print View</a>
                            </td>
                         </tr>
                      </table>
@@ -239,7 +241,7 @@
                <xsl:value-of select="$doc.title"/>
             </title>
             <link rel="stylesheet" type="text/css" href="{$css.path}bbar.css"/>
-            <link rel="shortcut icon" href="icons/default/favicon.ico" />
+            <link rel="shortcut icon" href="icons/{$brand}/favicon.ico" />
 
          </head>
          <body>
@@ -247,10 +249,16 @@
             <div class="container">
                <h2>Citation</h2>
                <div class="citation">
-                  <p><xsl:value-of select="/*/*:meta/*:creator[1]"/>. 
-                     <xsl:value-of select="/*/*:meta/*:title[1]"/>. 
-                     <xsl:value-of select="/*/*:meta/*:year[1]"/>.<br/>
-                     [<xsl:value-of select="concat($xtfURL,$dynaxmlPath,'?docId=',$docId)"/>]</p>
+                  <p>
+                    Tanner, Julee (ed.),
+                    <q><xsl:value-of select="/*/*:meta/*:title[1]"/></q>,
+                    <i>The Richelieu Archive</i>,
+                    <xsl:value-of select="/*/*:meta/*:dateStamp[1]"/>. 
+                    <br/>
+                    <tt style="font-size: small;">
+                      <xsl:value-of select="concat($xtfURL,$dynaxmlPath,'?brand=',$brand,';docId=',$docId)"/>
+                    </tt>
+                  </p>
                   <a>
                      <xsl:attribute name="href">javascript://</xsl:attribute>
                      <xsl:attribute name="onClick">
@@ -274,7 +282,7 @@
          <head>
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
             <title><xsl:value-of select="//xtf:meta/title[1]"/></title>
-            <link rel="shortcut icon" href="icons/default/favicon.ico" />
+            <link rel="shortcut icon" href="icons/{$brand}/favicon.ico" />
 
          </head>
          <body>
