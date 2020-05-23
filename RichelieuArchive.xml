@@ -6,7 +6,8 @@
     <fileDesc>
       <titleStmt>
         <title>The Richelieu Correspondence Project: A finding aid and digital archive of the
-          unpublished letters of Armand-Jean du Plessis, Cardinal Richelieu</title>
+          unpublished letters of Armand Jean du Plessis, cardinal duc de Richelieu, encoded in TEI
+          P5</title>
         <respStmt>
           <resp>Complied and transcribed by</resp>
           <name ref="#JT">Julee Tanner</name>
@@ -163,9 +164,9 @@
           <p>Any spellings that that are evidnet errors, in that they would lead to a
             mispronounciation of a known word, are highlighted in the transcription. Hovering over
             the highlighted word will prompt display of the corrected spelling.</p>
-          <p>Any words that are completely illegible are indicated with a bracked question mark. Words that are simply  
-            not recognizable as words have been transcribed to the extent possible and are
-            immediately followed by question mark.</p>
+          <p>Any words that are completely illegible are indicated with a bracked question mark.
+            Words that are simply not recognizable as words have been transcribed to the extent
+            possible and are immediately followed by question mark.</p>
         </correction>
         <normalization>
           <p>Normalization. In 17th century paleography and typography, "u" and "v" were two forms
@@ -395,6 +396,16 @@
         <note>Grand-Duke of Tuscany from 1621 to 1670; friend and protector of Galileo
           Galilei.</note>
       </person>
+      <person sortKey="Gonzaga,_Maria,_Duchess_of_Mantua_and_Monferrat" xml:id="MariaG">
+        <persName type="main">Maria Gonzaga, Duchess of Mantua and Monferrat</persName>
+        <persName type="presentation">Duchess of Mantua</persName>
+        <idno type="VIAF">97857453</idno>
+        <birth when="1609"/>
+        <death when="1660"/>
+        <note>Maria and her husband Charles of Nevers inherited the Duchies of Mantua and Monferrat
+          in 1627. Challenges to the inheritance resulted in the War of the Mantuan Succession,
+          1628–31.</note>
+      </person>
       <person sortKey="Gregory_XV,_pope_(Ludovisi_Alessandro)" xml:id="Gregory15">
         <persName type="main">Gregory XV (Ludovisi Alessandro), pope</persName>
         <persName type="presentation">Gregory XV</persName>
@@ -600,6 +611,16 @@
         <note>Hapsburg king who reigned from 1621 to 1640 and allied with the Austrian Hapsburgs
           against France in the Thirty Years' War, 1618-48.</note>
       </person>
+      <person sortKey="Choiseul,_César_de,_comte_du_Plessis-Praslin" xml:id="PlessisP">
+        <persName type="main">César de Choiseul, comte du Plessis-Praslin</persName>
+        <persName type="presentation">Comte du Plessis-Praslin</persName>
+        <idno type="VIAF">160867465</idno>
+        <birth when="1598"/>
+        <death when="1675"/>
+        <note>Military officer and diplomat, named ambassador to the court of Victor Amadeus I of
+          Savoy in 1630. He was active in the Piedmontese Civil War, was named governor of Turin in
+          1640, and Marshall of France in 1645.</note>
+      </person>
       <person sortKey="Puylaurens,_Antoine_de_L'Age,_duc_de" xml:id="Puylaurens">
         <persName type="main">Antoine de L'Age, Duc de Puylaurens</persName>
         <persName type="presentation">Duc de Puylaurens</persName>
@@ -796,6 +817,15 @@
         <idno type="GeoNames">3034397</idno>
         <note>One of traditional provinces of France, in the southeast along the Pyrenees.</note>
       </place>
+      <place sortKey="Brienne" xml:id="Brienne" type="commune">
+        <placeName type="main">Brienne-le-Château</placeName>
+        <placeName type="presentation">Brienne</placeName>
+        <location>
+          <geo>48.39 4.53</geo>
+        </location>
+        <idno type="GeoNames">3030093</idno>
+        <note>Commune in north-central France.</note>
+      </place>
       <place sortKey="Casale" xml:id="Casale" type="commune">
         <placeName type="main">Casale Monferrato</placeName>
         <placeName type="alternate">Cazal</placeName>
@@ -804,7 +834,20 @@
           <geo>45.13 -8.45</geo>
         </location>
         <idno type="GeoNames">3180208</idno>
-        <note>A fortified town in the Piedmont region of Italy, about 60 km east of Turin.</note>
+        <note>Fortified town in the Piedmont, about 60 km east of Turin. By the 1635 Treaty of
+          Rivoli with the dukes of Savoy and Parma, France would occupy Casale and Pinerolo as a
+          defense against Spanish encroachment from Milan (Tapié, p. 330).</note>
+      </place>
+      <place sortKey="Chivasso" xml:id="Chivasso" type="commune">
+        <placeName type="main">Chivasso</placeName>
+        <placeName type="alternate">Chivas</placeName>
+        <placeName type="presentation">Chivasso</placeName>
+        <location>
+          <geo>45.19 -7.89</geo>
+        </location>
+        <idno type="GeoNames">3178745</idno>
+        <note>A town about 20 km northeast of Turin that submitted to Prince Thomas after a short
+          seige in late March of 1639.</note>
       </place>
       <place sortKey="Dauphiné" xml:id="Dauphine" type="region">
         <placeName type="main">Dauphiné</placeName>
@@ -884,6 +927,18 @@
         <idno type="GeoNames">2999046</idno>
         <note>Commune north of Spain on the Mediterranean coast of France.</note>
       </place>
+      <place sortKey="Mantua" xml:id="Mantua" type="commune">
+        <placeName type="main">Mantua</placeName>
+        <placeName type="presentation">Mantua</placeName>
+        <placeName type="alternate">Mantoüe</placeName>
+        <location>
+          <geo>45.16 10.8</geo>
+        </location>
+        <idno>3174051</idno>
+        <note>Duchy in northern Italy that passed from the Gonzaga to the French Gonzaga-Nevers in
+          1627. Rival claims backed by Savoy and Spain resulted in the War of Mantuan Succession,
+          1628-31, which ended favorably for France.</note>
+      </place>
       <place sortKey="Oudun" xml:id="Oudun" type="commune">
         <placeName type="main">Oudun</placeName>
         <placeName type="presentation">Oudun</placeName>
@@ -920,10 +975,10 @@
         <idno type="GeoNames">3173179</idno>
         <note>Village in the Asti region of Piedmont, about 45 km east of Turin.</note>
       </place>
-      <place sortKey="Monferrato" xml:id="Monferrato" type="region">
-        <placeName type="main">Monferrato</placeName>
-        <placeName type="alternate">Monferrat</placeName>
-        <placeName type="presentation">Monferrato</placeName>
+      <place sortKey="Monferrat" xml:id="Monferrato" type="region">
+        <placeName type="main">Monferrat</placeName>
+        <placeName type="alternate">Monferrato</placeName>
+        <placeName type="presentation">Monferrat</placeName>
         <location>
           <geo>44.92 -8.08</geo>
         </location>
@@ -975,7 +1030,10 @@
         <location>
           <geo>44.89 -7.33</geo>
         </location>
-        <note>Town in Savoy about 50 km from Turin that came under French control in 1631.</note>
+        <note>Fortified town in Savoy about 50 km southwest of Turin that came under French control
+          in 1631. By the 1635 Treaty of Rivoli with the dukes of Savoy and Parma, France would
+          occupy Pinerolo and Casale as a defense against Spanish encroachment from Milan (Tapié, p.
+          330).</note>
         <idno type="GeoNames">3170694</idno>
       </place>
       <place sortKey="Le_Plessis-aux-Bois" xml:id="Plessis" type="commune">
@@ -1324,7 +1382,7 @@
           <keywords>
             <term>Piedmontese Civil War</term>
             <term>Military expenditures</term>
-            <term>Expressions of deference</term>
+            <term>Deference</term>
             <term>Imprisonment</term>
           </keywords>
         </textClass>
@@ -1631,7 +1689,7 @@
           <keywords>
             <term>Bereavement</term>
             <term>Largesse</term>
-            <term>Expressions of gratitude</term>
+            <term>Gratitude</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -1679,8 +1737,8 @@
           </choice>'aye esté extremement marry de sa perte, <choice>
             <orig>i</orig>
             <reg>j</reg>
-          </choice>'en ay esté plus sensiblement<pb facs="Vialart_letters_Page_04.jpg"/> touché, à cause
-          de la douleur que vous en <choice>
+          </choice>'en ay esté plus sensiblement<pb facs="Vialart_letters_Page_04.jpg"/> touché, à
+          cause de la douleur que vous en <choice>
             <orig>receuez</orig>
             <reg>recevez</reg>
           </choice>, <choice>
@@ -1803,10 +1861,10 @@
         <titleStmt>
           <title>The <persName ref="#Villa">Marquis de Ville</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 19 January 1639</title>
-	  <respStmt>
-	    <resp>Transcription assistance by</resp>
-	    <persName ref="#GL">Gloria de Liberali</persName>
-	  </respStmt>
+          <respStmt>
+            <resp>Transcription assistance by</resp>
+            <persName ref="#GL">Gloria de Liberali</persName>
+          </respStmt>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -1902,7 +1960,8 @@
             <orig>reuerenza</orig>
             <reg>reverenza</reg>
           </choice>.</p>
-        <closer><dateline>In <placeName ref="#Turin">Torino</placeName> l'19. Genaro 1639.</dateline>
+        <closer><dateline>In <placeName ref="#Turin">Torino</placeName> l'19. Genaro
+            1639.</dateline>
           <salute>Di Vostra Eminenza, Umilissimo &amp; obligatissimo <choice>
               <orig>seruitore</orig>
               <reg>servitore</reg>
@@ -1962,7 +2021,7 @@
         <textClass>
           <keywords>
             <term>Piedmontese Civil War</term>
-            <term>Expressions of loyalty</term>
+            <term>Loyalty</term>
             <term>Petitioning</term>
           </keywords>
         </textClass>
@@ -2173,10 +2232,10 @@
         <titleStmt>
           <title>The <persName ref="#Aglie">Conte d'Agliè</persName> to <persName ref="#Richelieu"
               >Cardinal Richelieu</persName>, 14 January 1639</title>
-	  <respStmt>
-	    <resp>Transcription assistance by</resp>
-	    <persName ref="#GL">Gloria de Liberali</persName>
-	  </respStmt>
+          <respStmt>
+            <resp>Transcription assistance by</resp>
+            <persName ref="#GL">Gloria de Liberali</persName>
+          </respStmt>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -2218,8 +2277,8 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Expressions of loyalty</term>
-            <term>Expressions of obedience</term>
+            <term>Loyalty</term>
+            <term>Obedience</term>
             <term>Imprisonment</term>
           </keywords>
         </textClass>
@@ -2370,7 +2429,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Expressions of politesse</term>
+            <term>Politesse</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -2418,7 +2477,8 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice> vous en dois rendre ces ceremonies, &amp; remerciemens, qui partent de la plus
-          veritable &amp; <pb facs="Vialart_letters_Page_07.jpg"/>sincere reconnoissance dont on puisse <choice>
+          veritable &amp; <pb facs="Vialart_letters_Page_07.jpg"/>sincere reconnoissance dont on
+          puisse <choice>
             <orig>receuoir</orig>
             <reg>recevoir</reg>
           </choice> les <choice>
@@ -2509,7 +2569,7 @@
         <textClass>
           <keywords>
             <term>Petitioning</term>
-            <term>Expressions of loyalty</term>
+            <term>Loyalty</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -2943,7 +3003,7 @@
         <textClass>
           <keywords>
             <term>Piedmontese Civil War</term>
-            <term>Expressions of loyalty</term>
+            <term>Loyalty</term>
             <term>Military expenditures</term>
             <term>Munitions</term>
             <term>Imprisonment</term>
@@ -3671,10 +3731,10 @@
           vingt-quatriéme <orig>Ianuier</orig><reg>Janvier</reg>, les ordres que vous <choice>
             <orig>auez</orig>
             <reg>avez</reg>
-          </choice> donnez, tant pour le payement <pb facs="Vialart_letters_Page_12.jpg"/>des garnisons
-          de <placeName ref="#Casale">Cazal</placeName> &amp; de <placeName ref="#Pinerolo"
-            >Pignerol</placeName>, durant les trois premiers mois de ceste année, que pour les
-          subsistances de l'armée.</p>
+          </choice> donnez, tant pour le payement <pb facs="Vialart_letters_Page_12.jpg"/>des
+          garnisons de <placeName ref="#Casale">Cazal</placeName> &amp; de <placeName
+            ref="#Pinerolo">Pignerol</placeName>, durant les trois premiers mois de ceste année, que
+          pour les subsistances de l'armée.</p>
         <p>Les cent septante cinq mil <choice>
             <orig>liures</orig>
             <reg>livres</reg>
@@ -4532,8 +4592,8 @@
             <orig>nouuelles</orig>
             <reg>nouvelles</reg>
           </choice> de Vostre Eminence depuis que le <persName ref="#Tommaso">prince
-            Thomas</persName> est party <pb facs="Vialart_letters_Page_16.jpg"/> de Flandre pour venir
-          icy, <persName ref="#Christine">Madame</persName> a reçeu <choice>
+            Thomas</persName> est party <pb facs="Vialart_letters_Page_16.jpg"/> de Flandre pour
+          venir icy, <persName ref="#Christine">Madame</persName> a reçeu <choice>
             <orig>vne</orig>
             <reg>une</reg>
           </choice> dépesche de son Ambassadeur, &amp; de Monsieur de Pizieux par <choice>
@@ -4870,8 +4930,8 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice> vous ay mandé par Monsieur d'<persName ref="#Argenson">Argençon</persName>, de
-            <persName ref="#Palluau">Palluau</persName>, &amp; de Bonnelle, sur ce suiet ; car si les
-          ennemis <choice>
+            <persName ref="#Palluau">Palluau</persName>, &amp; de Bonnelle, sur ce suiet ; car si
+          les ennemis <choice>
             <orig>enuoyent</orig>
             <reg>envoyent</reg>
           </choice> des Troupes en Espagne ou Allemagne, &amp; qu'il n'y ait point de <choice>
@@ -4942,8 +5002,8 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice> le declarasse aux principaux de cét Estat, que le <pb
-            facs="Vialart_letters_Page_18.jpg"/> Roy ne souffriroit pas que le <persName ref="#Tommaso"
-            >Prince Thomas</persName> vint en Piedmont, ce qu'elle témoine apprehender <choice>
+            facs="Vialart_letters_Page_18.jpg"/> Roy ne souffriroit pas que le <persName
+            ref="#Tommaso">Prince Thomas</persName> vint en Piedmont, ce qu'elle témoine apprehender <choice>
             <orig>auec</orig>
             <reg>avec</reg>
           </choice> beaucoup de raison, <choice>
@@ -5158,7 +5218,7 @@
           <keywords>
             <term>Piedmontese Civil War</term>
             <term>Petitioning</term>
-            <term>Expressions of loyalty</term>
+            <term>Loyalty</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -5639,8 +5699,8 @@
           <keywords>
             <term>Piedmontese Civil War</term>
             <term>Recruits</term>
-            <term>Expressions of politesse</term>
-            <term>Expressions of deference</term>
+            <term>Politesse</term>
+            <term>Deference</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -5655,9 +5715,9 @@
             <date/>
           </correspAction>
           <note>La Valette thanks Richelieu for promised assistance which, along with Christine's
-            2,000 infantry, minimizes the threat posed by Prince Thomas. <hi rend="ital">Note:
-            </hi>The letter from Richelieu of February 24 that La Valette references here is
-            reproduced in Avenel, <hi rend="italic">Lettres</hi> Volume 6, pp. 287-88.</note>
+            2,000 infantry, minimizes the threat posed by Prince Thomas. Note: The letter from
+            Richelieu of February 24 that La Valette references here is reproduced in Avenel Volume
+            6, pp. 287-88.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6131,6 +6191,935 @@
       </body>
     </text>
   </TEI>
+  <TEI xml:id="letter21">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, [31] March 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="22" to="24"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Battlefield reports</term>
+            <term>Officers</term>
+            <term>Piedmontese Civil War</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Valette"/>
+            <placeName ref="#Turin"/>
+            <date>1639-03-31</date>
+            <note>Date is approximate; based on internal evidence between 27 and 31 March
+              1639.</note>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>La Valette reports that Chivas (Chivasso) has fallen to combined forces of Prince
+            Thomas and Spain; the armies of France and Savoy mounted an attack but withdrew to
+            reinforce Turin, where an attack is feared.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_22.jpg"/>
+        <opener><salute><choice>
+              <orig>Monseignevr</orig>
+              <reg>Monseigneur</reg>
+            </choice>
+          </salute>
+        </opener>
+        <p><pb facs="Vialart_letters_Page_22.jpg"/> Vous aurez <choice>
+            <orig>desia</orig>
+            <reg>desja</reg>
+          </choice> sçeu par le <seg>sieur Colbert<note>Possibly Jean-Baptiste Colbert, future
+              minister of finance under Louis XIV, who began his career in the war office before
+              1639, first as inspector of troops, later as the personal assistant to Michel le
+              Tellier, secretary of war (Wikipedia).</note></seg> le trouble ou estoit <placeName
+            ref="#Turin">Turin</placeName> lors qu'il est party d'icy, la stupidité du <choice>
+            <orig>Gouuerneur</orig>
+            <reg>Gouverneur</reg>
+          </choice> de <placeName ref="#Chivasso"><choice>
+              <orig>Chiuas</orig>
+              <reg>Chivas</reg>
+            </choice></placeName>, &amp; sa negligence extrême, sont cause de la perte de la place,
+          &amp; m'ont obligé à quitter l'entreprise où <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'estois obligé pour le secours du Chansé, de peur que l'estonnement où estoient
+          toutes choses ne fissent perdre Turin. Nous estions <choice>
+            <orig>aduancez</orig>
+            <reg>advancez</reg>
+          </choice> en toute diligence pour secourir le Chansé, &amp; le Samedy 26. de ce mois, nous
+          marchasmes <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> les Troupes du Roy, &amp; douze ou quinze cens <choice>
+            <orig>cheuaux</orig>
+            <reg>chevaux</reg>
+          </choice> de <persName ref="#Christine">Madame</persName>, pour attaquer les Ennemis dans
+          leur retranchement: Nous commençasmes par l'attaque d'<choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> montagne où les ennemis <choice>
+            <orig>auoient</orig>
+            <reg>avoient</reg>
+          </choice> de petits forts, que Monsieur <persName ref="#PlessisP">du Plessis</persName>
+          emporta <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice>
+          <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> des brigades de l'armée, pendant que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> faisois marcher l'autre où estoit le Marquis de Rangon par <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> autre chemin, apres que Monsieur du Plessis Praslin eut gagné toutes les
+          hauteurs, nous resolusmes d'attaquer le retranchement, quoy que l'accez fut extremement
+          difficile, l'attaque fut fort grande, &amp; dura huict heures entieres sans relasche du
+          costé de Monsieur du Plessis Prassin, &amp; <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> croy que si nostre Escadron de <choice>
+            <orig>Caualerie</orig>
+            <reg>Cavalerie</reg>
+          </choice> eut rompu celuy des Ennemis qui vint à luy, que nous eussions deffait toute leur
+          armée, mais nostre escadron ayant esté <choice>
+            <orig>renuersé</orig>
+            <reg>renversé</reg>
+          </choice> sur l'infanterie, il y eut quelque desordre, &amp; il nous fut <pb
+            facs="Vialart_letters_Page_23.jpg"/> impossible de <choice>
+            <orig>conseruer</orig>
+            <reg>conserver</reg>
+          </choice> le retranchement que nous emportasmes par <choice>
+            <orig>diuerses</orig>
+            <reg>diverses</reg>
+          </choice> fois: &amp; apres <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> combattu durant huict heures, nous nous logeasmes sur les hauteurs, d'où nous <choice>
+            <orig>auions</orig>
+            <reg>avions</reg>
+          </choice> chassé les Ennemis, resolus de tenter toutes sortes de moyens pour secourir la
+          place, &amp; de commencer encore <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> seconde attaque; mais comme nous <choice>
+            <orig>auions</orig>
+            <reg>avions</reg>
+          </choice> fait venir <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> piece de Canon telle que nous la peûmes <choice>
+            <orig>trouuer</orig>
+            <reg>trouver</reg>
+          </choice>, la <choice>
+            <orig>nouuelle</orig>
+            <reg>nouvelle</reg>
+          </choice> de la prise de <choice>
+            <orig>Chiuas</orig>
+            <reg>Chivas</reg>
+          </choice>
+          <choice>
+            <orig>arriua</orig>
+            <reg>arriva</reg>
+          </choice>, &amp; <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'appris l'estonnement de Turin si grand, que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> fus obligé d'y venir remedier sur l'instance qui m'en fut faite, &amp; par
+          Madame, &amp; par tous ceux qui estoient icy.</p>
+        <p>Monsieur du Plessis Prassin a acquis grand honneur dans nostre Combat, &amp; le Roy,
+          &amp; Vostre Eminence, ont beaucoup de <choice>
+            <orig>suiet</orig>
+            <reg>sujet</reg>
+          </choice> d'en faire cas.</p>
+        <p>Le sieur de Campet y a aussi fait des <choice>
+            <orig>merueilles</orig>
+            <reg>merveilles</reg>
+          </choice>, &amp; quoy que blessé de deux mousquetades, n'a pas laisse de mener toutes les
+          Troupes à la charge toutes les fois qu'elles y ont esté.</p>
+        <p>Les Officiers de l'Infanterie du Roy y ont
+            <orig>merueilleusement</orig><reg>merveilleusement</reg> bien <choice>
+            <orig>seruy</orig>
+            <reg>servy</reg>
+          </choice>, de deux Capitaines de Nerestan qui estoient en ce combat bon, a esté tué le
+          nommé Arensy, l'autre nommé la Motte qui a esté mousquetaire du Roy, y reçeut huict
+          mousquetades, sans estre que fort peu blessé, il fit des choses extraordinaires, de trois
+          Capitaines de Maugeron deux furent bléssez de trois, de trois de Chamblé, il y en eust
+          aussi deux de blessez, &amp; ainsi des autres Regimens qui donnerent.</p>
+        <p>Senantes fut blessé d'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> coup de mousquet, &amp; <persName ref="#Turenne">la Tour</persName> qui
+          commandoit <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> des Regimens de <persName ref="#Christine">Madame</persName> fit aussi fort
+          bien.</p>
+        <p>Le Commandeur de <choice>
+            <orig>Souuré</orig>
+            <reg>Souvré</reg>
+          </choice> qui commandoit <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> Escadron fit extremement bien. Il demeura plus de cinq heures exposé aux
+          mousquetades, &amp; <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> croy que s'il fut <choice>
+            <orig>arriué</orig>
+            <reg>arrivé</reg>
+          </choice> au commencement qu'il eut rompu l'escadron des Ennemis qui <choice>
+            <orig>sauua</orig>
+            <reg>sauva</reg>
+          </choice> leur retranchement.</p>
+        <p>Nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> perdu cinquante ou soixante hommes sur la place, &amp; quelques 200. blessez,
+          &amp; beaucoup d'Officiers pour le petit nombre que nous en <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice>, &amp; quantité de mousquets. Les ennemis ont perdu beaucoup plus de gens que
+          nous d'<choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> seule charge, on leur tua trois Capitaines Espagnols, &amp; plus de cent hom-
+          mes. Ils estoient sept mil hommes de pied, &amp; quinze cens ou deux mil cheuaux, &amp;
+          nous n'auons que cinq mil hommes de pied compris, sept cens hommes de Madame, parce que
+          nous n'<choice>
+            <orig>auions</orig>
+            <reg>avions</reg>
+          </choice> pas pû tirer le Regiment d'Aiguebonne, ce que nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> d'Infanterie est fort bonne, il nous manque des Officiers, parce que la pluspart
+          sont aux recreuës, mais si nos Troupes passent bien-tost, &amp; qu'elles soient fortes,
+          nous donnerons bien de la peine aux Ennemis.</p>
+        <p><choice>
+            <orig>Chiuas</orig>
+            <reg>Chivas</reg>
+          </choice> a esté surpris par quatre hommes, s'il ne l'eust esté les Ennemis ne <choice>
+            <orig>pouuoient</orig>
+            <reg>pouvoient</reg>
+          </choice> rien faire, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> crois que nous eussions secouru le Chansé, &amp; peut-estre qu'ils eussent eu de
+          la peine à se retirer, maintenant <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> seray plus foible en campagne, à cause des gens qui sont necessaire pour Turin,
+          car vous <choice>
+            <orig>pouuez</orig>
+            <reg>pouvez</reg>
+          </choice> bien <choice>
+            <orig>iuger</orig>
+            <reg>juger</reg>
+          </choice> de l'<choice>
+            <orig>espouuante</orig>
+            <reg>espouvante</reg>
+          </choice> qui y est, par ce que vous en aura dit le sieur Colbert quoy qu'il en soit, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> puis asseurer Vostre Eminence que i'essayeray de faire mon <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice>, &amp; de mourir plustost que de faire rien d'indigne de l'honneur que vous m'<choice>
+            <orig>auez</orig>
+            <reg>avez</reg>
+          </choice> procuré.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> ne croy pas qu'il faille prendre l'alarme si grande qu'elle est icy, il est vray
+          qu'il faut maintenant que nous soyons forts pour faire quelque chose, à cause du peu de
+          seureté qu'il y a <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> ceux du pays, &amp; de la garnison qu'il faut laisser à Turin.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> viens de voir <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> estat de l'armée que <persName ref="#Argenson">Monsieur d'Argençon</persName>
+          m'a <choice>
+            <orig>enuoyé</orig>
+            <reg>envoyé</reg>
+          </choice>, lequel <pb facs="Vialart_letters_Page_24.jpg"/> est de dix-huict Regimens
+          d'infanteries, de celuy de <choice>
+            <orig>Riuare</orig>
+            <reg>Rivare</reg>
+          </choice>, &amp; du Regiment Dauphin. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> crains bien, Monseigneur, que si on reduit ces vingt-quatre Regimens du premier
+          estat, qu'on m'<choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice>
+          <choice>
+            <orig>enuoyé</orig>
+            <reg>envoyé</reg>
+          </choice> à dix-huict qu'il ne passe que fort peu d'infanterie, car le Regiment de <choice>
+            <orig>Riuare</orig>
+            <reg>Rivare</reg>
+          </choice> ne peut sortir de <placeName ref="#Casale">Cazal</placeName>, ny <choice>
+            <orig>seruir</orig>
+            <reg>servir</reg>
+          </choice> à la Campagne, ainsi que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> l'ay mandé <choice>
+            <orig>diuerses</orig>
+            <reg>diverses</reg>
+          </choice> fois. Et le Regiment Dauphin n'est pas encore <choice>
+            <orig>leué</orig>
+            <reg>levé</reg>
+          </choice>, de sorte que cette armée seroit encore plus foible que l'année passée, estant
+          moindre de six Regimens, &amp; l'argent de plusieurs recreuës n'estant pas encore donné à
+          ce qu'on me mande de Dauphiné.</p>
+        <p>L'entreprise de Vercel ne s'est pas executée, parce que les Ennemis se mirent ensemble
+          six <choice>
+            <orig>iours</orig>
+            <reg>jours</reg>
+          </choice>
+          <choice>
+            <orig>deuant</orig>
+            <reg>devant</reg>
+          </choice> qu'on ne la deust executer.</p>
+        <p><choice>
+            <orig>I'auois</orig>
+            <reg>J'avois</reg>
+          </choice> pensé d'aller prendre la poste de Crescentin, pour me loger derriere le
+            <persName ref="#Tommaso">Prince Thomas</persName>, mais <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'ose abandonner Turin, où <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> crains <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> estonnement, &amp; non pas <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> siege.</p>
+        <p>Vostre Eminence aura sçeu par le sieur <choice>
+            <sic>Colebert</sic>
+            <corr>Colbert</corr>
+          </choice> comme Madame a <choice>
+            <orig>enuoyé</orig>
+            <reg>envoyé</reg>
+          </choice> ses enfans en <choice>
+            <orig>Sauoye</orig>
+            <reg>Savoye</reg>
+          </choice>, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'eusse souhaitté qu'elle se fut contentée de les <choice>
+            <orig>enuoyer</orig>
+            <reg>envoyer</reg>
+          </choice> à <placeName ref="#Pinerolo">Pignerol</placeName>, mais <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne me suis pas <choice>
+            <orig>trouué</orig>
+            <reg>trouvé</reg>
+          </choice> icy.</p>
+        <p>Le Chancelier de Cazal est mort, nous sommes resolus de ne laisser pas entrer l'<choice>
+            <orig>Euesque</orig>
+            <reg>Evesque</reg>
+          </choice> sans ordre du Roy, ou de Vostre Eminence, il n'y aura point de changement à la
+          ville, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> croy qu'il est necessaire de donner quelques pensions dans Cazal, &amp; surtout
+          à quelque Senateurs, &amp; particulierement à <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> nommé <choice>
+            <orig>Reuere</orig>
+            <reg>Revere</reg>
+          </choice>, qui s'est declaré pour le Roy, &amp; lequel est le plus capable de tous ; il y
+          en a aussi <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> nommé Nacé, que le feu Chancelier me dit qu'il falloit bien traiter.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> n'auray peut-estre pas le loisir d'escrire d'icy en <choice>
+            <orig>auant</orig>
+            <reg>avant</reg>
+          </choice> si au long à Vostre Eminence, à cause de l'occupation que nous donneront les
+          Ennemis, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous supplie tres-humblement de ne le <choice>
+            <orig>trouuer</orig>
+            <reg>trouver</reg>
+          </choice> pas estrange, &amp; de croire que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne perdray <choice>
+            <orig>iamais</orig>
+            <reg>jamais</reg>
+          </choice> la memoire de ce que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous dois, ny les occasions de vous témoigner par mon tres-humble <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis,</p>
+        <closer>Vostre, &amp;c.</closer>
+        <postscript>
+          <p>En m'en allant à l'armée, <choice>
+              <orig>i</orig>
+              <reg>j</reg>
+            </choice>'ay prié Monsieur de la Cour de demeurer aupres de Madame, ce qu'il a fait,
+            &amp; <choice>
+              <orig>ie</orig>
+              <reg>je</reg>
+            </choice> croy que sa presence n'y a pas esté inutile, c'est <choice>
+              <orig>vn</orig>
+              <reg>un</reg>
+            </choice> fort homme de bien tres-capable, &amp; auquel elle prend confiance, toute
+            nostre infanterie a bien fait, mais surtout le Regiment de Chamblé. </p>
+        </postscript>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter22">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Christine">Christine of France</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 2 April 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="24" to="25"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Petitioning</term>
+            <term>Loyalty</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Christine"/>
+            <placeName ref="#Turin"/>
+            <date>1639-04-02</date>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>Christine asks Richelieu to press Louis XIII for additional aid to Savoy, reminding
+            him that the allies of France are watching.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_24.jpg"/>
+        <opener><salute><choice>
+              <orig>Monsievr</orig>
+              <reg>Monsieur</reg>
+            </choice>
+            <seg>Mon <choice>
+                <orig>Covsin</orig>
+                <reg>Cousin</reg>
+              </choice>,<note>As Princes of the Church, cardinals were addressed as "Mon Cousin" by
+                royalty.</note></seg></salute></opener>
+        <p>L'Abbé de la Montagne que <choice>
+            <orig>i'enuoye</orig>
+            <reg>j'envoye</reg>
+          </choice> au <persName ref="#Louis13">Roy mon Frere</persName>, pour luy representer
+          l'estat où <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> me <choice>
+            <orig>trouue</orig>
+            <reg>trouve</reg>
+          </choice>, luy dira que toute ma confiance est en vous, tellement que c'est le temps qu'il
+          me faut assister, si vous ne me voulez perdre entierement, &amp; en mesme temps, tous vos
+          Alliez qui se descourageront de voir que l'on a si peu de soin de ceux qui sacrifient,
+          &amp; leurs vies, &amp; leurs Estats, pour le <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> de la France, comme <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay fait en embrassant <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> party que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay bien connu que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'y <choice>
+            <orig>pouuois</orig>
+            <reg>pouvois</reg>
+          </choice> beaucoup <pb facs="Vialart_letters_Page_25.jpg"/> plus perdre qu'acquerir, c'est
+          dequoy <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> croy qu'on me doit <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> plus d'obligation d'<choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> connu le peril, &amp; ne laisser pas de le <choice>
+            <orig>suyure</orig>
+            <reg>suyvre</reg>
+          </choice>, pour complaire a ceux de la France &amp; <choice>
+            <orig>seruir</orig>
+            <reg>servir</reg>
+          </choice> de toutes mes forces le Roy mon Frere ; c'est <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> m'asseure aussi ce qui fera qu'<choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> plus d'ardeur vous embrasserez mes interests, &amp; <choice>
+            <orig>conseruerez</orig>
+            <reg>conserverez</reg>
+          </choice> vostre reputation par ce moyen que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vois bien engagée <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> ma perte, vous <choice>
+            <orig>auez</orig>
+            <reg>avez</reg>
+          </choice> le courage trop bon pour me laisser perir honteusement, &amp; trop d'amitié pour
+          n'apporter de present remede à mon mal: Faites donc les offices aupres du Roy que vous <choice>
+            <orig>iugerez</orig>
+            <reg>jugerez</reg>
+          </choice> necessaires pour acquerir autant de gloire que les Ennemis de cette Couronne
+          vous soûhaittent de la honte, &amp; faites <choice>
+            <orig>souuenir</orig>
+            <reg>souvenir</reg>
+          </choice> à sa Maiesté qu'elle m'a escrit, &amp; fait dire qu'elle mettroit le tout pour
+          le tout, c'est maintenent qu'il en faut voir les effects, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> les espere par vostre moyen, &amp; n'en veux chercher point d'autres remedes à
+          mes maux que ceux que vous y apporterez, me remettant à l'Abbé de vous dire le sur-plus,
+          &amp; <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> combien de passion <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis.</p>
+        <closer><salute>Vostre, &amp;c.</salute><dateline>De Turin ce 2. <choice>
+              <orig>Auril</orig>
+              <reg>Avril</reg>
+            </choice> 1639.</dateline></closer>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter23">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Turenne">Général de La Tour</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, n.d.</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="25" to="26"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Imprisonment</term>
+            <term>Obedience</term>
+            <term>Officers</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Turenne"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>De La Tour defends his actions in detaining a bishop and a doctor from Turin. The
+            doctor later escaped but produced a passport signed by Louis XIII; de La Tour did not
+            attempt to detain him further.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_25.jpg"/>
+        <opener><salute><choice>
+              <orig>Monseignevr</orig>
+              <reg>Monseigneur</reg>
+            </choice></salute></opener>
+        <p>Dés que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis <choice>
+            <orig>arriué</orig>
+            <reg>arrivé</reg>
+          </choice> à <placeName ref="#Casale">Cazal</placeName> par le commandement du <persName
+            ref="#Louis13">Roy</persName> &amp; de vous, l'on apprehendoit le retour de Monsieur l'<choice>
+            <orig>Euesque</orig>
+            <reg>Evesque</reg>
+          </choice>, qui estoit sur son partement de France, <choice>
+            <orig>reuenant</orig>
+            <reg>revenant</reg>
+          </choice> de son Ambassade, &amp; fut <choice>
+            <orig>tousiours</orig>
+            <reg>tousjours</reg>
+          </choice> dit par Monsiegneur le grand Chancelier qu'il ne se <choice>
+            <orig>deuoit</orig>
+            <reg>devoit</reg>
+          </choice> point souffrir en cette ville icy, &amp; ce fut l'opinion de tous ceux qui sont
+          affectionnez au <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> du Roy &amp; du Duc, c'a esté aussi l'opinion de Monsiegneur le Cardinal de la
+          Valette, &amp; me l'a dit ainsi lors que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> le quittay à <placeName ref="#Moncalvo"><choice>
+              <orig>Moncalue</orig>
+              <reg>Moncalve</reg>
+            </choice></placeName> allant en <placeName ref="#Asti">Ast</placeName>, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'en escris à Monsieur de <choice>
+            <orig>Chauigny</orig>
+            <reg>Chavigny</reg>
+          </choice> dés le commencement, mais <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'en eus point de response. Monsieur le grand Chancelier mourut, &amp; l'<choice>
+            <orig>Euesque</orig>
+            <reg>Evesque</reg>
+          </choice> est venu en ce pays, auquel <choice>
+            <orig>i'enuoyay</orig>
+            <reg>j'envoyay</reg>
+          </choice> dés qu'il fut à Lyon, ou peu au deçà, donner <choice>
+            <orig>aduis</orig>
+            <reg>advis</reg>
+          </choice> que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne le <choice>
+            <orig>pouuois</orig>
+            <reg>pouvois</reg>
+          </choice>
+          <choice>
+            <orig>receuoir</orig>
+            <reg>recevoir</reg>
+          </choice> icy, s'il n'<choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice>
+          <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> commandement pour moy de le faire du <persName ref="#Louis13">Roy</persName>, ou
+          de vous, ou de Monsiegneur le <persName ref="#Valette">Cardinal de la Valette</persName>,
+          celuy qui l'alla <choice>
+            <orig>trouuer</orig>
+            <reg>trouver</reg>
+          </choice> fut <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> des siens <choice>
+            <orig>enuoyé</orig>
+            <reg>envoyé</reg>
+          </choice> d'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> Prestre qui fait icy ses affaires, lequel me rapporta qu'il ne l'<choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> point rencontré, &amp; qu'il alloit par Gennes, cela m'obligea de faire tenir
+          Monsieur Vedrines, Medecin à Turin, pour luy faire la mesme priere de ne venir pas s'il n'<choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> le commandement ; il passa sans qu'on le vit, &amp; n'alla point voir
+          Monsiegneur le Cardinal de la Valette qui estoit à <placeName ref="#Turin"
+            >Turin</placeName>, ny Monsieur le Nonce qui est son amy, &amp; alla droit à <placeName
+            ref="#Chivasso"><choice>
+              <orig>Chiuas</orig>
+              <reg>Chivas</reg>
+            </choice></placeName>, où il descendit de sa barque, &amp; le lendemain vint au Pont
+          d'Esture, où <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> luy <choice>
+            <orig>enuoyay</orig>
+            <reg>envoyay</reg>
+          </choice> Monsieur Garein pour luy dire les diligences que <choice>
+            <orig>i'auois</orig>
+            <reg>j'avois</reg>
+          </choice> faites, pour luy donner <choice>
+            <orig>aduis</orig>
+            <reg>advis</reg>
+          </choice> de ne venir pas icy, &amp; que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> le suppliois de vouloir continuer son chemin à <placeName ref="#Mantua"
+            >Mantoüe</placeName>, il dit qu'il ne croyoit pas que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'eusse ordre de l'empescher de venir <pb facs="Vialart_letters_Page_26.jpg"/> en
+          sa maison veu qu'il estoit party d'aupres du Roy <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> de si bons traitemens, &amp; de vous, &amp; que c'estoient ses ennemis qui luy
+          causoient ce déplaisir, il m'<choice>
+            <orig>enuoya</orig>
+            <reg>envoya</reg>
+          </choice> montrer son passeport qu'il a du Roy, qui ordonne de le laisser passer, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne l'en ay point empesché, il n'est rien dit de Cazal dans ce passe-port fondé
+          sur l'<choice>
+            <orig>aduis</orig>
+            <reg>advis</reg>
+          </choice> de feu Monseigneur le Grand Chancelier, &amp; celuy de tous ceux qui ayment icy
+          le <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> du Roy.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> n'ay point creu errer d'empescher qu'il ne vint icy, car il y fut demeuré, &amp;
+          luy eut esté <choice>
+            <orig>enuoyé</orig>
+            <reg>envoyé</reg>
+          </choice> l'authorité sur le Conseil, dont il eut esté declaré le chef, &amp; auroit fait
+          du mal, il se resolut de se debarquer, &amp; alla par terre du Pont d'Esture à <placeName
+            ref="#Brienne">Brienne</placeName>, &amp; sa barque l'y alla <choice>
+            <orig>ioindre</orig>
+            <reg>joindre</reg>
+          </choice>, ceux du Conseil, en ont esté bien-ayses, &amp; croy qu'ils seront bien
+          satis-faits d'agir tous ensemble dans le <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> qu'ils ont à faire : à quoy <persName ref="#MariaG">Madame la Princesse de
+            Mantouë</persName> a <choice>
+            <orig>desia</orig>
+            <reg>deja</reg>
+          </choice> consenty, apres <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> sçeu que l'on ne <choice>
+            <orig>receuoit</orig>
+            <reg>recevoit</reg>
+          </choice> personne sans ordre du Roy, ou de Vostre Eminence. Elle leur voulut témoigner
+          cette bonne volonté, ils m'ont asseuré de ne s'assembler pas pour mille affaire d'Estat ou
+          d'interest d'armes sans m'y appeller ; Et pour ce qui est des affaires de son Altesse de
+          Mantouë, touchant son <choice>
+            <orig>reuenu</orig>
+            <reg>revenu</reg>
+          </choice>, &amp; leurs affaires <choice>
+            <orig>Ciuilles</orig>
+            <reg>Civilles</reg>
+          </choice>, ils continueront comme ils faisoient tous ensemble ; Il y a partie de ces
+          Messieurs là qui sont fort affectionnez au <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> du Roy, &amp; croy qu'ils <choice>
+            <orig>seruiront</orig>
+            <reg>serviront</reg>
+          </choice> sà <choice>
+            <orig>Maiesté</orig>
+            <reg>Majesté</reg>
+          </choice>, en le faisant ils meriteront bien d'estre reconnus pour tels, ainsi que
+          Monseigneur, le Cardinal de la Valette en a écrit à leur recommandation, demandant la voye
+          de leur donner quelque pension, ils sont connus de luy, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay creu que c'estoit le mieux pour l'interest du Roy que le Conseil ensemble
+          agisse, car si Monsieur l'<choice>
+            <orig>Euesque</orig>
+            <reg>Evesque</reg>
+          </choice> fust esté chef, ayant sa faction forte, cela eust pû apporter du mal : <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> represente à Vostre Eminence comme <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay procedé en cette affaire, &amp; la supplie tres-humblement de croire que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'ay eu autre but que de <choice>
+            <orig>seruir</orig>
+            <reg>servir</reg>
+          </choice> le Roy en cela, &amp; croy qu'il se <choice>
+            <orig>deuoit</orig>
+            <reg>devoit</reg>
+          </choice> ainsi, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> la irray attendant ce que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay à faire pour l'interest de l'Inquisition, qui est encore <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> chose à considerer. Vostre Eminence donnera, s'il luy plaist, ses commandemens
+          la dessus, &amp; moy <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'y obeiray <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> tous les soins &amp; affections que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> dois pour mieux meriter l'honneur d'estre creu de Vostre Eminence, comme <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis.</p>
+        <closer><salute>Vostre, &amp;c.</salute></closer>
+      </body>
+    </text>
+  </TEI>
   <TEI xml:id="letter50">
     <teiHeader>
       <fileDesc>
@@ -6426,7 +7415,7 @@
           <keywords>
             <term>Mercenaries</term>
             <term>Officers</term>
-            <term>Expressions of gratitude</term>
+            <term>Gratitude</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -6440,7 +7429,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Hepburn thanks Richelieu and Louis XIII for entrusting him with a larger regiment.</note>
+          <note>Hepburn thanks Richelieu and Louis XIII for entrusting him with a larger
+            regiment.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -6661,8 +7651,8 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>Expressions of loyalty</term>
-            <term>Expressions of obedience</term>
+            <term>Loyalty</term>
+            <term>Obedience</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -6688,8 +7678,8 @@
         <opener><salute>Monsieur</salute></opener>
         <p><lb/>Comme le courrier <lb/>partoit, <persName ref="#Arpajon">Monsieur
             d'Arpajon</persName>
-          <lb/>est arrivé, lequel <lb/>satisfera le plus dilli-<lb break="no"/>gemment qu'il ce pourra <lb/>a
-          vos ordres, il ce donne <lb/>l'<choice>
+          <lb/>est arrivé, lequel <lb/>satisfera le plus dilli-<lb break="no"/>gemment qu'il ce
+          pourra <lb/>a vos ordres, il ce donne <lb/>l'<choice>
             <sic>onneur</sic>
             <corr>honneur</corr>
           </choice> de vous en <gap reason="illegible"/>
@@ -6984,14 +7974,14 @@
         <p><lb/>C'est ce qui fait Monseigneur, que Je suis tres ayse<lb/>de vous voir aujourd'huy en <choice>
             <orig>vn</orig>
             <reg>un</reg>
-          </choice> lieu d'ou vous rempl-<lb break="no"/>irés toute la terre de lumiere, et ou vostre seul
-          exe-<lb break="no"/>mple aura tant d'autorite qu'il pourra faire <choice>
+          </choice> lieu d'ou vous rempl-<lb break="no"/>irés toute la terre de lumiere, et ou
+          vostre seul exe-<lb break="no"/>mple aura tant d'autorite qu'il pourra faire <choice>
             <orig>reue-<lb break="no"/>nir</orig>
             <reg>reve-<lb break="no"/>nir</reg>
           </choice> la face de l'eglize a la pureté de sa naissance.</p>
         <p><lb/>Certainement s'il y a apparance d'atandre ce bien<lb/>et de voir les esprits des
-          rebelles persuadés com-<lb break="no"/>me nous voyons leurs villes forcees, Vous estes celuy<lb/>de
-          qui nous le <choice>
+          rebelles persuadés com-<lb break="no"/>me nous voyons leurs villes forcees, Vous estes
+          celuy<lb/>de qui nous le <choice>
             <orig>deuons</orig>
             <reg>devons</reg>
           </choice> esperer, et qui estes capable<lb/>d'<choice>
@@ -7004,8 +7994,8 @@
           </choice> pour <choice>
             <orig>vne</orig>
             <reg>une</reg>
-          </choice> derniere Instru-<lb break="no"/>ction, et la paix generalle des consciences: Et<lb/>moy,
-          qui cherche il y a si longtemps l'idee de<lb/>l'eloquance sans que J'en <choice>
+          </choice> derniere Instru-<lb break="no"/>ction, et la paix generalle des consciences:
+          Et<lb/>moy, qui cherche il y a si longtemps l'idee de<lb/>l'eloquance sans que J'en <choice>
             <orig>trouue</orig>
             <reg>trouve</reg>
           </choice> parmy nous qui<lb/>ne soit ou faure, ou Imparfaite, Je me promets que<lb/>vous
@@ -7034,8 +8024,8 @@
           elle scaura que cete<lb/>consideration m'obligea premierement de reche-<pb
             facs="MLM99921_130530v_0001-hpr_4v.jpg" n="4v"/><lb/>rcher vostre connoissance, et que
           vous ayant ouÿ<lb/> parler vous <seg>gaignastes<note>from Middle French "gaigner," to
-              win</note></seg> si absolument mon Espr-<lb break="no"/>it et mon affection, que despuis ce temps
-          la Je<lb/>vous regarday tousjours comme <choice>
+              win</note></seg> si absolument mon Espr-<lb break="no"/>it et mon affection, que
+          despuis ce temps la Je<lb/>vous regarday tousjours comme <choice>
             <orig>vn</orig>
             <reg>un</reg>
           </choice> homme ext-<lb break="no"/>raordinaire, et fus passionnement.</p>
@@ -7677,7 +8667,7 @@
         <textClass>
           <keywords>
             <term>Aristocracy</term>
-            <term>Expressions of politesse</term>
+            <term>Politesse</term>
             <term>Petitioning</term>
           </keywords>
         </textClass>
@@ -8202,8 +9192,8 @@
           tant de meilleurs affaires porter ses armes en lieu, ou on ne luy <lb/>oppose que de
           l'armes, sa presence tant necessarie ailleurs, ou on ne rem- <lb/>pare que de sa sacreé
           parole, et si ceux de <placeName ref="#Rochelle">la Rochelle</placeName>, chargez par
-          l'assem-<lb break="no"/>bleé de <placeName ref="#Oudun">Loudun</placeName>, en cas d'inexecution apres
-          les 6. mois, de <choice>
+            l'assem-<lb break="no"/>bleé de <placeName ref="#Oudun">Loudun</placeName>, en cas
+          d'inexecution apres les 6. mois, de <choice>
             <orig>conuoquer</orig>
             <reg>convoquer</reg>
           </choice> un autre <lb/>assembleé, n'ont pas <choice>
