@@ -2,6 +2,7 @@
    xmlns:date="http://exslt.org/dates-and-times"
    xmlns:parse="http://cdlib.org/xtf/parse"
    xmlns:xtf="http://cdlib.org/xtf"
+   xmlns:xs="http://www.w3.org/2001/XMLSchema"
    xmlns:FileUtils="java:org.cdlib.xtf.xslt.FileUtils"
    extension-element-prefixes="date FileUtils"
    xpath-default-namespace="http://www.tei-c.org/ns/1.0"
@@ -317,11 +318,29 @@
    <xsl:template name="get-tei-date">
      <!-- modified 2020-05-06 to get the correct <date> only for JTR —Syd -->
      <!-- modified 2020-05-07 to use (only) @when —Syd -->
+     <!--
+	 modified 2020-05-23 by Syd:
+	 * allow for @notBefore and @notAfter
+	 * default value is set to (hard-coded) avg of all letters sent
+	   (Use average_date_sent.xslt to calculate it.)
+	 * keep attributes so we can use them in "add-fields"
+     -->
      <date xtf:meta="true">
-       <xsl:value-of select="(
-         /TEI/teiHeader/profileDesc/correspDesc/correspAction[@type eq 'sent']/date/@when,
-         /TEI/teiHeader/fileDesc/sourceDesc/bibl/date/@when,
-         'unknown')[1]"/>
+       <xsl:for-each select="/TEI/teiHeader/profileDesc/correspDesc/correspAction[@type eq 'sent']/date">
+	 <xsl:apply-templates select="@*"/>
+	 <xsl:choose>
+	   <xsl:when test="@when"><xsl:value-of select="@when"/></xsl:when>
+	   <xsl:when test="@notBefore and @notAfter">
+	     <xsl:variable name="nB" select="normalize-space(@notBefore) cast as xs:date"/>
+	     <xsl:variable name="nA" select="normalize-space(@notAfter) cast as xs:date"/>
+	     <xsl:value-of select="( ( $nA - $nB ) div 2 ) + $nB"/>
+	   </xsl:when>
+	   <xsl:when test="normalize-space(.) ne ''">
+	     <xsl:value-of select="."/>
+	   </xsl:when>
+	   <xsl:otherwise>1635-05-28</xsl:otherwise>
+	 </xsl:choose>
+       </xsl:for-each>
      </date>
    </xsl:template>
    

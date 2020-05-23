@@ -56,7 +56,7 @@
          <textClass><!--from teiHeader/*/* of TEI-->
             <keywords>
                <term>Aristocracy</term>
-               <term>Expressions of politesse</term>
+               <term>Politesse</term>
                <term>Petitioning</term>
             </keywords>
          </textClass>
@@ -119,9 +119,9 @@
                <p>Any spellings that that are evidnet errors, in that they would lead to a
             mispronounciation of a known word, are highlighted in the transcription. Hovering over
             the highlighted word will prompt display of the corrected spelling.</p>
-               <p>Any words that are completely illegible are indicated with a bracked question mark. Words that are simply  
-            not recognizable as words have been transcribed to the extent possible and are
-            immediately followed by question mark.</p>
+               <p>Any words that are completely illegible are indicated with a bracked question mark.
+            Words that are simply not recognizable as words have been transcribed to the extent
+            possible and are immediately followed by question mark.</p>
             </correction>
             <normalization>
                <p>Normalization. In 17th century paleography and typography, "u" and "v" were two forms
@@ -356,6 +356,17 @@
             <note>Grand-Duke of Tuscany from 1621 to 1670; friend and protector of Galileo
           Galilei.</note>
          </person>
+         <person sortKey="Gonzaga,_Maria,_Duchess_of_Mantua_and_Monferrat"
+                 xml:id="MariaG">
+            <persName type="main">Maria Gonzaga, Duchess of Mantua and Monferrat</persName>
+            <persName type="presentation">Duchess of Mantua</persName>
+            <idno type="VIAF">97857453</idno>
+            <birth when="1609"/>
+            <death when="1660"/>
+            <note>Maria and her husband Charles of Nevers inherited the Duchies of Mantua and Monferrat
+          in 1627. Challenges to the inheritance resulted in the War of the Mantuan Succession,
+          1628–31.</note>
+         </person>
          <person sortKey="Gregory_XV,_pope_(Ludovisi_Alessandro)" xml:id="Gregory15">
             <persName type="main">Gregory XV (Ludovisi Alessandro), pope</persName>
             <persName type="presentation">Gregory XV</persName>
@@ -563,6 +574,17 @@
             <note>Hapsburg king who reigned from 1621 to 1640 and allied with the Austrian Hapsburgs
           against France in the Thirty Years’ War, 1618–48.</note>
          </person>
+         <person sortKey="Choiseul,_César_de,_comte_du_Plessis-Praslin"
+                 xml:id="PlessisP">
+            <persName type="main">César de Choiseul, comte du Plessis-Praslin</persName>
+            <persName type="presentation">Comte du Plessis-Praslin</persName>
+            <idno type="VIAF">160867465</idno>
+            <birth when="1598"/>
+            <death when="1675"/>
+            <note>Military officer and diplomat, named ambassador to the court of Victor Amadeus I of
+          Savoy in 1630. He was active in the Piedmontese Civil War, was named governor of Turin in
+          1640, and Marshall of France in 1645.</note>
+         </person>
          <person sortKey="Puylaurens,_Antoine_de_L'Age,_duc_de" xml:id="Puylaurens">
             <persName type="main">Antoine de L’Age, Duc de Puylaurens</persName>
             <persName type="presentation">Duc de Puylaurens</persName>
@@ -763,6 +785,15 @@
             <idno type="GeoNames">3034397</idno>
             <note>One of traditional provinces of France, in the southeast along the Pyrenees.</note>
          </place>
+         <place sortKey="Brienne" xml:id="Brienne" type="commune">
+            <placeName type="main">Brienne-le-Château</placeName>
+            <placeName type="presentation">Brienne</placeName>
+            <location>
+               <geo>48.39 4.53</geo>
+            </location>
+            <idno type="GeoNames">3030093</idno>
+            <note>Commune in north-central France.</note>
+         </place>
          <place sortKey="Casale" xml:id="Casale" type="commune">
             <placeName type="main">Casale Monferrato</placeName>
             <placeName type="alternate">Cazal</placeName>
@@ -771,7 +802,20 @@
                <geo>45.13 -8.45</geo>
             </location>
             <idno type="GeoNames">3180208</idno>
-            <note>A fortified town in the Piedmont region of Italy, about 60 km east of Turin.</note>
+            <note>Fortified town in the Piedmont, about 60 km east of Turin. By the 1635 Treaty of
+          Rivoli with the dukes of Savoy and Parma, France would occupy Casale and Pinerolo as a
+          defense against Spanish encroachment from Milan (Tapié, p. 330).</note>
+         </place>
+         <place sortKey="Chivasso" xml:id="Chivasso" type="commune">
+            <placeName type="main">Chivasso</placeName>
+            <placeName type="alternate">Chivas</placeName>
+            <placeName type="presentation">Chivasso</placeName>
+            <location>
+               <geo>45.19 -7.89</geo>
+            </location>
+            <idno type="GeoNames">3178745</idno>
+            <note>A town about 20 km northeast of Turin that submitted to Prince Thomas after a short
+          seige in late March of 1639.</note>
          </place>
          <place sortKey="Dauphiné" xml:id="Dauphine" type="region">
             <placeName type="main">Dauphiné</placeName>
@@ -853,6 +897,18 @@
             <idno type="GeoNames">2999046</idno>
             <note>Commune north of Spain on the Mediterranean coast of France.</note>
          </place>
+         <place sortKey="Mantua" xml:id="Mantua" type="commune">
+            <placeName type="main">Mantua</placeName>
+            <placeName type="presentation">Mantua</placeName>
+            <placeName type="alternate">Mantoüe</placeName>
+            <location>
+               <geo>45.16 10.8</geo>
+            </location>
+            <idno>3174051</idno>
+            <note>Duchy in northern Italy that passed from the Gonzaga to the French Gonzaga-Nevers in
+          1627. Rival claims backed by Savoy and Spain resulted in the War of Mantuan Succession,
+          1628–31, which ended favorably for France.</note>
+         </place>
          <place sortKey="Oudun" xml:id="Oudun" type="commune">
             <placeName type="main">Oudun</placeName>
             <placeName type="presentation">Oudun</placeName>
@@ -889,10 +945,10 @@
             <idno type="GeoNames">3173179</idno>
             <note>Village in the Asti region of Piedmont, about 45 km east of Turin.</note>
          </place>
-         <place sortKey="Monferrato" xml:id="Monferrato" type="region">
-            <placeName type="main">Monferrato</placeName>
-            <placeName type="alternate">Monferrat</placeName>
-            <placeName type="presentation">Monferrato</placeName>
+         <place sortKey="Monferrat" xml:id="Monferrato" type="region">
+            <placeName type="main">Monferrat</placeName>
+            <placeName type="alternate">Monferrato</placeName>
+            <placeName type="presentation">Monferrat</placeName>
             <location>
                <geo>44.92 -8.08</geo>
             </location>
@@ -946,7 +1002,10 @@
             <location>
                <geo>44.89 -7.33</geo>
             </location>
-            <note>Town in Savoy about 50 km from Turin that came under French control in 1631.</note>
+            <note>Fortified town in Savoy about 50 km southwest of Turin that came under French control
+          in 1631. By the 1635 Treaty of Rivoli with the dukes of Savoy and Parma, France would
+          occupy Pinerolo and Casale as a defense against Spanish encroachment from Milan (Tapié, p.
+          330).</note>
             <idno type="GeoNames">3170694</idno>
          </place>
          <place sortKey="Le_Plessis-aux-Bois" xml:id="Plessis" type="commune">

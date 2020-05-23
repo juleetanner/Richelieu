@@ -1,7 +1,9 @@
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="3.0"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:expand="http://cdlib.org/xtf/expand"
    xmlns:parse="http://cdlib.org/xtf/parse"
+   xmlns:tei="http://www.tei-c.org/ns/1.0"
    xmlns:xtf="http://cdlib.org/xtf"
    xmlns:saxon="http://saxon.sf.net/"
    xmlns:FileUtils="java:org.cdlib.xtf.xslt.FileUtils"
@@ -159,9 +161,13 @@
       <sort-year xtf:meta="true" xtf:tokenize="no">
          <xsl:value-of select="parse:year(string(.))[1]"/>
       </sort-year>
+     <!-- Generate sort-date (added 2020-05-23 for JTR) —Syd -->
+     <sort-date xtf:meta="true" xtf:tokenize="no">
+       <xsl:value-of select="."/>
+     </sort-date>
    </xsl:template>
    
-   <!-- Generate facet-date -->
+  <!-- Generate facet-date -->
   <!-- Modified 2020-05-07 to expect W3C format —Syd -->
    <xsl:template match="*:date" mode="facet">
       <xsl:choose>

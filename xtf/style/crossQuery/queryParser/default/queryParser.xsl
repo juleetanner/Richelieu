@@ -83,6 +83,9 @@
          <xsl:if test="$sort">
             <xsl:attribute name="sortMetaFields">
                <xsl:choose>
+		  <xsl:when test="$sort='date'">
+		    <xsl:value-of select="'sort-date,sort-title,sort-creator,sort-year'"/>
+		  </xsl:when>
                   <xsl:when test="$sort='title'">
                      <xsl:value-of select="'sort-title,sort-creator,sort-publisher,sort-year'"/>
                   </xsl:when>
@@ -100,7 +103,7 @@
                   </xsl:when>     
                   <xsl:when test="$sort='rss'">
                      <xsl:value-of select="'-sort-date,sort-title'"/>
-                  </xsl:when>         
+                  </xsl:when>
                </xsl:choose>
             </xsl:attribute>
          </xsl:if>
