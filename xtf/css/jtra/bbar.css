@@ -16,12 +16,23 @@ form {
 div.header {
 	 border-bottom: 0;
 	 margin: 0 auto;
+             padding: 0;	/* 2020-05-23 */
 	 background-color: #18101F;
 	 height: 100%;
          color: #E2C78E;
 }
 
-div.header > h3 > a { color: #F3D448; text-decoration: none; }
+div.header > h1,
+div.header > h2,
+div.header > h3 {
+                  text-align: center;
+                  margin: 1ex 2em 0ex 2em;
+                  }
+div.header > h2 > a:link    { color: #F3D448; text-decoration: none; }
+div.header > h2 > a:visited { color: #C9B23E; text-decoration: none; }
+div.header > h2 > a:hover,
+div.header > h2 > a:active,
+div.header > h2 > a:focus   { color: #FFE14D; text-decoration: none; }
 
 div.header img {
 	border: 0;
@@ -33,21 +44,25 @@ div.header img.xtf-logo {
 
 div.header img.your-logo {
 	float: right;
-	margin: 10px 15px;
 }
 
 div.bbar {
 	width: 100%;
 	margin: 0 auto;
+	padding: 0; margin: 0;	/* 2020-05-23 */
 }
 
 div.bbar table {
 	width: 100%;
 	border: 1px solid #666;
+	padding: 0; margin: 0;	/* 2020-05-23 */
 }
 
 div.bbar table td {
-	/*border: 1px solid #666;*/
+	padding: 0; margin: 0;	/* 2020-05-23 */
+}
+div.bbar table tr {
+	padding: 0; margin: 0;	/* 2020-05-23 */
 }
 
 td.left {

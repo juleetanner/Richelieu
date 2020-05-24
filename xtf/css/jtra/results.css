@@ -30,7 +30,12 @@ div.header > h3 {
                   text-align: center;
                   margin: 1ex 12em 0ex 12em;
                   }
-div.header > h3 > a { color: #F3D448; text-decoration: none; }
+div.header > h2 > a:link    { color: #F3D448; text-decoration: none; }
+div.header > h2 > a:visited { color: #C9B23E; text-decoration: none; }
+div.header > h2 > a:hover,
+div.header > h2 > a:active,
+div.header > h2 > a:focus   { color: #FFE14D; text-decoration: none; }
+
 div.header img {
 	border: 0;
 }
