@@ -25,12 +25,12 @@ I made it up —Syd, 2020-05-16
 	   alt="image of Cardinal Richelieu"
 	   style="width: 140px; height: 140px;"
 	   class="your-logo" />
-      <h1 style="text-align:center;">Richelieu Archive</h1>
-      <h2 style="text-align:center;">by Julee Tanner</h2>
-      <h3 style="text-align:center;">The correspondence of Armand-Jean du Plessis, cardinal duc de
-      Richelieu, encoded in <a
+      <h1 style="text-align:center;">The Richelieu Correspondence Project</h1>
+      <h2 style="text-align:center;">A finding and digital archive of
+      the unpublished letters of Armand Jean du Plessis, cardinal duc
+      de Richelieu, encoded in <a
       href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">TEI
-      P5</a>.</h3>
+      P5</a>.</h2>
       <br class="clear" />
     </div>
   </header>
@@ -45,19 +45,19 @@ I made it up —Syd, 2020-05-16
 	   alt="image of Cardinal Richelieu"
 	   style="width: 140px; height: 140px;"
 	   class="your-logo" />
-      <h1 style="text-align:center;">Richelieu Archive</h1>
-      <h2 style="text-align:center;">by Julee Tanner</h2>
-      <h3 style="text-align:center;">The correspondence of Armand-Jean du Plessis, cardinal duc de
-      Richelieu, encoded in <a
+      <h1 style="text-align:center;">The Richelieu Correspondence Project</h1>
+      <h2 style="text-align:center;">A finding and digital archive of
+      the unpublished letters of Armand Jean du Plessis, cardinal duc
+      de Richelieu, encoded in <a
       href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">TEI
-      P5</a>.</h3>
+      P5</a>.</h2>
       <br class="clear" />
     </div>
   </dynaxml.header>
   
   <footer>
     <div class="footer">
-      <a href="mailto:juleetanner@gmail.com">Comments? Questions?</a>
+      <a href="https://www.linkedin.com/in/julee-tanner-612a8a18a/">Comments? Questions?</a>
       &#x2003;|&#x2003;
       Brought to you by:
       <a href="https://xtf.cdlib.org/">
