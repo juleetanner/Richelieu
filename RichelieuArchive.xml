@@ -500,6 +500,15 @@
           Medici. Considered a suspicious and insecure ruler, Louis relied on a succession of
           competing advisors and favorites, most notably Richelieu.</note>
       </person>
+      <person sortKey="Louis_XIV,_roi_de_France" xml:id="Louis14">
+        <persName type="main">Louis XIV, roi de France</persName>
+        <persName type="presentation">Louis XIV</persName>
+        <idno type="VIAF">268675767</idno>
+        <birth when="1638"/>
+        <death when="1715"/>
+        <note>Son of Louis XIII and Anne of Austria, "le Roi Soleil" reigned from 14 May
+          1643.</note>
+      </person>
       <person sortKey="Luynes,_Charles_d'Albert_de" xml:id="Luynes">
         <persName type="main">Charles d'Albert de Luynes</persName>
         <persName type="presentation">Charles de Luynes</persName>
@@ -653,12 +662,21 @@
         <persName type="main">Maximilien de Béthune, duc de Sully</persName>
         <persName type="presentation">Duc de Sully</persName>
         <idno type="VIAF">95208305</idno>
-        <birth when="1560-12-13"/>
-        <death when="1641-12-22"/>
+        <birth when="1560"/>
+        <death when="1641"/>
         <note>Protestant favorite of Henry IV, Chief minister and from 1589, and superintendent of
           finances from 1600 until Henry's assassination in 1610. Sully helped to bring financial
           stability to France after the wars of religion, put down Huguenot rebellions, encouraged
           agriculture, and rebuilt infrastructure.</note>
+      </person>
+      <person sortKey="Talon,_Jacques" xml:id="Talon">
+        <persName type="main">Jacques Talon</persName>
+        <persName type="presentation">Jacques Talon</persName>
+        <idno type="VIAF">66459136</idno>
+        <birth when="1598"/>
+        <death when="1671"/>
+        <note>Counselor of state from 1631, secretary to Cardinal de La Valette from an unknown
+          date.</note>
       </person>
       <person sortKey="Thémines,_Pons_de_Lauzières,_marquis_de" xml:id="Themines">
         <persName type="main">Pons de Lauzières, marquis de Thémines</persName>
@@ -7583,6 +7601,252 @@
             <orig>pouuoir</orig>
             <reg>pouvoir</reg>
           </choice> souffrir audit Cazal.</p>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter25">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Richelieu">Cardinal Richelieu</persName> to <persName
+              ref="#Valette">Cardinal de La Valette</persName>, [late April 1639]</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
+              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
+              License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="29" to="30"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmontese Civil War</term>
+            <term>Troop movements</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date notBefore="1639-04-15" notAfter="1639-04-30"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Valette"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>Richelieu assures La Valette that military reinforcements will arrive soon; Emery
+            has been sent to Lyon to expedite their passage into Savoy. He also insists that, as a
+            defensive measure, a corps of French troops be allowed to winter in Savoy going
+            forward.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_29.jpg"/>
+        <opener><salute><choice>
+              <orig>Monsievr</orig>
+              <reg>Monsieur</reg>
+            </choice></salute></opener>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> ne sçaurois assez vous témoigner la peine que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ressents de celle, en laquelle vous estes, tant à cause des <choice>
+            <orig>mauuaises</orig>
+            <reg>mauvaises</reg>
+          </choice> suites qui en <choice>
+            <orig>peuuent</orig>
+            <reg>peuvent</reg>
+          </choice>
+          <choice>
+            <orig>arriuer</orig>
+            <reg>arriver</reg>
+          </choice>, que pour l'amour de vous-mesmes, vous asseurant qu'il n'y a rien au monde qui
+          m'empesche d'estre aussi sensible, que vous le sçauriez estre en ce qui vous touche.</p>
+        <p>La negligence de ceux à qui Madame commet ses places est pitoyable, &amp; insupportable
+          tout ensemble, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous asseure que ce qui s'est passé à <placeName ref="#Chivasso"
+            >Chiuas</placeName> me fait plaindre cette <choice>
+            <orig>pauure</orig>
+            <reg>pauvre</reg>
+          </choice> Princesse plus que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne le vous sçaurois representer. Cependant il faut apporter tous les remedes
+          necessaires à ses maux, &amp; empescher qu'elle ne se puisse perdre elle-mesme.</p>
+        <p>Toutes les diligences possibles pour vous faire passer vos Troupes ont esté faites, on a <choice>
+            <orig>enuoyé</orig>
+            <reg>envoyé</reg>
+          </choice> &amp; <choice>
+            <orig>renuoyé</orig>
+            <reg>renuoyé</reg>
+          </choice>
+          <choice>
+            <orig>diuerses</orig>
+            <reg>diverses</reg>
+          </choice>-fois de tous costez, mais comme vous <choice>
+            <orig>sçauez</orig>
+            <reg>sçavez</reg>
+          </choice> les hommes n'estans pas corbeaux, ainsi que disoit <seg>Monsieur
+              Hebron<note>Possibly Friedrich Förner (1568–1630), titular bishop of Hebron,
+              theologian and leader of the Catholic Refrom movement in Bamberg.</note></seg>, il est
+          impossible <pb facs="Vialart_letters_Page_30.jpg"/>de les faires voler, <persName
+            ref="#Emery">Monsieur d'Hemery</persName> est de <choice>
+            <orig>nouueau</orig>
+            <reg>nouveau</reg>
+          </choice> allé à Lyon pour haster toutes choses.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> ne sçay ce que <persName ref="#Argenson">Monsieur d'Argençon</persName> pretend
+          en vous mandant qu'on <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> reduit vostre armée à dix-huict Regiments, on n'y a rien changé depuis le
+          premier projet qu'on a fait telle que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous l'<choice>
+            <orig>enuoye</orig>
+            <reg>envoye</reg>
+          </choice>, nous voudrions la <choice>
+            <orig>pouuoir</orig>
+            <reg>pouvoir</reg>
+          </choice> grossir, mais il est du tout impossible.</p>
+        <p>Quand nous y <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> mis le Regiment proposé pour le Dauphiné, sous le nom de <persName
+            ref="#Louis14">Monsieur le Dauphin</persName>, nous l'<choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> fait par surabondance, sans en oster aucun autre qui y eust esté premierement
+          destiné ; En <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> mot, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous proteste <choice>
+            <orig>deuant</orig>
+            <reg>devant</reg>
+          </choice> Dieu qu'il n'y a rien qui soit faisable qu'on ne veüille faire pour la
+          consideration de <persName ref="#Christine">Madame</persName>, dont les interests seront <choice>
+            <orig>tousiours</orig>
+            <reg>toujours</reg>
+          </choice> chers au Roy comme elle le peut desirer.</p>
+        <p>Pour bien <choice>
+            <orig>conseruer</orig>
+            <reg>conserver</reg>
+          </choice> les Estats, il est du tout necessaire qu'elle se resolue à faire d'oresnauant <choice>
+            <orig>hyuerner</orig>
+            <reg>hyverner</reg>
+          </choice>
+          <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> Corps de Troupes suffisantes pour sa deffense, autrement les Ennemis la
+          surprendront tousiours <choice>
+            <orig>deuant</orig>
+            <reg>devant</reg>
+          </choice> que les Troupes soient passées de France.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> ne m'estends pas d'<choice>
+            <orig>auantage</orig>
+            <reg>avantage</reg>
+          </choice> sur ce discours, qui bon pour l'<choice>
+            <orig>aduenir</orig>
+            <reg>advenir</reg>
+          </choice> est inutile pour le present, auquel Madame a pris des resolutions si fortes, que
+          ses freres en puissent apprehender autant de mal par les suites comme ils luy en veulent
+          faire, vous estes si judicieux que vous sçauriez bien ne perdre pas l'occasion de luy
+          faire <choice>
+            <orig>ouurir</orig>
+            <reg>ouvrir</reg>
+          </choice> les yeux à son propre bien si la necessité l'y presse, c'est ce qui fait que
+          sans vous en dire <choice>
+            <orig>dauantage</orig>
+            <reg>davantage</reg>
+          </choice>, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous asseureray seulement de la sincere &amp; fidele amitié que j'auray toute ma
+          vie pour vous, &amp; que i'essayeray de faire paroistre d'autant plus en toutes les
+          occurrences que Monsieur de la Valette <choice>
+            <orig>trauaille</orig>
+            <reg>travaille</reg>
+          </choice> de plus en plus à couronner sa <choice>
+            <orig>mauuaise</orig>
+            <reg>mauvaise</reg>
+          </choice> conduite. <choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'ay communiqué au <persName ref="#Talon">sieur Talon</persName>
+          <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice>
+          <choice>
+            <orig>nouuel</orig>
+            <reg>nouvel</reg>
+          </choice> accident qui s'est <choice>
+            <orig>découuert</orig>
+            <reg>découvert</reg>
+          </choice> sur ce <choice>
+            <orig>suiet</orig>
+            <reg>sujet</reg>
+          </choice>, par l'imprudence &amp; malice de quelque Dame. <persName ref="#Chavigny"
+            >Monsieur de <choice>
+              <orig>Chauigny</orig>
+              <reg>Chavigny</reg>
+            </choice></persName> vous en escrit au long, tous les desseins de telles gens seront,
+          s'il plaist à Dieu, sans effet, &amp; <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> seray continuellement.</p>
+        <closer><salute><choice>
+              <orig>Monsievr</orig>
+              <reg>Monsieur</reg>
+            </choice>, Vostre, &amp;c.</salute></closer>
       </body>
     </text>
   </TEI>
