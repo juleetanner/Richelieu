@@ -6918,12 +6918,12 @@
           <correspAction type="sent">
             <persName ref="#Turenne"/>
             <placeName/>
-            <date/>
+            <date notBefore="1639-04-02" notAfter="1639-04-08"/>
           </correspAction>
           <correspAction type="received">
             <persName ref="#Richelieu"/>
             <placeName/>
-            <date notBefore="1639-04-01" notAfter="1639-04-10"/>
+            <date />
           </correspAction>
           <note>De La Tour defends his actions in detaining a bishop and a doctor from Turin. The
             doctor later escaped but produced a passport signed by Louis XIII; de La Tour did not
@@ -7171,7 +7171,7 @@
       <fileDesc>
         <titleStmt>
           <title>Instructions from <persName ref="#Richelieu">Cardinal Richelieu</persName> to
-              <persName ref="#Richelieu">le Sieur d'Emery</persName>, [mid- to late April
+              <persName ref="#Richelieu">le Sieur d'Emery</persName>, [early April
             1639]</title>
         </titleStmt>
         <publicationStmt>
@@ -7224,7 +7224,7 @@
           <correspAction type="sent">
             <persName ref="#Richelieu"/>
             <placeName/>
-            <date notBefore="1639-04-10" notAfter="1639-04-30"/>
+            <date notBefore="1639-04-03" notAfter="1639-04-12"/>
           </correspAction>
           <correspAction type="received">
             <persName ref="#Emery"/>
@@ -7609,7 +7609,7 @@
       <fileDesc>
         <titleStmt>
           <title><persName ref="#Richelieu">Cardinal Richelieu</persName> to <persName
-              ref="#Valette">Cardinal de La Valette</persName>, [late April 1639]</title>
+              ref="#Valette">Cardinal de La Valette</persName>, [early April 1639]</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -7659,7 +7659,7 @@
           <correspAction type="sent">
             <persName ref="#Richelieu"/>
             <placeName/>
-            <date notBefore="1639-04-15" notAfter="1639-04-30"/>
+            <date notBefore="1639-04-04" notAfter="1639-04-15"/>
           </correspAction>
           <correspAction type="received">
             <persName ref="#Valette"/>
