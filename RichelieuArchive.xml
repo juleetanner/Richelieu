@@ -6893,6 +6893,7 @@
             <term>Imprisonment</term>
             <term>Obedience</term>
             <term>Officers</term>
+            <term>Concern with reputation</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -7195,9 +7196,10 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term>I</term>
-            <term/>
-            <term/>
+            <term>Diplomacy</term>
+            <term>Fortifications</term>
+            <term>Piedmontese Civil War</term>
+            <term>Imprisonment</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -7213,9 +7215,9 @@
           </correspAction>
           <note>Richelieu instructs Emery to review troops in Lyon and Barcelonnette and
             fortifications in Pignerol and Cazal, to consult with La Valette and enter into
-            negotiations with Christine of France, to attempt to have her son the duke transported to
-            France under protection, and to determine if the bishop being held in Cazal should be
-            moved to Mantua.</note>
+            negotiations with Christine of France and Princes Thomas and Maurice, to attempt to have
+            her son the duke transported to France under protection, and to determine if the bishop
+            being held in Cazal should be moved to Mantua.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
