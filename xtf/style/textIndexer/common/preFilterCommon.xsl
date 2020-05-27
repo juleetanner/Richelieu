@@ -123,12 +123,13 @@
          <xsl:apply-templates select="$meta/*:creator[1]" mode="sort"/>
          <xsl:apply-templates select="$meta/*:date[1]" mode="sort"/>
          
-         <!-- Create facets -->
-         <xsl:apply-templates select="$meta/*:date" mode="facet"/>
-         <xsl:apply-templates select="$meta/*:subject" mode="facet"/>
-        <xsl:apply-templates select="$meta/*:correspFrom[1]" mode="facet"/>
-        <xsl:apply-templates select="$meta/*:correspTo[1]" mode="facet"/>
-        
+	 <!-- Create facets -->
+	 <xsl:apply-templates select="$meta/*:date" mode="facet"/>
+	 <xsl:apply-templates select="$meta/*:subject" mode="facet"/>
+	 <xsl:apply-templates select="$meta/*:correspFrom[1]" mode="facet"/>
+	 <xsl:apply-templates select="$meta/*:correspTo[1]" mode="facet"/>
+	 <xsl:apply-templates select="$meta/*:repository" mode="facet"/>
+	 
          <xsl:apply-templates select="$meta/*:title[1]" mode="browse"/>    
          <xsl:apply-templates select="$meta/*:creator[1]" mode="browse"/>
          
@@ -214,16 +215,25 @@
      </facet-correspFrom>
    </xsl:template>
    
-  <!-- Generate facet-correspTo, added 2020-05-08 —Syd -->
-  <xsl:template match="*:correspTo" mode="facet">
-    <facet-correspTo>
-      <xsl:attribute name="xtf:meta" select="'true'"/>
-      <xsl:attribute name="xtf:facet" select="'yes'"/>
-      <xsl:value-of select="normalize-unicode(string(.))"/>
-    </facet-correspTo>
-  </xsl:template>
-  
-  <!-- Generate browse-title -->
+   <!-- Generate facet-correspTo, added 2020-05-08 —Syd -->
+   <xsl:template match="*:correspTo" mode="facet">
+     <facet-correspTo>
+       <xsl:attribute name="xtf:meta" select="'true'"/>
+       <xsl:attribute name="xtf:facet" select="'yes'"/>
+       <xsl:value-of select="normalize-unicode(string(.))"/>
+     </facet-correspTo>
+   </xsl:template>
+   
+   <!-- Generate facet-repository, added 2020-05-27 —Syd -->
+   <xsl:template match="*:repository" mode="facet">
+     <facet-repository>
+       <xsl:attribute name="xtf:meta" select="'true'"/>
+       <xsl:attribute name="xtf:facet" select="'yes'"/>
+       <xsl:value-of select="."/>
+     </facet-repository>
+   </xsl:template>
+   
+   <!-- Generate browse-title -->
    <xsl:template match="*:title" mode="browse">
       <browse-title>
          <xsl:attribute name="xtf:meta" select="'true'"/>

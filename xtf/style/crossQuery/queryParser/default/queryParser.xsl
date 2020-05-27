@@ -146,6 +146,13 @@
             <xsl:with-param name="sort" select="'totalDocs'"/>
 	 </xsl:call-template>
          
+	 <!-- Added 2020-05-27 —Syd -->
+	 <xsl:call-template name="facet">
+            <xsl:with-param name="field" select="'facet-repository'"/>
+            <xsl:with-param name="topGroups" select="'*'"/>
+            <xsl:with-param name="sort" select="'totalDocs'"/>
+	 </xsl:call-template>
+         
          <!-- to support title browse pages -->
          <xsl:if test="//param[@name='browse-title']">
             <xsl:variable name="page" select="//param[@name='browse-title']/@value"/>
