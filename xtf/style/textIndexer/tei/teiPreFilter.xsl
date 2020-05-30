@@ -162,10 +162,11 @@
                <xsl:call-template name="get-tei-relation"/>
                <xsl:call-template name="get-tei-coverage"/>
                <xsl:call-template name="get-tei-rights"/>
-              <xsl:call-template name="get-tei-corresp-to-and-from"/>
-               <!-- special values for OAI -->
-               <xsl:call-template name="oai-datestamp"/>
-               <xsl:call-template name="oai-set"/>
+	       <xsl:call-template name="get-tei-repository"/>
+	       <xsl:call-template name="get-tei-corresp-to-and-from"/>
+	       <!-- special values for OAI -->
+	       <xsl:call-template name="oai-datestamp"/>
+	       <xsl:call-template name="oai-set"/>
             </xsl:otherwise>
          </xsl:choose>
       </xsl:variable>
@@ -459,8 +460,20 @@
        </xsl:element>
      </xsl:for-each>
    </xsl:template>
-   
-   <!-- OAI dateStamp -->
+
+   <!-- repository for JTR: <repository> iff <msDesc>, else Vailart is from Newberry -->
+   <xsl:template name="get-tei-repository">   
+     <repository xtf:meta="true">
+       <!-- Quick cheat: return <repository> or "Newberry" w/o bothering
+       to look and see if it really is from Newberry (which would be tested
+       by looking for a /TEI/teiHeader/fileDesc/sourceDesc/bibl/idno[@type='icn'] -->
+       <xsl:sequence select="normalize-space(
+         ( /TEI/teiHeader/fileDesc/sourceDesc/msDesc/msIdentifier/repository, 'Newberry Library' )[1]
+         )"/>
+     </repository>
+   </xsl:template>
+  
+  <!-- OAI dateStamp -->
    <xsl:template name="oai-datestamp" xmlns:FileUtils="java:org.cdlib.xtf.xslt.FileUtils">
       <xsl:variable name="filePath" select="saxon:system-id()" xmlns:saxon="http://saxon.sf.net/"/>
       <dateStamp xtf:meta="true" xtf:tokenize="no">

@@ -299,64 +299,66 @@
             </div>
             
             <!-- results -->
-            <xsl:choose>
-               <xsl:when test="docHit">
-                  <div class="results">
-                     <table>
-                        <tr>
-                           <xsl:if test="not($smode='showBag')">
-                              <td class="facet">
-                                 <xsl:apply-templates select="facet[@field='facet-subject']"/>
-                                 <xsl:apply-templates select="facet[@field='facet-date']"/>
-				 <!-- Added 2020-05-07 —Syd -->
-				 <xsl:apply-templates select="facet[@field='facet-correspFrom']"/>
-				 <xsl:apply-templates select="facet[@field='facet-correspTo']"/>
-                              </td>
-                           </xsl:if>
-                           <td class="docHit">
-                              <xsl:apply-templates select="docHit"/>
-                           </td>
-                        </tr>
-                        <xsl:if test="@totalDocs > $docsPerPage">
-                           <tr>
-                              <td colspan="2" class="center">
-                                 <xsl:call-template name="pages"/>
-                              </td>
-                           </tr>
-                        </xsl:if>
-                     </table>
-                  </div>
-               </xsl:when>
-               <xsl:otherwise>
-                  <div class="results">
-                     <table>
-                        <tr>
-                           <td>
-                              <xsl:choose>
-                                 <xsl:when test="$smode = 'showBag'">
-                                    <p>Your Bookbag is empty.</p>
-                                    <p>Click on the 'Add' link next to one or more items in your <a href="{session:getData('queryURL')}">Search Results</a>.</p>
-                                 </xsl:when>
-                                 <xsl:otherwise>
-                                    <p>Sorry, no results...</p>
-                                    <p>Try modifying your search:</p>
-                                    <div class="forms">
-                                       <xsl:choose>
-                                          <xsl:when test="matches($smode,'advanced')">
-                                             <xsl:call-template name="advancedForm"/>
-                                          </xsl:when>
-                                          <xsl:otherwise>
-                                             <xsl:call-template name="simpleForm"/>
-                                          </xsl:otherwise>
-                                       </xsl:choose>
-                                    </div></xsl:otherwise>
-                              </xsl:choose>
-                           </td>
-                        </tr>
-                     </table>
-                  </div>
-               </xsl:otherwise>
-            </xsl:choose>
+	    <xsl:choose>
+	      <xsl:when test="docHit">
+		<div class="results">
+		  <table>
+		    <tr>
+		      <xsl:if test="not($smode='showBag')">
+			<td class="facet">
+			  <xsl:apply-templates select="facet[@field='facet-subject']"/>
+			  <xsl:apply-templates select="facet[@field='facet-date']"/>
+			  <!-- Added 2020-05-27 —Syd -->
+			  <xsl:apply-templates select="facet[@field='facet-repository']"/>
+			  <!-- Added 2020-05-07 —Syd -->
+			  <xsl:apply-templates select="facet[@field='facet-correspFrom']"/>
+			  <xsl:apply-templates select="facet[@field='facet-correspTo']"/>
+			</td>
+		      </xsl:if>
+		      <td class="docHit">
+			<xsl:apply-templates select="docHit"/>
+		      </td>
+		    </tr>
+		    <xsl:if test="@totalDocs > $docsPerPage">
+		      <tr>
+			<td colspan="2" class="center">
+			  <xsl:call-template name="pages"/>
+			</td>
+		      </tr>
+		    </xsl:if>
+		  </table>
+		</div>
+	      </xsl:when>
+	      <xsl:otherwise>
+		<div class="results">
+		  <table>
+		    <tr>
+		      <td>
+			<xsl:choose>
+			  <xsl:when test="$smode = 'showBag'">
+			    <p>Your Bookbag is empty.</p>
+			    <p>Click on the 'Add' link next to one or more items in your <a href="{session:getData('queryURL')}">Search Results</a>.</p>
+			  </xsl:when>
+			  <xsl:otherwise>
+			    <p>Sorry, no results...</p>
+			    <p>Try modifying your search:</p>
+			    <div class="forms">
+			      <xsl:choose>
+				<xsl:when test="matches($smode,'advanced')">
+				  <xsl:call-template name="advancedForm"/>
+				</xsl:when>
+				<xsl:otherwise>
+				  <xsl:call-template name="simpleForm"/>
+				</xsl:otherwise>
+			      </xsl:choose>
+			  </div></xsl:otherwise>
+			</xsl:choose>
+		      </td>
+		    </tr>
+		  </table>
+		</div>
+	      </xsl:otherwise>
+	    </xsl:choose>
             
             <!-- footer -->
             <xsl:copy-of select="$brand.footer"/>

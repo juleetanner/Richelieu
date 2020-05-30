@@ -8,16 +8,15 @@
       <fileDesc><!--from teiHeader/* of TEI-->
          <titleStmt><!--from teiHeader/*/* of TEI-->
             <title>
-               <persName ref="#Richelieu">Cardinal Richelieu</persName> to an <persName ref="#FX">unnamed "Madame,"</persName> n.d.</title>
+               <persName ref="#Richelieu">Cardinal Richelieu</persName> to an <persName ref="#FX">unnamed "Madame,"</persName> n.d. [1622–1642]</title>
          </titleStmt>
          <publicationStmt><!--from teiHeader/*/* of TEI-->
             <publisher>Julee Tanner</publisher>
             <pubPlace>Seattle, WA</pubPlace>
             <date when="2020"/>
             <availability status="restricted">
-               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
                <p>The Morgan Library &amp; Museum. MA 1346-235. Photo courtesy the Morgan Library &amp;
               Museum.</p>
             </availability>
@@ -60,7 +59,7 @@
             <correspAction type="sent">
                <persName ref="#Richelieu"/>
                <placeName/>
-               <date/>
+               <date notBefore="1622-09-05" notAfter="1642-12-04"/>
             </correspAction>
             <correspAction type="received">
                <rs type="person" ref="#FX">unknown female correspondent</rs>
@@ -76,14 +75,12 @@
             <p>to come</p>
          </projectDesc>
          <editorialDecl><!--from teiHeader/*/* of teiCorpus-->
-            <p>The dictionaries used to check spellings and confirm understanding of words in these
-          transcriptions are the <hi rend="italic">Dictionnaire de l'Académie française</hi> of 1694
-          and Jean Nicot's <hi rend="italic">Thresor de la langue françoyse, tant ancienne que
-            moderne</hi> of 1606, both accessed through the <hi rend="italic">Dictionnaires
-            d'autrefois</hi> database of the University of Chicago ARTFL Project. In addition to
-          these two resources, anyone attempting to read these letters who is not familiar with the
-          standard ways that 17th century French differs from modern French might find this short
-          guide by Thomas Luckett at Portland State University helpful: <ref target="http://web.pdx.edu/~brtl/Old-Regime-French.htm">Reading Old Regime
+            <p>The dictionaries used for this project are the <hi rend="italic">Dictionnaire de
+            l'Académie française</hi> of 1694 and Jean Nicot's <hi rend="italic">Thresor de la
+            langue françoyse, tant ancienne que moderne</hi> of 1606, both accessed through the <hi rend="italic">Dictionnaires d'autrefois</hi> database of the University of Chicago ARTFL
+          Project. In addition to these two resources, anyone attempting to read these letters who
+          is not familiar with the standard ways that 17th century French differs from modern French
+          might find this short guide by Thomas Luckett at Portland State University helpful: <ref target="http://web.pdx.edu/~brtl/Old-Regime-French.htm">Reading Old Regime
           French</ref>.</p>
             <p>Essential as these resources are to deciphering the letters in this archive, they also do
           reveal the extent to which orthography, letter formation, and punctuation were not yet
@@ -170,7 +167,7 @@
             <idno type="VIAF">184477767</idno>
             <birth when="1601"/>
             <death when="1656"/>
-            <note>Soldier and governor of Languedoc from 1633 to 1644. He was named Marshall of France
+            <note>Officer and governor of Languedoc from 1633 to 1644. He was named Marshall of France
           in 1637 after his victory at the Battle of Leucate.</note>
          </person>
          <person sortKey="Voyer,_René_de,_comte_d'Argenson" xml:id="Argenson">
@@ -179,7 +176,7 @@
             <idno type="VIAF">64063641</idno>
             <birth when="1596"/>
             <death when="1651"/>
-            <note>Lawyer, councillor of state, and inspector of French forces under Richelieu.</note>
+            <note>Lawyer, counsellor of state, and inspector of French forces under Richelieu.</note>
          </person>
          <person sortKey="Arpajon,_Louis,_duc_d'" xml:id="Arpajon">
             <persName type="main">Louis, duc d’Arpajon</persName>
@@ -359,9 +356,9 @@
             <idno type="VIAF">97857453</idno>
             <birth when="1609"/>
             <death when="1660"/>
-            <note>Maria and her husband Charles of Nevers inherited the Duchies of Mantua and Monferrat
-          in 1627. Challenges to the inheritance resulted in the War of the Mantuan Succession,
-          1628–31.</note>
+            <note>Gonzaga and her husband Charles of Nevers inherited the Duchies of Mantua and
+          Monferrat in 1627. Challenges to the inheritance resulted in the War of the Mantuan
+          Succession, 1628–31.</note>
          </person>
          <person sortKey="Gregory_XV,_pope_(Ludovisi_Alessandro)" xml:id="Gregory15">
             <persName type="main">Gregory XV (Ludovisi Alessandro), pope</persName>
@@ -457,6 +454,15 @@
           Medici. Considered a suspicious and insecure ruler, Louis relied on a succession of
           competing advisors and favorites, most notably Richelieu.</note>
          </person>
+         <person sortKey="Louis_XIV,_roi_de_France" xml:id="Louis14">
+            <persName type="main">Louis XIV, roi de France</persName>
+            <persName type="presentation">Louis XIV</persName>
+            <idno type="VIAF">268675767</idno>
+            <birth when="1638"/>
+            <death when="1715"/>
+            <note>Son of Louis XIII and Anne of Austria, “le Roi Soleil” reigned from 14 May
+          1643.</note>
+         </person>
          <person sortKey="Luynes,_Charles_d'Albert_de" xml:id="Luynes">
             <persName type="main">Charles d’Albert de Luynes</persName>
             <persName type="presentation">Charles de Luynes</persName>
@@ -491,7 +497,7 @@
           assassination in 1610. In 1617 she was forced from power in a palace coup and expelled to
           Blois. Though she reconciled with Louis and returned to court in 1621, her attempt to end
           Richelieu’s influence in 1630 on the “Day of the Dupes” would result in her permanent
-          exile.</note>
+          exile, first to Brussels, then to Amsterdam.</note>
          </person>
          <person sortKey="Maurice,_prince_of_Savoy_and_cardinal_of_Vercelli"
                  xml:id="Maurizio">
@@ -615,12 +621,21 @@
             <persName type="main">Maximilien de Béthune, duc de Sully</persName>
             <persName type="presentation">Duc de Sully</persName>
             <idno type="VIAF">95208305</idno>
-            <birth when="1560-12-13"/>
-            <death when="1641-12-22"/>
+            <birth when="1560"/>
+            <death when="1641"/>
             <note>Protestant favorite of Henry IV, Chief minister and from 1589, and superintendent of
           finances from 1600 until Henry’s assassination in 1610. Sully helped to bring financial
           stability to France after the wars of religion, put down Huguenot rebellions, encouraged
           agriculture, and rebuilt infrastructure.</note>
+         </person>
+         <person sortKey="Talon,_Jacques" xml:id="Talon">
+            <persName type="main">Jacques Talon</persName>
+            <persName type="presentation">Jacques Talon</persName>
+            <idno type="VIAF">66459136</idno>
+            <birth when="1598"/>
+            <death when="1671"/>
+            <note>Counselor of state from 1631, secretary to Cardinal de La Valette from an unknown
+          date.</note>
          </person>
          <person sortKey="Thémines,_Pons_de_Lauzières,_marquis_de" xml:id="Themines">
             <persName type="main">Pons de Lauzières, marquis de Thémines</persName>
@@ -754,6 +769,16 @@
             <idno type="GeoNames">3036059</idno>
             <note>Commune in Brittany on the northwestern coast of France.</note>
          </place>
+         <place sortKey="Barcelonnette" xml:id="Barcelonnette" type="commune">
+            <placeName>Barcelonnette</placeName>
+            <placeName>Barcelonnette</placeName>
+            <location>
+               <geo>44.39 6.65</geo>
+            </location>
+            <idno type="GeoNames">3034991</idno>
+            <note>Town at the juncture of Provence, the Piedmont, and Dauphiné, claimed alternately by
+          France and Savoy in the 16th and 17th centuries.</note>
+         </place>
          <place sortKey="Beziers" xml:id="Beziers" type="commune">
             <placeName type="main">Beziers</placeName>
             <placeName type="presentation">Beziers</placeName>
@@ -820,8 +845,8 @@
                <geo>45 -5.25</geo>
             </location>
             <idno type="GeoNames">3021686</idno>
-            <note>One of the traditional provinces of France, in the southeast bordering on Savoy and
-          the Piedmont.</note>
+            <note>A traditional province of France, in the southeast bordering on Savoy and the
+          Piedmont.</note>
          </place>
          <place sortKey="Coeuvres" xml:id="Coeuvres" type="commune">
             <placeName type="main">Coeuvres-et-Valsery</placeName>
@@ -872,6 +897,15 @@
             <idno type="GeoNames">2987441</idno>
             <note>Estate of the Dukes of Montmorency, north of Pézenas in Languedoc-Roussillon, Southern
           France. In July of 1629 Henri II Montmorency hosted Richelieu at the château.</note>
+         </place>
+         <place sortKey="Languedoc" xml:id="Languedoc" type="region">
+            <placeName type="main">Languedoc</placeName>
+            <placeName type="presentation">Languedoc</placeName>
+            <location>
+               <geo>44 4</geo>
+            </location>
+            <idno type="GeoNames">3007671</idno>
+            <note>A traditional province of France, now Occitane, with the capital city Toulouse.</note>
          </place>
          <place sortKey="La_Rochelle" xml:id="Rochelle" type="commune">
             <placeName type="main">La Rochelle</placeName>
@@ -993,7 +1027,7 @@
          </place>
          <place sortKey="Pinerolo" xml:id="Pinerolo" type="commune">
             <placeName type="main">Pinerolo</placeName>
-            <placeName type="Pinerolo"/>
+            <placeName type="presentation">Pinerolo</placeName>
             <placeName>Pignerol</placeName>
             <location>
                <geo>44.89 -7.33</geo>
@@ -1012,6 +1046,16 @@
             </location>
             <idno type="GeoNames">3002683</idno>
             <note>Commune in the Île-de-France region of north-central France.</note>
+         </place>
+         <place sortKey="Provence" xml:id="Provence" type="region">
+            <placeName type="main">Provence</placeName>
+            <placeName type="presentation">Provence</placeName>
+            <location>
+               <geo>44 6</geo>
+            </location>
+            <idno type="GeoNames">2985246</idno>
+            <note>A traditional province of France on the Mediterranean, bordering on the Piedmont to
+          the west and Dauphiné to the north.</note>
          </place>
          <place sortKey="Quimperlé" xml:id="Quimperle" type="commune">
             <placeName type="main">Quimperlé</placeName>
@@ -1070,10 +1114,10 @@
          <titlePage>
             <titlePart type="main">
                <title>
-                  <persName ref="#Richelieu">Cardinal Richelieu</persName> to an <persName ref="#FX">unnamed “Madame,”</persName> n.d.</title>
+                  <persName ref="#Richelieu">Cardinal Richelieu</persName> to an <persName ref="#FX">unnamed “Madame,”</persName> n.d. [1622–1642]</title>
             </titlePart>
          </titlePage>
-         <div type="copyright" xml:id="L61avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA 1346-235. Photo courtesy the Morgan Library &amp; Museum.</div>
+         <div type="copyright" xml:id="L61avail">Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA 1346-235. Photo courtesy the Morgan Library &amp; Museum.</div>
       </front>
       <body>
          <pb facs="MLM99925_136118v_0001-hpr.jpg"/>

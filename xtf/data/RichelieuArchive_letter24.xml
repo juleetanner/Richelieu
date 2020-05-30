@@ -3,12 +3,12 @@
      xmlns:xtf="http://cdlib.org/xtf"
      version="4.0.0"
      xml:lang="en"
-     xml:id="letter15">
+     xml:id="letter24">
    <teiHeader>
       <fileDesc><!--from teiHeader/* of TEI-->
          <titleStmt><!--from teiHeader/*/* of TEI-->
-            <title>
-               <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, [mid-March 1639]</title>
+            <title>Instructions from <persName ref="#Richelieu">Cardinal Richelieu</persName> to
+              <persName ref="#Richelieu">le Sieur d'Emery</persName>, [early April 1639]</title>
          </titleStmt>
          <publicationStmt><!--from teiHeader/*/* of TEI-->
             <publisher>Julee Tanner</publisher>
@@ -33,7 +33,7 @@
                <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
               les affaires du Piedmont &amp; du Mont-ferrat.</title>
-               <biblScope unit="page" from="17" to="18"/>
+               <biblScope unit="page" from="26" to="29"/>
                <publisher>no publisher</publisher>
                <pubPlace>no place</pubPlace>
                <date when="1649"/>
@@ -49,26 +49,28 @@
          </langUsage>
          <textClass><!--from teiHeader/*/* of TEI-->
             <keywords>
+               <term>Diplomacy</term>
+               <term>Fortifications</term>
                <term>Piedmontese Civil War</term>
-               <term>Siege warfare</term>
-               <term>Recruits</term>
-               <term>diplomacy</term>
+               <term>Imprisonment</term>
             </keywords>
          </textClass>
          <correspDesc><!--from teiHeader/*/* of TEI-->
             <correspAction type="sent">
-               <persName ref="#Valette"/>
+               <persName ref="#Richelieu"/>
                <placeName/>
-               <date notBefore="1639-03-10" notAfter="1639-03-18"/>
+               <date notBefore="1639-04-03" notAfter="1639-04-12"/>
             </correspAction>
             <correspAction type="received">
-               <persName ref="#Richelieu"/>
+               <persName ref="#Emery"/>
                <placeName/>
                <date/>
             </correspAction>
-            <note>La Valette warns that Prince Thomas has left Flanders with an army and will soon
-            arrive in Turin to discuss succession of the Duchy of Savoy with Christine. A rebellion
-            against the regency is feared.</note>
+            <note>Richelieu instructs Emery to review troops in Lyon and Barcelonnette and
+            fortifications in Pignerol and Cazal, to consult with La Valette and enter into
+            negotiations with Christine of France and Princes Thomas and Maurice, to attempt to have
+            her son the duke transported to France under protection, and to determine if the bishop
+            being held in Cazal should be moved to Mantua.</note>
          </correspDesc>
       </profileDesc>
       <encodingDesc><!--from teiHeader/* of teiCorpus-->
@@ -1114,346 +1116,369 @@
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
             <titlePart type="main">
-               <title>
-                  <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, [mid-March 1639]</title>
+               <title>Instructions from <persName ref="#Richelieu">Cardinal Richelieu</persName> to
+              <persName ref="#Richelieu">le Sieur d’Emery</persName>, [early April 1639]</title>
             </titlePart>
          </titlePage>
-         <div type="copyright" xml:id="L15avail">Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
+         <div type="copyright" xml:id="L24avail">Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
-         <pb facs="Vialart_letters_Page_17.jpg"/>
-         <opener>
-            <salute>
+         <pb facs="Vialart_letters_Page_26.jpg"/>
+         <p>Le <persName ref="#Emery">sieur d’Hemery</persName> s’en ira en diligence à <placeName ref="#Lyon">Lyon</placeName>, auquel lieu il fera assembler les sieurs de <choice>
+               <orig>Graues</orig>
+               <reg>Graves</reg>
+            </choice>, Imbert, &amp; autres, qui <choice>
+               <orig>auoient</orig>
+               <reg>avoient</reg>
+            </choice> esté commis par sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice> pour faire passer l’armée d’Italie, desquels il apprendra l’estat des Troupes,
+          le temps auquel elles <choice>
+               <orig>deuroient</orig>
+               <reg>devroient</reg>
+            </choice> marcher fera cesser autant qu’il pourra les empeschemens qui se pourroient
+          rencontrer, &amp; afin qu’elles passent plus promptement, il escrira au <persName ref="#Valette">Cardinal de la Valette</persName>, pour obtenir de <persName ref="#Christine">Madame</persName> passage pour partie desdites Troupes de Sauoye.</p>
+         <p>Il dépeschera au sieur Comte d’Alets, &amp; <persName n="first" ref="#Alvin">Mareschal de
+            Schomberg</persName>, pour faire passer les Troupes qui estoient en <placeName ref="#Languedoc">Languedoc</placeName>, &amp; <placeName n="first" ref="#Provence">
                <choice>
-                  <orig>Monseignevr</orig>
-                  <reg>Monseigneur</reg>
-               </choice>,</salute>
-         </opener>
-         <p>Vous <choice>
-               <orig>auez</orig>
-               <reg>avez</reg>
-            </choice> sceu par le sieur de Pizieux comme le <persName ref="#Tommaso">Prince
-            Thomas</persName> est party de <placeName n="first" ref="#Flanders">Flandres</placeName> pour
-          venir icy, &amp; veu les Lettres qui ont esté écrites au dit sieur de Pizieux, dont on a
-          enuoyé la coppie à <persName ref="#Christine">Madame</persName>, <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> ne doute pas que le Prince Thomas ne vienne sur l’esperance de quelque <choice>
-               <orig>reuolte</orig>
-               <reg>revolte</reg>
-            </choice>, ou de quelque trahison des <choice>
-               <orig>Gouuerneurs</orig>
-               <reg>Gouverneurs</reg>
-            </choice> des places, ce qui me semble extrement à craindre, &amp; à quoy <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> ne puis remedier, estant <choice>
-               <orig>vne</orig>
-               <reg>une</reg>
-            </choice> chose qui dépend de Madame. <choice>
-               <orig>Ie</orig>
-               <reg>Je</reg>
-            </choice> souhaitterois qu’elle eut <choice>
-               <orig>vn</orig>
-               <reg>un</reg>
-            </choice> peu plus de <choice>
-               <orig>seuerité</orig>
-               <reg>severité</reg>
-            </choice>, mais <choice>
-               <orig>iusques</orig>
-               <reg>jusques</reg>
-            </choice> icy il est difficile de venir à l’execution des choses qu’il semble quelque fois
-          qu’elle ait resoluë son sexe, la nature, &amp; les interests de Piedmont en sont
-          cause.</p>
-         <p>Si le Regiment qui doit <choice>
-               <orig>releuer</orig>
-               <reg>relever</reg>
-            </choice> Aiguebonne, ou les recreuës de Chamblé &amp; d’Alincourt <choice>
-               <orig>arriuent</orig>
-               <reg>arrivent</reg>
-            </choice> dans le quinziéme de ce mois, comme <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> les ay demandées il y a plus de trois semaines, <choice>
-               <orig>i</orig>
-               <reg>j</reg>
-            </choice>’espere de me garantir de la force <choice>
-               <orig>ouuerte</orig>
-               <reg>ouverte</reg>
-            </choice>
-            <choice>
-               <orig>iusques</orig>
-               <reg>jusques</reg>
-            </choice> au vingtiéme d’<choice>
-               <orig>Auril</orig>
-               <reg>Avril</reg>
-            </choice>, auquel temps <choice>
-               <orig>i</orig>
-               <reg>j</reg>
-            </choice>’ay <choice>
-               <orig>tousiours</orig>
-               <reg>tousjours</reg>
-            </choice> demandé toutes les Troupes, mais parce que ceux qui sont allez aux recruës me
-          mandent qu’ils n’ont point encore touchez d’argent, <choice>
-               <orig>i</orig>
-               <reg>j</reg>
-            </choice>’ose tres-humblement supplier Vostre Eminence d’<choice>
-               <orig>enuoyer</orig>
-               <reg>envoyer</reg>
-            </choice> des personnes dans les <choice>
-               <orig>Prouinces</orig>
-               <reg>Provinces</reg>
-            </choice> pour leur faire donner ce qui leur a esté promis pour les recreuës, &amp;
-          commander tres-expressement qu’elles soient en Piedmont au 20. <choice>
-               <orig>Auril</orig>
-               <reg>Avirl</reg>
-            </choice>. Car il est necessaire, s’il me semble, que nous soyons attachez au premier de
-          May à l’entreprise que vous nous commandez de faire, si les Ennemis ne sont pas si forts
-          que nous, <choice>
-               <orig>i</orig>
-               <reg>j</reg>
-            </choice>’attendray vos commandemens sur ce que <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> vous ay mandé par Monsieur d’<persName ref="#Argenson">Argençon</persName>, de
-            <persName ref="#Palluau">Palluau</persName>, &amp; de Bonnelle, sur ce suiet ; car si
-          les ennemis <choice>
-               <orig>enuoyent</orig>
-               <reg>envoyent</reg>
-            </choice> des Troupes en Espagne ou Allemagne, &amp; qu’il n’y ait point de <choice>
-               <orig>reuolte</orig>
-               <reg>revolte</reg>
-            </choice> dans le Piedmont, nous pourrons tenter quelque chose de considerable.</p>
-         <p>Nous <choice>
-               <orig>auons</orig>
-               <reg>avons</reg>
-            </choice> receu l’argent que vous nous <choice>
-               <orig>auez</orig>
-               <reg>avez</reg>
-            </choice> fait ordonner pour nos quartiers d’Hyuer, excepté les 350. mil <choice>
-               <orig>liures</orig>
-               <reg>livres</reg>
-            </choice> qui <choice>
-               <orig>doiuent</orig>
-               <reg>doivent</reg>
-            </choice> estre payez dans le commencement du mois, si elles le sont, comme <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> n’en doute pas, les Troupes seront en fort bon estat, &amp; <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> fay plus d’estat des cinq mil hommes de pied que nous <choice>
-               <orig>auons</orig>
-               <reg>avons</reg>
-            </choice>, que de tout ce que nous <choice>
-               <orig>auions</orig>
-               <reg>avions</reg>
-            </choice> l’année passée, le bon ordre qu’il vous a plû donner à nostre payement est cause
-          du bon estat où nous allons mettre cette Armée. Enfin, Monsiegneur, <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> vois comme grande apparence de bien esperer de vostre Campagne si les recreuës
-          passent fortes, &amp; que le fonds du payement soit bien estably <choice>
-               <orig>auec</orig>
-               <reg>avec</reg>
-            </choice> le sieur Baronis, car par ce moyen <choice>
-               <orig>i</orig>
-               <reg>j</reg>
-            </choice>’espere de bien <choice>
-               <orig>conseruer</orig>
-               <reg>conserver</reg>
-            </choice> l’armée, &amp; de <choice>
-               <orig>seruir</orig>
-               <reg>servir</reg>
-            </choice> en sorte que le Roy &amp; vous en demeuriez satisfaits. <choice>
-               <orig>I</orig>
-               <reg>J</reg>
-            </choice>’ay besoin de <persName ref="#Turenne">Monsieur de Turenne</persName>
-          presentement, si sa santé luy peut permettre de venir, car la pluspart des Officiers sont
-          absents, <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> leur escris à tous, afin qu’ils se rendent diligemment à leurs charges, excepté
-          à Monsieur de Castelan, &amp; <choice>
-               <orig>Rocseruieres</orig>
-               <reg>Rocservieres</reg>
-            </choice>, ausquels vous <choice>
-               <orig>auez</orig>
-               <reg>avez</reg>
-            </choice> commandé d’aller aux recreuës.</p>
-         <p>Madame me fit hier des grandes protestations qu’elle ne se separeroit <choice>
-               <orig>iamais</orig>
-               <reg>jamais</reg>
-            </choice> des interests du <persName ref="#Louis13">Roy</persName>, &amp; me dit que <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> le declarasse aux principaux de cét Estat, que le <pb facs="Vialart_letters_Page_18.jpg"/> Roy ne souffriroit pas que le <persName ref="#Tommaso">Prince Thomas</persName> vint en Piedmont, ce qu’elle témoine apprehender <choice>
-               <orig>auec</orig>
-               <reg>avec</reg>
-            </choice> beaucoup de raison, <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> m’imagine que vous aurez dépesché <choice>
-               <orig>vn</orig>
-               <reg>un</reg>
-            </choice> Courier sur la <choice>
-               <orig>nouuelle</orig>
-               <reg>nouvelle</reg>
-            </choice> du partement du Prince Thomas pour nous porter vos ordres. Cependant <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> ne laisseray pas de mettre les choses qui dépendent de moy au meilleur estat
-          qu’il me sera possible. <choice>
-               <orig>I</orig>
-               <reg>J</reg>
-            </choice>’iray demain à <placeName ref="#Casale">Cazal</placeName> pour cela, &amp; pour
-          prendre l’<choice>
+                  <orig>Prouence</orig>
+                  <reg>Provence</reg>
+               </choice>
+            </placeName> par <placeName n="first" ref="#Barcelonnette">Barcelonnetre</placeName>,
+          &amp; à <pb facs="Vialart_letters_Page_27.jpg"/> ce que chacun d’eux fasse dresser les
+          Estappes dans l’étenduë de leurs <choice>
+               <orig>Gouuernements</orig>
+               <reg>Gouvernements</reg>
+            </choice>, nonobstant toutes les difficultez qu’ils <choice>
+               <orig>pouuoient</orig>
+               <reg>pouvoient</reg>
+            </choice> proposer.</p>
+         <p>Estant à Lyon, il dépeschera aussi au Cardinal de la Valette pour luy donner <choice>
                <orig>aduis</orig>
                <reg>advis</reg>
-            </choice> du Chancelier sur la response que nous <choice>
-               <orig>auons</orig>
-               <reg>avons</reg>
-            </choice> a faire à la declaration du <persName n="first" ref="#Leganes">Marquis de
-            Leganez</persName>. <choice>
-               <orig>Ie</orig>
-               <reg>Je</reg>
-            </choice> crains que le Chancelier ne <choice>
-               <orig>viue</orig>
-               <reg>vive</reg>
-            </choice> pas longtemps, il faut songer de bonne heure à la forme de <choice>
-               <orig>gouuerner</orig>
-               <reg>gouverner</reg>
-            </choice> qu’on establira dans le <placeName ref="#Monferrato">Montferrat</placeName> s’il
-          meurt, parce que la Princesse de Mantouë voudra <choice>
+            </choice> de l’estat des choses, &amp; selon les ordres dudit Cardinal, il fera <choice>
+               <orig>aduancer</orig>
+               <reg>advancer</reg>
+            </choice> ou retarder les Troupes.</p>
+         <p>En cas que l’affaire du Piedmont fut si pressée, qu’on ne peut differer les passages
+          desdites Troupes, <choice>
+               <orig>iusques</orig>
+               <reg>jusques</reg>
+            </choice> à ce qu’elles fussent complettes, en ce cas il fera passer la moitié des
+          Troupes, ou ce qui sera prest, &amp; arrestera des Officiers pour mener le reste des
+          corps, lors qu’ils seront en estat.</p>
+         <p>Et parce que les Troupes les moins prestes, &amp; à la <choice>
+               <orig>leuée</orig>
+               <reg>levée</reg>
+            </choice> desquels il se rencontre plus de difficultez, sont celles de Languedoc, si ledit
+          sieur d’Hemery le <choice>
+               <orig>iuge</orig>
+               <reg>juge</reg>
+            </choice> à propos, il pourra aller <choice>
+               <orig>iusques</orig>
+               <reg>jusques</reg>
+            </choice> au lieu ou est Monsieur le Mareschal de Schomberg, pour faciliter le départ
+          desdites Troupes.</p>
+         <p>Si le Cingio estoit pris, ou que l’affaire de Piedmont fut par quelque nouueau rencontre
+          en <choice>
+               <orig>mauuais</orig>
+               <reg>mauvais</reg>
+            </choice> estat, en ce cas ledit sieur d’Hemery laissera les ordres qu’il <choice>
+               <orig>iugera</orig>
+               <reg>jugera</reg>
+            </choice> necessaires, tant à Lyon, <placeName ref="#Dauphine">Dauphiné</placeName>, que
+          Languedoc, pour le passage desites Troupes, &amp; passera à <placeName ref="#Pinerolo">Pignerol</placeName>, ou il apprendra l’estat des choses pour y <choice>
                <orig>pouruoir</orig>
                <reg>pourvoir</reg>
-            </choice> à sa charge, ce qui porteroit <choice>
-               <orig>vn</orig>
-               <reg>un</reg>
-            </choice> grand <choice>
-               <orig>preiudice</orig>
-               <reg>prejudice</reg>
-            </choice> aux affaires du <persName ref="#Louis13">Roy</persName>, Vostre Eminence
-          commandera ce qu’il luy plaira que nous fassions en ce cas la, il me sembleroit à propos
-          de donner presentement les domaines que Vostre Eminence a promis au Chancelier, à Prat,
-          &amp; au Major de Cazal Solera, parce que ce sera <choice>
-               <orig>vne</orig>
-               <reg>une</reg>
-            </choice> chose de bon exemple, &amp; laquelle <choice>
-               <orig>inuitera</orig>
-               <reg>invitera</reg>
-            </choice> d’autres personnes a s’attacher au Roy.</p>
-         <p>
-            <choice>
-               <orig>Ie</orig>
-               <reg>Je</reg>
-            </choice> n’ay fait <choice>
-               <orig>trauailler</orig>
-               <reg>travailler</reg>
-            </choice> au Pont de Sture, ny à Rossignan, parce que les Lettres d’échange que nous <choice>
-               <orig>auons</orig>
-               <reg>avons</reg>
-            </choice> tirées pour cela n’ont pas esté acceptées, ou pour le moins nous n’en <choice>
-               <orig>auons</orig>
-               <reg>avons</reg>
-            </choice> pas eu de <choice>
-               <orig>nouuelles</orig>
-               <reg>nouvelles</reg>
-            </choice>. Vostre Eminence commandera ce qu’il luy plaira que nous fassions.</p>
-         <p>Ceux qui ont part dans les affaires de <persName ref="#Christine">Madame</persName>
-          traittent <choice>
-               <orig>vne</orig>
-               <reg>une</reg>
-            </choice> entreprise sur Vercel, si la chose se peut executer, il faudra assieger la
-          Citadelle. C’est ce qui me fait souhaiter dans le quinziéme de ce mois les deux Regimens
-          que <choice>
-               <orig>i</orig>
-               <reg>j</reg>
-            </choice>’ay demandé, la chose n’est pas assez secrette pour m’en promettre <choice>
-               <orig>vn</orig>
-               <reg>un</reg>
-            </choice> bon effect ; Neantmoins les choses reüssissent quelque fois lors qu’on s’y
-          attend le moins, c’est pourquoy il se faut preparer à tout <choice>
-               <orig>euenement</orig>
-               <reg>evenement</reg>
-            </choice>.</p>
-         <p>L’Armée du Prince Thomas donnera <choice>
-               <orig>vne</orig>
-               <reg>une</reg>
-            </choice> grande allarme dans le Piémont, selon qu’on mande à Madame, il taschera
-          premierement de s’accommoder, c’est à dire, de la porter à <choice>
-               <orig>vne</orig>
-               <reg>une</reg>
-            </choice> suspension, &amp; la <choice>
-               <orig>receuoir</orig>
-               <reg>recevoir</reg>
-            </choice> luy, ou le Cardinal dans le Piémont, à quoy elle me témoigne <choice>
-               <orig>auoir</orig>
-               <reg>avoir</reg>
-            </choice>
-            <choice>
-               <orig>vne</orig>
-               <reg>une</reg>
-            </choice> grande repugnance, mais <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> ne respons pas de sa foiblesse, si elle voyoit <choice>
-               <orig>vne</orig>
-               <reg>une</reg>
-            </choice>
-            <choice>
-               <orig>reuolte</orig>
-               <reg>revolte</reg>
-            </choice>, neantmoins elle connoit bien qu’elle est perdué, si elle n’a vostre protection,
-          &amp; celle du Roy. La Citadelle de Turin, est bien asseurée, Madame se porte bien, son
-            <persName n="first" ref="#CharlesE2">fils</persName> est en bonne santé, elle espere <choice>
-               <orig>auoir</orig>
-               <reg>avoir</reg>
-            </choice> trois ou quatre mil François, lesquels <choice>
-               <orig>seruiront</orig>
-               <reg>serviront</reg>
-            </choice> au moins dans ses places c’est ce qui est cause que <choice>
-               <orig>i</orig>
-               <reg>j</reg>
-            </choice>’ay <choice>
-               <orig>tousiours</orig>
-               <reg>tousjours</reg>
-            </choice> esté d’<choice>
-               <orig>auis</orig>
-               <reg>avis</reg>
-            </choice> que le Roy luy payast les 3000. hommes de pied, car ils me semblent aussi
-          necessaires dans les places que dans la campagne pour les accidens qui pourroient <choice>
+            </choice> autant qu’il sera possible.</p>
+         <p>Estant à Pignerol il verra les sieurs de Malissy, &amp; de la Cour, ce qui se pourra
+          faire pour <choice>
+               <orig>aduancer</orig>
+               <reg>advancer</reg>
+            </choice> le <choice>
+               <orig>trauail</orig>
+               <reg>travail</reg>
+            </choice> de ladite place, &amp; le mettre en telle seureté, qu’il n’en puisse <choice>
                <orig>arriuer</orig>
                <reg>arriver</reg>
-            </choice>. Il me semble s’il <choice>
-               <orig>arriuoit</orig>
-               <reg>arrivoit</reg>
-            </choice> accident à Madame de se saisir de la personne du Duc, &amp; de Turin s’il estoit
-          possible, à quoy les François de Madame seroient <choice>
-               <orig>tres-vtiles</orig>
-               <reg>tres-utiles</reg>
-            </choice>.</p>
-         <p>
-            <choice>
-               <orig>Ie</orig>
-               <reg>Je</reg>
-            </choice> puis asseurer Vostre Eminence que i’obmettray rien de ce qui dependra de moy
-          pour le <choice>
-               <orig>seruice</orig>
-               <reg>service</reg>
-            </choice> du Roy, ny pour vous tesmoigner que <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> suis <choice>
+            </choice> d’<choice>
+               <orig>inconuenient</orig>
+               <reg>inconvenient</reg>
+            </choice> ; &amp; s’il se peut à quelque prix que ce soit faire deux atteliers, l’<choice>
+               <orig>vn</orig>
+               <reg>un</reg>
+            </choice> à Pignerol, &amp; l’autre à sainct Brigude, en sorte que l’on n’allentisse point
+          l’autre; Il surmontera toutes les difficultez pour <choice>
+               <orig>paruenir</orig>
+               <reg>parvenir</reg>
+            </choice> à cét effet, &amp; fournira l’argent necessaire pour cette despense au sieur de
+          la Cour, &amp; tirera des Lettres de change à Paris, lesquelles seront acquittées ; &amp;
+          où il seroit impossible de faire deux atteliers en ce cas, il faudra mettre premierement
+          la ville de Pignerol en toute seureté, &amp; mettre le Fort sainte Brigide en bonne
+          deffence, &amp; celuy de Perouse.</p>
+         <p>Apres que ledit sieur d’Hemery aura donné les ordres necessaires audit Pignerol tant pour
+          ladite fortification, que pour la seureté de la place, il s’en ira à Turin auprés de
+          Madame, &amp; apres l’auoir asseurée de l’affection, &amp; protection de <persName ref="#Louis13">sa <choice>
+                  <orig>Maiesté</orig>
+                  <reg>Majesté</reg>
+               </choice>
+            </persName> pour elle &amp; ses Estats, il prendra <choice>
                <orig>auec</orig>
                <reg>avec</reg>
-            </choice> le respect &amp; l’affection que <choice>
-               <orig>ie</orig>
-               <reg>je</reg>
-            </choice> dois,</p>
-         <closer>
-            <salute>Vostre, &amp;c.</salute>
-         </closer>
+            </choice> Monsieur le Cardinal de la Valette <choice>
+               <orig>aduis</orig>
+               <reg>advis</reg>
+            </choice> comme il se <choice>
+               <orig>deura</orig>
+               <reg>devra</reg>
+            </choice> comporter <choice>
+               <orig>auec</orig>
+               <reg>avec</reg>
+            </choice> elle au <choice>
+               <orig>suiet</orig>
+               <reg>sujet</reg>
+            </choice> des rencontres presents.</p>
+         <p>Sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice> estime que si le siege du Cingio est <choice>
+               <orig>leué</orig>
+               <reg>levé</reg>
+            </choice> comme l’on espere, &amp; que l’affaire du Piedmont soit reduit en <choice>
+               <orig>vn</orig>
+               <reg>un</reg>
+            </choice> estat ordinaire, en ce cas l’on ne doit hazarder aucune proposition sur la
+          remise des places qu’il seroit à propos pour le <choice>
+               <orig>seruice</orig>
+               <reg>service</reg>
+            </choice> du Roy, &amp; seureté de Pignerol, que Madame remit entre les mains de sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice>, de crainte que les Ennemis de la France ne profitassent sur l’esprit de Madame
+          de ces propositions, pour la faire consentir à celles que les Espagnols, &amp; <persName n="first" ref="#Tommaso #Maurizio">ses freres</persName> luy pourroient faire contre le <choice>
+               <orig>seruice</orig>
+               <reg>service</reg>
+            </choice> du Roy, &amp; son bien propre; mais seulement luy insinuer autant que l’on
+          pourra ces choses par le moyen de ceux qui la <choice>
+               <orig>gouuernent</orig>
+               <reg>gouvernent</reg>
+            </choice>, ou en prenant quelque part sur son esprit ; ou par tels autres moyens que M. le
+          Cardinal de la Valette, &amp; ledit sieur d’Hemery <choice>
+               <orig>aduiseront</orig>
+               <reg>adviseront</reg>
+            </choice> pour y <choice>
+               <orig>paruenir</orig>
+               <reg>parvenir</reg>
+            </choice>.</p>
+         <p>Mais le Cingio venant a estre pris, &amp; les affaires du Piedmont, par quelques autres
+          rencontres reduites au point que la perte du pays fut à craindre, en ce cas le sieur
+          d’Hemery doit renconter à Madame, que le seul expedient qui luy reste pour l’empescher d’<choice>
+               <orig>vne</orig>
+               <reg>une</reg>
+            </choice> ruyne totale, est de faire entendre aux Espagnols &amp; à ses freres, <pb facs="Vialart_letters_Page_28.jpg"/> qu’elle n’a plus d’autres moyens de se <choice>
+               <orig>sauuer</orig>
+               <reg>sauver</reg>
+            </choice>, &amp; ses Estats, que de remettre son fils &amp; ses places entre les mains du
+          Roy entierement pour en <choice>
+               <orig>preuenir</orig>
+               <reg>prevenir</reg>
+            </choice> la perte, &amp; les obliger à rendre celles que les Espagnols ont prises, estant
+          asseurée comme elle est, que sa Majesté les prendra toutes fois &amp; quantes que les
+          Espagnols rendront celles qu’ils ont en leurs mains.</p>
+         <p>En effet ledit sieur d’Hemery doit, non seulement proposer à Madame ce moyen pour
+          empescher les Espagnols de faire plus de progrez en Piedmont, mais si les affaires sont en
+          tel estat que la perte du pays soit à craindre, il doit dire à Madame de la part de sa
+          Majeste, qu’autant qu’elle sera en défiance du Roy, comme elle a esté <choice>
+               <orig>iusques</orig>
+               <reg>jusques</reg>
+            </choice> à present, non seulement les places du Piedmont se perdront peu à peu, comme il
+          est <choice>
+               <orig>arriué</orig>
+               <reg>arrivé</reg>
+            </choice> depuis la mort de <persName n="first" ref="#VictorA1">Monsieur de <choice>
+                  <orig>Sauoye</orig>
+                  <reg>Savoye</reg>
+               </choice>
+            </persName>, mais qu’il seroit impossible au Roy d’en prendre la protection <choice>
+               <orig>auec</orig>
+               <reg>avec</reg>
+            </choice> succés, si Madame ne luy confie certaines places d’iceluy, du tout necessaires à
+          la <choice>
+               <orig>conseruation</orig>
+               <reg>conservation</reg>
+            </choice> du reste, &amp; faudroit faire voir à Madame que ce moyen est le seul, par
+          lequel on peut arrester le <choice>
+               <orig>mauuais</orig>
+               <reg>mauvais</reg>
+            </choice> dessein de ses freres, &amp; des Espagnols, de Messieurs ses freres par la
+          consideration qu’ils auroient, qu’en faisant du mal à Madame, la France n’emportât <choice>
+               <orig>vne</orig>
+               <reg>une</reg>
+            </choice> partie de l’Estat, auquel ils aspiroient, en ce que cela donneroi moyen au Roy
+          de s’opposer plus puissamment à leurs <choice>
+               <orig>mauuais</orig>
+               <reg>mauvais</reg>
+            </choice> desseins, <choice>
+               <orig>pouuant</orig>
+               <reg>pouvant</reg>
+            </choice> en tel cas faire <choice>
+               <orig>hyuerner</orig>
+               <reg>hyverner</reg>
+            </choice> en telles places, sans charger le pays <choice>
+               <orig>vn</orig>
+               <reg>un</reg>
+            </choice> corps de Troupes suffisant, pour <choice>
+               <orig>conseruer</orig>
+               <reg>conserver</reg>
+            </choice> les Estats, &amp; empescher les Espagnols d’<choice>
+               <orig>vser</orig>
+               <reg>user</reg>
+            </choice>
+            <choice>
+               <orig>dauantage</orig>
+               <reg>davantage</reg>
+            </choice> de surprises au Printemps, comme ils ont fait ces deux dernieres années. Ledit
+          sieur d’Hemery ou autre, faisant telle proposition, offrira à Madame telles asseurances,
+          non seulement par simples promesses, mais par Lettres du grand Sceau qu’elle desirera de
+          sa Majesté pour la restitution desdites places, &amp; de la jouyssance des <choice>
+               <orig>reuenus</orig>
+               <reg>revenus</reg>
+            </choice>. Il est de la prudence dudit sieur d’Hemery de faire s’il se <choice>
+               <orig>pouuoit</orig>
+               <reg>pouvoit</reg>
+            </choice> que Madame tombât d’elle-mesme dans cette proposition, auquel cas il pourroit
+          tesmoigner que sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice> tres-difficilement entendroit au party, d’autant qu’elle se chargeroit de grande
+          deffense pour la <choice>
+               <orig>conseruation</orig>
+               <reg>conservation</reg>
+            </choice> du Piedmont, sans esperance d’aucun fruict, &amp; prendroit s’il se <choice>
+               <orig>pouuoit</orig>
+               <reg>pouvoit</reg>
+            </choice> occasion de luy demander à titre de change, pension, ou quelque autre moyen les
+          vallées Dengroigne, Saint Martin, &amp; Luzerne, Reuel, Brigueras, Cahours, &amp; les
+          terres qui sont au derriere <choice>
+               <orig>iusques</orig>
+               <reg>jusques</reg>
+            </choice> à Pignerol, comme necessaire à la subsistance de ladite place, &amp; capables de
+          desinteresser en quelque façon les frais dans lesquels sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice> seroit obligé d’entrer pour la protection que Madame demandera.</p>
+         <p>Que si Madame estoit entrée en quelque Traité <choice>
+               <orig>auec</orig>
+               <reg>avec</reg>
+            </choice> le Cardinal, &amp; le Prince Thomas, soit de neutralité, suspension d’armes, ou
+          autrement, en ce cas ledit d’Hemery luy protesteroit de la part de sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice> qu’elle interpretera semblables Traittez, pour <choice>
+               <orig>vne</orig>
+               <reg>une</reg>
+            </choice> rupture contre elle, &amp; si Madame vouloit traiter auec lesdits Princes pour
+          les tirer du party d’Espagne, &amp; les <choice>
+               <orig>vnir</orig>
+               <reg>unir</reg>
+            </choice> au sien, &amp; à celuy de France, en ce cas ledit sieur d’Hemery donneroit les
+          mains, &amp; offriroit de la part de sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice> toutes les choses qu’il pourroit contribuer à la fin de cette Negotiation ,
+          comme mariages pour le sieur Cardinal, Employs aux charges pour le Prince Thomas,
+          Restablissement des pensions pour les <choice>
+               <orig>vns</orig>
+               <reg>uns</reg>
+            </choice> &amp; pour les autres.</p>
+         <p>Et si ledit sieur d’Hemery apprenoit que Madame negociât <choice>
+               <orig>auec</orig>
+               <reg>avec</reg>
+            </choice> ses freres pour ladite neutralité, suspension, ou <choice>
+               <orig>vnion</orig>
+               <reg>union</reg>
+            </choice>
+            <choice>
+               <orig>auec</orig>
+               <reg>avec</reg>
+            </choice> l’Espagne, en ce cas il pourroit <pb facs="Vialart_letters_Page_29.jpg"/>
+          conferer <choice>
+               <orig>auec</orig>
+               <reg>avec</reg>
+            </choice> Monsieur le Cardinal de la Valette des moyens pour s’asseurer des places qui
+          conduisoient de Pignerol à Cazal, &amp; l’effectuer s’ils <choice>
+               <orig>pouuoient</orig>
+               <reg>pouvoient</reg>
+            </choice>.</p>
+         <p>Pourra ledit sieur d’Hemery distribuer les <choice>
+               <orig>breuets</orig>
+               <reg>brevets</reg>
+            </choice>, tant pour Madame que ses sujets, qui luy ont esté mis entre les mains, &amp;
+          gaigner d’autres personnes qu’il <choice>
+               <orig>iugera</orig>
+               <reg>jugera</reg>
+            </choice> necessaires, &amp; pour cét effect employer les sommes qu’il verra bon estre,
+          &amp; en tirer des Lettres de change à Paris.</p>
+         <p>Et où il <choice>
+               <orig>arriueroit</orig>
+               <reg>arriveroit</reg>
+            </choice> occasion que Madame voulut mettre son fils entre les mains de sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice>, ledit sieur d’Hemery le fera <choice>
+               <orig>receuoir</orig>
+               <reg>recevoir</reg>
+            </choice> à Pignerol, &amp; de la le conduire dans le Royaume, &amp; faire tous les frais
+          necessaires pour cette occasion.</p>
+         <p>Que si Madame veut que l’on fasse entrer des Troupes Françoises dans les places, M. le
+          Cardinal de la Valette dans la participation duquel M. d’Hemery ne fera point lesdites
+          Negociations, les y fera entrer sans attendre autre ordre de sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice>.</p>
+         <p>Apres que ledit sieur d’Hemery aura donné les ordres necessaires pour la fortification de
+          Pignerol, &amp; fait les propositions cy-dessus à Madame, en cas que les affaires de
+          Piedmont soient sans peril, sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice> permet audit sieur d’Hemery de s’en <choice>
+               <orig>reuenir</orig>
+               <reg>revenir</reg>
+            </choice> quand il <choice>
+               <orig>iugera</orig>
+               <reg>jugera</reg>
+            </choice> à propos. Cependant il <choice>
+               <orig>aduertira</orig>
+               <reg>advertira</reg>
+            </choice> sa <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice> le plus <choice>
+               <orig>souuent</orig>
+               <reg>souvent</reg>
+            </choice> qu’il pourra de l’estat des affaires.</p>
+         <p>Ledit sieur d’Hemery donnera les ordres necessaires pour la seureté de Cazal, &amp; pour
+          faire en sorte que la perte du Grand Chancelier ne fasse perdre cœur à ceux que estoient <choice>
+               <orig>auec</orig>
+               <reg>avec</reg>
+            </choice> luy, <choice>
+               <orig>conioinctement</orig>
+               <reg>conjoinctement</reg>
+            </choice> affidez à la France, &amp; aux interests du jeune Duc leur <choice>
+               <orig>Maiesté</orig>
+               <reg>Majesté</reg>
+            </choice>, qui sont du tout separez des passions de Madame sa mere.</p>
+         <p>Pour cét effet, ledit sieur d’Hemery donnera ordre à ce qu’au cas que ledit <choice>
+               <orig>Euesque</orig>
+               <reg>Evesque</reg>
+            </choice> de Cazal voulut demeurer dans la ville presentement, le sieur de la Tour luy
+          fasse connoistre du consentement des Principaux Magistrats affidez au Roy, qu’il est à
+          propos qu’il aille à <placeName ref="#Mantua">Mantoue</placeName>, &amp; que sa demeure
+          est tres suspecte en l’estat où sont les affaires pour le <choice>
+               <orig>pouuoir</orig>
+               <reg>pouvoir</reg>
+            </choice> souffrir audit Cazal.</p>
       </body>
    </text>
 </TEI>
