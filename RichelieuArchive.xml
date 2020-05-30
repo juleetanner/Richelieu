@@ -124,14 +124,13 @@
         <p>to come</p>
       </projectDesc>
       <editorialDecl>
-        <p>The dictionaries used to check spellings and confirm understanding of words in these
-          transcriptions are the <hi rend="italic">Dictionnaire de l'Académie française</hi> of 1694
-          and Jean Nicot's <hi rend="italic">Thresor de la langue françoyse, tant ancienne que
-            moderne</hi> of 1606, both accessed through the <hi rend="italic">Dictionnaires
-            d'autrefois</hi> database of the University of Chicago ARTFL Project. In addition to
-          these two resources, anyone attempting to read these letters who is not familiar with the
-          standard ways that 17th century French differs from modern French might find this short
-          guide by Thomas Luckett at Portland State University helpful: <ref
+        <p>The dictionaries used for this project are the <hi rend="italic">Dictionnaire de
+            l'Académie française</hi> of 1694 and Jean Nicot's <hi rend="italic">Thresor de la
+            langue françoyse, tant ancienne que moderne</hi> of 1606, both accessed through the <hi
+            rend="italic">Dictionnaires d'autrefois</hi> database of the University of Chicago ARTFL
+          Project. In addition to these two resources, anyone attempting to read these letters who
+          is not familiar with the standard ways that 17th century French differs from modern French
+          might find this short guide by Thomas Luckett at Portland State University helpful: <ref
             target="http://web.pdx.edu/~brtl/Old-Regime-French.htm">Reading Old Regime
           French</ref>.</p>
         <p>Essential as these resources are to deciphering the letters in this archive, they also do
@@ -219,7 +218,7 @@
         <idno type="VIAF">184477767</idno>
         <birth when="1601"/>
         <death when="1656"/>
-        <note>Soldier and governor of Languedoc from 1633 to 1644. He was named Marshall of France
+        <note>Officer and governor of Languedoc from 1633 to 1644. He was named Marshall of France
           in 1637 after his victory at the Battle of Leucate.</note>
       </person>
       <person sortKey="Voyer,_René_de,_comte_d'Argenson" xml:id="Argenson">
@@ -228,7 +227,7 @@
         <idno type="VIAF">64063641</idno>
         <birth when="1596"/>
         <death when="1651"/>
-        <note>Lawyer, councillor of state, and inspector of French forces under Richelieu.</note>
+        <note>Lawyer, counsellor of state, and inspector of French forces under Richelieu.</note>
       </person>
       <person sortKey="Arpajon,_Louis,_duc_d'" xml:id="Arpajon">
         <persName type="main">Louis, duc d'Arpajon</persName>
@@ -402,9 +401,9 @@
         <idno type="VIAF">97857453</idno>
         <birth when="1609"/>
         <death when="1660"/>
-        <note>Maria and her husband Charles of Nevers inherited the Duchies of Mantua and Monferrat
-          in 1627. Challenges to the inheritance resulted in the War of the Mantuan Succession,
-          1628–31.</note>
+        <note>Gonzaga and her husband Charles of Nevers inherited the Duchies of Mantua and
+          Monferrat in 1627. Challenges to the inheritance resulted in the War of the Mantuan
+          Succession, 1628–31.</note>
       </person>
       <person sortKey="Gregory_XV,_pope_(Ludovisi_Alessandro)" xml:id="Gregory15">
         <persName type="main">Gregory XV (Ludovisi Alessandro), pope</persName>
@@ -542,7 +541,7 @@
           assassination in 1610. In 1617 she was forced from power in a palace coup and expelled to
           Blois. Though she reconciled with Louis and returned to court in 1621, her attempt to end
           Richelieu's influence in 1630 on the "Day of the Dupes" would result in her permanent
-          exile.</note>
+          exile, first to Brussels, then to Amsterdam.</note>
       </person>
       <person sortKey="Maurice,_prince_of_Savoy_and_cardinal_of_Vercelli" xml:id="Maurizio">
         <persName type="main">Maurice, prince of Savoy and cardinal of Vercelli</persName>
@@ -1156,9 +1155,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -1181,7 +1179,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -1392,9 +1390,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -1417,7 +1414,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -1699,9 +1696,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -1724,7 +1720,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -1943,7 +1939,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -2032,9 +2028,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -2057,7 +2052,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -2314,7 +2309,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -2441,9 +2436,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -2466,7 +2460,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -2510,11 +2504,11 @@
         <p><choice>
             <orig>Ie</orig>
             <reg>Je</reg>
-          </choice> ne veux pas laisser partir le sieur <persName ref="#Palluau">Baron de
+          </choice> ne veux pas laisser partir le <persName ref="#Palluau">Baron de
             Palluau</persName>, sans vous <choice>
             <orig>enuoyer</orig>
             <reg>envoyer</reg>
-          </choice> ce tesmoignage de mon affection , &amp; de la confiance que <choice>
+          </choice> ce tesmoignage de mon affection, &amp; de la confiance que <choice>
             <orig>i</orig>
             <reg>j</reg>
           </choice>'ay en vostre amitié, dont vous m'<choice>
@@ -2580,9 +2574,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -2605,7 +2598,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -2803,7 +2796,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -3014,9 +3007,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -3039,7 +3031,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -3371,9 +3363,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -3396,7 +3387,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -3703,9 +3694,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -3728,7 +3718,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -4081,9 +4071,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -4106,7 +4095,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -4348,9 +4337,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -4373,7 +4361,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -4825,9 +4813,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -4850,7 +4837,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -5228,9 +5215,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -5253,7 +5239,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -5476,9 +5462,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -5501,7 +5486,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -5709,9 +5694,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -5734,7 +5718,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -5915,9 +5899,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -5940,7 +5923,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -6088,9 +6071,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -6113,7 +6095,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -6250,9 +6232,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -6275,7 +6256,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -6701,9 +6682,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -6726,7 +6706,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -6873,9 +6853,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -6898,7 +6877,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -6923,7 +6902,7 @@
           <correspAction type="received">
             <persName ref="#Richelieu"/>
             <placeName/>
-            <date />
+            <date/>
           </correspAction>
           <note>De La Tour defends his actions in detaining a bishop and a doctor from Turin. The
             doctor later escaped but produced a passport signed by Louis XIII; de La Tour did not
@@ -7171,17 +7150,15 @@
       <fileDesc>
         <titleStmt>
           <title>Instructions from <persName ref="#Richelieu">Cardinal Richelieu</persName> to
-              <persName ref="#Richelieu">le Sieur d'Emery</persName>, [early April
-            1639]</title>
+              <persName ref="#Richelieu">le Sieur d'Emery</persName>, [early April 1639]</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -7204,7 +7181,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -7616,9 +7593,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>Photo courtesy the Newberry Library.</p>
           </availability>
         </publicationStmt>
@@ -7641,7 +7617,7 @@
             <date when="1649"/>
             <idno type="icn">folio F 3923 .945</idno>
             <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
           </bibl>
         </sourceDesc>
       </fileDesc>
@@ -8103,9 +8079,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
               &amp; Museum.</p>
           </availability>
@@ -8227,9 +8202,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
               &amp; Museum.</p>
           </availability>
@@ -8336,9 +8310,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
               &amp; Museum.</p>
           </availability>
@@ -8436,9 +8409,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA 4801 (07). Gift of Mrs. Charles Wrightsman, 1993.
               Photo courtesy the Morgan Library &amp; Museum.</p>
           </availability>
@@ -8574,9 +8546,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA 6462. Photo courtesy the Morgan Library &amp;
               Museum.</p>
           </availability>
@@ -8783,9 +8754,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA 379. Photo courtesy the Morgan Library &amp;
               Museum.</p>
           </availability>
@@ -9001,9 +8971,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. 1346-234. Photo courtesy the Morgan Library &amp;
               Museum.</p>
           </availability>
@@ -9117,9 +9086,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
               &amp; Museum.</p>
           </availability>
@@ -9256,9 +9224,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA 1346-235. Photo courtesy the Morgan Library &amp;
               Museum.</p>
           </availability>
@@ -9355,9 +9322,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA 1346-254. Photo courtesy the Morgan Library &amp;
               Museum.</p>
           </availability>
@@ -9366,7 +9332,7 @@
           <msDesc>
             <msIdentifier>
               <settlement>New York</settlement>
-              <repository>The Morgan Library &amp; Museum</repository>
+              <repository>The Morgan Library &amp; Museum. MA 1346-235.</repository>
               <idno type="Record_ID">117073</idno>
               <altIdentifier>
                 <idno type="Accession_Number">MA 1346-254</idno>
@@ -9530,9 +9496,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
               &amp; Museum.</p>
           </availability>
@@ -9629,9 +9594,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Morgan Library &amp; Museum. MA 4801 (07). Gift of Mrs. Charles Wrightsman, 1993.
               Photo courtesy the Morgan Library &amp; Museum.</p>
           </availability>
@@ -9739,9 +9703,8 @@
           <pubPlace>Seattle, WA</pubPlace>
           <date when="2020"/>
           <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
             <p>The Lambeth Palace Library. Thomas Murray Papers, MS 666. Photo Julee Tanner</p>
           </availability>
         </publicationStmt>
@@ -10071,6 +10034,207 @@
           vous protestant inviolablement que je suis.</p>
         <lb/>
         <closer><salute>Monsieur.</salute></closer>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter66">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Copy of a letter from <persName ref="#MarieM">Marie de'Medici</persName> to
+              <persName ref="#Richelieu">Cardinal Richelieu</persName>, 14–24 February 1634; with
+            instructions to the messenger, Sieur de Laleu</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>The National Archives, United Kingdom. Photo Julee Tanner</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <settlement>Richmond, United Kingdom</settlement>
+              <repository>The National Archives</repository>
+              <idno type="Reference">SP 78/95/33</idno>
+            </msIdentifier>
+            <msContents>
+              <msItem n="01">
+                <locus>108v</locus>
+                <p>First page</p>
+              </msItem>
+              <msItem n="02">
+                <locus>108r</locus>
+                <p>Second page</p>
+              </msItem>
+              <msItem n="03">
+                <locus>109v</locus>
+                <p>Third page, with sender, recipient, and date</p>
+              </msItem>
+            </msContents>
+            <additional>
+              <adminInfo>
+                <note>2-page letter, copy</note>
+              </adminInfo>
+            </additional>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Exile</term>
+            <term>Royal courts</term>
+            <term>Petitioning</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#MarieM"/>
+            <placeName/>
+            <date notBefore="1634-02-14" notAfter="1634-02-24"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>In the aftermath of the Day of the Dupes, dowager queen Marie de'Medici asks
+            Richelieu to allow her to return to France to be reconciled with her son, Louis XIII. On
+            the same document are her instructions for her messenger and negotiator, the Sieur de
+            Laleu. Note: Richelieu's response is found in the Avenel compilation, volume 4, pp.
+            532–534.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="IMG_1686.JPG"/>
+        <opener><salute><seg>Mon Cousin.<note>As Princes of the Church, cardinals were addressed as
+                "Mon Cousin" by royalty.</note></seg></salute></opener>
+        <p>Le <persName ref="#Chavigny">Sieur Bouthillier</persName> m'aiant fait dire de vostre
+          part que mes desplaisirs <lb/>vous touchoient sensiblement, et qu'ayant regret de me veoir
+          si long temps <lb/>privee de l'honneur de veoir le <persName ref="#Louis13"
+          >Roy</persName>, vostre plus grande satisfaction seroit <lb/>d'emplyer vostre <choice>
+            <orig>pouuoir</orig>
+            <reg>pouvoir</reg>
+          </choice> à me procurer ce bonheur, J'ay creu estre <lb/>obligee de vous tesmoigner par le
+          Sieur de Laleu que J'<choice>
+            <orig>enuoye</orig>
+            <reg>envoye</reg>
+          </choice> au Roy <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice>
+          <lb/>quelle sorte d'aggreement Je recois vostre bonne volontè. Prenez toute <lb/>confiance
+          en luy, et croyez, mon Cousin, que Je veux estre veritablement &amp;c</p>
+        <div type="instructions">
+          <head>Instruction du Sieur de Laleu.</head>
+          <p>Le Sieur de Laleu dira à Monsieur le <persName ref="#Richelieu">Cardinal de
+              Richelieu</persName> que la <persName ref="#MarieM">Royne</persName> a pris <lb/><choice>
+              <orig>vne</orig>
+              <reg>une</reg>
+            </choice>ferme resolution d'oublier tout le passè, et de n'en <choice>
+              <orig>auoir</orig>
+              <reg>avoir</reg>
+            </choice> jamais aucun <lb/>ressentiment, Sans que <persName ref="#Louis13">Sa
+              Majesté</persName> pretende autre <choice>
+              <orig>aduantage</orig>
+              <reg>advantage</reg>
+            </choice> des tesmoignage,<lb/>
+            <lb/>qu'Elle desire luy rendre de son Amitiè quel'esperance de rentrer par <lb/>son
+            moyen dans les bonnes graces du Roy, et d'<choice>
+              <orig>auoir</orig>
+              <reg>avoir</reg>
+            </choice> l'accez par ceux <lb/>que Sa Majestè commandera d'aller <choice>
+              <orig>trouuer</orig>
+              <reg>trouver</reg>
+            </choice> le Roy de sa part.</p>
+          <p>Le Sieur de Laleu n'a point ordre de faire d'autres propositions <lb/>d'accommodement
+            que celle cy-dessus, dans le peu d'apparence que veoir <lb/>Sa Majestè d'en faire
+            d'autres tant que ledit Sieur Cardinal demeurera dans <lb/>les deffiances qu'il a eües <choice>
+              <orig>iusques</orig>
+              <reg>jusques</reg>
+            </choice> à cette heure, veu qu'il s'est rendu <lb/>si puissant que quand Il donneroit à
+            la Royne le choix des meilleures <lb/>et plus fortes places du Royaume, Sa Majestè n'y
+            seroit pas en Seuretè <lb/>s'il entroit dans la moindre deffiance d'Elle. Cela estant
+            comme <lb/>personne n'en peut doubter: la Royne ne scauroit <choice>
+              <orig>trouuer</orig>
+              <reg>trouver</reg>
+            </choice>
+            <lb/>Seuretè que dans la Confiance de Monsieur le Cardinal; Si la Confiance <lb/>est
+            parfaite, la Seuretè de la Royne y sera entiere.</p>
+          <p>La Royne retournant en France hazarde tout, et Monsieur le <pb facs="IMG_1687.JPG"/>
+            <lb/>Cardinal rien. Le fort donnant la Loy au foible; En sorte que si <lb/>Monsieur le
+            Cardinal estoit capable d'entrer en doubte de la Royne Il la <lb/>perdoit quand Il luy
+            plairoit; au contraire Sa Majesté ne luy pourroit <lb/>nuire en aucune facon quand
+            mesmes. Elle en auroit la volonté; <lb/>Non obstant toutes ces raisons qui sont sans
+            replique, Si Monsieur le <lb/>Cardinal veut <choice>
+              <orig>enuoyer</orig>
+              <reg>envoyer</reg>
+            </choice> de la part du Roy ou de la Sienne quelqu'un <lb/>de ses plus Confidens pour
+            traicter la Royne le <choice>
+              <orig>receura</orig>
+              <reg>recevra</reg>
+            </choice> avec <lb/>aggreement. Et si par les Propositions et <choice>
+              <orig>ouuertures</orig>
+              <reg>ouvertures</reg>
+            </choice> d'accommo- <lb/>dement qui luy seroit faites, ledit Sieur Cardinal tesmoigne n'<choice>
+              <orig>auoir</orig>
+              <reg>avoir</reg>
+            </choice>
+            <lb/>aucune deffiance de Sa Majestè. il sera fort faicte d'accommoder <lb/>toutes
+            choses; Si au contraire Il fait paroistre mefiance, la <lb/>Royne demeurera dans la
+            creance qu'il est impossible de faire <lb/>accommodement pour n'y <choice>
+              <orig>pouuoir</orig>
+              <reg>pouvoir</reg>
+            </choice>
+            <choice>
+              <orig>trouuer</orig>
+              <reg>trouver</reg>
+            </choice> ses seuretez. La <lb/>Majestè ne laissera pas portant
+              <unclear>deperrister</unclear> dans sa resolution <lb/>d'oublier tout le passè et n'en <choice>
+              <orig>auoir</orig>
+              <reg>avoir</reg>
+            </choice>
+            <choice>
+              <orig>iamais</orig>
+              <reg>jamais</reg>
+            </choice> de ressentiment, <lb/>puis que c'est le seul moyen d'entretenir les bonnes
+            graces du Roy <lb/>et s'y <choice>
+              <orig>conseruer</orig>
+              <reg>conserver</reg>
+            </choice> la libertè d'escrire à Sa Majestè.</p>
+          <p>La cognoissance que la Royne a de longtemps de la fidelité du <lb/><persName
+              ref="#Chanteloube">Pere de Chanteloup</persName>, et a son affection au service de Sa
+            Majesté fera <lb/>qu'Elle ne consentira jamais à l'esloigner d'aupres d'Elle; Mais
+            <lb/>luy qui ne voudroit pour rien du monde apporter obstacle à <lb/>l'union qui doist
+            estre entre Leurs Majestéz, non plus qu'a la <lb/>parfaite <choice>
+              <orig>jntelligence</orig>
+              <reg>intelligence</reg>
+            </choice> d'entre la Royne et Monsieur le Cardinal. <lb/>Supplie tres humblement ledit
+            Sieur Cardinal de luy donner <lb/>l'exclusion, de crainte que sa consideration
+            n'empeschast <lb/>l'effect d'un bon accommodement, Ledit Pere engageant sa <lb/>foy et
+            sa parole de se retirer et tenant à grande gloire de <lb/>contribuer par sa retraicte à <choice>
+              <orig>vn</orig>
+              <reg>un</reg>
+            </choice>
+            <choice>
+              <orig>oeuure</orig>
+              <reg>oeuvre</reg>
+            </choice> desirè <choice>
+              <orig>vniuersellement</orig>
+              <reg>universellement</reg>
+            </choice>
+            <lb/>par tous les gens de bien. </p>
+        </div>
       </body>
     </text>
   </TEI>
