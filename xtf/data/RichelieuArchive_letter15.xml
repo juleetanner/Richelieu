@@ -15,9 +15,8 @@
             <pubPlace>Seattle, WA</pubPlace>
             <date when="2020"/>
             <availability status="restricted">
-               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Transcribed by Julee
-              Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International
-              License.</licence>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
                <p>Photo courtesy the Newberry Library.</p>
             </availability>
          </publicationStmt>
@@ -40,7 +39,7 @@
                <date when="1649"/>
                <idno type="icn">folio F 3923 .945</idno>
                <note>Not all editions of this book contain section 5, the source for the letters on the
-              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+              Piedmont. The edition used here is held by the Newberry Library in Chicago.</note>
             </bibl>
          </sourceDesc>
       </fileDesc>
@@ -77,14 +76,12 @@
             <p>to come</p>
          </projectDesc>
          <editorialDecl><!--from teiHeader/*/* of teiCorpus-->
-            <p>The dictionaries used to check spellings and confirm understanding of words in these
-          transcriptions are the <hi rend="italic">Dictionnaire de l'Académie française</hi> of 1694
-          and Jean Nicot's <hi rend="italic">Thresor de la langue françoyse, tant ancienne que
-            moderne</hi> of 1606, both accessed through the <hi rend="italic">Dictionnaires
-            d'autrefois</hi> database of the University of Chicago ARTFL Project. In addition to
-          these two resources, anyone attempting to read these letters who is not familiar with the
-          standard ways that 17th century French differs from modern French might find this short
-          guide by Thomas Luckett at Portland State University helpful: <ref target="http://web.pdx.edu/~brtl/Old-Regime-French.htm">Reading Old Regime
+            <p>The dictionaries used for this project are the <hi rend="italic">Dictionnaire de
+            l'Académie française</hi> of 1694 and Jean Nicot's <hi rend="italic">Thresor de la
+            langue françoyse, tant ancienne que moderne</hi> of 1606, both accessed through the <hi rend="italic">Dictionnaires d'autrefois</hi> database of the University of Chicago ARTFL
+          Project. In addition to these two resources, anyone attempting to read these letters who
+          is not familiar with the standard ways that 17th century French differs from modern French
+          might find this short guide by Thomas Luckett at Portland State University helpful: <ref target="http://web.pdx.edu/~brtl/Old-Regime-French.htm">Reading Old Regime
           French</ref>.</p>
             <p>Essential as these resources are to deciphering the letters in this archive, they also do
           reveal the extent to which orthography, letter formation, and punctuation were not yet
@@ -171,7 +168,7 @@
             <idno type="VIAF">184477767</idno>
             <birth when="1601"/>
             <death when="1656"/>
-            <note>Soldier and governor of Languedoc from 1633 to 1644. He was named Marshall of France
+            <note>Officer and governor of Languedoc from 1633 to 1644. He was named Marshall of France
           in 1637 after his victory at the Battle of Leucate.</note>
          </person>
          <person sortKey="Voyer,_René_de,_comte_d'Argenson" xml:id="Argenson">
@@ -180,7 +177,7 @@
             <idno type="VIAF">64063641</idno>
             <birth when="1596"/>
             <death when="1651"/>
-            <note>Lawyer, councillor of state, and inspector of French forces under Richelieu.</note>
+            <note>Lawyer, counsellor of state, and inspector of French forces under Richelieu.</note>
          </person>
          <person sortKey="Arpajon,_Louis,_duc_d'" xml:id="Arpajon">
             <persName type="main">Louis, duc d’Arpajon</persName>
@@ -360,9 +357,9 @@
             <idno type="VIAF">97857453</idno>
             <birth when="1609"/>
             <death when="1660"/>
-            <note>Maria and her husband Charles of Nevers inherited the Duchies of Mantua and Monferrat
-          in 1627. Challenges to the inheritance resulted in the War of the Mantuan Succession,
-          1628–31.</note>
+            <note>Gonzaga and her husband Charles of Nevers inherited the Duchies of Mantua and
+          Monferrat in 1627. Challenges to the inheritance resulted in the War of the Mantuan
+          Succession, 1628–31.</note>
          </person>
          <person sortKey="Gregory_XV,_pope_(Ludovisi_Alessandro)" xml:id="Gregory15">
             <persName type="main">Gregory XV (Ludovisi Alessandro), pope</persName>
@@ -501,7 +498,7 @@
           assassination in 1610. In 1617 she was forced from power in a palace coup and expelled to
           Blois. Though she reconciled with Louis and returned to court in 1621, her attempt to end
           Richelieu’s influence in 1630 on the “Day of the Dupes” would result in her permanent
-          exile.</note>
+          exile, first to Brussels, then to Amsterdam.</note>
          </person>
          <person sortKey="Maurice,_prince_of_Savoy_and_cardinal_of_Vercelli"
                  xml:id="Maurizio">
@@ -1121,7 +1118,7 @@
                   <persName ref="#Valette">Cardinal de La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>, [mid-March 1639]</title>
             </titlePart>
          </titlePage>
-         <div type="copyright" xml:id="L15avail">Transcribed by Julee Tanner. Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
+         <div type="copyright" xml:id="L15avail">Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. Photo courtesy the Newberry Library.</div>
       </front>
       <body>
          <pb facs="Vialart_letters_Page_17.jpg"/>
