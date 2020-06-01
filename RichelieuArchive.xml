@@ -793,7 +793,7 @@
         <placeName type="alternate">Ast</placeName>
         <placeName type="presentation">Asti</placeName>
         <location>
-          <geo>44.9 -8.2</geo>
+          <geo>44.9 8.2</geo>
         </location>
         <idno type="GeoNames">3182714</idno>
         <note>Commune in the Piedmont region of northwestern Italy, about 55 km from Turin.</note>
@@ -821,7 +821,7 @@
         <placeName type="main">Beziers</placeName>
         <placeName type="presentation">Beziers</placeName>
         <location>
-          <geo>43.34 -3.21</geo>
+          <geo>43.34 3.21</geo>
         </location>
         <idno type="GeoNames">3032833</idno>
         <note>Commune in Southern France, about 10 km from the Mediterranean.</note>
@@ -853,24 +853,44 @@
         <idno type="GeoNames">3030093</idno>
         <note>Commune in north-central France.</note>
       </place>
+      <place sortKey="Carmagnola" xml:id="Carmagnola" type="commune">
+        <placeName type="main">Carmagnola</placeName>
+        <placeName type="presentation">Carmagnola</placeName>
+        <location>
+          <geo>44.85 7.72</geo>
+        </location>
+        <idno type="GeoNames">3180496</idno>
+        <note>Town outside of modern-day Turin claimed by France in the 16th century, beseiged and
+          conquered by Savoy in 1588, and taken back by France during the Piedmontese Civil
+          War.</note>
+      </place>
       <place sortKey="Casale" xml:id="Casale" type="commune">
         <placeName type="main">Casale Monferrato</placeName>
         <placeName type="alternate">Cazal</placeName>
         <placeName type="presentation">Casale Monferrato</placeName>
         <location>
-          <geo>45.13 -8.45</geo>
+          <geo>45.13 8.45</geo>
         </location>
         <idno type="GeoNames">3180208</idno>
         <note>Fortified town in the Piedmont, about 60 km east of Turin. By the 1635 Treaty of
           Rivoli with the dukes of Savoy and Parma, France would occupy Casale and Pinerolo as a
           defense against Spanish encroachment from Milan (Tapié, p. 330).</note>
       </place>
+      <place sortKey="Chancé" xml:id="Chance" type="commune">
+        <placeName type="main">Chancé</placeName>
+        <placeName type="presentation">Chancé</placeName>
+        <location>
+          <geo>48.04 -1.38</geo>
+        </location>
+        <idno type="GeoNames">3026974</idno>
+        <note>Village in Brittany in northwestern France, about 25 km from Rennes.</note>
+      </place>
       <place sortKey="Chivasso" xml:id="Chivasso" type="commune">
         <placeName type="main">Chivasso</placeName>
         <placeName type="alternate">Chivas</placeName>
         <placeName type="presentation">Chivasso</placeName>
         <location>
-          <geo>45.19 -7.89</geo>
+          <geo>45.19 7.89</geo>
         </location>
         <idno type="GeoNames">3178745</idno>
         <note>A town about 20 km northeast of Turin that submitted to Prince Thomas after a short
@@ -880,7 +900,7 @@
         <placeName type="main">Dauphiné</placeName>
         <placeName type="presentation">Dauphiné</placeName>
         <location>
-          <geo>45 -5.25</geo>
+          <geo>45 5.25</geo>
         </location>
         <idno type="GeoNames">3021686</idno>
         <note>A traditional province of France, in the southeast bordering on Savoy and the
@@ -890,7 +910,7 @@
         <placeName type="main">Coeuvres-et-Valsery</placeName>
         <placeName type="presentation">Coeuvres</placeName>
         <location>
-          <geo>49.33 -3.15</geo>
+          <geo>49.33 3.15</geo>
         </location>
         <idno type="GeoNames">3024449</idno>
         <note>Commune in northern France.</note>
@@ -899,7 +919,7 @@
         <placeName type="main">Cuneo</placeName>
         <placeName type="presentation">Cuneo</placeName>
         <location>
-          <geo>44.4 -7.54</geo>
+          <geo>44.4 7.54</geo>
         </location>
         <idno type="GeoNames">6541864</idno>
         <note>Commune in the Piedmont of strategic importance to Savoy and frequently beseiged by
@@ -909,7 +929,7 @@
         <placeName type="main">Dijon</placeName>
         <placeName type="presentation">Dijon</placeName>
         <location>
-          <geo>47.31 -5.01</geo>
+          <geo>47.31 5.01</geo>
         </location>
         <idno type="GeoNames">3021372</idno>
         <note>City in Eastern France.</note>
@@ -919,7 +939,7 @@
         <placeName type="alternate">Flandre</placeName>
         <placeName type="presentation">Flanders</placeName>
         <location>
-          <geo>51 -4.5</geo>
+          <geo>51 4.5</geo>
         </location>
         <idno type="GeoNames">3337388</idno>
         <note>County of the Netherlands under Spanish Hapsburg control in the 17th century.</note>
@@ -928,7 +948,7 @@
         <placeName type="main">Château de la Grange des Prés</placeName>
         <placeName type="presentation">Château de la Grange des Prés</placeName>
         <location>
-          <geo>43.45 -3.42</geo>
+          <geo>43.45 3.42</geo>
         </location>
         <idno type="GeoNames">2987441</idno>
         <note>Estate of the Dukes of Montmorency, north of Pézenas in Languedoc-Roussillon, Southern
@@ -958,7 +978,7 @@
         <placeName type="main">Leucate</placeName>
         <placeName type="presentation">Leucate</placeName>
         <location>
-          <geo>42.91 -3.03</geo>
+          <geo>42.91 3.03</geo>
         </location>
         <idno type="GeoNames">2999046</idno>
         <note>Commune north of Spain on the Mediterranean coast of France.</note>
@@ -979,7 +999,7 @@
         <placeName type="main">Oudun</placeName>
         <placeName type="presentation">Oudun</placeName>
         <location>
-          <geo>47.63 -3.89</geo>
+          <geo>47.63 3.89</geo>
         </location>
         <idno type="GeoNames">2989052</idno>
         <note>Commune in the Bourgogne region of France.</note>
@@ -988,7 +1008,7 @@
         <placeName type="main">Lyon</placeName>
         <placeName type="presentation">Lyon</placeName>
         <location>
-          <geo>45.75 -4.84</geo>
+          <geo>45.75 4.84</geo>
         </location>
         <idno type="GeoNames">2996944</idno>
         <note>City in south-central France.</note>
@@ -997,7 +1017,7 @@
         <placeName type="main">Metz</placeName>
         <placeName type="presentation">Metz</placeName>
         <location>
-          <geo>49.11 -6.17</geo>
+          <geo>49.11 6.17</geo>
         </location>
         <idno type="GeoNames">2994160</idno>
         <note>City in Lorraine, in north-eastern France near Luxembourg.</note>
@@ -1006,7 +1026,7 @@
         <placeName type="main">Moncalvo</placeName>
         <placeName type="presentation">Moncalvo</placeName>
         <location>
-          <geo>45.05 -8.26</geo>
+          <geo>45.05 8.26</geo>
         </location>
         <idno type="GeoNames">3173179</idno>
         <note>Village in the Asti region of Piedmont, about 45 km east of Turin.</note>
@@ -1016,7 +1036,7 @@
         <placeName type="alternate">Monferrato</placeName>
         <placeName type="presentation">Monferrat</placeName>
         <location>
-          <geo>44.92 -8.08</geo>
+          <geo>44.92 -.08</geo>
         </location>
         <idno type="GeoNames">3173152</idno>
         <note>Part of the Piedmont gained by Savoy in the War of the Mantuan Succession,
@@ -1026,7 +1046,7 @@
         <placeName type="main">Château de Montmélian</placeName>
         <placeName type="presentation">Château de Montmélian</placeName>
         <location>
-          <geo>45.51 -6.06</geo>
+          <geo>45.51 6.06</geo>
         </location>
         <idno type="GeoNames">2992255</idno>
         <note>Fortified castle in Savoy constructed from the 11th to 18th century.</note>
@@ -1036,7 +1056,7 @@
         <placeName type="alternate">Mornan</placeName>
         <placeName type="presentation">Mornant</placeName>
         <location>
-          <geo>44.62 -5.12</geo>
+          <geo>44.62 5.12</geo>
         </location>
         <idno type="GeoNames">6430154</idno>
         <note>Commune in the Rhône department of south-eastern France.</note>
@@ -1045,7 +1065,7 @@
         <placeName type="main">Narbonne</placeName>
         <placeName type="presentation">Narbonne</placeName>
         <location>
-          <geo>43.18 -3.00</geo>
+          <geo>43.18 3.00</geo>
         </location>
         <idno type="GeoNames">2990919</idno>
         <note>Commune in the Occitane region about 15 km from the Mediterranean.</note>
@@ -1054,7 +1074,7 @@
         <placeName type="main">Pibrac</placeName>
         <placeName type="presentation">Pibrac</placeName>
         <location>
-          <geo>43.62 -1.29</geo>
+          <geo>43.62 1.29</geo>
         </location>
         <idno type="GeoNames">2987376</idno>
         <note>Commune in Languedoc, about 15 km from Toulouse.</note>
@@ -1064,7 +1084,7 @@
         <placeName type="presentation">Pinerolo</placeName>
         <placeName>Pignerol</placeName>
         <location>
-          <geo>44.89 -7.33</geo>
+          <geo>44.89 7.33</geo>
         </location>
         <note>Fortified town in Savoy about 50 km southwest of Turin that came under French control
           in 1631. By the 1635 Treaty of Rivoli with the dukes of Savoy and Parma, France would
@@ -1076,7 +1096,7 @@
         <placeName type="main">Le Plessis-aux-Bois</placeName>
         <placeName type="presentation">Plessis-aux-Bois</placeName>
         <location>
-          <geo>49.00 -2.76</geo>
+          <geo>49.00 2.76</geo>
         </location>
         <idno type="GeoNames">3002683</idno>
         <note>Commune in the Île-de-France region of north-central France.</note>
@@ -1105,7 +1125,7 @@
         <placeName type="alternate">Ruel</placeName>
         <placeName type="presentation">Rueil</placeName>
         <location>
-          <geo>48.87 -2.18</geo>
+          <geo>48.87 2.18</geo>
         </location>
         <idno type="GeoNames">2982235</idno>
         <note>Commune located half-way between Louis XIII's primary residence at
@@ -1125,21 +1145,49 @@
         <placeName type="main">Saint-Germain-en-Laye</placeName>
         <placeName type="presentation">Saint-Germain-en-Laye</placeName>
         <location>
-          <geo>48.9 -2.09</geo>
+          <geo>48.9 2.09</geo>
         </location>
         <idno type="GeoNames">2979783</idno>
         <note>Royal palace about 12 km outside of Paris and a prinicpal residence of Louis
           XIII.</note>
       </place>
+      <place sortKey="Santhià" xml:id="Santhia" type="commune">
+        <placeName type="main">Santhià</placeName>
+        <placeName type="presentation">Santhià</placeName>
+        <location>
+          <geo>45.37 8.17</geo>
+        </location>
+        <idno type="GeoNames">3167314</idno>
+        <note>Town in the province of Vercelli, about 50 km northeast of Turin.</note>
+      </place>
       <place sortKey="Turin" xml:id="Turin" type="commune">
         <placeName type="main">Turin</placeName>
         <placeName type="presentation">Turin</placeName>
         <location>
-          <geo>45.07 -7.68</geo>
+          <geo>45.07 7.68</geo>
         </location>
         <idno type="GeoNames">3165524</idno>
         <note>City in the Piedmont and capital of the Duchy of Savoy in the 16th and 17th
           centuries.</note>
+      </place>
+      <place sortKey="Verruë" xml:id="Verrue" type="commune">
+        <placeName type="main">Verruë</placeName>
+        <placeName type="presentation">Verruë</placeName>
+        <location>
+          <geo>46.86 0.17</geo>
+        </location>
+        <idno type="GeoNames">2969686</idno>
+        <note>Town in western France in Nouvelle-Aquitaine, about 25 km from Richelieu, the
+          cardinal's ancestral home.</note>
+      </place>
+      <place sortKey="Villanova_d'Asti" xml:id="Villanova" type="commune">
+        <placeName>Villanova d'Asti</placeName>
+        <placeName>Villanova d'Asti</placeName>
+        <location>
+          <geo>44.94 7.94</geo>
+        </location>
+        <idno type="GeoNames">3164183</idno>
+        <note>Town in the Province of Asti.</note>
       </place>
     </listPlace>
   </standOff>
@@ -5591,10 +5639,11 @@
           </choice>. <choice>
             <orig>Ie</orig>
             <reg>Je</reg>
-          </choice> m'en vay presentement à <choice>
-            <orig>Moncalue</orig>
-            <reg>Moncalve</reg>
-          </choice>, le gros de l'armée des ennemis est à Alexandrie, le peu de loisir que <choice>
+          </choice> m'en vay presentement à <placeName ref="#Moncalvo"><choice>
+              <orig>Moncalue</orig>
+              <reg>Moncalve</reg>
+            </choice></placeName>, le gros de l'armée des ennemis est à Alexandrie, le peu de loisir
+          que <choice>
             <orig>i</orig>
             <reg>j</reg>
           </choice>'ay m'empesche d'escrire à vostre Eminence les particularitez des complimens que
@@ -6269,6 +6318,7 @@
             <term>Battlefield reports</term>
             <term>Officers</term>
             <term>Piedmontese Civil War</term>
+            <term>Siege warfare</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -6310,7 +6360,8 @@
           </choice> de <placeName ref="#Chivasso"><choice>
               <orig>Chiuas</orig>
               <reg>Chivas</reg>
-            </choice></placeName>, &amp; sa negligence extrême, sont cause de la perte de la place,
+            </choice></placeName>, &amp; sa negligence extrême, sont cause de la <seg>perte de la
+              place<note>After a short seige, Chivas surrendered to Prince Thomas</note></seg>,
           &amp; m'ont obligé à quitter l'entreprise où <choice>
             <orig>i</orig>
             <reg>j</reg>
@@ -7826,6 +7877,314 @@
       </body>
     </text>
   </TEI>
+  <TEI xml:id="letter26">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 11 April 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="30" to="31"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Battlefield reports</term>
+            <term>Recruits</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Valette"/>
+            <placeName/>
+            <date when="1639-04-11"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>La Valette reports on French casualties, desertions, and towns in the Piedmont that
+            have fallen to the invading Prince Thomas but trusts that Richelieu will be sending
+            fresh troops soon. He suggests that Richelieu write to Christine of France to confirm
+            the protection of Louis XIII.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_30.jpg"/>
+        <opener><salute><choice>
+              <orig>Monseignevr</orig>
+              <reg>Monseigneur</reg>
+            </choice>,</salute></opener>
+        <p>Vous auriez <choice>
+            <orig>desia</orig>
+            <reg>deja</reg>
+          </choice> sçeu les dépesches de Madame les desordres que la surprise de <choice>
+            <orig>Chiuas</orig>
+            <reg>Chivas</reg>
+          </choice>, &amp; l'authorité du Prince Thomas ont causé dans le Piedmont. <choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'estois allé seul à <placeName ref="#Casale">Cazal</placeName> sur la mort du
+          grand Chancelier, lorsque les ennemys entrerent dans le <placeName ref="#Monferrato"
+            >Montferrat</placeName>
+          <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> l'armée qui estoit au <placeName ref="#Chance">Chanché</placeName>, <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> me <choice>
+            <orig>trouueray</orig>
+            <reg>trouveray</reg>
+          </choice> à <placeName ref="#Moncalvo"><choice>
+              <orig>Montclaue</orig>
+              <reg>Montclave</reg>
+            </choice></placeName> comme ils y <choice>
+            <orig>arriuoient</orig>
+            <reg>arrivoient</reg>
+          </choice>, &amp; donnay ordre au Chasteau, &amp; le lendemain au Pont d'Esture, qu'ils
+          n'attaqueroient ny l'<choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> ny l'autre de ces deux places, &amp; comme <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'allay de la à <placeName ref="#Verrue">Verruë</placeName>, ou <choice>
+            <orig>i'auois</orig>
+            <reg>j'avois</reg>
+          </choice> donné ordre à nos Troupes qui y estoient demeurées à <placeName ref="#Turin"
+            >Turin</placeName> de me venir <choice>
+            <orig>trouuer</orig>
+            <reg>trouver</reg>
+          </choice>, les Ennemis <choice>
+            <orig>inuestirent</orig>
+            <reg>investirent</reg>
+          </choice> la place à la <choice>
+            <orig>faueur</orig>
+            <reg>faveur</reg>
+          </choice> de la nuict, laquelle <pb facs="Vialart_letters_Page_31.jpg"/> rendit le
+          lendemain à la pointe du <choice>
+            <orig>iour</orig>
+            <reg>jour</reg>
+          </choice> sans <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> attendu le Canon, quelque desordre qu'il y ait dans ce pays, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne desespere pas de le <choice>
+            <orig>conseruer</orig>
+            <reg>conserver</reg>
+          </choice>
+          <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> le secours que Vostre Eminence y <choice>
+            <orig>enuoyera</orig>
+            <reg>envoyera</reg>
+          </choice> ; <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'ay eu des Troupes que celles qui ont passé l'<choice>
+            <orig>Hyuer</orig>
+            <reg>Hyver</reg>
+          </choice> icy, lesquelles estoient de mil quatre cens hommes, lors que nous allasmes au
+          Chanché; <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> croy que nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> eu plus de cent hommes tuez au combat, deux cens cinquante de blessez, &amp;
+          quelques trois cens qui ont fuy, ou qui se sont perdus dans les grandes marches que nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> faites, le reste a esté separé en <choice>
+            <orig>diuers</orig>
+            <reg>divers</reg>
+          </choice> lieux, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay mis <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> bataillon de quatre cens hommes dans <placeName ref="#Villanova"
+            >Ville-neufue</placeName> d'<placeName ref="#Asti">Ast</placeName>, ou dans Pont
+          d'Esture, que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'en ay tiré pour mettre à <placeName ref="#Turin">Turin</placeName>, estant <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> place plus d'importance que le Pont d'Esture, en attendant que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'y puisse jetter quelques hommes, ayant veu le peu de resistance de Verruë, la
+          lascheté ou trahison du <choice>
+            <orig>Gouuerneur</orig>
+            <reg>Gouverneur</reg>
+          </choice>, &amp; la <choice>
+            <orig>iuste</orig>
+            <reg>juste</reg>
+          </choice> apprehension que <persName ref="#Christine">Madame</persName>
+          <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> dans Turin ; <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'y suis <choice>
+            <orig>reuenu</orig>
+            <reg>revenu</reg>
+          </choice> en diligence, &amp; <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay creuy <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice> mettre ce qui restoit de nos Troupes, car gardant Turin, <placeName
+            ref="#Carmagnola">Carmagnole</placeName>, Ast, Ville-neufue, Trin, &amp; <placeName
+            ref="#Santhia">Santhia</placeName>. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> croy que nous reprendrons des places aussi-tost que nous serons les plus forts
+          dans la campagne. Enfin, monseigneur, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous puis asseurer que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'espargneray pas ma vie pour <choice>
+            <orig>seruir</orig>
+            <reg>servir</reg>
+          </choice> le <persName ref="#Louis13">Roy</persName>, &amp; Vostre Eminence, comme <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> le dois en cette occasion.</p>
+        <p>Madame manque d'argent, &amp; de toutes choses, elle ne veut entendre a aucun Traité sans
+          le consentement du Roy, &amp; quoy qu'on luy aye dit, elle demeure ferme dans la
+          resolution qu'elle m'a témoigné au commencement.</p>
+        <p>J'oubliois à vous mander que <choice>
+            <orig>i'auois</orig>
+            <reg>j'avois</reg>
+          </choice>
+          <choice>
+            <orig>enuoyé</orig>
+            <reg>envoyé</reg>
+          </choice> cinq cens hommes <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> Monsieur de <choice>
+            <orig>Rocqueseruieres</orig>
+            <reg>Rocqueservieres</reg>
+          </choice> dans Crescentin, lequel s'est <choice>
+            <orig>trouué</orig>
+            <reg>trouvé</reg>
+          </choice> engagé dans la place, dequoy <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis bien marry, car elle ne se peut deffendre, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> pensois le faire aller à Trin, où le retirer à l'armée, mais il a esté <choice>
+            <orig>inuesty</orig>
+            <reg>investy</reg>
+          </choice> sans se pouuoir retirer, c'est <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice>
+          <choice>
+            <orig>braue</orig>
+            <reg>brave</reg>
+          </choice> homme, &amp; que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> voudrois bien <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> icy, où qu'il fust dans <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> meilleure place.</p>
+        <p>Vostre Eminence se doit mettre l'esprit en repos pour ce qui nous touche, car nous ferons
+          tout ce qui nous sera possible en attendant les Troupes de France, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> croy qu'elle aura le soin de nous <choice>
+            <orig>enuoyer</orig>
+            <reg>envoyer</reg>
+          </choice> ce qu'elle pourra, &amp; pour moy <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> perdray plustost la vie que de faire rien d'indigne de l'honneur que vous me
+          faites pour vous obliger de me croire <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> la fidelité que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> dois, &amp;c.</p>
+        <p><choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'auray l'honneur de vous escrire encore demain par <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> autre Courrier qui partira, celle-cy est par <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> Gentil-homme de Madame, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> croy qu'il seroit à propos que vostre Eminence <choice>
+            <orig>escriuist</orig>
+            <reg>escrivist</reg>
+          </choice>
+          <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> Lettre à Madame pour la consoler, &amp; l'asseurer de la protection du Roy,
+          &amp; de celle de vostre Eminence. </p>
+      </body>
+    </text>
+  </TEI>
   <TEI xml:id="letter50">
     <teiHeader>
       <fileDesc>
@@ -7908,6 +8267,92 @@
           <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
         <pb facs="MLM99912_116105v_0002-hpr_4v.jpg"/>
         <note type="temp" resp="#JT">Transcription forthcoming.</note>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter27">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Christine">Christine of France</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 11 April 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="31" to="32"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term/>
+            <term/>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Valette"/>
+            <placeName/>
+            <date when="1639-04-11"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note/>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_30.jpg"/>
+        <opener><salute><choice>
+              <orig>Monsievr</orig>
+              <reg>Monsieur</reg>
+            </choice>
+            <seg>Mon <choice>
+                <orig>Covsin</orig>
+                <reg>Cousin</reg>
+            </choice><note>As Princes of the Church, cardinals were addressed as "Mon Cousin" by
+              royalty.</note></seg>,</salute></opener>
+        <p>Ie suis reduite à vn poinct d'extremité, qu'il est mieux qui vous soit representé.
+          par la bou che de ce Gentil-homme, que dépeindre de ma main sur ce papier, c'est
+          assez que vous sçachiez que i'ay perdu sept places, que les chemins en estans cou-
+          pez ne sepeuuent dire moins que perduës. Cependant i'ay preueu tous mes mal-
+          
+        </p>
       </body>
     </text>
   </TEI>
@@ -10171,7 +10616,8 @@
             </choice>
             <lb/>Seuretè que dans la Confiance de Monsieur le Cardinal; Si la Confiance <lb/>est
             parfaite, la Seuretè de la Royne y sera entiere.</p>
-          <p>La Royne retournant en France hazarde tout, et Monsieur le <pb facs="RA_letter66_p_2.jpg"/>
+          <p>La Royne retournant en France hazarde tout, et Monsieur le <pb
+              facs="RA_letter66_p_2.jpg"/>
             <lb/>Cardinal rien. Le fort donnant la Loy au foible; En sorte que si <lb/>Monsieur le
             Cardinal estoit capable d'entrer en doubte de la Royne Il la <lb/>perdoit quand Il luy
             plairoit; au contraire Sa Majesté ne luy pourroit <lb/>nuire en aucune facon quand
