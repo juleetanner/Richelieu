@@ -8316,13 +8316,14 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term/>
-            <term/>
+            <term>Petitioning</term>
+            <term>Piedmontese Civil War</term>
+            <term>Concern with reputation</term>
           </keywords>
         </textClass>
         <correspDesc>
           <correspAction type="sent">
-            <persName ref="#Valette"/>
+            <persName ref="#Christine"/>
             <placeName/>
             <date when="1639-04-11"/>
           </correspAction>
@@ -8331,13 +8332,14 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>Christine reports the loss of seven towns to the armies of Prince Thomas. As a
+            princess of France, she requests additional troops, and funds to sustain them.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <pb facs="Vialart_letters_Page_30.jpg"/>
+        <pb facs="Vialart_letters_Page_31.jpg"/>
         <opener><salute><choice>
               <orig>Monsievr</orig>
               <reg>Monsieur</reg>
@@ -8345,14 +8347,162 @@
             <seg>Mon <choice>
                 <orig>Covsin</orig>
                 <reg>Cousin</reg>
-            </choice><note>As Princes of the Church, cardinals were addressed as "Mon Cousin" by
-              royalty.</note></seg>,</salute></opener>
-        <p>Ie suis reduite à vn poinct d'extremité, qu'il est mieux qui vous soit representé.
-          par la bou che de ce Gentil-homme, que dépeindre de ma main sur ce papier, c'est
-          assez que vous sçachiez que i'ay perdu sept places, que les chemins en estans cou-
-          pez ne sepeuuent dire moins que perduës. Cependant i'ay preueu tous mes mal-
-          
-        </p>
+              </choice><note>As Princes of the Church, cardinals were addressed as "Mon Cousin" by
+                royalty.</note></seg>,</salute></opener>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> suis reduite à <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> poinct d'extremité, qu'il est mieux qui vous soit representé. par la bouche de
+          ce Gentil-homme, que dépeindre de ma main sur ce papier, c'est assez que vous sçachiez que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay perdu sept places, que les chemins en estans coupez ne se <choice>
+            <orig>peuuent</orig>
+            <reg>peuvent</reg>
+          </choice> dire moins que perduës. Cependant <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay <choice>
+            <orig>preueu</orig>
+            <reg>preveu</reg>
+          </choice> tous mes malheurs, <pb facs="Vialart_letters_Page_32.jpg"/> &amp; vous ay <choice>
+            <orig>coniuré</orig>
+            <reg>conjuré</reg>
+          </choice> d'<choice>
+            <orig>enuoyer</orig>
+            <reg>envoyer</reg>
+          </choice> des Troupes pour y remedier, ou bien nous donner <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> suspension generale, mais au premier <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> voy que vos ordres n'ont pas esté <choice>
+            <orig>suiuis</orig>
+            <reg>suivis</reg>
+          </choice>, &amp; l'autre ne l'ayant pas <choice>
+            <orig>iugée</orig>
+            <reg>jugée</reg>
+          </choice> pour le <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> du Roy, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> me suis sacrifiée pour ses volontez, mais <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne m'en repens pas, &amp; l'estime à gloire, <choice>
+            <orig>pourueu</orig>
+            <reg>pourveu</reg>
+          </choice> que cela vous donne occasion de la <choice>
+            <orig>conseruer</orig>
+            <reg>conserver</reg>
+          </choice> en me <choice>
+            <orig>conseruant</orig>
+            <reg>conservant</reg>
+          </choice> les Estats &amp; la liberté, car <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay <choice>
+            <orig>desia</orig>
+            <reg>desja</reg>
+          </choice> perdu <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> bonne partie de l'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice>, &amp; l'on menace fort de l'autre, &amp; ce n'est pas sans quelque fondement,
+          car il n'y a point icy des Troupes pour me deffendre, ny dequoy les faire subsister: <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> vous <choice>
+            <orig>coniure</orig>
+            <reg>conjure</reg>
+          </choice> donc, mon Cousin, de <choice>
+            <orig>pouruoir</orig>
+            <reg>pourvoir</reg>
+          </choice> à l'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> &amp; à l'autre, &amp; ne laisser pas perir <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> Princesse qui est du Sang Royal de France, &amp; qui sacrifie tout pour le <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> du Roy, il ne faut s'asseurer de dire que le mal n'est pas si grand, il est tel
+          que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne le puis dire, &amp; ceux qui vous le disent autrement ne font pas le <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> du Roy ny le vostre, <choice>
+            <orig>pouruoyez</orig>
+            <reg>pourvoyez</reg>
+          </choice> sans dilation, si vous ne voulez entierement ma perte, &amp; faites <choice>
+            <orig>aduancer</orig>
+            <reg>advancer</reg>
+          </choice> sa <choice>
+            <orig>Maisté</orig>
+            <reg>Majsté</reg>
+          </choice> &amp; vostre personne, pour ma liberté &amp; pour vostre gloire, mon Cousin <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis en d'extrêmes perils, ce n'est pas la crainte qui me le fait dire, car mon
+          courage s'est fait paroistre, &amp; le fera encore, &amp; soyez asseuré que cela ne me
+          manquera point. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> vous <choice>
+            <orig>coniure</orig>
+            <reg>conjure</reg>
+          </choice> donc de m'assister, &amp; faire paroistre que vous m'aymez, &amp; ne voulez
+          point ma perte puis que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous seray obligé de la vie, &amp; <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> seray autant que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'en auray, <choice>
+            <orig>Monsievr</orig>
+            <reg>Monsieur</reg>
+          </choice> Mon <choice>
+            <orig>Covsin</orig>
+            <reg>Cousin</reg>
+          </choice>, Vostre affectionée Cousine Chrestienne. De Turin ce 11. <choice>
+            <orig>Auril</orig>
+            <reg>Avril</reg>
+          </choice>. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> vous <choice>
+            <orig>coniure</orig>
+            <reg>conjure</reg>
+          </choice> de rechef de m'assister, &amp; de vous <choice>
+            <orig>souuenir</orig>
+            <reg>souvenir</reg>
+          </choice> que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'ay autre confiance, &amp; autre dependance que de vous, aydez moy <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous en <choice>
+            <orig>coniure</orig>
+            <reg>conjure</reg>
+          </choice>, &amp; ne me laissez pas perir, puisque <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> me glorifie du nom de vostre amie.</p>
       </body>
     </text>
   </TEI>
