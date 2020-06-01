@@ -8478,16 +8478,16 @@
           </choice> Mon <choice>
             <orig>Covsin</orig>
             <reg>Cousin</reg>
-          </choice>, Vostre affectionée Cousine Chrestienne. De Turin ce 11. <choice>
+          </choice>,</p> <closer><salute>Vostre affectionée Cousine</salute> <signed>Chrestienne.</signed> <dateline>De Turin ce 11. <choice>
             <orig>Auril</orig>
             <reg>Avril</reg>
-          </choice>. <choice>
-            <orig>Ie</orig>
+          </choice>.</dateline></closer>
+            <postscript><p><choice><orig>Ie</orig>
             <reg>Je</reg>
           </choice> vous <choice>
             <orig>coniure</orig>
             <reg>conjure</reg>
-          </choice> de rechef de m'assister, &amp; de vous <choice>
+          </choice> derechef de m'assister, &amp; de vous <choice>
             <orig>souuenir</orig>
             <reg>souvenir</reg>
           </choice> que <choice>
@@ -8502,10 +8502,80 @@
           </choice>, &amp; ne me laissez pas perir, puisque <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> me glorifie du nom de vostre amie.</p>
+          </choice> me glorifie du nom de vostre amie.</p></postscript>
       </body>
     </text>
   </TEI>
+  <TEI xml:id="letter28">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
+            ref="#Richelieu">Cardinal Richelieu</persName>, 12 April 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="31" to="32"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Petitioning</term>
+            <term>Piedmontese Civil War</term>
+            <term>Concern with reputation</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Christine"/>
+            <placeName/>
+            <date when="1639-04-11"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>Christine reports the loss of seven towns to the armies of Prince Thomas. As a
+            princess of France, she requests additional troops, and funds to sustain them.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_31.jpg"/>
   <TEI xml:id="letter51">
     <teiHeader>
       <fileDesc>
@@ -9125,7 +9195,7 @@
             <corr>savez</corr>
           </choice> bien desja <lb/>et combien je suis</ab>
         <lb/>
-        <closer><signed>Vostre bien affectionnee <lb/>cousine <lb/>Henriette Marie</signed></closer>
+        <closer><salute>Vostre bien affectionnee <lb/>cousine </salute><lb/><signed>Henriette Marie</signed></closer>
       </body>
     </text>
   </TEI>
