@@ -1021,7 +1021,7 @@
           <geo>45.75 4.84</geo>
         </location>
         <idno type="GeoNames">2996944</idno>
-        <note>City in south-central France.</note>
+        <note>City in south-central France, historically a banking center and, from the Renaissance, a center for book publishing and silk production.</note>
       </place>
       <place sortKey="Metz" xml:id="Metz" type="commune">
         <placeName type="main">Metz</placeName>
@@ -2097,7 +2097,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine of France</persName> to <persName
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
         </titleStmt>
         <publicationStmt>
@@ -2505,7 +2505,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine of France</persName> to <persName
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
         </titleStmt>
         <publicationStmt>
@@ -2643,7 +2643,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine of France</persName> to <persName
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
         </titleStmt>
         <publicationStmt>
@@ -5284,7 +5284,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine of France</persName> to <persName
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 5 January 1639</title>
         </titleStmt>
         <publicationStmt>
@@ -5969,7 +5969,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine of France</persName> to <persName
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 7 March 1639</title>
         </titleStmt>
         <publicationStmt>
@@ -6141,7 +6141,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine of France</persName> to <persName
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 7 March 1639</title>
         </titleStmt>
         <publicationStmt>
@@ -6754,7 +6754,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine of France</persName> to <persName
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 2 April 1639</title>
         </titleStmt>
         <publicationStmt>
@@ -7959,7 +7959,7 @@
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
-            <placeName/>
+            <placeName ref="#Turin"/>
             <date when="1639-04-11"/>
           </correspAction>
           <correspAction type="received">
@@ -8214,96 +8214,11 @@
       </body>
     </text>
   </TEI>
-  <TEI xml:id="letter50">
-    <teiHeader>
-      <fileDesc>
-        <titleStmt>
-          <title>The <persName ref="#Themines">Marquis de Thémines</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, 18 August [1627]</title>
-        </titleStmt>
-        <publicationStmt>
-          <publisher>Julee Tanner</publisher>
-          <pubPlace>Seattle, WA</pubPlace>
-          <date when="2020"/>
-          <availability status="restricted">
-            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
-              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
-            <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
-              &amp; Museum.</p>
-          </availability>
-        </publicationStmt>
-        <sourceDesc>
-          <msDesc>
-            <msIdentifier>
-              <settlement>New York</settlement>
-              <repository>The Morgan Library &amp; Museum</repository>
-              <idno type="Record_ID">116105</idno>
-              <altIdentifier>
-                <idno type="Accession_Number">MA 23055</idno>
-              </altIdentifier>
-            </msIdentifier>
-            <msContents>
-              <msItem n="01">
-                <locus>1r</locus>
-                <p>First page</p>
-              </msItem>
-              <msItem n="02">
-                <locus>2v</locus>
-                <p>Second page</p>
-              </msItem>
-              <msItem n="03">
-                <locus>3r</locus>
-                <p>Third page</p>
-              </msItem>
-              <msItem n="04">
-                <locus>4v</locus>
-                <p>Fourth page</p>
-              </msItem>
-            </msContents>
-            <additional>
-              <adminInfo>
-                <note>4-page letter</note>
-              </adminInfo>
-            </additional>
-          </msDesc>
-        </sourceDesc>
-      </fileDesc>
-      <profileDesc>
-        <langUsage>
-          <language ident="fr-1694acad">French as written in the 17th century</language>
-        </langUsage>
-        <correspDesc>
-          <correspAction type="sent">
-            <persName ref="#Themines"/>
-            <placeName ref="#Auray"/>
-            <date when="1627-08-18"/>
-          </correspAction>
-          <correspAction type="received">
-            <persName ref="#Richelieu"/>
-            <placeName/>
-            <date/>
-          </correspAction>
-        </correspDesc>
-      </profileDesc>
-    </teiHeader>
-    <text xml:lang="fr-1694acad">
-      <body>
-        <p><pb facs="MLM99912_116105v_0002-hpr_1r.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99911_116105v_0001-hpr_2v.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note>
-          <pb facs="MLM99911_116105v_0001-hpr_3r.jpg"/>
-          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
-        <pb facs="MLM99912_116105v_0002-hpr_4v.jpg"/>
-        <note type="temp" resp="#JT">Transcription forthcoming.</note>
-      </body>
-    </text>
-  </TEI>
   <TEI xml:id="letter27">
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine of France</persName> to <persName
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 11 April 1639</title>
         </titleStmt>
         <publicationStmt>
@@ -8353,7 +8268,7 @@
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Christine"/>
-            <placeName/>
+            <placeName ref="#Turin"/>
             <date when="1639-04-11"/>
           </correspAction>
           <correspAction type="received">
@@ -8595,7 +8510,7 @@
         <correspDesc>
           <correspAction type="sent">
             <persName ref="#Valette"/>
-            <placeName/>
+            <placeName ref="#Turin"/>
             <date when="1639-04-12"/>
           </correspAction>
           <correspAction type="received">
@@ -8803,6 +8718,164 @@
               <reg>devoir</reg>
             </choice> écouter.</p>
         </postscript>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter29">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 23 April 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="33" to="34"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term></term>
+            <term></term>
+            <term></term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Christine"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-04-23"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note></note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_32.jpg"/>
+        <p/>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter50">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>The <persName ref="#Themines">Marquis de Thémines</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 18 August [1627]</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library
+              &amp; Museum.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <msDesc>
+            <msIdentifier>
+              <settlement>New York</settlement>
+              <repository>The Morgan Library &amp; Museum</repository>
+              <idno type="Record_ID">116105</idno>
+              <altIdentifier>
+                <idno type="Accession_Number">MA 23055</idno>
+              </altIdentifier>
+            </msIdentifier>
+            <msContents>
+              <msItem n="01">
+                <locus>1r</locus>
+                <p>First page</p>
+              </msItem>
+              <msItem n="02">
+                <locus>2v</locus>
+                <p>Second page</p>
+              </msItem>
+              <msItem n="03">
+                <locus>3r</locus>
+                <p>Third page</p>
+              </msItem>
+              <msItem n="04">
+                <locus>4v</locus>
+                <p>Fourth page</p>
+              </msItem>
+            </msContents>
+            <additional>
+              <adminInfo>
+                <note>4-page letter</note>
+              </adminInfo>
+            </additional>
+          </msDesc>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Themines"/>
+            <placeName ref="#Auray"/>
+            <date when="1627-08-18"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <p><pb facs="MLM99912_116105v_0002-hpr_1r.jpg"/>
+          <note type="temp" resp="#JT">Transcription forthcoming.</note>
+          <pb facs="MLM99911_116105v_0001-hpr_2v.jpg"/>
+          <note type="temp" resp="#JT">Transcription forthcoming.</note>
+          <pb facs="MLM99911_116105v_0001-hpr_3r.jpg"/>
+          <note type="temp" resp="#JT">Transcription forthcoming.</note></p>
+        <pb facs="MLM99912_116105v_0002-hpr_4v.jpg"/>
+        <note type="temp" resp="#JT">Transcription forthcoming.</note>
       </body>
     </text>
   </TEI>
@@ -9296,7 +9369,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#HenriettaMaria">Henrietta Maria of France</persName> to <persName
+          <title><persName ref="#HenriettaMaria">Henrietta Maria, queen consort of England, Scotland, and Ireland,</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, n.d. [1625–1642]</title>
         </titleStmt>
         <publicationStmt>
@@ -10482,7 +10555,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#HenriettaMaria">Henrietta Maria of France</persName> to <persName
+          <title><persName ref="#HenriettaMaria">Henrietta Maria, queen consort of England, Scotland, and Ireland,</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, n.d. [1625–1642]</title>
         </titleStmt>
         <publicationStmt>
