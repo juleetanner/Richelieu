@@ -1070,6 +1070,16 @@
         <idno type="GeoNames">2990919</idno>
         <note>Commune in the Occitane region about 15 km from the Mediterranean.</note>
       </place>
+      <place sortKey="Pau" xml:id="Pau" type="commune">
+        <placeName type="main">Pau</placeName>
+        <placeName type="presentation">Pau</placeName>
+        <location>
+          <geo>43.31 -0.35</geo>
+        </location>
+        <idno type="GeoNames">2988358</idno>
+        <note>City at the foothills of the Pyrénées, in Nouvelle-Aquitaine in Southern
+          France.</note>
+      </place>
       <place sortKey="Pibrac" xml:id="Pibrac" type="commune">
         <placeName type="main">Pibrac</placeName>
         <placeName type="presentation">Pibrac</placeName>
@@ -1119,6 +1129,15 @@
         </location>
         <note>Commune in Brittany about 30 km from the coast.</note>
         <idno type="GeoNames">2984699</idno>
+      </place>
+      <place sortKey="Rocheservière" xml:id="Rocheserviere" type="commune">
+        <placeName type="main">Rocheservière</placeName>
+        <placeName type="presentation">Rocheservière</placeName>
+        <location>
+          <geo>46.94 -1.51</geo>
+        </location>
+        <idno type="geonames">2983221</idno>
+        <note>Town in the Vendée, the former province of Poitou, in western France.</note>
       </place>
       <place sortKey="Rueil-Malmaison" xml:id="Rueil" type="commune">
         <placeName type="main">Rueil-Malmaison</placeName>
@@ -8478,31 +8497,180 @@
           </choice> Mon <choice>
             <orig>Covsin</orig>
             <reg>Cousin</reg>
-          </choice>,</p> <closer><salute>Vostre affectionée Cousine</salute> <signed>Chrestienne.</signed> <dateline>De Turin ce 11. <choice>
-            <orig>Auril</orig>
-            <reg>Avril</reg>
-          </choice>.</dateline></closer>
-            <postscript><p><choice><orig>Ie</orig>
+          </choice>,</p>
+        <closer><salute>Vostre affectionée Cousine</salute>
+          <signed>Chrestienne.</signed>
+          <dateline>De Turin ce 11. <choice>
+              <orig>Auril</orig>
+              <reg>Avril</reg>
+            </choice>.</dateline></closer>
+        <postscript>
+          <p><choice>
+              <orig>Ie</orig>
+              <reg>Je</reg>
+            </choice> vous <choice>
+              <orig>coniure</orig>
+              <reg>conjure</reg>
+            </choice> derechef de m'assister, &amp; de vous <choice>
+              <orig>souuenir</orig>
+              <reg>souvenir</reg>
+            </choice> que <choice>
+              <orig>ie</orig>
+              <reg>je</reg>
+            </choice> n'ay autre confiance, &amp; autre dependance que de vous, aydez moy <choice>
+              <orig>ie</orig>
+              <reg>je</reg>
+            </choice> vous en <choice>
+              <orig>coniure</orig>
+              <reg>conjure</reg>
+            </choice>, &amp; ne me laissez pas perir, puisque <choice>
+              <orig>ie</orig>
+              <reg>je</reg>
+            </choice> me glorifie du nom de vostre amie.</p>
+        </postscript>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter28">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 12 April 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="32" to="33"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term/>
+            <term/>
+            <term/>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Valette"/>
+            <placeName/>
+            <date when="1639-04-12"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note/>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_32.jpg"/>
+        <opener><choice>
+            <orig>Monseignevr</orig>
+            <reg>Monsiegneur</reg>
+          </choice>,</opener>
+        <p><choice>
+            <orig>Ie</orig>
             <reg>Je</reg>
-          </choice> vous <choice>
-            <orig>coniure</orig>
-            <reg>conjure</reg>
-          </choice> derechef de m'assister, &amp; de vous <choice>
-            <orig>souuenir</orig>
-            <reg>souvenir</reg>
-          </choice> que <choice>
+          </choice> me donnay hier l'honneur de vous escrire par <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> gentil-homme que <persName ref="#Christine">Madame</persName> dépescha à Vostre
+          Eminence, &amp; vous manday la lascheté &amp; trahison du Commandant dans <placeName
+            ref="#Verrue">Veruë</placeName>, depuis la perte de cette place les Ennemis ont attaqué
+          Crescentin, qui est <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> si <choice>
+            <orig>mauuais</orig>
+            <reg>mauvais</reg>
+          </choice> lieu, que Layné <placeName ref="#Rocheserviere"><choice>
+              <orig>Rocqueseruieres</orig>
+              <reg>Rocqueservieres</reg>
+            </choice></placeName> qui y est enfermé, aura bien de la peine à la defendre quelque peu
+          de temps ; Mais comme ce lieu là se perdra promptement, il se <choice>
+            <orig>recouurira</orig>
+            <reg>recouvrira</reg>
+          </choice> de mesme, &amp; <choice>
+            <orig>pourueu</orig>
+            <reg>pourveu</reg>
+          </choice> que Dieu nous <choice>
+            <orig>preserue</orig>
+            <reg>preserve</reg>
+          </choice> de perdre des places de plus grande consideration que celles que les Ennemis ont
+          prises, <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> n'ay autre confiance, &amp; autre dependance que de vous, aydez moy <choice>
-            <orig>ie</orig>
-            <reg>je</reg>
-          </choice> vous en <choice>
-            <orig>coniure</orig>
-            <reg>conjure</reg>
-          </choice>, &amp; ne me laissez pas perir, puisque <choice>
-            <orig>ie</orig>
-            <reg>je</reg>
-          </choice> me glorifie du nom de vostre amie.</p></postscript>
+          </choice> ne desespere pas de remettre cét Esté les affaires du Piedmont en bon estat, <choice>
+            <orig>pourueu</orig>
+            <reg>pourveu</reg>
+          </choice> que nos recreuës passent en deça à peu pres du nombre que les Officiers ont
+          promis ; Madame a fait entrer dans <placeName ref="#Turin">Turin</placeName> les Regimens
+          des Lorrains, Senantes, &amp; du <persName ref="#Maurizio">Comte Maurice</persName>, &amp; <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay dans le Fauxbourg du <placeName ref="#Pau">Pau</placeName> plus de <pb
+            facs="Vialart_letters_Page_32.jpg"/> deux mil hommes qui m'ont resté des quatre mille
+          quartre cens, auec lesquels ie m'estois mis en Campagne ; de sorte que ie croy Madame,
+          &amp; Turin hors de danger. I'enuoye demain vne homme pour commander à Carmagnolle auec
+          cinq cens hommes, &amp; nous affeurerons encores Ville-neufue d'Ast, tant pour empescher
+          le dessein que les Ennemis auoient de blocquer Turin de loin par la prise de ces places,
+          que pour nous conseruer le passage dans le Monferrat &amp; Cazal.</p>
+        <p>La recreuë d'Alincourt arriua hier fort bonne, celle de Chamblé la suit, aussi-tost que
+          nous aurons dequoy faire vn Corps d'Infanterie. Ie retireray celle que i'ay esté contraint
+          de ietter dans les places, &amp; m'opposeray à l'armée des ennemis, ce que i'apprehende
+          est que l'on ne nous fasse passer lesdites recreuës si loing à loing, qu'il ne nous faille
+          attendre celles qui suyuent les premieres plus long-tmeps que ie ne voudrois : quoy qu'il
+          arriue, ie supplie tres-humblement vostre Eminence de croire que i'apporteray tout le soin
+          qui dependra de moy, pour empescher le mal que la reuolte de ce pays pourroit faire
+          craindre, &amp; pour reparer celuy qui est arriué, dequoy ie ne desespere pas, ne desirant
+          rien auec tant de passion, comme de faire choix qui vous soit agreable, &amp; qui me rende
+          digne de l'honneur qu'il vous a pleu me faire, &amp; vous tesmoigner que ie suis auec le
+          resentiment que ie dois. Monseignevr, Vostre, &amp;c. A Turin le 12. Auril 1639. </p>
+        <postscript>
+          <p>En reuenant de Cazal ie rencontray le Nonce qui s'en alloit trouuer les Princes pour
+            quelque proposition auec Madame, elle m'a fort asseuré qu'elle n'en fera iamais aucun
+            que du consentement du Roy, &amp; ie croy que dans la peur où elle est, qu'elle n'a nul
+            dessein que celuy de faire tout ce qu'il plaira au Roy, ledit Nonce m'a proposé ne
+            parler pas de luy-mesme. Ie n'ay point reietté cela, &amp; ie croy que le Prince Thomas
+            luy en doit auoir parlé, lors qu'il l'a veu il y a quelque iours, quoy que l'on asseure
+            ledit Nonce estre vn peu suspect, i'ay creu le deuoir écouter.</p>
+        </postscript>
       </body>
     </text>
   </TEI>
@@ -9125,7 +9293,8 @@
             <corr>savez</corr>
           </choice> bien desja <lb/>et combien je suis</ab>
         <lb/>
-        <closer><salute>Vostre bien affectionnee <lb/>cousine </salute><lb/><signed>Henriette Marie</signed></closer>
+        <closer><salute>Vostre bien affectionnee <lb/>cousine </salute><lb/><signed>Henriette
+            Marie</signed></closer>
       </body>
     </text>
   </TEI>
