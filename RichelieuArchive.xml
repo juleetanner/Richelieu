@@ -788,6 +788,16 @@
       </person>
     </listPerson>
     <listPlace>
+      <place sortKey="Alincourt" xml:id="Alincourt" type="commune">
+        <placeName type="main">Alincourt</placeName>
+        <placeName type="presentation">Alincourt</placeName>
+        <location>
+          <geo>49.40 4.35</geo>
+        </location>
+        <idno type="GeoNames">6452108</idno>
+        <note>Commune in the Grand Est region of northeastern France, in the former province of
+          Champagne.</note>
+      </place>
       <place sortKey="Asti" xml:id="Asti" type="commune">
         <placeName type="main">Asti</placeName>
         <placeName type="alternate">Ast</placeName>
@@ -8577,9 +8587,9 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term/>
-            <term/>
-            <term/>
+            <term>Piedmontese Civil War</term>
+            <term>Diplomacy</term>
+            <term>Recruits</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -8593,7 +8603,11 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>La Valette reports the loss of two insignificant towns to Prince Thomas, Veruë and
+            Crescentin. He believes the enemy is attempting to blockade Turin by taking the
+            surrounding towns, and hopes that further losses may be avoided with the arrival of
+            fresh recruits from France. The nuncio has arrived to set up negotiations between the
+            princes of Savoy and Christine of France.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -8645,31 +8659,149 @@
             <orig>i</orig>
             <reg>j</reg>
           </choice>'ay dans le Fauxbourg du <placeName ref="#Pau">Pau</placeName> plus de <pb
-            facs="Vialart_letters_Page_32.jpg"/> deux mil hommes qui m'ont resté des quatre mille
-          quartre cens, auec lesquels ie m'estois mis en Campagne ; de sorte que ie croy Madame,
-          &amp; Turin hors de danger. I'enuoye demain vne homme pour commander à Carmagnolle auec
-          cinq cens hommes, &amp; nous affeurerons encores Ville-neufue d'Ast, tant pour empescher
-          le dessein que les Ennemis auoient de blocquer Turin de loin par la prise de ces places,
-          que pour nous conseruer le passage dans le Monferrat &amp; Cazal.</p>
-        <p>La recreuë d'Alincourt arriua hier fort bonne, celle de Chamblé la suit, aussi-tost que
-          nous aurons dequoy faire vn Corps d'Infanterie. Ie retireray celle que i'ay esté contraint
-          de ietter dans les places, &amp; m'opposeray à l'armée des ennemis, ce que i'apprehende
-          est que l'on ne nous fasse passer lesdites recreuës si loing à loing, qu'il ne nous faille
-          attendre celles qui suyuent les premieres plus long-tmeps que ie ne voudrois : quoy qu'il
-          arriue, ie supplie tres-humblement vostre Eminence de croire que i'apporteray tout le soin
-          qui dependra de moy, pour empescher le mal que la reuolte de ce pays pourroit faire
-          craindre, &amp; pour reparer celuy qui est arriué, dequoy ie ne desespere pas, ne desirant
-          rien auec tant de passion, comme de faire choix qui vous soit agreable, &amp; qui me rende
-          digne de l'honneur qu'il vous a pleu me faire, &amp; vous tesmoigner que ie suis auec le
-          resentiment que ie dois. Monseignevr, Vostre, &amp;c. A Turin le 12. Auril 1639. </p>
+            facs="Vialart_letters_Page_33.jpg"/> deux mil hommes qui m'ont resté des quatre mille
+          quartre cens, <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> lesquels <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> m'estois mis en Campagne ; de sorte que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> croy Madame, &amp; <placeName ref="#Turin">Turin</placeName> hors de danger. <choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'<choice>
+            <orig>enuoye</orig>
+            <reg>envoye</reg>
+          </choice> demain <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> homme pour commander à <placeName ref="#Carmagnola">Carmagnolle</placeName>
+          <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> cinq cens hommes, &amp; nous asseurerons encores <placeName ref="#Villanova"
+            >Ville-neufue d'Ast</placeName>, tant pour empescher le dessein que les Ennemis <choice>
+            <orig>auoient</orig>
+            <reg>avoient</reg>
+          </choice> de blocquer Turin de loin par la prise de ces places, que pour nous <choice>
+            <orig>conseruer</orig>
+            <reg>conserver</reg>
+          </choice> le passage dans le <placeName ref="#Monferrato">Monferrat</placeName> &amp;
+            <placeName ref="#Casale">Cazal</placeName>.</p>
+        <p>La recreuë d'<placeName ref="#Alincourt">Alincourt</placeName>
+          <choice>
+            <orig>arriua</orig>
+            <reg>arriva</reg>
+          </choice> hier fort bonne, celle de Chamblé la suit, aussi-tost que nous aurons dequoy
+          faire <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> Corps d'Infanterie. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> retireray celle que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay esté contraint de <choice>
+            <orig>ietter</orig>
+            <reg>jetter</reg>
+          </choice> dans les places, &amp; m'opposeray à l'armée des ennemis, ce que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'apprehende est que l'on ne nous fasse passer lesdites recreuës si loing à loing,
+          qu'il ne nous faille attendre celles qui <choice>
+            <orig>suyuent</orig>
+            <reg>suyvent</reg>
+          </choice> les premieres plus long-temps que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne voudrois : quoy qu'il <choice>
+            <orig>arriue</orig>
+            <reg>arrive</reg>
+          </choice>, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> supplie tres-humblement vostre Eminence de croire que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'apporteray tout le soin qui dependra de moy, pour empescher le mal que la <choice>
+            <orig>reuolte</orig>
+            <reg>revolte</reg>
+          </choice> de ce pays pourroit faire craindre, &amp; pour reparer celuy qui est <choice>
+            <orig>arriué</orig>
+            <reg>arrivé</reg>
+          </choice>, dequoy <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne desespere pas, ne desirant rien <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> tant de passion, comme de faire choix qui vous soit agreable, &amp; qui me rende
+          digne de l'honneur qu'il vous a pleu me faire, &amp; vous tesmoigner que</p>
+        <closer><choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> le resentiment que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> dois. <choice>
+            <orig>Monseignevr</orig>
+            <reg>Monseigneur</reg>
+          </choice>, Vostre, &amp;c. <dateline>A Turin le 12. <choice>
+              <orig>Auril</orig>
+              <reg>Avril</reg>
+            </choice> 1639.</dateline></closer>
         <postscript>
-          <p>En reuenant de Cazal ie rencontray le Nonce qui s'en alloit trouuer les Princes pour
-            quelque proposition auec Madame, elle m'a fort asseuré qu'elle n'en fera iamais aucun
-            que du consentement du Roy, &amp; ie croy que dans la peur où elle est, qu'elle n'a nul
-            dessein que celuy de faire tout ce qu'il plaira au Roy, ledit Nonce m'a proposé ne
-            parler pas de luy-mesme. Ie n'ay point reietté cela, &amp; ie croy que le Prince Thomas
-            luy en doit auoir parlé, lors qu'il l'a veu il y a quelque iours, quoy que l'on asseure
-            ledit Nonce estre vn peu suspect, i'ay creu le deuoir écouter.</p>
+          <p>En <choice>
+              <orig>reuenant</orig>
+              <reg>revenant</reg>
+            </choice> de Cazal <choice>
+              <orig>ie</orig>
+              <reg>je</reg>
+            </choice> rencontray le Nonce qui s'en alloit <choice>
+              <orig>trouuer</orig>
+              <reg>trouver</reg>
+            </choice> les Princes pour quelque proposition <choice>
+              <orig>auec</orig>
+              <reg>avec</reg>
+            </choice> Madame, elle m'a fort asseuré qu'elle n'en fera <choice>
+              <orig>iamais</orig>
+              <reg>jamais</reg>
+            </choice> aucun que du consentement du Roy, &amp; <choice>
+              <orig>ie</orig>
+              <reg>je</reg>
+            </choice> croy que dans la peur où elle est, qu'elle n'a nul dessein que celuy de faire
+            tout ce qu'il plaira au Roy, ledit Nonce m'a proposé ne parler pas de luy-mesme. <choice>
+              <orig>Ie</orig>
+              <reg>Je</reg>
+            </choice> n'ay point <choice>
+              <orig>reietté</orig>
+              <reg>rejetté</reg>
+            </choice> cela, &amp; <choice>
+              <orig>ie</orig>
+              <reg>je</reg>
+            </choice> croy que le <persName ref="#Tommaso">Prince Thomas</persName> luy en doit <choice>
+              <orig>auoir</orig>
+              <reg>avoir</reg>
+            </choice> parlé, lors qu'il l'a veu il y a quelque <choice>
+              <orig>iours</orig>
+              <reg>jours</reg>
+            </choice>, quoy que l'on asseure ledit Nonce estre <choice>
+              <orig>vn</orig>
+              <reg>un</reg>
+            </choice> peu suspect, <choice>
+              <orig>i</orig>
+              <reg>j</reg>
+            </choice>'ay creu le <choice>
+              <orig>deuoir</orig>
+              <reg>devoir</reg>
+            </choice> écouter.</p>
         </postscript>
       </body>
     </text>
