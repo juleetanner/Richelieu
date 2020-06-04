@@ -1197,7 +1197,7 @@
           <geo>47.26 -0.08</geo>
         </location>
         <idno type="GeoNames">2975758</idno>
-        <note>Commune in the Loire Valley in western France.</note>
+        <note>Town in the Loire Valley in western France.</note>
       </place>
       <place sortKey="Saint-Germain-en-Laye" xml:id="StGermain" type="building">
         <placeName type="main">Saint-Germain-en-Laye</placeName>
@@ -1235,7 +1235,8 @@
           <geo>45.32 8.42</geo>
         </location>
         <idno type="GeoNames">3164565</idno>
-        <note>City in the Piedmont west of Turin, alternately conquered by France and Spain in the 16th to 18th centuries.</note>
+        <note>City in the Piedmont west of Turin, alternately conquered by France and Spain in the
+          16th to 18th centuries.</note>
       </place>
       <place sortKey="Verruë" xml:id="Verrue" type="commune">
         <placeName type="main">Verruë</placeName>
@@ -1255,6 +1256,15 @@
         </location>
         <idno type="GeoNames">3164183</idno>
         <note>Town in the Province of Asti.</note>
+      </place>
+      <place sortKey="Volpiano" xml:id="Volpiano" type="commune">
+        <placeName>Volpiano</placeName>
+        <placeName>Volpiano</placeName>
+        <location>
+          <geo>45.2 7.78</geo>
+        </location>
+        <idno type="GeoNames">3163974</idno>
+        <note>Town in the metropolitan city of Turin.</note>
       </place>
     </listPlace>
   </standOff>
@@ -5297,9 +5307,9 @@
           traittent <choice>
             <orig>vne</orig>
             <reg>une</reg>
-          </choice> entreprise sur <placeName ref="#Vercelli">Vercel</placeName>, si la chose se peut executer, il faudra assieger la
-          Citadelle. C'est ce qui me fait souhaiter dans le quinziéme de ce mois les deux Regimens
-          que <choice>
+          </choice> entreprise sur <placeName ref="#Vercelli">Vercel</placeName>, si la chose se
+          peut executer, il faudra assieger la Citadelle. C'est ce qui me fait souhaiter dans le
+          quinziéme de ce mois les deux Regimens que <choice>
             <orig>i</orig>
             <reg>j</reg>
           </choice>'ay demandé, la chose n'est pas assez secrette pour m'en promettre <choice>
@@ -5320,7 +5330,8 @@
           </choice> suspension, &amp; la <choice>
             <orig>receuoir</orig>
             <reg>recevoir</reg>
-          </choice> luy, ou <persName ref="#Maurizio">le Cardinal</persName> dans le Piémont, à quoy elle me témoigne <choice>
+          </choice> luy, ou <persName ref="#Maurizio">le Cardinal</persName> dans le Piémont, à quoy
+          elle me témoigne <choice>
             <orig>auoir</orig>
             <reg>avoir</reg>
           </choice>
@@ -5338,8 +5349,9 @@
             <orig>reuolte</orig>
             <reg>revolte</reg>
           </choice>, neantmoins elle connoit bien qu'elle est perdué, si elle n'a vostre protection,
-          &amp; celle du Roy. La Citadelle de <placeName ref="#Turin">Turin</placeName>, est bien asseurée, Madame se porte bien, son
-            <persName ref="#CharlesE2">fils</persName> est en bonne santé, elle espere <choice>
+          &amp; celle du Roy. La Citadelle de <placeName ref="#Turin">Turin</placeName>, est bien
+          asseurée, Madame se porte bien, son <persName ref="#CharlesE2">fils</persName> est en
+          bonne santé, elle espere <choice>
             <orig>auoir</orig>
             <reg>avoir</reg>
           </choice> trois ou quatre mil François, lesquels <choice>
@@ -6747,8 +6759,8 @@
           </choice>, de sorte que cette armée seroit encore plus foible que l'année passée, estant
           moindre de six Regimens, &amp; l'argent de plusieurs recreuës n'estant pas encore donné à
           ce qu'on me mande de Dauphiné.</p>
-        <p>L'entreprise de <placeName ref="#Vercelli">Vercel</placeName> ne s'est pas executée, parce que les Ennemis se mirent ensemble
-          six <choice>
+        <p>L'entreprise de <placeName ref="#Vercelli">Vercel</placeName> ne s'est pas executée,
+          parce que les Ennemis se mirent ensemble six <choice>
             <orig>iours</orig>
             <reg>jours</reg>
           </choice>
@@ -8068,6 +8080,7 @@
           <keywords>
             <term>Battlefield reports</term>
             <term>Recruits</term>
+            <term>Treachery</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -8391,7 +8404,7 @@
             <date/>
           </correspAction>
           <note>Christine reports the loss of seven towns to the armies of Prince Thomas. As a
-            princess of France, she requests additional troops, and funds to sustain them.</note>
+            princess of France, she requests additional troops, and funds to maintain them.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -8619,6 +8632,7 @@
             <term>Piedmontese Civil War</term>
             <term>Diplomacy</term>
             <term>Recruits</term>
+            <term>Treachery</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -8635,8 +8649,8 @@
           <note>La Valette reports the loss of two insignificant towns to Prince Thomas, Veruë and
             Crescentin. He believes the enemy is attempting to blockade Turin by taking the
             surrounding towns, and hopes that further losses may be avoided with the arrival of
-            fresh recruits from France. The nuncio has arrived to set up negotiations between the
-            princes of Savoy and Christine of France.</note>
+            fresh recruits from France. The nuncio has set up negotiations between the princes of
+            Savoy and Christine of France.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -8881,9 +8895,7 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term/>
-            <term/>
-            <term/>
+            <term>Petitioning</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -8897,14 +8909,285 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note/>
+          <note>Christine asks Richelieu to take care of her children in case of her demise and to
+            ensure that her son, Charles Emmanuel, inherit the Duchy of Savoy.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <pb facs="Vialart_letters_Page_32.jpg"/>
-        <p/>
+        <pb facs="Vialart_letters_Page_33.jpg"/>
+        <opener><salute><choice>
+              <orig>Monsievr</orig>
+              <reg>Monsieur</reg>
+            </choice>
+            <seg>Mon <choice>
+                <orig>Covsin</orig>
+                <reg>Cousin</reg>
+              </choice>,<note>As Princes of the Church, cardinals were addressed as "Mon Cousin" by
+                royalty.</note></seg></salute></opener>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> suis en <choice>
+            <orig>mauuais</orig>
+            <reg>mauvais</reg>
+          </choice> estat, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous recommande mes enfans &amp; ma liberté, s'il plaist à Dieu de disposer de
+          ma personne, ayez soin de <persName ref="#CharlesE2">mon cher fils</persName>, que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'aye cette consolation de croire que vous m'<choice>
+            <orig>auez</orig>
+            <reg>avez</reg>
+          </choice> tant aymée que vous luy <choice>
+            <orig>conseruerez</orig>
+            <reg>conserverez</reg>
+          </choice> la liberté &amp; ses Estats, &amp; à mes filles, qui ne diminuent point de
+          condition égale à leur naissance, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous en <choice>
+            <orig>coniure</orig>
+            <reg>conjure</reg>
+          </choice>, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> les remets entre vos mains, comme plus cher amy que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'aye au mode Des assistances pour moy, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne sçay en l'estat où <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> me <choice>
+            <orig>trouue</orig>
+            <reg>trouve</reg>
+          </choice>
+          <pb facs="Vialart_letters_Page_34.jpg"/> si <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'auray loisir de les attendre, au moins ne me laissez pas perir mal-heureusement, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> me confie en vous, faites ce que vous jugerez pour mon bien, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> recommande sous vostre conduite mes interests, &amp; ceux qui me <choice>
+            <orig>seruent</orig>
+            <reg>servent</reg>
+          </choice>, &amp; la France,</p>
+        <closer><choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis <salute>Vostre, &amp;c.</salute>
+          <dateline>De <placeName ref="#Turin">Thurin</placeName> ce 23. <choice>
+              <orig>Auril</orig>
+              <reg>Avril</reg>
+            </choice> 1639.</dateline></closer>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter30">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Valette">Cardinal de La Valette</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 13 April 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page">34</biblScope>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Diplomacy</term>
+            <term>Loyalty</term>
+            <term>Piedmontese Civil War</term>
+            <term>Treachery</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Valette"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-04-13"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>The armies of Prince Thomas are closing in on the Turin and the French are
+            outnumbered. La Valette vows to stay in the city during the attack. Christine of France
+            plans to shelter in Pignerol (Pinerolo) and promises she will not negotiate with her
+            brothers-in-law separately from France.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_34.jpg"/>
+        <opener><salute><choice>
+              <orig>Monseignevr</orig>
+              <reg>Monseigneur</reg>
+            </choice>,</salute></opener>
+        <p><persName ref="#Christine">Madame</persName>
+          <choice>
+            <orig>enuoye</orig>
+            <reg>envoye</reg>
+          </choice> ce Courrier au <persName ref="#Louis13">Roy</persName> pour luy demander
+          secours, ne doutant plus que le <persName ref="#Tommaso">Prince Thomas</persName>, &amp;
+          le <persName ref="#Leganes">Marquis de Leganez</persName> attaquent <placeName
+            ref="#Turin">Turin</placeName>, ledit Prince est <choice>
+            <orig>aduancé</orig>
+            <reg>advancé</reg>
+          </choice>
+          <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> toute sa <choice>
+            <orig>Caualerie</orig>
+            <reg>Cavalerie</reg>
+          </choice> à <placeName ref="Volpiano">Vulpian</placeName>, &amp; quelques Troupes sont à
+          trois mil d'icy, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> viens de faire entrer ce qui me restoit d'Infanterie dans la ville, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis resolu de m'y enfermer si les ennemis l'attaquent, &amp; de la defendre <choice>
+            <orig>iusques</orig>
+            <reg>jusques</reg>
+          </choice> au bout. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> croy que Vostre Eminence donnera les ordres necessaires pour le Piedmont, la <choice>
+            <orig>reuolte</orig>
+            <reg>revolte</reg>
+          </choice> s'en va quasi generale, nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> trois mil cinq cens hommes François, compris les deux Regimens, Senantes, &amp;
+          des Lorrains. Le Prince Thomas a veu le Nonce, &amp; le <persName ref="#Maurizio">Cardinal
+            de <choice>
+              <orig>Sauoye</orig>
+              <reg>Savoye</reg>
+            </choice></persName> aussi, il n'y a nul accommodement si Madame ne leur donne part à la
+          Tutelle, à quoy elle repugne entierement, elle me promet de ne rien faire sans le
+          consentement du <persName ref="#Louis13">Roy</persName>, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> croy qu'elle est resoluë de se retirer à <placeName ref="#Pinerolo"
+            >Pignerol</placeName>, quand à moy <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'espere de bien <choice>
+            <orig>seruir</orig>
+            <reg>servir</reg>
+          </choice> dans cette occcasion, &amp; <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> puis asseurer Vostre Eminence que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> mourray plutost que de manquer à mon <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice>. <choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'auray l'honneur de luy escrire <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> plus de loisir par quelque autre voye, le Nonce asseure que les Ennemis ont
+          17000. hommes de pied, &amp; quatre mil <choice>
+            <orig>cheuaux</orig>
+            <reg>chevaux</reg>
+          </choice>. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> croy qu'ils attaqueront, ou Turin, ou <placeName ref="#Asti">Ast</placeName>,
+          nous en serons éclaircis dans peu de <choice>
+            <orig>iours</orig>
+            <reg>jours</reg>
+          </choice>, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous supplie tres-humblement de me <choice>
+            <orig>conseruer</orig>
+            <reg>conserver</reg>
+          </choice> l'honneur de vos bonnes graces, &amp; de croire que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne seray <choice>
+            <orig>iamais</orig>
+            <reg>jamais</reg>
+          </choice> ingrat des obligations que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous ay, &amp; que ma plus grande passion sera de vous témoigner par mon <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> tres-humble que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis.</p>
+        <closer><salute><choice>
+              <orig>Monseignevr</orig>
+              <reg>Monseigneur</reg>
+            </choice>,</salute>
+          <dateline>De Turin ce 14. <choice>
+              <orig>Auril</orig>
+              <reg>Avril</reg>
+            </choice> 1639.</dateline></closer>
+        <postscript>
+          <p>Le <choice>
+              <orig>Gouuerneur</orig>
+              <reg>Gouverneur</reg>
+            </choice> de <placeName ref="#Verrue">Verruë</placeName> est dans l'armée des Espagnols,
+            où il a pris party, c'est <choice>
+              <orig>vne</orig>
+              <reg>une</reg>
+            </choice> grande marque de traihison.</p>
+        </postscript>
       </body>
     </text>
   </TEI>
