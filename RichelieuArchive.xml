@@ -295,6 +295,14 @@
         <note>Charles I reigned from 1625 until his execution in 1649. In the same year he ascended
           the throne, he married Henrietta Maria of France, sister of Louis XIII.</note>
       </person>
+      <person sortKey="Charles-Emmanuel_I,_duke_of_Savoy" xml:id="CharlesE1">
+        <persName>Charles-Emmanuel I, duke of Savoy</persName>
+        <persName>Charles-Emmanuel I</persName>
+        <idno type="VIAF">88716939</idno>
+        <birth when="1562"/>
+        <death when="1630"/>
+        <note>Duke of Savoy from 1580 to 1630, succeeded by his son, Victor Amadeus I.</note>
+      </person>
       <person sortKey="Charles-Emmanuel_II,_duke_of_Savoy" xml:id="CharlesE2">
         <persName type="main">Charles-Emmanuel II, duke of Savoy</persName>
         <persName type="presentation">Charles-Emmanuel II</persName>
@@ -590,8 +598,7 @@
         <idno type="VIAF">172592009</idno>
         <birth when="1588"/>
         <death when="1645"/>
-        <note>Secretary of State, member of the king's council, and loyal creature of Cardinal
-          Richelieu.</note>
+        <note>Secretary of state for war from 1636 and loyal creature of Cardinal Richelieu.</note>
       </person>
       <person sortKey="Orval,_François_de_Béthune,_duc_d'" xml:id="Orval">
         <persName type="main">François de Béthune, duc d'Orval</persName>
@@ -704,7 +711,7 @@
         <birth when="1611-09-11"/>
         <death when="1675-07-27"/>
         <note>French military general instrumental in defeating the forces of Prince Tommaso in the
-          Piedmontese Civil War. He was named Marshal of France in 1643 and later to Marshal
+          Piedmontese Civil War. He was named Marshal of France in 1643 and later Marshal
           General.</note>
       </person>
       <person sortKey="Urban_VIII_(Maffeo_Barberini),_pope" xml:id="Urban8">
@@ -1021,7 +1028,18 @@
           <geo>45.75 4.84</geo>
         </location>
         <idno type="GeoNames">2996944</idno>
-        <note>City in south-central France, historically a banking center and, from the Renaissance, a center for book publishing and silk production.</note>
+        <note>City in south-central France, historically a banking center and, from the Renaissance,
+          a center for book publishing and silk production.</note>
+      </place>
+      <place sortKey="Lyonnais" xml:id="Lyonnais" type="region">
+        <placeName>Lyonnais</placeName>
+        <placeName>Lyonnais</placeName>
+        <location>
+          <geo>45.75 4.5</geo>
+        </location>
+        <idno type="GeoNames">2996941</idno>
+        <note>A traditional province of France, north of Languedoc and west of Dauphiné, with the
+          capital city of Lyon.</note>
       </place>
       <place sortKey="Metz" xml:id="Metz" type="commune">
         <placeName type="main">Metz</placeName>
@@ -1732,8 +1750,8 @@
             <reg>servira</reg>
           </choice> à obtenir quelque chose du <persName ref="#Louis13">Roy</persName>, &amp; de
           Vostre Eminence ainsi que luy diront Messieurs de Palluau &amp; d'Estrade, comme aussi les
-          efforts que le Comte Philippe l'abbé de la Monta, &amp; dom Fœlix ont fait pour l'affaire
-          du Pere Monot.</p>
+          efforts que le <persName ref="#Aglie">Comte Philippe</persName> l'abbé de la Monta, &amp;
+          dom Fœlix ont fait pour l'affaire du Pere Monot.</p>
         <p>On me mande de Paris que Messieurs les Surintendans font difficulté de continuer à payer
           les trois mil-hommes de pied de Madame, quoy que cela se soit fait <choice>
             <orig>iusques</orig>
@@ -1824,8 +1842,8 @@
             <date/>
           </correspAction>
           <note>La Valette sends condolences on the passing of Father Joseph, thanks Richelieu for
-            sending additional funds for military operations, and indicates further information on
-            the situation with Father Monod and military operations is forthcoming.</note>
+            sending additional funds, and indicates further information on the situation with Father
+            Monod and military operations is forthcoming.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -1837,8 +1855,10 @@
               <reg>Monseigneur</reg>
             </choice>,</salute></opener>
         <p>
-          <orig>I</orig><reg>J</reg>'ay apris la mort du <persName ref="#Joseph">Pere
-            Joseph</persName>
+          <choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'ay apris la mort du <persName ref="#Joseph">Pere Joseph</persName>
           <choice>
             <orig>auec</orig>
             <reg>avec</reg>
@@ -1925,7 +1945,7 @@
         <p>Messieurs de <persName ref="#Palluau">Palluau</persName> &amp; d'<persName
             ref="#Estrades">Estrade</persName> vous diront ce qui s'est passé dans l'affaire du pere
             <persName ref="#Monod">Monot</persName>, l'estat des Troupes, &amp; ce que nous pensons
-          faire la prochaine camagne, si nous <choice>
+          faire la prochaine campagne, si nous <choice>
             <orig>auons</orig>
             <reg>avons</reg>
           </choice> de l'Infanterie, celle qui est icy se <choice>
@@ -1943,7 +1963,7 @@
           </choice> au <choice>
             <orig>seruice</orig>
             <reg>service</reg>
-          </choice> du Roy, <choice>
+          </choice> du <persName ref="#Louis13">Roy</persName>, <choice>
             <orig>i</orig>
             <reg>j</reg>
           </choice>'y contribueray ce qui dependra de moy pour satis-faire à mon <choice>
@@ -1967,7 +1987,7 @@
               <orig>seruiteur</orig>
               <reg>serviteur</reg>
             </choice>,</salute>
-          <signed>le Cardinal de la Valette.</signed>
+          <signed>le Cardinal de La Valette.</signed>
           <dateline>De <placeName ref="#Turin">Turin</placeName> le 11. <choice>
               <orig>Ianuier</orig>
               <reg>Janvier</reg>
@@ -2097,8 +2117,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to
+              <persName ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -2178,17 +2198,22 @@
           </choice> ne fus <choice>
             <orig>iamais</orig>
             <reg>jamais</reg>
-          </choice> dans <orig>vne</orig><reg>une</reg> si profonde letargie que <choice>
+          </choice> dans <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> si profonde letargie que <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> ne connusse clairement ce que <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> dois à vostre merite, &amp; à la passion que i'ay de rencontrer les occasions de
-          vous plaire, <choice>
+          </choice> dois à vostre merite, &amp; à la passion que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay de rencontrer les occasions de vous plaire, <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> sçay que des personnes qui ne sont bien intentionnées pour moy , &amp;
+          </choice> sçay que des personnes qui ne sont bien intentionnées pour moy, &amp;
           particulierement <persName ref="#Emery">Monsieur d'Hemery</persName>, ont <choice>
             <orig>trauaillé</orig>
             <reg>travaillé</reg>
@@ -2198,8 +2223,9 @@
           </choice> des taches au Soleil, mais il vous plaira de considerer ce que <choice>
             <orig>i</orig>
             <reg>j</reg>
-          </choice>'ay fait, non seulement du temps du Duc Charles Emanuel mon beau-pere, &amp; de
-          feu Monseigneur, mais depuis ma Regence vous connoistrez parfaitement que <choice>
+          </choice>'ay fait, non seulement du temps du <persName ref="#CharlesE1">Duc Charles
+            Emanuel</persName> mon beau-pere, &amp; de <persName ref="#VictorA1">feu
+            Monseigneur</persName>, mais depuis ma Regence vous connoistrez parfaitement que <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> ne <choice>
@@ -2217,7 +2243,10 @@
           </choice> au <choice>
             <orig>seruice</orig>
             <reg>service</reg>
-          </choice> du Roy Monsieur son Frere ; <choice>
+          </choice> du <persName ref="#Louis13">Roy</persName> Monsieur <choice>
+            <sic>son</sic>
+            <corr>mon</corr>
+          </choice> Frere ; <choice>
             <orig>i'aduoüe</orig>
             <reg>j'advoüe</reg>
           </choice> d'<choice>
@@ -2255,7 +2284,11 @@
           </choice>, &amp; comme de mon costé <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> vous promets à l'aduenir <choice>
+          </choice> vous promets à l'<choice>
+            <orig>aduenir</orig>
+            <reg>advenir</reg>
+          </choice>
+          <choice>
             <orig>vne</orig>
             <reg>une</reg>
           </choice> sincere &amp; <choice>
@@ -2340,8 +2373,10 @@
               <orig>Covsin</orig>
               <reg>Cousin </reg>
             </choice>, Vostre affectionnée Cousine</salute> Chrestienne. <dateline>Du <placeName
-              ref="#Turin">Turin</placeName> ce 14. <orig>Ianuier</orig><reg>Janvier</reg>
-            1639.</dateline></closer>
+              ref="#Turin">Turin</placeName> ce 14. <choice>
+              <orig>Ianuier</orig>
+              <reg>Janvier</reg>
+            </choice> 1639.</dateline></closer>
       </body>
     </text>
   </TEI>
@@ -2480,8 +2515,8 @@
           </choice> maggior bene che di <choice>
             <orig>seruir</orig>
             <reg>servir</reg>
-          </choice> à Sua Majesta sotto gli auspicii di Vostra Eminenza da chi per sempre implorando
-          con ogni <choice>
+          </choice> à <persName ref="#Louis13">Sua Majesta</persName> sotto gli auspicii di Vostra
+          Eminenza da chi per sempre implorando con ogni <choice>
             <orig>reuerenza</orig>
             <reg>reverenza</reg>
           </choice> il vero sostegno e <choice>
@@ -2505,8 +2540,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to
+              <persName ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -2632,7 +2667,7 @@
               <reg>Cousin</reg>
             </choice>, Vostre tres-affectionnée Cousine</salute>
           <signed>Chrestinne.</signed>
-          <dateline>De Turin ce 14. <choice>
+          <dateline>De <placeName ref="#Turin">Turin</placeName> ce 14. <choice>
               <orig>Ianuier</orig>
               <reg>Janvier</reg>
             </choice>.</dateline></closer>
@@ -2643,8 +2678,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to
+              <persName ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -2772,17 +2807,20 @@
           </choice> me suis acquis en sacrifiant mes volontez en cette rencontre, vous <choice>
             <orig>conuiera</orig>
             <reg>conviera</reg>
-          </choice> à me procurer les graces de sa <choice>
-            <orig>Maiesté</orig>
-            <reg>Majesté</reg>
-          </choice> que <choice>
+          </choice> à me procurer les graces de sa <persName ref="#Louis13"><choice>
+              <orig>Maiesté</orig>
+              <reg>Majesté</reg>
+            </choice></persName> que <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> veux reconnoistre de vos offices, &amp; de l'affection que vous me tesmoignez
           par des paroles si pressants, que <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> me ferois tort de douter des effects qui ne peuuent estre qu'infaillibles ; <choice>
+          </choice> me ferois tort de douter des effects qui ne <choice>
+            <orig>peuuent</orig>
+            <reg>peuvent</reg>
+          </choice> estre qu'infaillibles ; <choice>
             <orig>Ie</orig>
             <reg>Je</reg>
           </choice> les attendray donc de vous qui laisserez par ce moyen des marques d'<choice>
@@ -2799,14 +2837,12 @@
           <choice>
             <orig>tousiours</orig>
             <reg>toujours</reg>
-          </choice> present du soin que vous <choice>
-            <orig>aurez</orig>
-            <reg>avez</reg>
-          </choice> eu de vous employer pour la soeur de celuy à qui vous <choice>
+          </choice> present du soin que vous aurez eu de vous employer pour la soeur de celuy à qui
+          vous <choice>
             <orig>auez</orig>
             <reg>avez</reg>
           </choice> voüé vous-mesme, qui ne scaura rien refuser à mes prieres quand elles viendront
-          de vostre bouche, outre ce que le sieur d'<persName ref="#Estrades">Estrade</persName>
+          de vostre bouche, outre ce que le <persName ref="#Estrades">sieur d'Estrade</persName>
           vous dira. <choice>
             <orig>I</orig>
             <reg>J</reg>
@@ -2829,7 +2865,7 @@
               <reg>Cousin</reg>
             </choice>, Vostre affectionnée Cousine</salute>
           <signed>Crestienne.</signed>
-          <dateline>Du Turin ce 14. <choice>
+          <dateline>Du <placeName ref="#Turin">Turin</placeName> ce 14. <choice>
               <orig>Ianuier</orig>
               <reg>Janvier</reg>
             </choice> 1639.</dateline></closer>
@@ -2916,9 +2952,9 @@
             </choice>,</salute></opener>
         <p>Messieurs de <persName ref="#Palluau">Palluau</persName> &amp; d'<persName
             ref="#Estrades">Estrade</persName> rendront compte à Vostre Eminence de ce qui s'est
-          passé dans leur voyage, &amp; de la resolution que Madame a prise de mettre le <persName
-            ref="#Monod">Pere Monot</persName> à <placeName ref="#Montmelian">Mommelian</placeName>,
-          ainsi que <choice>
+          passé dans leur voyage, &amp; de la resolution que <persName ref="#Christine"
+            >Madame</persName> a prise de mettre le <persName ref="#Monod">Pere Monot</persName> à
+            <placeName ref="#Montmelian">Mommelian</placeName>, ainsi que <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> vous l'ay mandé, elle est <choice>
@@ -3064,8 +3100,11 @@
           </choice> suis <choice>
             <orig>auec</orig>
             <reg>avec</reg>
-          </choice> la reconnoissance le respect &amp; l'affection que ie dois.</p>
-        <closer>Vostre, &amp;c. <dateline>De Turin le 14. <choice>
+          </choice> la reconnoissance le respect &amp; l'affection que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> dois.</p>
+        <closer>Vostre, &amp;c. <dateline>De <placeName ref="#Turin">Turin</placeName> le 14. <choice>
               <orig>Ianuier</orig>
               <reg>Janvier</reg>
             </choice> 1639.</dateline></closer>
@@ -3176,7 +3215,7 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice> n'espargneray pas ma vie pour luy témoigner ma reconnoissance.</p>
-        <p>Ayant sçeu que <persName ref="#Bernard">Monsieur de al Valette</persName> continuë à <choice>
+        <p>Ayant sçeu que <persName ref="#Bernard">Monsieur de La Valette</persName> continuë à <choice>
             <orig>viure</orig>
             <reg>vivre</reg>
           </choice> d'<choice>
@@ -3204,7 +3243,7 @@
           </choice> m'y sens obligé par les extrémes obligations que <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> vous ay de longue-main , &amp; par la façon dont il vous plaist de me <choice>
+          </choice> vous ay de longue-main, &amp; par la façon dont il vous plaist de me <choice>
             <orig>trouuer</orig>
             <reg>trouver</reg>
           </choice> en cette occasion. <choice>
@@ -3237,7 +3276,10 @@
           </choice> l'en ose importuner si <choice>
             <orig>souuent</orig>
             <reg>souvent</reg>
-          </choice> le desir que i'ay de la <choice>
+          </choice> le desir que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay de la <choice>
             <orig>conseruer</orig>
             <reg>conserver</reg>
           </choice>, &amp; de l'augmenter, m'y oblige, &amp; <choice>
@@ -3272,9 +3314,11 @@
           </choice> fais ce que <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> puis pour les augmenter, &amp; i'ay mieux aymé retarder le payment du pain,
-          &amp; les subsistances que <persName ref="#Christine">Madame</persName> demande pour
-          vostre <choice>
+          </choice> puis pour les augmenter, &amp; <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay mieux aymé retarder le payment du pain, &amp; les subsistances que <persName
+            ref="#Christine">Madame</persName> demande pour vostre <choice>
             <orig>Caualerie</orig>
             <reg>Cavalerie</reg>
           </choice>, que de manquer à payer les prests de l'Infanterie.</p>
@@ -3284,9 +3328,11 @@
           </choice> crois, Monseigneur, que si l'on <choice>
             <orig>pouuoit</orig>
             <reg>pouvoit</reg>
-          </choice> faire passer deux ou trois mil hommes de pied dans le mois de Féurier, que nous
-          serions en estat d'attendre le reste de l'armée, &amp; d'empescher le dessein des Ennemis,
-          parce qu'<choice>
+          </choice> faire passer deux ou trois mil hommes de pied dans le mois de <choice>
+            <orig>Féurier</orig>
+            <reg>Février</reg>
+          </choice>, que nous serions en estat d'attendre le reste de l'armée, &amp; d'empescher le
+          dessein des Ennemis, parce qu'<choice>
             <orig>auec</orig>
             <reg>avec</reg>
           </choice> huict mil hommes de pied, &amp; deux mil cinq cens <choice>
@@ -3295,8 +3341,10 @@
           </choice>, nous n'aurons rien à craindre <choice>
             <orig>iusques</orig>
             <reg>jusques</reg>
-          </choice> au mois d'<orig>Auril</orig><reg>Avril</reg> que le reste de nos Troupes
-          passeroit. Mais <choice>
+          </choice> au mois d'<choice>
+            <orig>Auril</orig>
+            <reg>Avril</reg>
+          </choice> que le reste de nos Troupes passeroit. Mais <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> croy, Monsiegneur, qu'il ne faut pas faire passer les deux ou trois mil cheuaux,
@@ -3346,7 +3394,7 @@
           </choice> vous ay <choice>
             <orig>enuoyé</orig>
             <reg>envoyé</reg>
-          </choice> les Plans du Pont de Sture, &amp; de la despense par estima- tion.</p>
+          </choice> les Plans du Pont de Sture, &amp; de la despense par estimation.</p>
         <p>Le Magazin du foing sera fait dans la fin de Février, nous le faisons à Cazal, <placeName
             ref="#Asti">Ast</placeName> &amp; <placeName ref="#Turin">Turin</placeName>. Enfin,
           Monsiegneur, <choice>
@@ -3375,9 +3423,8 @@
           </choice> mieux par les effects, que par ce que <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> vous en sçaurois dire, la bonté que V. Eminence de vouloir tesmoigner à
-            <persName ref="#Tommaso">Monsieur le Prince<certainty locus="name" degree=".6"
-            /></persName> l'honneur qu'elle m'a fait de me croire son tres-humble <choice>
+          </choice> vous en sçaurois dire, la bonté que V. Eminence de vouloir tesmoigner à Monsieur
+          le Prince l'honneur qu'elle m'a fait de me croire son tres-humble <choice>
             <orig>seruiteur</orig>
             <reg>serviteur</reg>
           </choice> est extraordinaire, &amp; ce sont des soins dont il n'y a que vous seul qui se
@@ -3516,12 +3563,20 @@
           </choice> vous en rende graces tres humbles, &amp; que <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> vous renouuelle les asseurances de mon tres-humble ser- uice, &amp; de ma
-          reconnoissance, ce qu'il a plû à Vostre Eminence de dire à Monsieur le Prince sur mon
-          suiet, me touche plus sensiblement que <choice>
+          </choice> vous <choice>
+            <orig>renouuelle</orig>
+            <reg>renouvelle</reg>
+          </choice> les asseurances de mon tres-humble <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice>, &amp; de ma reconnoissance, ce qu'il a plû à Vostre Eminence de dire à Monsieur
+          le Prince sur mon <choice>
+            <orig>suiet</orig>
+            <reg>sujet</reg>
+          </choice>, me touche plus sensiblement que <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> ne puis vous le repre- senter ; <choice>
+          </choice> ne puis vous le representer ; <choice>
             <orig>Ie</orig>
             <reg>Je</reg>
           </choice> diray seulement à Vostre Eminence qu'elle ne se trompera <choice>
@@ -3549,7 +3604,11 @@
             <orig>reueuë</orig>
             <reg>reveuë</reg>
           </choice> de nostre Infanterie, &amp; pour establir <persName ref="#Turenne">Monsieur de
-            la Tour</persName> dans ladite place, lequel y a esté reçu auec <choice>
+            la Tour</persName> dans ladite place, lequel y a esté reçu <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice>
+          <choice>
             <orig>vn</orig>
             <reg>un</reg>
           </choice> grand applaudissement de tout le monde. <choice>
@@ -3573,15 +3632,18 @@
           </choice> extrait de la <choice>
             <orig>Reueuë</orig>
             <reg>Reveuë</reg>
-          </choice> qui a esté aussi exacte qui se peut, nous auons 4000. soldats effectifs, sans le
-          Regiment de Nerestan, lequel sortira de six cens hommes, &amp; si on <choice>
+          </choice> qui a esté aussi exacte qui se peut, nous <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> 4000. soldats effectifs, sans le Regiment de Nerestan, lequel sortira de six
+          cens hommes, &amp; si on <choice>
             <orig>enuoye</orig>
             <reg>envoye</reg>
           </choice> dans tout le mois vn Regiment pour <choice>
             <orig>releuer</orig>
             <reg>relever</reg>
           </choice> celuy d'Aiguebonne, qui est dans <placeName ref="#Pinerolo"
-          >Pignerol</placeName>, il en sortira pour le moins aussi fort que celuy de Nerestan ,&amp;
+          >Pignerol</placeName>, il en sortira pour le moins aussi fort que celuy de Nerestan, &amp;
           pour ce qu'il y <choice>
             <orig>auoit</orig>
             <reg>avoit</reg>
@@ -3696,7 +3758,7 @@
             <orig>i</orig>
             <reg>j</reg>
           </choice>'estois dans le <placeName ref="#Monferrato">Monferrat</placeName>, elle estoit
-          venuë de <placeName ref="#Rome">Rome</placeName>.</p>
+          venuë de Rome.</p>
         <p>Madame ne sçauroit subsister, ny mesme garder ses places, si le Roy ne luy paye les 3000.
           hommes de pied qu'il a accoustumé, Vostre Eminence le pourra <choice>
             <orig>sçauoir</orig>
@@ -3752,7 +3814,7 @@
               <orig>MONSEIGNEVR</orig>
               <reg>Monseigneur</reg>
             </choice>, Vostre, &amp;c.</salute>
-          <dateline>De Turin ce 2. <choice>
+          <dateline>De <placeName ref="#Turin">Turin</placeName> ce 2. <choice>
               <orig>Féurier</orig>
               <reg>Février</reg>
             </choice>.</dateline></closer>
@@ -3842,7 +3904,10 @@
             <reg>J</reg>
           </choice>'ay veu par <seg>la Lettre<note>This letter is reproduced in Avenel vol. 6, pp.
               275-77).</note></seg> que vostre Eminence m'a fait l'honneur de m'écrire du
-          vingt-quatriéme <orig>Ianuier</orig><reg>Janvier</reg>, les ordres que vous <choice>
+          vingt-quatriéme <choice>
+            <orig>Ianuier</orig>
+            <reg>Janvier</reg>
+          </choice>, les ordres que vous <choice>
             <orig>auez</orig>
             <reg>avez</reg>
           </choice> donnez, tant pour le payement <pb facs="Vialart_letters_Page_12.jpg"/>des
@@ -3862,7 +3927,7 @@
             <orig>ie</orig>
             <reg>je</reg>
           </choice> croy qu'il n'y aura point de manquement.</p>
-        <p>Des cent mil-francs que <persName ref="#Lauzon">Monsieur de Lauson</persName> doit <choice>
+        <p>Des cent mil-francs que Monsieur de Lauson doit <choice>
             <orig>enuoyer</orig>
             <reg>envoyer</reg>
           </choice>, les cinquante mil sont <choice>
@@ -3884,13 +3949,13 @@
           </choice>, ainsi que le sieur Tiebault de Lyon me le promet, &amp; si les 350000. <choice>
             <orig>liures</orig>
             <reg>livres</reg>
-          </choice> que V. Eminence me mande qu'elle nous <choice>
+          </choice> que Vostre Eminence me mande qu'elle nous <choice>
             <orig>enuoyera</orig>
             <reg>envoyera</reg>
           </choice> dans ce mois, &amp; celuy de Mars, <choice>
             <orig>arriuent</orig>
             <reg>arrivent</reg>
-          </choice> elle se peut asseurer que nos Troupes seront en tres-bon estat,ce qui me semble
+          </choice> elle se peut asseurer que nos Troupes seront en tres-bon estat, ce qui me semble
           necessaire, c'est que <choice>
             <orig>ie</orig>
             <reg>je</reg>
@@ -3936,11 +4001,11 @@
           </choice>'ay <choice>
             <orig>enuoyez</orig>
             <reg>envoyez</reg>
-          </choice> en <placeName ref="#Lyonnais">Lyonnois</placeName> &amp; en <placeName
+          </choice> en <placeName ref="#Lyonnais">Lyonnois</placeName> &amp; en <placeName>
             ref="#Dauphine">Dauphiné</placeName>, j'en dépesche encore <choice>
             <orig>vn</orig>
             <reg>un</reg>
-          </choice> autre en Languedoc, pour <choice>
+          </choice> autre en <placeName ref="Languedoc">Languedoc</placeName>, pour <choice>
             <orig>sçauoir</orig>
             <reg>sçavoir</reg>
           </choice> en quel estat sont les recreuës, on ne sçauroit trop presser les Officiers, car
@@ -4054,7 +4119,10 @@
           </choice> sur le Chenchio par le moyen du <persName ref="#Maurizio">Cardinal de <choice>
               <orig>Sauoye</orig>
               <reg>Savoye</reg>
-            </choice></persName>, on est apres à découurir ceux qui y ont trempé, <choice>
+            </choice></persName>, on est apres à <choice>
+            <orig>découurir</orig>
+            <reg>découvrir</reg>
+          </choice> ceux qui y ont trempé, <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> fay ce que <choice>
@@ -4091,8 +4159,11 @@
           </choice> dans deux <choice>
             <orig>iours</orig>
             <reg>jours</reg>
-          </choice> à V. Eminence, le marché qu'en a fait le sieur Collebert, lequel entend fort
-          bien ces choses-là, <choice>
+          </choice> à Vostre Eminence, le marché qu'en a fait le <seg>sieur Collebert,<note>Possibly
+              Jean-Baptiste Colbert, future minister of finance under Louis XIV, who began his
+              career in the war office before 1639, first as inspector of troops, later as the
+              personal assistant to Michel le Tellier, secretary of war (Wikipedia).</note></seg>
+          lequel entend fort bien ces choses-là, <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> ne manquery pas de donner <choice>
@@ -4110,7 +4181,10 @@
           </choice> suis <choice>
             <orig>auec</orig>
             <reg>avec</reg>
-          </choice> la fidelité &amp; la reconnoissance sance que ie dois,</p>
+          </choice> la fidelité &amp; la reconnoissance que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> dois,</p>
         <closer>Vostre, &amp;c.</closer>
         <postscript>
           <p><choice>
@@ -4319,7 +4393,10 @@
             <orig>I</orig>
             <reg>J</reg>
           </choice>'attens maintenant le Regiment de <persName ref="#Turenne">la Tour</persName>,
-          lequel n'est pas arriué dans le temps que Monsieur le Comte nous <choice>
+          lequel n'est pas <choice>
+            <orig>arriué</orig>
+            <reg>arrivé</reg>
+          </choice> dans le temps que Monsieur le Comte nous <choice>
             <orig>auoit</orig>
             <reg>avoit</reg>
           </choice> escrit, <choice>
@@ -4334,7 +4411,8 @@
           </choice> celuy d'Aiguebonne de <placeName ref="#Pinerolo">Pignerol</placeName>, car par
           ce moyen nous mettrons douze mil hommes de pied en campagne ; j'écris outre cela à
             <placeName ref="#Lyon">Lyon</placeName> qu'on fasse promptement passer les recreuës
-          d'Alincourt, si elles sont prestes comme on me l'a mandé, &amp; celle de Chamblé, afin d'<choice>
+            d'<placeName ref="#Alincourt">Alincourt</placeName>, si elles sont prestes comme on me
+          l'a mandé, &amp; celle de Chamblé, afin d'<choice>
             <orig>auoir</orig>
             <reg>avoir</reg>
           </choice>
@@ -4375,9 +4453,9 @@
             <orig>I</orig>
             <reg>J</reg>
           </choice>'écris aussi à <persName ref="#Turenne">Monsieur de Turenne</persName> pour le
-          prier de partir promptement, car mon frere estant mort, il n'y a plus que Monsieur du
-          Plessis &amp; moy d'Officiers d'armée, les Marschaux de Camp, &amp; les Sergens de
-          bataille, sont absents.</p>
+          prier de partir promptement, car mon frere estant mort, il n'y a plus que <persName
+            ref="#PlessisP">Monsieur du Plessis</persName> &amp; moy d'Officiers d'armée, les
+          Marschaux de Camp, &amp; les Sergens de bataille, sont absents.</p>
         <p>Il ne se peut rien adjouster aux soings de Monsieur le Grand Maistre, ce qui dépend de
           luy va aussi bien qu'il se peut, plût à Dieu que ce que Vostre Eminence ordonne aux autres
           s'effectuât aussi ponctuellement. Il manque seulement de l'argent aux Officiers de
@@ -4387,7 +4465,8 @@
           </choice> prie Dieu qui me fasse la grace de rendre quelque bon <choice>
             <orig>seruice</orig>
             <reg>service</reg>
-          </choice> au Roy, &amp; à Vôtre Eminence, durant ceste Campagne, &amp; que <choice>
+          </choice> au <persName ref="#Louis13">Roy</persName>, &amp; à Vôtre Eminence, durant ceste
+          Campagne, &amp; que <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> sois assez heureux pour vous témoigner que <choice>
@@ -4488,8 +4567,8 @@
           </choice> fait l'honneur de mécrire du <choice>
             <orig>vnzieme</orig>
             <reg>unzieme</reg>
-          </choice> &amp; <seg>vingtiéme Fevrier<note>This letter is reproduced in the Avenel
-              compilation, vol. 6, pp. 283-84.</note></seg>, le soin qu'il vous plaist de prendre,
+          </choice> &amp; <seg>vingtiéme Fevrier,<note>This letter is reproduced in the Avenel
+              compilation, vol. 6, pp. 283-84.</note></seg> le soin qu'il vous plaist de prendre,
           non seulement de <choice>
             <orig>pouruoir</orig>
             <reg>pourvoir</reg>
@@ -4533,7 +4612,7 @@
           Chancelier, laquelle est tres-grande pour <choice>
             <orig>vne</orig>
             <reg>une</reg>
-          </choice> personne de son <seg>aage<note>Middle French spelling of "age."</note></seg>,
+          </choice> personne de son <seg>aage,<note>Middle French spelling of "age."</note></seg>
           c'est <choice>
             <orig>vne</orig>
             <reg>une</reg>
@@ -4547,8 +4626,8 @@
           </choice> desdits Monferrains, si <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> puis sans luy, &amp; à l'établissement qu'il faudra donner dans le Montferrat
-          s'il meurt, <choice>
+          </choice> puis sans luy, &amp; à l'établissement qu'il faudra donner dans le <placeName
+            ref="#Monferrato">Montferrat</placeName> s'il meurt, <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> croy qu'il ne faudra pas receuoir <choice>
@@ -5284,8 +5363,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, 5 January 1639</title>
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to
+              <persName ref="#Richelieu">Cardinal Richelieu</persName>, 5 January 1639</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -5969,8 +6048,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, 7 March 1639</title>
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to
+              <persName ref="#Richelieu">Cardinal Richelieu</persName>, 7 March 1639</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -6141,8 +6220,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, 7 March 1639</title>
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to
+              <persName ref="#Richelieu">Cardinal Richelieu</persName>, 7 March 1639</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -6574,7 +6653,11 @@
           </choice> de l'<choice>
             <orig>espouuante</orig>
             <reg>espouvante</reg>
-          </choice> qui y est, par ce que vous en aura dit le sieur Colbert quoy qu'il en soit, <choice>
+          </choice> qui y est, par ce que vous en aura dit le <seg>sieur Colbert<note>Possibly
+              Jean-Baptiste Colbert, future minister of finance under Louis XIV, who began his
+              career in the war office before 1639, first as inspector of troops, later as the
+              personal assistant to Michel le Tellier, secretary of war (Wikipedia).</note></seg>
+          quoy qu'il en soit, <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> puis asseurer Vostre Eminence que i'essayeray de faire mon <choice>
@@ -6662,10 +6745,13 @@
             <orig>vn</orig>
             <reg>un</reg>
           </choice> siege.</p>
-        <p>Vostre Eminence aura sçeu par le sieur <choice>
-            <sic>Colebert</sic>
-            <corr>Colbert</corr>
-          </choice> comme Madame a <choice>
+        <p>Vostre Eminence aura sçeu par le <seg>sieur <choice>
+              <sic>Colebert</sic>
+              <corr>Colbert</corr>
+            </choice><note>Possibly Jean-Baptiste Colbert, future minister of finance under Louis
+              XIV, who began his career in the war office before 1639, first as inspector of troops,
+              later as the personal assistant to Michel le Tellier, secretary of war
+              (Wikipedia).</note></seg> comme Madame a <choice>
             <orig>enuoyé</orig>
             <reg>envoyé</reg>
           </choice> ses enfans en <choice>
@@ -6754,8 +6840,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, 2 April 1639</title>
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to
+              <persName ref="#Richelieu">Cardinal Richelieu</persName>, 2 April 1639</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -8218,8 +8304,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, 11 April 1639</title>
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to
+              <persName ref="#Richelieu">Cardinal Richelieu</persName>, 11 April 1639</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -8725,8 +8811,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, 23 April 1639</title>
+          <title><persName ref="#Christine">Christine, duchess and regent of Savoy,</persName> to
+              <persName ref="#Richelieu">Cardinal Richelieu</persName>, 23 April 1639</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -8767,9 +8853,9 @@
         </langUsage>
         <textClass>
           <keywords>
-            <term></term>
-            <term></term>
-            <term></term>
+            <term/>
+            <term/>
+            <term/>
           </keywords>
         </textClass>
         <correspDesc>
@@ -8783,7 +8869,7 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note></note>
+          <note/>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -9369,8 +9455,9 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#HenriettaMaria">Henrietta Maria, queen consort of England, Scotland, and Ireland,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, n.d. [1625–1642]</title>
+          <title><persName ref="#HenriettaMaria">Henrietta Maria, queen consort of England,
+              Scotland, and Ireland,</persName> to <persName ref="#Richelieu">Cardinal
+              Richelieu</persName>, n.d. [1625–1642]</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -10555,8 +10642,9 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#HenriettaMaria">Henrietta Maria, queen consort of England, Scotland, and Ireland,</persName> to <persName
-              ref="#Richelieu">Cardinal Richelieu</persName>, n.d. [1625–1642]</title>
+          <title><persName ref="#HenriettaMaria">Henrietta Maria, queen consort of England,
+              Scotland, and Ireland,</persName> to <persName ref="#Richelieu">Cardinal
+              Richelieu</persName>, n.d. [1625–1642]</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
