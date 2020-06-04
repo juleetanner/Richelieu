@@ -346,6 +346,17 @@
           brothers-in-law Thomas, prince of Carignano, and Maurice, prince of Savoy, in the
           Piedmontese Civil War.</note>
       </person>
+      <person sortKey="Gonzaga,_Eleonora,_princess_of_Mantua_and_Holy_Roman_Empress"
+        xml:id="EleonoraG">
+        <persName type="main">Eleonora Gonzaga, princess of Mantua and Holy Roman Empress</persName>
+        <persName type="presentation">Eleonora Gonzaga</persName>
+        <idno type="VIAF">34431217</idno>
+        <birth when="1598"/>
+        <death when="1655"/>
+        <note>Empress from 1622 until the death of Ferdinand II in 1637. The deaths of her three
+          brothers without heirs set off the War of Mantuan Succession, 1628-1631, with Phillip IV
+          of Spain and Charles Emmanuel I of Savoy allied against Louis XIII and Venice.</note>
+      </person>
       <person sortKey="Emery,_Michel_Particelli,_sieur_d'" xml:id="Emery">
         <persName type="main">Michel Particelli, sieur d'Emery</persName>
         <persName type="alternate">Michel Particelli, sieur d'Hemery</persName>
@@ -1216,6 +1227,15 @@
         <idno type="GeoNames">3165524</idno>
         <note>City in the Piedmont and capital of the Duchy of Savoy in the 16th and 17th
           centuries.</note>
+      </place>
+      <place sortKey="Vercelli" xml:id="Vercelli" type="commune">
+        <placeName type="main">Vercelli</placeName>
+        <placeName type="presentation">Vercelli</placeName>
+        <location>
+          <geo>45.32 8.42</geo>
+        </location>
+        <idno type="GeoNames">3164565</idno>
+        <note>City in the Piedmont west of Turin, alternately conquered by France and Spain in the 16th to 18th centuries.</note>
       </place>
       <place sortKey="Verruë" xml:id="Verrue" type="commune">
         <placeName type="main">Verruë</placeName>
@@ -4633,8 +4653,8 @@
           </choice> croy qu'il ne faudra pas receuoir <choice>
             <orig>vn</orig>
             <reg>un</reg>
-          </choice> homme de la Princesse de Mantouë ny pour Chancelier ny pour Chef des armes, car
-          elle n'en <choice>
+          </choice> homme de la <persName ref="#EleonoraG">Princesse de Mantouë</persName> ny pour
+          Chancelier ny pour Chef des armes, car elle n'en <choice>
             <orig>enuoyera</orig>
             <reg>envoyera</reg>
           </choice> point qui ne soit contre la France, <choice>
@@ -4759,7 +4779,7 @@
           </choice> si nous pourrions estre secourus de <choice>
             <orig>viures</orig>
             <reg>vivres</reg>
-          </choice>, &amp; de conons, par l'armée de la mer, en cas qu'il se presente occasion de
+          </choice>, &amp; de canons, par l'armée de la mer, en cas qu'il se presente occasion de
           tourner de ce costé-là, <choice>
             <orig>auec</orig>
             <reg>avec</reg>
@@ -4794,7 +4814,8 @@
           Prince Thomas, &amp; les asseurances que vous leur <choice>
             <orig>auez</orig>
             <reg>avez</reg>
-          </choice> données de l'assistance du Roy, &amp; de la vostre, contre les <choice>
+          </choice> données de l'assistance du <persName ref="#Louis13">Roy</persName>, &amp; de la
+          vostre, contre les <choice>
             <orig>mauuaises</orig>
             <reg>mauvaises</reg>
           </choice> intentions de ses beaux-freres, elle m'a baillé la parole <choice>
@@ -4804,8 +4825,10 @@
             <orig>auec</orig>
             <reg>avec</reg>
           </choice> qui que ce soit, sans exception, sans le consentement du Roy, &amp; de Vostre
-          Eminence ; &amp; le <persName ref="#Maurizio">Cardinal de Sauoye</persName> luy ayant
-          escrit <choice>
+          Eminence ; &amp; le <persName ref="#Maurizio">Cardinal de <choice>
+              <orig>Sauoye</orig>
+              <reg>Savoye</reg>
+            </choice></persName> luy ayant escrit <choice>
             <orig>vne</orig>
             <reg>une</reg>
           </choice> Lettre, elle ne l'a pas voulu <choice>
@@ -4832,7 +4855,7 @@
           donner <choice>
             <orig>vn</orig>
             <reg>un</reg>
-          </choice> appanage à la priere du Pape, si le Roy &amp; V. Eminence le <choice>
+          </choice> appanage à la priere du Pape, si le Roy &amp; Vostre Eminence le <choice>
             <orig>trouue</orig>
             <reg>trouve</reg>
           </choice> bon ; ce qui me fait croire qu'elle ne se separera pas des interests du Roy,
@@ -4870,8 +4893,11 @@
           les <choice>
             <orig>Gouuerneurs</orig>
             <reg>Gouverneurs</reg>
-          </choice> des places prestent serment de fidelité au Cardinal de Sauoye, en cas que le Duc
-          vienne à mourir, ce qu'elle a <choice>
+          </choice> des places prestent serment de fidelité au Cardinal de <choice>
+            <orig>Sauoye</orig>
+            <reg>Savoye</reg>
+          </choice>, en cas que le <persName ref="#CharlesE2">Duc</persName> vienne à mourir, ce
+          qu'elle a <choice>
             <orig>trouué</orig>
             <reg>trouvé</reg>
           </choice> fort <choice>
@@ -4900,8 +4926,8 @@
             Philippe</persName> le sçait bien, elle m'a promis qu'elle s'asseurera de Nice, <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> la vois en disposition d'y mettre le de la Tour, elle est aussi apres à gagner
-          Dom Fœlix, <choice>
+          </choice> la vois en disposition d'y mettre le <persName ref="#Turenne">Baron de la
+            Tour</persName>, elle est aussi apres à gagner Dom Fœlix, <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> luy conseille de gagner <choice>
@@ -5072,7 +5098,9 @@
         <p>Si le Regiment qui doit <choice>
             <orig>releuer</orig>
             <reg>relever</reg>
-          </choice> Aiguebonne, ou les recreuës de Chamblé &amp; d'Alincourt <choice>
+          </choice> Aiguebonne, ou les recreuës de Chamblé &amp; d'<placeName ref="#Alincourt"
+            >Alincourt</placeName>
+          <choice>
             <orig>arriuent</orig>
             <reg>arrivent</reg>
           </choice> dans le quinziéme de ce mois, comme <choice>
@@ -5230,7 +5258,7 @@
             <orig>gouuerner</orig>
             <reg>gouverner</reg>
           </choice> qu'on establira dans le <placeName ref="#Monferrato">Montferrat</placeName> s'il
-          meurt, parce que la Princesse de Mantouë voudra <choice>
+          meurt, parce que la <persName ref="#EleonoraG">Princesse de Mantouë</persName> voudra <choice>
             <orig>pouruoir</orig>
             <reg>pourvoir</reg>
           </choice> à sa charge, ce qui porteroit <choice>
@@ -5269,7 +5297,7 @@
           traittent <choice>
             <orig>vne</orig>
             <reg>une</reg>
-          </choice> entreprise sur Vercel, si la chose se peut executer, il faudra assieger la
+          </choice> entreprise sur <placeName ref="#Vercelli">Vercel</placeName>, si la chose se peut executer, il faudra assieger la
           Citadelle. C'est ce qui me fait souhaiter dans le quinziéme de ce mois les deux Regimens
           que <choice>
             <orig>i</orig>
@@ -5292,7 +5320,7 @@
           </choice> suspension, &amp; la <choice>
             <orig>receuoir</orig>
             <reg>recevoir</reg>
-          </choice> luy, ou le Cardinal dans le Piémont, à quoy elle me témoigne <choice>
+          </choice> luy, ou <persName ref="#Maurizio">le Cardinal</persName> dans le Piémont, à quoy elle me témoigne <choice>
             <orig>auoir</orig>
             <reg>avoir</reg>
           </choice>
@@ -5310,7 +5338,7 @@
             <orig>reuolte</orig>
             <reg>revolte</reg>
           </choice>, neantmoins elle connoit bien qu'elle est perdué, si elle n'a vostre protection,
-          &amp; celle du Roy. La Citadelle de Turin, est bien asseurée, Madame se porte bien, son
+          &amp; celle du Roy. La Citadelle de <placeName ref="#Turin">Turin</placeName>, est bien asseurée, Madame se porte bien, son
             <persName ref="#CharlesE2">fils</persName> est en bonne santé, elle espere <choice>
             <orig>auoir</orig>
             <reg>avoir</reg>
@@ -6719,7 +6747,7 @@
           </choice>, de sorte que cette armée seroit encore plus foible que l'année passée, estant
           moindre de six Regimens, &amp; l'argent de plusieurs recreuës n'estant pas encore donné à
           ce qu'on me mande de Dauphiné.</p>
-        <p>L'entreprise de Vercel ne s'est pas executée, parce que les Ennemis se mirent ensemble
+        <p>L'entreprise de <placeName ref="#Vercelli">Vercel</placeName> ne s'est pas executée, parce que les Ennemis se mirent ensemble
           six <choice>
             <orig>iours</orig>
             <reg>jours</reg>
