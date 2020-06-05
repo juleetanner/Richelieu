@@ -7096,7 +7096,7 @@
             <term>Imprisonment</term>
             <term>Obedience</term>
             <term>Officers</term>
-            <term>Concern with reputation</term>
+            <term>Reputation</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -8389,7 +8389,7 @@
           <keywords>
             <term>Petitioning</term>
             <term>Piedmontese Civil War</term>
-            <term>Concern with reputation</term>
+            <term>Reputation</term>
           </keywords>
         </textClass>
         <correspDesc>
@@ -9106,8 +9106,8 @@
             <orig>auons</orig>
             <reg>avons</reg>
           </choice> trois mil cinq cens hommes François, compris les deux Regimens, Senantes, &amp;
-          des Lorrains. Le Prince Thomas a veu le Nonce, &amp; le <persName ref="#Maurizio">Cardinal
-            de <choice>
+          des Lorrains.</p>
+        <p>Le Prince Thomas a veu le Nonce, &amp; le <persName ref="#Maurizio">Cardinal de <choice>
               <orig>Sauoye</orig>
               <reg>Savoye</reg>
             </choice></persName> aussi, il n'y a nul accommodement si Madame ne leur donne part à la
@@ -9188,6 +9188,156 @@
               <reg>une</reg>
             </choice> grande marque de traihison.</p>
         </postscript>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter31">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Christine">Christine, duchess of Savoy</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 14 April 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="34" to="35"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Petitioning</term>
+            <term>Reputation</term>
+            <term>Loyalty</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Christine"/>
+            <placeName ref="#Turin"/>
+            <date when="1639-04-14"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>Enemy forces have arrived in Turin. Appealing to Richelieu's desire for glory,
+            Christine urges him to rescue her, a princess and loyal servant of France.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_34.jpg"/>
+        <opener><salute><choice>
+              <orig>Monsievr</orig>
+              <reg>Monsieur</reg>
+            </choice>
+            <seg>Mon <choice>
+                <orig>Covsin</orig>
+                <reg>Cousin</reg>
+              </choice>,<note>As Princes of the Church, cardinals were addressed as "Mon Cousin" by
+                royalty.</note></seg></salute></opener>
+        <p>Il ne faut pas faire la courageuse où les effets se montrent, ny montrer crainte, lors
+          qu'effet l'on n'en a point, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne vous dis autre chose, sinon que les Ennemis sont sous cette place <choice>
+            <orig>desia</orig>
+            <reg>desja</reg>
+          </choice> d'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> costé, <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> vous mande la verité par ce Gentil-homme de l'estat où elle se <choice>
+            <orig>trouue</orig>
+            <reg>trouve</reg>
+          </choice>, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> vous <choice>
+            <orig>coniure</orig>
+            <reg>conjure</reg>
+          </choice> de m'assister &amp; promptement ; <choice>
+            <orig>souuenez</orig>
+            <reg>souvenez</reg>
+          </choice> vous que ma seule consolation est en vous, &amp; que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne puis esperer ma liberté que par vostre moyen, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne la veux chercher aussi de point d'autre ; secourez moy, &amp; ne me laisses
+          point perir en <choice>
+            <orig>seruant</orig>
+            <reg>servant</reg>
+          </choice> la France comme <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> fais ; augmentez vostre gloire <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> tant d'honneur que vous <choice>
+            <orig>auez</orig>
+            <reg>avez</reg>
+          </choice> d'estre liberateur d'<choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> Princesse oppressée &amp; affligée <choice>
+            <orig>iusques</orig>
+            <reg>jusques</reg>
+          </choice> au dernier point, &amp; soustenez la <choice>
+            <orig>iustice</orig>
+            <reg>justice</reg>
+          </choice> de ma cause par les armes du juste Roy. Enfin <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> confie tout en vous, &amp; finis pour vacquer aux extremes affaires que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay sur les bras, vous asseurant que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> seray eternellement,</p>
+        <closer><salute>Vostre, &amp;c.</salute>
+          <dateline>De <placeName ref="#Turin">Turin</placeName> ce 14. <choice>
+              <orig>Auril</orig>
+              <reg>Avril</reg>
+            </choice> 1639.</dateline></closer>
       </body>
     </text>
   </TEI>
@@ -9969,7 +10119,7 @@
           <keywords>
             <term>Preferment</term>
             <term>Religious controversy</term>
-            <term>Concern with reputation</term>
+            <term>Reputation</term>
           </keywords>
         </textClass>
         <correspDesc>
