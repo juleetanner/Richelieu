@@ -149,6 +149,15 @@
             <persName>Gloria de Liberali</persName>
             <affiliation>University of Washington</affiliation>
          </person>
+         <person sortKey="Valois,_Louis-Emmanuel_de,_comte_d'Alais" xml:id="Alais">
+            <persName type="main">Louis-Emmanuel de Valois, comte d’Alais</persName>
+            <persName type="presentation">Comte d’Alais</persName>
+            <idno type="VIAF">171030021</idno>
+            <birth when="1596"/>
+            <death when="1653"/>
+            <note>Camp marshal from 1635, governor of Provence from 1638. On the death of his father in
+          1650 he became Comte d’Auvergne and Duc d’Angoulême.</note>
+         </person>
          <person sortKey="Aligre,_Etienne_d'" xml:id="Aligre">
             <persName type="main">Etienne d’Aligre</persName>
             <persName type="presentation">Etienne d’Aligre</persName>
@@ -172,8 +181,8 @@
             <idno type="VIAF">184477767</idno>
             <birth when="1601"/>
             <death when="1656"/>
-            <note>Officer and governor of Languedoc from 1633 to 1644. He was named Marshall of France
-          in 1637 after his victory at the Battle of Leucate.</note>
+            <note>Officer and governor of Languedoc from 1633 to 1644. He was named Marshal of France in
+          1637 after his victory at the Battle of Leucate.</note>
          </person>
          <person sortKey="Voyer,_René_de,_comte_d'Argenson" xml:id="Argenson">
             <persName type="main">René de Voyer, comte d’Argenson</persName>
@@ -250,8 +259,16 @@
             <note>Charles I reigned from 1625 until his execution in 1649. In the same year he ascended
           the throne, he married Henrietta Maria of France, sister of Louis XIII.</note>
          </person>
-         <person sortKey="Charles-Emmanuel_II,_duke_of_Savoy" xml:id="CharlesE2">
-            <persName type="main">Charles-Emmanuel II, duke of Savoy</persName>
+         <person sortKey="Charles-Emmanuel_I,_duc_de_Savoie" xml:id="CharlesE1">
+            <persName type="main">Charles-Emmanuel I, duc de Savoie</persName>
+            <persName type="presentation">Charles-Emmanuel I</persName>
+            <idno type="VIAF">88716939</idno>
+            <birth when="1562"/>
+            <death when="1630"/>
+            <note>Duke of Savoy from 1580 to 1630, succeeded by his son, Victor Amadeus I.</note>
+         </person>
+         <person sortKey="Charles-Emmanuel_II,_duc_de_Savoie" xml:id="CharlesE2">
+            <persName type="main">Charles-Emmanuel II, duc de Savoie</persName>
             <persName type="presentation">Charles-Emmanuel II</persName>
             <idno type="VIAF">13715438</idno>
             <birth when="1634"/>
@@ -267,7 +284,7 @@
             <idno type="VIAF">232247858</idno>
             <birth when="1584"/>
             <death when="1646"/>
-            <note>A Huguenot general known for his loyalty to Louis XIII, named Marshall of France in
+            <note>A Huguenot general known for his loyalty to Louis XIII, named Marshal of France in
           1622.</note>
          </person>
          <person sortKey="Bouthillier,_Claude,_comte_de_Chavigny" xml:id="Chavigny">
@@ -278,13 +295,11 @@
             <death when="1652"/>
             <note>Appointed secretary of state by Richelieu in 1628 and superintendant of finances in
           1632, offices he held until the death of Louis XIII in 1643. Chavigny also lead many
-          diplomatic missions, sometimes accompanied by Père Joseph.</note>
+          diplomatic missions, often accompanied by Père Joseph.</note>
          </person>
-         <person sortKey="Christine,_duchess_consort_of_Savoy" xml:id="Christine">
-            <persName type="main">Christine, duchess consort of Victor Amadeus I, duke of
-          Savoy</persName>
-            <persName type="alternate">Duchess of Savoy</persName>
-            <persName type="presentation">Christine of France</persName>
+         <person sortKey="Christine,_duchesse_de_Savoie" xml:id="Christine">
+            <persName type="main">Christine, duchesse de Savoie</persName>
+            <persName type="presentation">Christine de France</persName>
             <idno type="VIAF">86438866</idno>
             <birth when="1606"/>
             <death when="1663"/>
@@ -293,6 +308,28 @@
           in the name of her second son, Charles-Emmanuel II. Her regency was challenged by her
           brothers-in-law Thomas, prince of Carignano, and Maurice, prince of Savoy, in the
           Piedmontese Civil War.</note>
+         </person>
+         <person sortKey="Fabert,_Abraham_de" xml:id="Fabert">
+            <persName type="main">Abraham de Fabert</persName>
+            <persName type="presentation">Abraham de Fabert</persName>
+            <idno type="VIAF">27930426</idno>
+            <birth when="1599"/>
+            <death when="1662"/>
+            <note>Son of a printer who entered the military at age 14 and was recognized for his bravery
+          and engineering skill at the Seige of La Rochelle (1627–28) and various other seiges
+          throughout the 1630s. He served in the Piedmont regiment, was made governor of Sedan in
+          1642 and Marshal of France in 1658, the first commoner to earn that distinction.</note>
+         </person>
+         <person sortKey="Gonzaga,_Eleonora,_princess_of_Mantua_and_Holy_Roman_Empress"
+                 xml:id="EleonoraG">
+            <persName type="main">Eleonora Gonzaga, princess of Mantua and Holy Roman Empress</persName>
+            <persName type="presentation">Eleonora Gonzaga</persName>
+            <idno type="VIAF">34431217</idno>
+            <birth when="1598"/>
+            <death when="1655"/>
+            <note>Empress from 1622 until the death of Ferdinand II in 1637. The deaths of her three
+          brothers without heirs set off the War of Mantuan Succession, 1628–1631, with Phillip IV
+          of Spain and Charles Emmanuel I of Savoy allied against Louis XIII and Venice.</note>
          </person>
          <person sortKey="Emery,_Michel_Particelli,_sieur_d'" xml:id="Emery">
             <persName type="main">Michel Particelli, sieur d’Emery</persName>
@@ -310,8 +347,8 @@
             <idno type="VIAF">56742804</idno>
             <birth when="1554"/>
             <death when="1642"/>
-            <note>First duc d’Épernon and father of Henri (d. 1639), Bernard (2e duc d’Épernon), and
-          Louis, Cardinal de La Valette.</note>
+            <note>First duke of Épernon and father of Henri (d. 1639), Bernard (2nd duke of Épernon),
+          and Louis, Cardinal de La Valette.</note>
          </person>
          <person sortKey="Epinay,_Timoléon_d',_marquis_de_Saint-Luc" xml:id="Epinay">
             <persName type="main">Timoléon d’Epinay, marquis de Saint-Luc</persName>
@@ -321,7 +358,7 @@
             <birth when="1580"/>
             <death when="1644"/>
             <note>Vice-admiral instrumental in putting down a Huguenot rebellion in La Rochelle in 1622,
-          named Marshall of France in 1627.</note>
+          named Marshal of France in 1627.</note>
          </person>
          <person sortKey="Estrades,_Godefroi_Louis,_comte_d'" xml:id="Estrades">
             <persName type="main">Godefroi Louis, comte d’Estrades</persName>
@@ -332,7 +369,7 @@
             <death when="1686"/>
             <note>Former page of Louis XIII sent on a diplomatic mission to Holland at the age of 19.
           His diplomatic and military service would continue into the reign of Louis XIV, who would
-          name him Marshall of France in 1675.</note>
+          name him Marshal of France in 1675.</note>
          </person>
          <person sortKey="Coeuvres,_Francois_Annibal_de,_maréchal_d'Estrées"
                  xml:id="Estrees">
@@ -356,7 +393,7 @@
          </person>
          <person sortKey="Gonzaga,_Maria,_Duchess_of_Mantua_and_Monferrat"
                  xml:id="MariaG">
-            <persName type="main">Maria Gonzaga, Duchess of Mantua and Monferrat</persName>
+            <persName type="main">Maria Gonzaga, duchess of Mantua and Monferrat</persName>
             <persName type="presentation">Duchess of Mantua</persName>
             <idno type="VIAF">97857453</idno>
             <birth when="1609"/>
@@ -366,13 +403,24 @@
           Succession, 1628–31.</note>
          </person>
          <person sortKey="Gregory_XV,_pope_(Ludovisi_Alessandro)" xml:id="Gregory15">
-            <persName type="main">Gregory XV (Ludovisi Alessandro), pope</persName>
-            <persName type="presentation">Gregory XV</persName>
+            <persName type="main">Pope Gregory XV (Ludovisi Alessandro)</persName>
+            <persName type="presentation">Pope Gregory XV</persName>
             <idno type="VIAF">49321911</idno>
             <birth when="1554"/>
             <death when="1623"/>
             <note>Pope from 1621 to 1623. He called Richelieu the “rampart of Catholic religion and the
           scourge of heretics” and elevated him to cardinal in 1622 (Blanchard, p. 116).</note>
+         </person>
+         <person sortKey="Harcourt,_Henri_de_Lorrain,_comte_d'" xml:id="Harcourt">
+            <persName type="main">Henri de Lorrain, comte de Harcourt</persName>
+            <persName type="presentation">Comte de Harcourt</persName>
+            <idno type="VIAF"/>
+            <birth when="1601"/>
+            <death when="1666"/>
+            <note>French nobleman who entered military service in 1620 at the seige of Prague. Along
+          with the Vicomte de Turenne, he lead the combined Piedmontese-French forces in the
+          Piedmontese Civil War, and would win the city of Turin for France after a triple seige
+          lasting three months.</note>
          </person>
          <person sortKey="Nogaret_de_Candalle,_Henri_de" xml:id="Henri">
             <persName type="main">Henri de Nogaret de Candalle</persName>
@@ -381,7 +429,7 @@
             <idno type="VIAF">220228842</idno>
             <birth when="1591"/>
             <death when="1639"/>
-            <note>Eldest son of the first duc d’Épernon, and brother of Bernard and Louis, Cardinal de
+            <note>Eldest son of the first duke of Épernon, and brother of Bernard and Louis, Cardinal de
           La Valette. On Henri’s death in 1639, his brother Bernard would inherit the title.</note>
          </person>
          <person sortKey="Henrietta_Maria,_queen_consort_of_England"
@@ -444,7 +492,7 @@
             <birth when="1543"/>
             <death when="1626"/>
             <note>Leader of the Huguenot resistance in Dauphiné, he served under the future Henry IV
-          from the 1580s and would be named Marshall of France by that king in 1609. He was loyal to
+          from the 1580s and would be named Marshal of France by that king in 1609. He was loyal to
           Louis XIII and, after converting to Catholicism in 1622, was named constable of
           France.</note>
          </person>
@@ -504,10 +552,9 @@
           Richelieu’s influence in 1630 on the “Day of the Dupes” would result in her permanent
           exile, first to Brussels, then to Amsterdam.</note>
          </person>
-         <person sortKey="Maurice,_prince_of_Savoy_and_cardinal_of_Vercelli"
-                 xml:id="Maurizio">
-            <persName type="main">Maurice, prince of Savoy and cardinal of Vercelli</persName>
-            <persName type="presentation">Maurice, prince of Savoy</persName>
+         <person sortKey="Maurizio,_prince_and_cardinal_of_Savoy" xml:id="Maurizio">
+            <persName type="main">Maurizio, prince and cardinal of Savoy</persName>
+            <persName type="presentation">Prince Maurizio</persName>
             <idno type="VIAF">3700537</idno>
             <birth when="1593"/>
             <death when="1657"/>
@@ -515,7 +562,7 @@
           surviving brothers Maurice and Thomas, prince of Carignano, attempted to take the regency
           from Christine of France, inciting the Piedmontese Civil War.</note>
          </person>
-         <person sortKey="Monod,_Père" xml:id="Monod">
+         <person sortKey="Monod,_père" xml:id="Monod">
             <persName type="main">Père Monod</persName>
             <persName type="alternate">Père Monot</persName>
             <persName type="presentation">Père Monod</persName>
@@ -523,7 +570,7 @@
           arrest and removal to Montmélian by the French aroused Christine’s anger against Richelieu
           (Tapié, p. 390).</note>
          </person>
-         <person sortKey="Montbazon,_Hercule,_duc_de" xml:id="Montbazon">
+         <person sortKey="Montbazon,_Hercule_de_Rohan,_duc_de" xml:id="Montbazon">
             <persName type="main">Hercule de Rohan, duc de Montbazon</persName>
             <persName type="presentation">Duc de Montbazon</persName>
             <idno type="VIAF">24536478</idno>
@@ -540,7 +587,7 @@
             <birth when="1595"/>
             <death when="1632"/>
             <note>Godson of Henri IV, governor of Languedoc, and a leading figure at the court of Louis
-          XIII. As Grand Admiral and Marshall of France he put down several Huguenot rebellions and
+          XIII. As Grand Admiral and Marshal of France he put down several Huguenot rebellions and
           won victories against Spain in the Piedmont. In 1632 he joined Gaston d’Orleans, Louis’
           brother, in a failed attempt remove Cardinal Richelieu from power. Ignoring pleas for
           mercy throughout France, Richelieu executed Montmorency as an example to other members of
@@ -552,8 +599,7 @@
             <idno type="VIAF">172592009</idno>
             <birth when="1588"/>
             <death when="1645"/>
-            <note>Secretary of State, member of the king’s council, and loyal creature of Cardinal
-          Richelieu.</note>
+            <note>Secretary of state for war from 1636 and loyal creature of Cardinal Richelieu.</note>
          </person>
          <person sortKey="Orval,_François_de_Béthune,_duc_d'" xml:id="Orval">
             <persName type="main">François de Béthune, duc d’Orval</persName>
@@ -570,7 +616,7 @@
             <birth when="1606"/>
             <death when="1665"/>
             <note>Officer of noble birth who would rise from captain of a company of light horsemen in
-          the 1630s to Marshall of France by 1653.</note>
+          the 1630s to Marshal of France by 1653.</note>
          </person>
          <person sortKey="Philip_IV,_king_of_Spain" xml:id="Philip4">
             <persName type="main">Philip IV, king of Spain</persName>
@@ -590,7 +636,7 @@
             <death when="1675"/>
             <note>Military officer and diplomat, named ambassador to the court of Victor Amadeus I of
           Savoy in 1630. He was active in the Piedmontese Civil War, was named governor of Turin in
-          1640, and Marshall of France in 1645.</note>
+          1640, and Marshal of France in 1645.</note>
          </person>
          <person sortKey="Puylaurens,_Antoine_de_L'Age,_duc_de" xml:id="Puylaurens">
             <persName type="main">Antoine de L’Age, Duc de Puylaurens</persName>
@@ -649,12 +695,12 @@
             <birth when="1553"/>
             <death when="1627"/>
             <note>Member of the court of Henry IV and supporter of Marie de’Medici during the regency,
-          named Marshall of France in 1616. In 1619 Thémines’ son Antoine killed Henri du Plessis,
+          named Marshal of France in 1616. In 1619 Thémines’ son Antoine killed Henri du Plessis,
           the older brother of the future Cardinal Richelieu, in a duel.</note>
          </person>
-         <person sortKey="Thomas_Francis,_prince_of_Carignano" xml:id="Tommaso">
-            <persName type="main">Thomas Francis, prince of Carignano</persName>
-            <persName type="presentation">Thomas, prince of Carignano</persName>
+         <person sortKey="Tommaso,_prince_of_Carignano" xml:id="Tommaso">
+            <persName type="main">Tomasso, prince of Carignano</persName>
+            <persName type="presentation">Prince Tomasso</persName>
             <idno type="VIAF">61656600</idno>
             <birth when="1593-01-10"/>
             <death when="1657-10-04"/>
@@ -670,12 +716,12 @@
             <birth when="1611-09-11"/>
             <death when="1675-07-27"/>
             <note>French military general instrumental in defeating the forces of Prince Tommaso in the
-          Piedmontese Civil War. He was named Marshal of France in 1643 and later to Marshal
+          Piedmontese Civil War. He was named Marshal of France in 1643 and later Marshal
           General.</note>
          </person>
-         <person sortKey="Urban_VIII_(Maffeo_Barberini),_pope" xml:id="Urban8">
-            <persName type="main">Urban VIII (Maffeo Barberini), pope</persName>
-            <persName type="presentation">Urban VIII</persName>
+         <person sortKey="Urban_VIII,_pope_(Maffeo_Barberini)" xml:id="Urban8">
+            <persName type="main">Pope Urban VIII (Maffeo Barberini)</persName>
+            <persName type="presentation">Pope Urban VIII</persName>
             <idno type="VIAF">96062867</idno>
             <birth when="1568-04-05"/>
             <death when="1644-07-29"/>
@@ -697,9 +743,9 @@
             <birth when="1592"/>
             <death when="1644"/>
          </person>
-         <person sortKey="Victor_Amadeus_I,_duke_of_Savoy" xml:id="VictorA1">
-            <persName type="main">Victor Amadeus I, duke of Savoy</persName>
-            <persName type="presentation">Victor Amadeus I, duke of Savoy</persName>
+         <person sortKey="Victor_Amadeus_I,_duc_de_Savoie" xml:id="VictorA1">
+            <persName type="main">Victor Amadeus I, duc de Savoie</persName>
+            <persName type="presentation">Victor Amadeus I</persName>
             <idno type="VIAF">76193579</idno>
             <birth when="1587-05-08"/>
             <death when="1637-10-07"/>
@@ -755,12 +801,22 @@
          </person>
       </listPerson>
       <listPlace>
+         <place sortKey="Alincourt" xml:id="Alincourt" type="commune">
+            <placeName type="main">Alincourt</placeName>
+            <placeName type="presentation">Alincourt</placeName>
+            <location>
+               <geo>49.40 4.35</geo>
+            </location>
+            <idno type="GeoNames">6452108</idno>
+            <note>Commune in the Grand Est region of northeastern France, in the former province of
+          Champagne.</note>
+         </place>
          <place sortKey="Asti" xml:id="Asti" type="commune">
             <placeName type="main">Asti</placeName>
             <placeName type="alternate">Ast</placeName>
             <placeName type="presentation">Asti</placeName>
             <location>
-               <geo>44.9 -8.2</geo>
+               <geo>44.9 8.2</geo>
             </location>
             <idno type="GeoNames">3182714</idno>
             <note>Commune in the Piedmont region of northwestern Italy, about 55 km from Turin.</note>
@@ -788,7 +844,7 @@
             <placeName type="main">Beziers</placeName>
             <placeName type="presentation">Beziers</placeName>
             <location>
-               <geo>43.34 -3.21</geo>
+               <geo>43.34 3.21</geo>
             </location>
             <idno type="GeoNames">3032833</idno>
             <note>Commune in Southern France, about 10 km from the Mediterranean.</note>
@@ -820,24 +876,44 @@
             <idno type="GeoNames">3030093</idno>
             <note>Commune in north-central France.</note>
          </place>
+         <place sortKey="Carmagnola" xml:id="Carmagnola" type="commune">
+            <placeName type="main">Carmagnola</placeName>
+            <placeName type="presentation">Carmagnola</placeName>
+            <location>
+               <geo>44.85 7.72</geo>
+            </location>
+            <idno type="GeoNames">3180496</idno>
+            <note>Town outside of modern-day Turin claimed by France in the 16th century, beseiged and
+          conquered by Savoy in 1588, and taken back by France during the Piedmontese Civil
+          War.</note>
+         </place>
          <place sortKey="Casale" xml:id="Casale" type="commune">
             <placeName type="main">Casale Monferrato</placeName>
             <placeName type="alternate">Cazal</placeName>
             <placeName type="presentation">Casale Monferrato</placeName>
             <location>
-               <geo>45.13 -8.45</geo>
+               <geo>45.13 8.45</geo>
             </location>
             <idno type="GeoNames">3180208</idno>
             <note>Fortified town in the Piedmont, about 60 km east of Turin. By the 1635 Treaty of
           Rivoli with the dukes of Savoy and Parma, France would occupy Casale and Pinerolo as a
           defense against Spanish encroachment from Milan (Tapié, p. 330).</note>
          </place>
+         <place sortKey="Chancé" xml:id="Chance" type="commune">
+            <placeName type="main">Chancé</placeName>
+            <placeName type="presentation">Chancé</placeName>
+            <location>
+               <geo>48.04 -1.38</geo>
+            </location>
+            <idno type="GeoNames">3026974</idno>
+            <note>Village in Brittany in northwestern France, about 25 km from Rennes.</note>
+         </place>
          <place sortKey="Chivasso" xml:id="Chivasso" type="commune">
             <placeName type="main">Chivasso</placeName>
             <placeName type="alternate">Chivas</placeName>
             <placeName type="presentation">Chivasso</placeName>
             <location>
-               <geo>45.19 -7.89</geo>
+               <geo>45.19 7.89</geo>
             </location>
             <idno type="GeoNames">3178745</idno>
             <note>A town about 20 km northeast of Turin that submitted to Prince Thomas after a short
@@ -847,7 +923,7 @@
             <placeName type="main">Dauphiné</placeName>
             <placeName type="presentation">Dauphiné</placeName>
             <location>
-               <geo>45 -5.25</geo>
+               <geo>45 5.25</geo>
             </location>
             <idno type="GeoNames">3021686</idno>
             <note>A traditional province of France, in the southeast bordering on Savoy and the
@@ -857,7 +933,7 @@
             <placeName type="main">Coeuvres-et-Valsery</placeName>
             <placeName type="presentation">Coeuvres</placeName>
             <location>
-               <geo>49.33 -3.15</geo>
+               <geo>49.33 3.15</geo>
             </location>
             <idno type="GeoNames">3024449</idno>
             <note>Commune in northern France.</note>
@@ -866,7 +942,7 @@
             <placeName type="main">Cuneo</placeName>
             <placeName type="presentation">Cuneo</placeName>
             <location>
-               <geo>44.4 -7.54</geo>
+               <geo>44.4 7.54</geo>
             </location>
             <idno type="GeoNames">6541864</idno>
             <note>Commune in the Piedmont of strategic importance to Savoy and frequently beseiged by
@@ -876,7 +952,7 @@
             <placeName type="main">Dijon</placeName>
             <placeName type="presentation">Dijon</placeName>
             <location>
-               <geo>47.31 -5.01</geo>
+               <geo>47.31 5.01</geo>
             </location>
             <idno type="GeoNames">3021372</idno>
             <note>City in Eastern France.</note>
@@ -886,7 +962,7 @@
             <placeName type="alternate">Flandre</placeName>
             <placeName type="presentation">Flanders</placeName>
             <location>
-               <geo>51 -4.5</geo>
+               <geo>51 4.5</geo>
             </location>
             <idno type="GeoNames">3337388</idno>
             <note>County of the Netherlands under Spanish Hapsburg control in the 17th century.</note>
@@ -897,7 +973,7 @@
             <placeName type="main">Château de la Grange des Prés</placeName>
             <placeName type="presentation">Château de la Grange des Prés</placeName>
             <location>
-               <geo>43.45 -3.42</geo>
+               <geo>43.45 3.42</geo>
             </location>
             <idno type="GeoNames">2987441</idno>
             <note>Estate of the Dukes of Montmorency, north of Pézenas in Languedoc-Roussillon, Southern
@@ -927,7 +1003,7 @@
             <placeName type="main">Leucate</placeName>
             <placeName type="presentation">Leucate</placeName>
             <location>
-               <geo>42.91 -3.03</geo>
+               <geo>42.91 3.03</geo>
             </location>
             <idno type="GeoNames">2999046</idno>
             <note>Commune north of Spain on the Mediterranean coast of France.</note>
@@ -948,7 +1024,7 @@
             <placeName type="main">Oudun</placeName>
             <placeName type="presentation">Oudun</placeName>
             <location>
-               <geo>47.63 -3.89</geo>
+               <geo>47.63 3.89</geo>
             </location>
             <idno type="GeoNames">2989052</idno>
             <note>Commune in the Bourgogne region of France.</note>
@@ -957,16 +1033,27 @@
             <placeName type="main">Lyon</placeName>
             <placeName type="presentation">Lyon</placeName>
             <location>
-               <geo>45.75 -4.84</geo>
+               <geo>45.75 4.84</geo>
             </location>
             <idno type="GeoNames">2996944</idno>
-            <note>City in south-central France.</note>
+            <note>City in south-central France, historically a banking center and, from the Renaissance,
+          a center for book publishing and silk production.</note>
+         </place>
+         <place sortKey="Lyonnais" xml:id="Lyonnais" type="region">
+            <placeName>Lyonnais</placeName>
+            <placeName>Lyonnais</placeName>
+            <location>
+               <geo>45.75 4.5</geo>
+            </location>
+            <idno type="GeoNames">2996941</idno>
+            <note>A traditional province of France, north of Languedoc and west of Dauphiné, with the
+          capital city of Lyon.</note>
          </place>
          <place sortKey="Metz" xml:id="Metz" type="commune">
             <placeName type="main">Metz</placeName>
             <placeName type="presentation">Metz</placeName>
             <location>
-               <geo>49.11 -6.17</geo>
+               <geo>49.11 6.17</geo>
             </location>
             <idno type="GeoNames">2994160</idno>
             <note>City in Lorraine, in north-eastern France near Luxembourg.</note>
@@ -975,7 +1062,7 @@
             <placeName type="main">Moncalvo</placeName>
             <placeName type="presentation">Moncalvo</placeName>
             <location>
-               <geo>45.05 -8.26</geo>
+               <geo>45.05 8.26</geo>
             </location>
             <idno type="GeoNames">3173179</idno>
             <note>Village in the Asti region of Piedmont, about 45 km east of Turin.</note>
@@ -985,7 +1072,7 @@
             <placeName type="alternate">Monferrato</placeName>
             <placeName type="presentation">Monferrat</placeName>
             <location>
-               <geo>44.92 -8.08</geo>
+               <geo>44.92 -.08</geo>
             </location>
             <idno type="GeoNames">3173152</idno>
             <note>Part of the Piedmont gained by Savoy in the War of the Mantuan Succession,
@@ -997,7 +1084,7 @@
             <placeName type="main">Château de Montmélian</placeName>
             <placeName type="presentation">Château de Montmélian</placeName>
             <location>
-               <geo>45.51 -6.06</geo>
+               <geo>45.51 6.06</geo>
             </location>
             <idno type="GeoNames">2992255</idno>
             <note>Fortified castle in Savoy constructed from the 11th to 18th century.</note>
@@ -1007,7 +1094,7 @@
             <placeName type="alternate">Mornan</placeName>
             <placeName type="presentation">Mornant</placeName>
             <location>
-               <geo>44.62 -5.12</geo>
+               <geo>44.62 5.12</geo>
             </location>
             <idno type="GeoNames">6430154</idno>
             <note>Commune in the Rhône department of south-eastern France.</note>
@@ -1016,16 +1103,26 @@
             <placeName type="main">Narbonne</placeName>
             <placeName type="presentation">Narbonne</placeName>
             <location>
-               <geo>43.18 -3.00</geo>
+               <geo>43.18 3.00</geo>
             </location>
             <idno type="GeoNames">2990919</idno>
             <note>Commune in the Occitane region about 15 km from the Mediterranean.</note>
+         </place>
+         <place sortKey="Pau" xml:id="Pau" type="commune">
+            <placeName type="main">Pau</placeName>
+            <placeName type="presentation">Pau</placeName>
+            <location>
+               <geo>43.31 -0.35</geo>
+            </location>
+            <idno type="GeoNames">2988358</idno>
+            <note>City at the foothills of the Pyrénées, in Nouvelle-Aquitaine in Southern
+          France.</note>
          </place>
          <place sortKey="Pibrac" xml:id="Pibrac" type="commune">
             <placeName type="main">Pibrac</placeName>
             <placeName type="presentation">Pibrac</placeName>
             <location>
-               <geo>43.62 -1.29</geo>
+               <geo>43.62 1.29</geo>
             </location>
             <idno type="GeoNames">2987376</idno>
             <note>Commune in Languedoc, about 15 km from Toulouse.</note>
@@ -1035,7 +1132,7 @@
             <placeName type="presentation">Pinerolo</placeName>
             <placeName>Pignerol</placeName>
             <location>
-               <geo>44.89 -7.33</geo>
+               <geo>44.89 7.33</geo>
             </location>
             <note>Fortified town in Savoy about 50 km southwest of Turin that came under French control
           in 1631. By the 1635 Treaty of Rivoli with the dukes of Savoy and Parma, France would
@@ -1047,7 +1144,7 @@
             <placeName type="main">Le Plessis-aux-Bois</placeName>
             <placeName type="presentation">Plessis-aux-Bois</placeName>
             <location>
-               <geo>49.00 -2.76</geo>
+               <geo>49.00 2.76</geo>
             </location>
             <idno type="GeoNames">3002683</idno>
             <note>Commune in the Île-de-France region of north-central France.</note>
@@ -1071,12 +1168,21 @@
             <note>Commune in Brittany about 30 km from the coast.</note>
             <idno type="GeoNames">2984699</idno>
          </place>
+         <place sortKey="Rocheservière" xml:id="Rocheserviere" type="commune">
+            <placeName type="main">Rocheservière</placeName>
+            <placeName type="presentation">Rocheservière</placeName>
+            <location>
+               <geo>46.94 -1.51</geo>
+            </location>
+            <idno type="geonames">2983221</idno>
+            <note>Town in the Vendée, the former province of Poitou, in western France.</note>
+         </place>
          <place sortKey="Rueil-Malmaison" xml:id="Rueil" type="commune">
             <placeName type="main">Rueil-Malmaison</placeName>
             <placeName type="alternate">Ruel</placeName>
             <placeName type="presentation">Rueil</placeName>
             <location>
-               <geo>48.87 -2.18</geo>
+               <geo>48.87 2.18</geo>
             </location>
             <idno type="GeoNames">2982235</idno>
             <note>Commune located half-way between Louis XIII’s primary residence at
@@ -1090,27 +1196,74 @@
                <geo>47.26 -0.08</geo>
             </location>
             <idno type="GeoNames">2975758</idno>
-            <note>Commune in the Loire Valley in western France.</note>
+            <note>Town in the Loire Valley in western France.</note>
          </place>
          <place sortKey="Saint-Germain-en-Laye" xml:id="StGermain" type="building">
             <placeName type="main">Saint-Germain-en-Laye</placeName>
             <placeName type="presentation">Saint-Germain-en-Laye</placeName>
             <location>
-               <geo>48.9 -2.09</geo>
+               <geo>48.9 2.09</geo>
             </location>
             <idno type="GeoNames">2979783</idno>
             <note>Royal palace about 12 km outside of Paris and a prinicpal residence of Louis
           XIII.</note>
          </place>
+         <place sortKey="Santhià" xml:id="Santhia" type="commune">
+            <placeName type="main">Santhià</placeName>
+            <placeName type="presentation">Santhià</placeName>
+            <location>
+               <geo>45.37 8.17</geo>
+            </location>
+            <idno type="GeoNames">3167314</idno>
+            <note>Town in the province of Vercelli, about 50 km northeast of Turin.</note>
+         </place>
          <place sortKey="Turin" xml:id="Turin" type="commune">
             <placeName type="main">Turin</placeName>
             <placeName type="presentation">Turin</placeName>
             <location>
-               <geo>45.07 -7.68</geo>
+               <geo>45.07 7.68</geo>
             </location>
             <idno type="GeoNames">3165524</idno>
             <note>City in the Piedmont and capital of the Duchy of Savoy in the 16th and 17th
           centuries.</note>
+         </place>
+         <place sortKey="Vercelli" xml:id="Vercelli" type="commune">
+            <placeName type="main">Vercelli</placeName>
+            <placeName type="presentation">Vercelli</placeName>
+            <location>
+               <geo>45.32 8.42</geo>
+            </location>
+            <idno type="GeoNames">3164565</idno>
+            <note>City in the Piedmont west of Turin, alternately conquered by France and Spain in the
+          16th to 18th centuries.</note>
+         </place>
+         <place sortKey="Verruë" xml:id="Verrue" type="commune">
+            <placeName type="main">Verruë</placeName>
+            <placeName type="presentation">Verruë</placeName>
+            <location>
+               <geo>46.86 0.17</geo>
+            </location>
+            <idno type="GeoNames">2969686</idno>
+            <note>Town in western France in Nouvelle-Aquitaine, about 25 km from Richelieu, the
+          cardinal’s ancestral home.</note>
+         </place>
+         <place sortKey="Villanova_d'Asti" xml:id="Villanova" type="commune">
+            <placeName>Villanova d’Asti</placeName>
+            <placeName>Villanova d’Asti</placeName>
+            <location>
+               <geo>44.94 7.94</geo>
+            </location>
+            <idno type="GeoNames">3164183</idno>
+            <note>Town in the Province of Asti.</note>
+         </place>
+         <place sortKey="Volpiano" xml:id="Volpiano" type="commune">
+            <placeName>Volpiano</placeName>
+            <placeName>Volpiano</placeName>
+            <location>
+               <geo>45.2 7.78</geo>
+            </location>
+            <idno type="GeoNames">3163974</idno>
+            <note>Town in the metropolitan city of Turin.</note>
          </place>
       </listPlace>
    </standOff>

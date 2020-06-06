@@ -914,7 +914,8 @@
   <!-- persNames and placeNames                                               -->
   <!-- ====================================================================== -->
   
-  <xsl:template match="persName[@n eq 'first']|placeName[@n eq 'first']">
+  <xsl:template match="persName[@n eq 'first'   or  ancestor::titlePart]
+		      |placeName[@n eq 'first'  or  ancestor::titlePart]">
     <xsl:variable name="title">
       <xsl:variable name="ref" select="substring( normalize-space( @ref ), 2 )"/>
       <xsl:variable name="entity" select="//*[ @xml:id eq $ref ]"/>

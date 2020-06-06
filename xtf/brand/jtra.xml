@@ -26,11 +26,9 @@ I made it up —Syd, 2020-05-16
 	   style="width: 140px; height: 140px;"
 	   class="your-logo" />
       <h1 style="text-align:center;">The Richelieu Correspondence Project</h1>
-      <h2 style="text-align:center;">A finding aid and digital archive of
-      the unpublished letters of Armand Jean du Plessis, cardinal duc
-      de Richelieu, encoded in <a
-      href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">TEI
-      P5</a>.</h2>
+      <h2 style="text-align:center;">A finding aid and digital archive of the unpublished letters of
+      <br/>Armand Jean du Plessis, cardinal duc de Richelieu <br/>encoded in <a href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">TEI
+      P5</a></h2>
       <br class="clear" />
     </div>
   </header>
@@ -46,11 +44,9 @@ I made it up —Syd, 2020-05-16
 	   style="width: 140px; height: 140px;"
 	   class="your-logo" />
       <h1 style="text-align:center;">The Richelieu Correspondence Project</h1>
-      <h2 style="text-align:center;">A finding aid and digital archive of
-      the unpublished letters of Armand Jean du Plessis, cardinal duc
-      de Richelieu, encoded in <a
-      href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">TEI
-      P5</a>.</h2>
+      <h2 style="text-align:center;">A finding aid and digital archive of the unpublished letters of
+      <br/>Armand Jean du Plessis, cardinal duc de Richelieu <br/>encoded in <a href="https://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html">TEI
+      P5</a></h2>
       <br class="clear" />
     </div>
   </dynaxml.header>
