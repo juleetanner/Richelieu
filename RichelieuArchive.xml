@@ -837,9 +837,11 @@
       </person>
       <person sortKey="Unknown_male_correspondents" xml:id="MX">
         <persName type="presentation">Unknown male correspondents</persName>
+        <note>Identity unknown.</note>
       </person>
       <person sortKey="Unknown_female_correspondents" xml:id="FX">
         <persName type="presentation">Unknown female correspondents</persName>
+        <note>Identity unknown.</note>
       </person>
     </listPerson>
     <listPlace>
