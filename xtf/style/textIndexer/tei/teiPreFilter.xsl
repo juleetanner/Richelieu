@@ -96,7 +96,6 @@
   
   <!-- Ignored Elements. -->
   <xsl:template match="*:teiHeader|standOff">
-    <xsl:message select="concat('Debug: I am happy that I just matched a ',name(.))"/>
     <xsl:copy>
       <xsl:copy-of select="@*"/>
       <xsl:attribute name="xtf:index" select="'no'"/>
@@ -426,7 +425,6 @@
         <xsl:for-each select="persName|rs[@type eq 'person']">
           <xsl:choose>
             <xsl:when test="normalize-space(.) ne ''">
-              <xsl:message select="concat('debug: content of ', name(.),', for ', $gi )"/>
               <xsl:value-of select="normalize-space( . )"/>
             </xsl:when>
             <xsl:when test="@ref">
@@ -434,12 +432,6 @@
               <xsl:variable name="reffersto"
                             select="/TEI/standOff/listPerson/person[ @xml:id eq substring-after( $ref,'#') ]"/>
               <xsl:value-of select="$reffersto/persName[ @type eq 'presentation']/normalize-space()"/>
-              <xsl:message select="concat(
-                                   'debug: ref=',@ref,
-                                   ' reffersto=',name($reffersto),'#',
-                                   count($reffersto/preceding-sibling::person),
-                                   ' name=',normalize-space($reffersto/persName[ @type eq 'presentation']),
-                                   ' for ', name(.),', for ', $gi)"/>
             </xsl:when>
           </xsl:choose>
           <xsl:choose>
@@ -455,7 +447,6 @@
           </xsl:choose>
         </xsl:for-each>
         <xsl:if test="not(persName|rs[@type eq 'person'])">
-          <xsl:message select="'debug: unk'"/>
           <xsl:text>unknown</xsl:text>
         </xsl:if>
       </xsl:element>

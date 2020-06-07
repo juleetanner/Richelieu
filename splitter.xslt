@@ -39,6 +39,7 @@
   <xsl:template match="TEI">
     <xsl:variable name="outputFileName"
       select="replace( $inputFileName,'\.xml$', '_'||@xml:id||'.xml')"/>
+    <xsl:message select="'DEBUG: splitting out '||@xml:id"/>
     <xsl:result-document href="{$outPath}/{$outputFileName}">
       <xsl:copy>
         <xsl:namespace name="xtf" select="'http://cdlib.org/xtf'"/>
@@ -136,9 +137,11 @@
   -->
   <!-- put an n=first on the first of any given <persName> -->
   <xsl:template match="body//persName">
+    <xsl:variable name="me" select="."/>
     <xsl:variable name="myRef" select="normalize-space(@ref)"/>
+    <xsl:variable name="myBody" select="ancestor::body[1]"/>
     <xsl:copy>
-      <xsl:if test="not(preceding::persName[ancestor::body][normalize-space(@ref) eq $myRef])">
+      <xsl:if test="not( some $pN in $myBody//persName[normalize-space(@ref) eq $myRef] satisfies $me >> $pN )">
         <xsl:attribute name="n" select="'first'"/>
       </xsl:if>
       <xsl:apply-templates select="@*|node()"/>
@@ -148,8 +151,11 @@
   <!-- put an n=first on the first of any given <placeName> -->
   <xsl:template match="body//placeName">
     <xsl:variable name="myRef" select="normalize-space(@ref)"/>
+    <xsl:variable name="me" select="."/>
+    <xsl:variable name="myRef" select="normalize-space(@ref)"/>
+    <xsl:variable name="myBody" select="ancestor::body[1]"/>
     <xsl:copy>
-      <xsl:if test="not(preceding::placeName[ancestor::body][normalize-space(@ref) eq $myRef])">
+      <xsl:if test="not( some $pN in $myBody//placeName[normalize-space(@ref) eq $myRef] satisfies $me >> $pN )">
         <xsl:attribute name="n" select="'first'"/>
       </xsl:if>
       <xsl:apply-templates select="@*|node()"/>

@@ -312,7 +312,7 @@
             <birth when="1599"/>
             <death when="1662"/>
             <note>Son of a printer who entered the military at age 14 and was recognized for his bravery
-          and engineering skill at the Seige of La Rochelle (1627–28) and various other seiges
+          and engineering skill at the Siege of La Rochelle (1627–28) and various other sieges
           throughout the 1630s. He served in the Piedmont regiment, was made governor of Sedan in
           1642 and Marshal of France in 1658, the first commoner to earn that distinction.</note>
          </person>
@@ -387,6 +387,14 @@
             <note>Grand-Duke of Tuscany from 1621 to 1670; friend and protector of Galileo
           Galilei.</note>
          </person>
+         <person sortKey="Ferdinand_III,_Holy_Roman_Emperor" xml:id="Ferdinand3">
+            <persName type="main">Ferdinand III, Holy Roman Emperor</persName>
+            <persName type="presentation">Ferdinand III, Holy Roman Emperor</persName>
+            <idno type="VIAF">267762391</idno>
+            <birth when="1608"/>
+            <death when="1657"/>
+            <note>He reigned from 1637 to 1657.</note>
+         </person>
          <person sortKey="Gonzaga,_Maria,_Duchess_of_Mantua_and_Monferrat"
                  xml:id="MariaG">
             <persName type="main">Maria Gonzaga, duchess of Mantua and Monferrat</persName>
@@ -413,9 +421,9 @@
             <idno type="VIAF"/>
             <birth when="1601"/>
             <death when="1666"/>
-            <note>French nobleman who entered military service in 1620 at the seige of Prague. Along
+            <note>French nobleman who entered military service in 1620 at the siege of Prague. Along
           with the Vicomte de Turenne, he lead the combined Piedmontese-French forces in the
-          Piedmontese Civil War, and would win the city of Turin for France after a triple seige
+          Piedmontese Civil War, and would win the city of Turin for France after a triple siege
           lasting three months.</note>
          </person>
          <person sortKey="Nogaret_de_Candalle,_Henri_de" xml:id="Henri">
@@ -457,7 +465,7 @@
             <death when="1660"/>
             <note>Youngest son in an aristocratic family who renounced the religious life to pursue a
           military career at the age of 15. He would represent Louis XIII at the signing of the
-          articles of capitulation ending the seige of La Rochelle in 1628 and serve in many
+          articles of capitulation ending the siege of La Rochelle in 1628 and serve in many
           campaigns in the Thirty Years’ War.</note>
          </person>
          <person sortKey="Leclerc_du_Tremblay,_François,_père_Joseph" xml:id="Joseph">
@@ -520,7 +528,7 @@
             <death when="1621"/>
             <note>Grand Falconer of France and companion of Louis during the regency, he convinced the
           young king to end the regency in a palace coup in 1617. Named constable of France in 1621,
-          he died of a fever that same year while laying seige to the Huguenot town of
+          he died of a fever that same year while laying siege to the Huguenot town of
           Montauban.</note>
          </person>
          <person sortKey="Maria_Anna,_empress_consort_of_Ferdinand_III,_Holy_Roman_Emperor"
@@ -879,7 +887,7 @@
                <geo>44.85 7.72</geo>
             </location>
             <idno type="GeoNames">3180496</idno>
-            <note>Town outside of modern-day Turin claimed by France in the 16th century, beseiged and
+            <note>Town outside of modern-day Turin claimed by France in the 16th century, besieged and
           conquered by Savoy in 1588, and taken back by France during the Piedmontese Civil
           War.</note>
          </place>
@@ -913,7 +921,7 @@
             </location>
             <idno type="GeoNames">3178745</idno>
             <note>A town about 20 km northeast of Turin that submitted to Prince Thomas after a short
-          seige in late March of 1639.</note>
+          siege in late March of 1639.</note>
          </place>
          <place sortKey="Dauphiné" xml:id="Dauphine" type="region">
             <placeName type="main">Dauphiné</placeName>
@@ -941,7 +949,7 @@
                <geo>44.4 7.54</geo>
             </location>
             <idno type="GeoNames">6541864</idno>
-            <note>Commune in the Piedmont of strategic importance to Savoy and frequently beseiged by
+            <note>Commune in the Piedmont of strategic importance to Savoy and frequently besieged by
           France in the 17th century, about 90 km south-west of Turin.</note>
          </place>
          <place sortKey="Dijon" xml:id="Dijon" type="commune">
@@ -1287,12 +1295,12 @@
             <pb facs="Vialart_letters_Page_22.jpg"/> Vous aurez <choice>
                <orig>desia</orig>
                <reg>desja</reg>
-            </choice> sçeu par le <seg>sieur Colbert<ref type="fnoteref" target="#d1e13602">[1]</ref>
-               <note type="footnote" xml:id="d1e13602" n="[1]">Possibly Jean-Baptiste Colbert, future
+            </choice> sçeu par le <seg>sieur Colbert<ref type="fnoteref" target="#d1e13616">[1]</ref>
+               <note type="footnote" xml:id="d1e13616" n="[1]">Possibly Jean-Baptiste Colbert, future
               minister of finance under Louis XIV, who began his career in the war office before
               1639, first as inspector of troops, later as the personal assistant to Michel le
               Tellier, secretary of war (Wikipedia).</note>
-            </seg> le trouble ou estoit <placeName ref="#Turin">Turin</placeName> lors qu’il est party d’icy, la stupidité du <choice>
+            </seg> le trouble ou estoit <placeName n="first" ref="#Turin">Turin</placeName> lors qu’il est party d’icy, la stupidité du <choice>
                <orig>Gouuerneur</orig>
                <reg>Gouverneur</reg>
             </choice> de <placeName n="first" ref="#Chivasso">
@@ -1301,8 +1309,8 @@
                   <reg>Chivas</reg>
                </choice>
             </placeName>, &amp; sa negligence extrême, sont cause de la <seg>perte de la
-              place<ref type="fnoteref" target="#d1e13625">[2]</ref>
-               <note type="footnote" xml:id="d1e13625" n="[2]">After a short seige, Chivas surrendered to Prince Thomas</note>
+              place<ref type="fnoteref" target="#d1e13639">[2]</ref>
+               <note type="footnote" xml:id="d1e13639" n="[2]">After a short siege, Chivas surrendered to Prince Thomas</note>
             </seg>,
           &amp; m’ont obligé à quitter l’entreprise où <choice>
                <orig>i</orig>
@@ -1318,14 +1326,14 @@
             </choice> les Troupes du Roy, &amp; douze ou quinze cens <choice>
                <orig>cheuaux</orig>
                <reg>chevaux</reg>
-            </choice> de <persName ref="#Christine">Madame</persName>, pour attaquer les Ennemis dans
+            </choice> de <persName n="first" ref="#Christine">Madame</persName>, pour attaquer les Ennemis dans
           leur retranchement: Nous commençasmes par l’attaque d’<choice>
                <orig>vne</orig>
                <reg>une</reg>
             </choice> montagne où les ennemis <choice>
                <orig>auoient</orig>
                <reg>avoient</reg>
-            </choice> de petits forts, que Monsieur <persName ref="#PlessisP">du Plessis</persName>
+            </choice> de petits forts, que Monsieur <persName n="first" ref="#PlessisP">du Plessis</persName>
           emporta <choice>
                <orig>auec</orig>
                <reg>avec</reg>
@@ -1418,7 +1426,7 @@
          <p>Senantes fut blessé d’<choice>
                <orig>vn</orig>
                <reg>un</reg>
-            </choice> coup de mousquet, &amp; <persName ref="#Turenne">la Tour</persName> qui
+            </choice> coup de mousquet, &amp; <persName n="first" ref="#Turenne">la Tour</persName> qui
           commandoit <choice>
                <orig>vn</orig>
                <reg>un</reg>
@@ -1488,8 +1496,8 @@
             </choice> de l’<choice>
                <orig>espouuante</orig>
                <reg>espouvante</reg>
-            </choice> qui y est, par ce que vous en aura dit le <seg>sieur Colbert<ref type="fnoteref" target="#d1e14008">[3]</ref>
-               <note type="footnote" xml:id="d1e14008" n="[3]">Possibly
+            </choice> qui y est, par ce que vous en aura dit le <seg>sieur Colbert<ref type="fnoteref" target="#d1e14022">[3]</ref>
+               <note type="footnote" xml:id="d1e14022" n="[3]">Possibly
               Jean-Baptiste Colbert, future minister of finance under Louis XIV, who began his
               career in the war office before 1639, first as inspector of troops, later as the
               personal assistant to Michel le Tellier, secretary of war (Wikipedia).</note>
@@ -1521,7 +1529,7 @@
             </choice> viens de voir <choice>
                <orig>vn</orig>
                <reg>un</reg>
-            </choice> estat de l’armée que <persName ref="#Argenson">Monsieur d’Argençon</persName>
+            </choice> estat de l’armée que <persName n="first" ref="#Argenson">Monsieur d’Argençon</persName>
           m’a <choice>
                <orig>enuoyé</orig>
                <reg>envoyé</reg>
@@ -1543,7 +1551,7 @@
             </choice> à dix-huict qu’il ne passe que fort peu d’infanterie, car le Regiment de <choice>
                <orig>Riuare</orig>
                <reg>Rivare</reg>
-            </choice> ne peut sortir de <placeName ref="#Casale">Cazal</placeName>, ny <choice>
+            </choice> ne peut sortir de <placeName n="first" ref="#Casale">Cazal</placeName>, ny <choice>
                <orig>seruir</orig>
                <reg>servir</reg>
             </choice> à la Campagne, ainsi que <choice>
@@ -1558,7 +1566,7 @@
             </choice>, de sorte que cette armée seroit encore plus foible que l’année passée, estant
           moindre de six Regimens, &amp; l’argent de plusieurs recreuës n’estant pas encore donné à
           ce qu’on me mande de Dauphiné.</p>
-         <p>L’entreprise de <placeName ref="#Vercelli">Vercel</placeName> ne s’est pas executée,
+         <p>L’entreprise de <placeName n="first" ref="#Vercelli">Vercel</placeName> ne s’est pas executée,
           parce que les Ennemis se mirent ensemble six <choice>
                <orig>iours</orig>
                <reg>jours</reg>
@@ -1572,7 +1580,7 @@
                <orig>I’auois</orig>
                <reg>J’avois</reg>
             </choice> pensé d’aller prendre la poste de Crescentin, pour me loger derriere le
-            <persName ref="#Tommaso">Prince Thomas</persName>, mais <choice>
+            <persName n="first" ref="#Tommaso">Prince Thomas</persName>, mais <choice>
                <orig>ie</orig>
                <reg>je</reg>
             </choice> n’ose abandonner Turin, où <choice>
@@ -1589,8 +1597,8 @@
                   <sic>Colebert</sic>
                   <corr>Colbert</corr>
                </choice>
-               <ref type="fnoteref" target="#d1e14215">[4]</ref>
-               <note type="footnote" xml:id="d1e14215" n="[4]">Possibly Jean-Baptiste Colbert, future minister of finance under Louis
+               <ref type="fnoteref" target="#d1e14229">[4]</ref>
+               <note type="footnote" xml:id="d1e14229" n="[4]">Possibly Jean-Baptiste Colbert, future minister of finance under Louis
               XIV, who began his career in the war office before 1639, first as inspector of troops,
               later as the personal assistant to Michel le Tellier, secretary of war
               (Wikipedia).</note>
@@ -1606,7 +1614,7 @@
             </choice>’eusse souhaitté qu’elle se fut contentée de les <choice>
                <orig>enuoyer</orig>
                <reg>envoyer</reg>
-            </choice> à <placeName ref="#Pinerolo">Pignerol</placeName>, mais <choice>
+            </choice> à <placeName n="first" ref="#Pinerolo">Pignerol</placeName>, mais <choice>
                <orig>ie</orig>
                <reg>je</reg>
             </choice> ne me suis pas <choice>

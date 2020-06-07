@@ -313,7 +313,7 @@
             <birth when="1599"/>
             <death when="1662"/>
             <note>Son of a printer who entered the military at age 14 and was recognized for his bravery
-          and engineering skill at the Seige of La Rochelle (1627–28) and various other seiges
+          and engineering skill at the Siege of La Rochelle (1627–28) and various other sieges
           throughout the 1630s. He served in the Piedmont regiment, was made governor of Sedan in
           1642 and Marshal of France in 1658, the first commoner to earn that distinction.</note>
          </person>
@@ -388,6 +388,14 @@
             <note>Grand-Duke of Tuscany from 1621 to 1670; friend and protector of Galileo
           Galilei.</note>
          </person>
+         <person sortKey="Ferdinand_III,_Holy_Roman_Emperor" xml:id="Ferdinand3">
+            <persName type="main">Ferdinand III, Holy Roman Emperor</persName>
+            <persName type="presentation">Ferdinand III, Holy Roman Emperor</persName>
+            <idno type="VIAF">267762391</idno>
+            <birth when="1608"/>
+            <death when="1657"/>
+            <note>He reigned from 1637 to 1657.</note>
+         </person>
          <person sortKey="Gonzaga,_Maria,_Duchess_of_Mantua_and_Monferrat"
                  xml:id="MariaG">
             <persName type="main">Maria Gonzaga, duchess of Mantua and Monferrat</persName>
@@ -414,9 +422,9 @@
             <idno type="VIAF"/>
             <birth when="1601"/>
             <death when="1666"/>
-            <note>French nobleman who entered military service in 1620 at the seige of Prague. Along
+            <note>French nobleman who entered military service in 1620 at the siege of Prague. Along
           with the Vicomte de Turenne, he lead the combined Piedmontese-French forces in the
-          Piedmontese Civil War, and would win the city of Turin for France after a triple seige
+          Piedmontese Civil War, and would win the city of Turin for France after a triple siege
           lasting three months.</note>
          </person>
          <person sortKey="Nogaret_de_Candalle,_Henri_de" xml:id="Henri">
@@ -458,7 +466,7 @@
             <death when="1660"/>
             <note>Youngest son in an aristocratic family who renounced the religious life to pursue a
           military career at the age of 15. He would represent Louis XIII at the signing of the
-          articles of capitulation ending the seige of La Rochelle in 1628 and serve in many
+          articles of capitulation ending the siege of La Rochelle in 1628 and serve in many
           campaigns in the Thirty Years’ War.</note>
          </person>
          <person sortKey="Leclerc_du_Tremblay,_François,_père_Joseph" xml:id="Joseph">
@@ -521,7 +529,7 @@
             <death when="1621"/>
             <note>Grand Falconer of France and companion of Louis during the regency, he convinced the
           young king to end the regency in a palace coup in 1617. Named constable of France in 1621,
-          he died of a fever that same year while laying seige to the Huguenot town of
+          he died of a fever that same year while laying siege to the Huguenot town of
           Montauban.</note>
          </person>
          <person sortKey="Maria_Anna,_empress_consort_of_Ferdinand_III,_Holy_Roman_Emperor"
@@ -880,7 +888,7 @@
                <geo>44.85 7.72</geo>
             </location>
             <idno type="GeoNames">3180496</idno>
-            <note>Town outside of modern-day Turin claimed by France in the 16th century, beseiged and
+            <note>Town outside of modern-day Turin claimed by France in the 16th century, besieged and
           conquered by Savoy in 1588, and taken back by France during the Piedmontese Civil
           War.</note>
          </place>
@@ -914,7 +922,7 @@
             </location>
             <idno type="GeoNames">3178745</idno>
             <note>A town about 20 km northeast of Turin that submitted to Prince Thomas after a short
-          seige in late March of 1639.</note>
+          siege in late March of 1639.</note>
          </place>
          <place sortKey="Dauphiné" xml:id="Dauphine" type="region">
             <placeName type="main">Dauphiné</placeName>
@@ -942,7 +950,7 @@
                <geo>44.4 7.54</geo>
             </location>
             <idno type="GeoNames">6541864</idno>
-            <note>Commune in the Piedmont of strategic importance to Savoy and frequently beseiged by
+            <note>Commune in the Piedmont of strategic importance to Savoy and frequently besieged by
           France in the 17th century, about 90 km south-west of Turin.</note>
          </place>
          <place sortKey="Dijon" xml:id="Dijon" type="commune">
@@ -1281,7 +1289,7 @@
                   <reg>Reverendissimo</reg>
                </choice> Signor mio Patron Colendissimo</salute>
          </opener>
-         <p>Ho pagato affettionamente <persName ref="#Emery">Monsieur d’Hemery</persName> signifie à
+         <p>Ho pagato affettionamente <persName n="first" ref="#Emery">Monsieur d’Hemery</persName> signifie à
           Vostre Eminenza la mia singolar <choice>
                <orig>deuotione</orig>
                <reg>devotione</reg>
@@ -1309,7 +1317,7 @@
                <reg>reverenza</reg>
             </choice>.</p>
          <closer>
-            <dateline>In <placeName ref="#Turin">Torino</placeName> l’19. Genaro
+            <dateline>In <placeName n="first" ref="#Turin">Torino</placeName> l’19. Genaro
             1639.</dateline>
             <salute>Di Vostra Eminenza, Umilissimo &amp; obligatissimo <choice>
                   <orig>seruitore</orig>

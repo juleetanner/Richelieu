@@ -1,4 +1,4 @@
-<xsl:stylesheet version="3.0" 
+<xsl:stylesheet version="3.0"
   xmlns:xs="http://www.w3.org/2001/XMLSchema"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
    xmlns:xtf="http://cdlib.org/xtf"
@@ -7,75 +7,75 @@
    extension-element-prefixes="session"
    xpath-default-namespace="http://www.tei-c.org/ns/1.0"
    exclude-result-prefixes="#all">
-   
+
    <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
    <!-- dynaXML Stylesheet                                                     -->
    <!-- ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ -->
-   
+
    <!--
       Copyright (c) 2008, Regents of the University of California
       All rights reserved.
-      
-      Redistribution and use in source and binary forms, with or without 
-      modification, are permitted provided that the following conditions are 
+
+      Redistribution and use in source and binary forms, with or without
+      modification, are permitted provided that the following conditions are
       met:
-      
-      - Redistributions of source code must retain the above copyright notice, 
+
+      - Redistributions of source code must retain the above copyright notice,
       this list of conditions and the following disclaimer.
-      - Redistributions in binary form must reproduce the above copyright 
-      notice, this list of conditions and the following disclaimer in the 
+      - Redistributions in binary form must reproduce the above copyright
+      notice, this list of conditions and the following disclaimer in the
       documentation and/or other materials provided with the distribution.
       - Neither the name of the University of California nor the names of its
-      contributors may be used to endorse or promote products derived from 
+      contributors may be used to endorse or promote products derived from
       this software without specific prior written permission.
-      
-      THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" 
-      AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE 
-      IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE 
-      ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE 
-      LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR 
-      CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF 
-      SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS 
-      INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN 
-      CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) 
-      ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE 
+
+      THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+      AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+      IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+      ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+      LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+      CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+      SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+      INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+      CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+      ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
       POSSIBILITY OF SUCH DAMAGE.
    -->
-   
+
    <!-- ====================================================================== -->
    <!-- Import Common Templates                                                -->
    <!-- ====================================================================== -->
-   
+
    <xsl:import href="../common/docFormatterCommon.xsl"/>
-   
+
    <!-- ====================================================================== -->
    <!-- Output Format                                                          -->
    <!-- ====================================================================== -->
-   
-   <xsl:output method="xhtml" indent="no" 
-      encoding="UTF-8" media-type="text/html; charset=UTF-8" 
-      doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN" 
-      doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd" 
+
+   <xsl:output method="xhtml" indent="no"
+      encoding="UTF-8" media-type="text/html; charset=UTF-8"
+      doctype-public="-//W3C//DTD XHTML 1.0 Transitional//EN"
+      doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"
       exclude-result-prefixes="#all"
       omit-xml-declaration="yes"/>
-   
-   <xsl:output name="frameset" method="xhtml" indent="no" 
-      encoding="UTF-8" media-type="text/html; charset=UTF-8" 
-      doctype-public="-//W3C//DTD XHTML 1.0 Frameset//EN" 
-      doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd" 
+
+   <xsl:output name="frameset" method="xhtml" indent="no"
+      encoding="UTF-8" media-type="text/html; charset=UTF-8"
+      doctype-public="-//W3C//DTD XHTML 1.0 Frameset//EN"
+      doctype-system="http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd"
       omit-xml-declaration="yes"
       exclude-result-prefixes="#all"/>
-   
+
    <!-- ====================================================================== -->
    <!-- Strip Space                                                            -->
    <!-- ====================================================================== -->
-   
+
    <xsl:strip-space elements="*"/>
-   
+
    <!-- ====================================================================== -->
    <!-- Included Stylesheets                                                   -->
    <!-- ====================================================================== -->
-   
+
    <xsl:include href="autotoc.xsl"/>
    <xsl:include href="component.xsl"/>
    <xsl:include href="search.xsl"/>
@@ -83,24 +83,24 @@
    <xsl:include href="structure.xsl"/>
    <xsl:include href="table.xsl"/>
    <xsl:include href="titlepage.xsl"/>
-   
+
    <!-- ====================================================================== -->
    <!-- Define Keys                                                            -->
    <!-- ====================================================================== -->
-   
+
    <xsl:key name="pb-id" match="*[matches(name(),'^pb$|^milestone$')]" use="@*:id"/>
    <xsl:key name="ref-id" match="*[matches(name(),'^ref$')]" use="@*:id"/>
    <xsl:key name="fnote-id" match="*[matches(name(),'^note$')][@type='footnote' or @place='foot']" use="@*:id"/>
    <xsl:key name="endnote-id" match="*[matches(name(),'^note$')][@type='endnote' or @place='end']" use="@*:id"/>
    <xsl:key name="div-id" match="*[matches(name(),'^div')]" use="@*:id"/>
    <xsl:key name="generic-id" match="*[matches(name(),'^note$')][not(@type='footnote' or @place='foot' or @type='endnote' or @place='end')]|*[matches(name(),'^figure$|^bibl$|^table$')]" use="@*:id"/>
-   
+
    <!-- ====================================================================== -->
    <!-- TEI-specific parameters                                                -->
    <!-- ====================================================================== -->
 
-   <!-- If a query was specified but no particular hit rank, jump to the first hit 
-        (in document order) 
+   <!-- If a query was specified but no particular hit rank, jump to the first hit
+        (in document order)
    -->
    <xsl:param name="hit.rank">
       <xsl:choose>
@@ -112,7 +112,7 @@
          </xsl:otherwise>
       </xsl:choose>
    </xsl:param>
-   
+
    <!-- To support direct links from snippets, the following two parameters must check value of $hit.rank -->
    <xsl:param name="chunk.id">
       <xsl:choose>
@@ -124,7 +124,7 @@
          </xsl:otherwise>
       </xsl:choose>
    </xsl:param>
-   
+
    <xsl:param name="toc.id">
       <xsl:choose>
          <xsl:when test="$hit.rank != '0' and key('hit-rank-dynamic', $hit.rank)/ancestor::*[matches(name(),'^div')]">
@@ -139,7 +139,7 @@
    <!-- ====================================================================== -->
    <!-- Root Template                                                          -->
    <!-- ====================================================================== -->
-   
+
    <xsl:template match="/">
      <xsl:message>
        <xsl:text>Debug: teiDocFormatter.xsl @ </xsl:text>
@@ -159,45 +159,45 @@
        <xsl:text>, doc.title=</xsl:text>
        <xsl:value-of select="$doc.title"/>
      </xsl:message>
-      <xsl:choose>
-         <!-- robot solution -->
-         <xsl:when test="matches($http.user-agent,$robots)">
-            <xsl:call-template name="robot"/>
-         </xsl:when>
-         <xsl:when test="$doc.view='bbar'">
-            <xsl:call-template name="bbar"/>
-         </xsl:when>
-         <xsl:when test="$doc.view='toc'">
-            <xsl:call-template name="toc"/>
-         </xsl:when>
-         <xsl:when test="$doc.view='content'">
-            <xsl:call-template name="content"/>
-         </xsl:when>
-         <xsl:when test="$doc.view='popup'">
-            <xsl:call-template name="popup"/>
-         </xsl:when>
-         <xsl:when test="$doc.view='citation'">
-            <xsl:call-template name="citation"/>
-         </xsl:when>
-         <xsl:when test="$doc.view='print'">
-            <xsl:call-template name="print"/>
-         </xsl:when>
-         <xsl:otherwise>
-            <xsl:call-template name="frames"/>
-         </xsl:otherwise>
-      </xsl:choose>
+     <xsl:choose>
+       <!-- robot solution -->
+       <xsl:when test="matches($http.user-agent,$robots)">
+	 <xsl:call-template name="robot"/>
+       </xsl:when>
+       <xsl:when test="$doc.view='bbar'">
+	 <xsl:call-template name="bbar"/>
+       </xsl:when>
+       <xsl:when test="$doc.view='toc'">
+	 <xsl:call-template name="toc"/>
+       </xsl:when>
+       <xsl:when test="$doc.view='content'">
+	 <xsl:call-template name="content"/>
+       </xsl:when>
+       <xsl:when test="$doc.view='popup'">
+	 <xsl:call-template name="popup"/>
+       </xsl:when>
+       <xsl:when test="$doc.view='citation'">
+	 <xsl:call-template name="citation"/>
+       </xsl:when>
+       <xsl:when test="$doc.view='print'">
+	 <xsl:call-template name="print"/>
+       </xsl:when>
+       <xsl:otherwise>
+	 <xsl:call-template name="frames"/>
+       </xsl:otherwise>
+     </xsl:choose>
    </xsl:template>
-   
+
    <!-- ====================================================================== -->
    <!-- Frames Template                                                        -->
    <!-- ====================================================================== -->
-   
+
    <xsl:template name="frames" exclude-result-prefixes="#all">
-      
-      <xsl:variable name="bbar.href"><xsl:value-of select="$query.string"/>&#038;doc.view=bbar&#038;chunk.id=<xsl:value-of select="$chunk.id"/>&#038;toc.depth=<xsl:value-of select="$toc.depth"/>&#038;brand=<xsl:value-of select="$brand"/><xsl:value-of select="$search"/></xsl:variable> 
+
+      <xsl:variable name="bbar.href"><xsl:value-of select="$query.string"/>&#038;doc.view=bbar&#038;chunk.id=<xsl:value-of select="$chunk.id"/>&#038;toc.depth=<xsl:value-of select="$toc.depth"/>&#038;brand=<xsl:value-of select="$brand"/><xsl:value-of select="$search"/></xsl:variable>
       <xsl:variable name="toc.href"><xsl:value-of select="$query.string"/>&#038;doc.view=toc&#038;chunk.id=<xsl:value-of select="$chunk.id"/>&#038;toc.depth=<xsl:value-of select="$toc.depth"/>&#038;brand=<xsl:value-of select="$brand"/>&#038;toc.id=<xsl:value-of select="$toc.id"/><xsl:value-of select="$search"/>#X</xsl:variable>
       <xsl:variable name="content.href"><xsl:value-of select="$query.string"/>&#038;doc.view=content&#038;chunk.id=<xsl:value-of select="$chunk.id"/>&#038;toc.depth=<xsl:value-of select="$toc.depth"/>&#038;brand=<xsl:value-of select="$brand"/>&#038;anchor.id=<xsl:value-of select="$anchor.id"/><xsl:value-of select="$search"/><xsl:call-template name="create.anchor"/></xsl:variable>
-      
+
       <xsl:result-document format="frameset" exclude-result-prefixes="#all">
          <html xml:lang="en" lang="en">
             <head>
@@ -230,11 +230,11 @@
          </html>
       </xsl:result-document>
    </xsl:template>
-   
+
    <!-- ====================================================================== -->
    <!-- Anchor Template                                                        -->
    <!-- ====================================================================== -->
-   
+
    <xsl:template name="create.anchor">
       <xsl:choose>
          <!-- First so it takes precedence over computed hit.rank -->
@@ -253,11 +253,11 @@
          </xsl:when>
       </xsl:choose>
    </xsl:template>
-   
+
    <!-- ====================================================================== -->
    <!-- TOC Template                                                           -->
    <!-- ====================================================================== -->
-   
+
    <xsl:template name="toc" exclude-result-prefixes="#all">
       <xsl:call-template name="translate">
          <xsl:with-param name="resultTree">
@@ -278,17 +278,17 @@
          </xsl:with-param>
       </xsl:call-template>
    </xsl:template>
-   
+
    <!-- ====================================================================== -->
    <!-- Content Template                                                       -->
    <!-- ====================================================================== -->
-   
+
    <xsl:template name="content" exclude-result-prefixes="#all">
-      
+
       <xsl:variable name="navbar">
          <xsl:call-template name="navbar"/>
       </xsl:variable>
-      
+
       <html xml:lang="en" lang="en">
          <head>
             <title>
@@ -298,7 +298,7 @@
             <link rel="shortcut icon" href="icons/{$brand}/favicon.ico"/>
          </head>
          <body>
-            
+
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
                <!-- BEGIN MIDNAV ROW -->
                <tr>
@@ -322,37 +322,44 @@
                </tr>
                <!-- END MIDNAV ROW -->
             </table>
-            
+
             <!-- BEGIN CONTENT ROW -->
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
                <tr>
                   <td align="left" valign="top">
                      <div class="content">
                         <!-- BEGIN CONTENT -->
-                       <!--
-                         Since we have no <div> element in JTR, $chunk.id is not being
-                         set correctly. So do 2 things: test for null, as well as '0',
-                         and process entire body of document in 1st <when> clause. Here
-                         at JTR we should probably never hit the <otherwise>.
-                       -->
-                       <xsl:variable name="beginning" as="xs:boolean"
-                         select="$chunk.id = ('0', '')"/>
+			<!--
+			    Since we have very few <div> elements in JTR,
+			    so usually $chunk.id is not being set
+			    correctly. Thus do 2 things: test for null
+			    (in addition to '0'), and process entire body
+			    of document othre than <div>s (if any) in 1st
+			    <when> clause. Here at JTR we will only hit
+			    the <otherwise> on rare occasion, e.g. letter
+			    66.
+			-->
                         <xsl:choose>
-                          <xsl:when test="$beginning">
+                          <xsl:when test="$chunk.id = ('0', '')">
                             <xsl:apply-templates select="/*/*:text/*:front/*:titlePage"/>
-                            <xsl:if test="not(/TEI/text/body//div)">
-                              <xsl:apply-templates select="TEI/text/body/node()"/>
-                            </xsl:if>
+			    <!--
+				I think this “skip everything in
+				<front> except <titlePage>” stuff is
+				weird. May have to work aorund it
+				someday. —Syd, 2020-06-07
+			    -->
+			    <xsl:apply-templates
+				select="TEI/text/body/node() except div"/>
                           </xsl:when>
                           <xsl:otherwise>
-                              <xsl:apply-templates select="key('div-id', $chunk.id)"/>          
+                              <xsl:apply-templates select="key('div-id', $chunk.id)"/>
                            </xsl:otherwise>
                         </xsl:choose>
                      </div>
                   </td>
                </tr>
             </table>
-            
+
             <table width="100%" border="0" cellpadding="0" cellspacing="0">
                <!-- BEGIN MIDNAV ROW -->
                <tr>
@@ -376,15 +383,15 @@
                </tr>
                <!-- END MIDNAV ROW -->
             </table>
-            
+
          </body>
       </html>
    </xsl:template>
-   
+
    <!-- ====================================================================== -->
    <!-- Print Template                                                  -->
    <!-- ====================================================================== -->
-   
+
    <xsl:template name="print" exclude-result-prefixes="#all">
       <html xml:lang="en" lang="en">
          <head>
@@ -416,11 +423,11 @@
          </body>
       </html>
    </xsl:template>
-   
+
    <!-- ====================================================================== -->
    <!-- Popup Window Template                                                  -->
    <!-- ====================================================================== -->
-   
+
    <xsl:template name="popup" exclude-result-prefixes="#all">
       <html xml:lang="en" lang="en">
          <head>
@@ -448,25 +455,25 @@
             </title>
             <link rel="stylesheet" type="text/css" href="{$css.path}{$content.css}"/>
             <link rel="shortcut icon" href="icons/{$brand}/favicon.ico" />
- 
+
          </head>
          <body>
             <div class="content">
                <xsl:choose>
                   <xsl:when test="(key('fnote-id', $chunk.id)/@type = 'footnote') or (key('fnote-id', $chunk.id)/@place = 'foot')">
-                     <xsl:apply-templates select="key('fnote-id', $chunk.id)"/>  
+                     <xsl:apply-templates select="key('fnote-id', $chunk.id)"/>
                   </xsl:when>
                   <xsl:when test="key('div-id', $chunk.id)/@type = 'dedication'">
-                     <xsl:apply-templates select="key('div-id', $chunk.id)" mode="titlepage"/>  
+                     <xsl:apply-templates select="key('div-id', $chunk.id)" mode="titlepage"/>
                   </xsl:when>
                   <xsl:when test="key('div-id', $chunk.id)/@type = 'copyright'">
-                     <xsl:apply-templates select="key('div-id', $chunk.id)" mode="titlepage"/>  
+                     <xsl:apply-templates select="key('div-id', $chunk.id)" mode="titlepage"/>
                   </xsl:when>
                   <xsl:when test="key('div-id', $chunk.id)/@type = 'epigraph'">
-                     <xsl:apply-templates select="key('div-id', $chunk.id)" mode="titlepage"/>  
+                     <xsl:apply-templates select="key('div-id', $chunk.id)" mode="titlepage"/>
                   </xsl:when>
                   <xsl:when test="$fig.ent != '0'">
-                     <img src="{$fig.ent}" alt="full-size image"/>        
+                     <img src="{$fig.ent}" alt="full-size image"/>
                   </xsl:when>
                </xsl:choose>
                <p>
@@ -482,13 +489,13 @@
          </body>
       </html>
    </xsl:template>
-   
+
    <!-- ====================================================================== -->
    <!-- Navigation Bar Template                                                -->
    <!-- ====================================================================== -->
-   
+
    <xsl:template name="navbar" exclude-result-prefixes="#all">
-      
+
       <xsl:variable name="prev">
          <xsl:choose>
             <!-- preceding div sibling -->
@@ -509,7 +516,7 @@
             </xsl:otherwise>
          </xsl:choose>
       </xsl:variable>
-      
+
       <xsl:variable name="prev_toc">
          <xsl:choose>
             <xsl:when test="key('div-id', $prev)/*[*:head][@*:id]">
@@ -520,7 +527,7 @@
             </xsl:otherwise>
          </xsl:choose>
       </xsl:variable>
-      
+
       <xsl:variable name="next">
          <xsl:choose>
             <!-- following div sibling -->
@@ -545,7 +552,7 @@
             </xsl:otherwise>
          </xsl:choose>
       </xsl:variable>
-      
+
       <xsl:variable name="next_toc">
          <xsl:choose>
             <xsl:when test="key('div-id', $next)/*[*:head][@*:id]">
@@ -556,7 +563,7 @@
             </xsl:otherwise>
          </xsl:choose>
       </xsl:variable>
-      
+
       <tr>
          <td width="25%" align="left">
             <!-- BEGIN PREVIOUS SELECTION -->
@@ -612,7 +619,7 @@
             <!-- END NEXT SELECTION -->
          </td>
       </tr>
-      
+
    </xsl:template>
-   
+
 </xsl:stylesheet>

@@ -314,7 +314,7 @@
             <birth when="1599"/>
             <death when="1662"/>
             <note>Son of a printer who entered the military at age 14 and was recognized for his bravery
-          and engineering skill at the Seige of La Rochelle (1627–28) and various other seiges
+          and engineering skill at the Siege of La Rochelle (1627–28) and various other sieges
           throughout the 1630s. He served in the Piedmont regiment, was made governor of Sedan in
           1642 and Marshal of France in 1658, the first commoner to earn that distinction.</note>
          </person>
@@ -389,6 +389,14 @@
             <note>Grand-Duke of Tuscany from 1621 to 1670; friend and protector of Galileo
           Galilei.</note>
          </person>
+         <person sortKey="Ferdinand_III,_Holy_Roman_Emperor" xml:id="Ferdinand3">
+            <persName type="main">Ferdinand III, Holy Roman Emperor</persName>
+            <persName type="presentation">Ferdinand III, Holy Roman Emperor</persName>
+            <idno type="VIAF">267762391</idno>
+            <birth when="1608"/>
+            <death when="1657"/>
+            <note>He reigned from 1637 to 1657.</note>
+         </person>
          <person sortKey="Gonzaga,_Maria,_Duchess_of_Mantua_and_Monferrat"
                  xml:id="MariaG">
             <persName type="main">Maria Gonzaga, duchess of Mantua and Monferrat</persName>
@@ -415,9 +423,9 @@
             <idno type="VIAF"/>
             <birth when="1601"/>
             <death when="1666"/>
-            <note>French nobleman who entered military service in 1620 at the seige of Prague. Along
+            <note>French nobleman who entered military service in 1620 at the siege of Prague. Along
           with the Vicomte de Turenne, he lead the combined Piedmontese-French forces in the
-          Piedmontese Civil War, and would win the city of Turin for France after a triple seige
+          Piedmontese Civil War, and would win the city of Turin for France after a triple siege
           lasting three months.</note>
          </person>
          <person sortKey="Nogaret_de_Candalle,_Henri_de" xml:id="Henri">
@@ -459,7 +467,7 @@
             <death when="1660"/>
             <note>Youngest son in an aristocratic family who renounced the religious life to pursue a
           military career at the age of 15. He would represent Louis XIII at the signing of the
-          articles of capitulation ending the seige of La Rochelle in 1628 and serve in many
+          articles of capitulation ending the siege of La Rochelle in 1628 and serve in many
           campaigns in the Thirty Years’ War.</note>
          </person>
          <person sortKey="Leclerc_du_Tremblay,_François,_père_Joseph" xml:id="Joseph">
@@ -522,7 +530,7 @@
             <death when="1621"/>
             <note>Grand Falconer of France and companion of Louis during the regency, he convinced the
           young king to end the regency in a palace coup in 1617. Named constable of France in 1621,
-          he died of a fever that same year while laying seige to the Huguenot town of
+          he died of a fever that same year while laying siege to the Huguenot town of
           Montauban.</note>
          </person>
          <person sortKey="Maria_Anna,_empress_consort_of_Ferdinand_III,_Holy_Roman_Emperor"
@@ -881,7 +889,7 @@
                <geo>44.85 7.72</geo>
             </location>
             <idno type="GeoNames">3180496</idno>
-            <note>Town outside of modern-day Turin claimed by France in the 16th century, beseiged and
+            <note>Town outside of modern-day Turin claimed by France in the 16th century, besieged and
           conquered by Savoy in 1588, and taken back by France during the Piedmontese Civil
           War.</note>
          </place>
@@ -915,7 +923,7 @@
             </location>
             <idno type="GeoNames">3178745</idno>
             <note>A town about 20 km northeast of Turin that submitted to Prince Thomas after a short
-          seige in late March of 1639.</note>
+          siege in late March of 1639.</note>
          </place>
          <place sortKey="Dauphiné" xml:id="Dauphine" type="region">
             <placeName type="main">Dauphiné</placeName>
@@ -943,7 +951,7 @@
                <geo>44.4 7.54</geo>
             </location>
             <idno type="GeoNames">6541864</idno>
-            <note>Commune in the Piedmont of strategic importance to Savoy and frequently beseiged by
+            <note>Commune in the Piedmont of strategic importance to Savoy and frequently besieged by
           France in the 17th century, about 90 km south-west of Turin.</note>
          </place>
          <place sortKey="Dijon" xml:id="Dijon" type="commune">
@@ -1328,14 +1336,14 @@
                <orig>Ie</orig>
                <reg>Je</reg>
             </choice> n’ay point eu l’honneur de vous escrire depuis le partement de Monsieur de
-            <persName ref="#Palluau">Palluau</persName>, parce que j’ay esté dix ou douze <choice>
+            <persName n="first" ref="#Palluau">Palluau</persName>, parce que j’ay esté dix ou douze <choice>
                <orig>iours</orig>
                <reg>jours</reg>
-            </choice> dans nos quartiers, &amp; à <placeName ref="#Casale">Cazal</placeName> pour
+            </choice> dans nos quartiers, &amp; à <placeName n="first" ref="#Casale">Cazal</placeName> pour
           faire faire la <choice>
                <orig>reueuë</orig>
                <reg>reveuë</reg>
-            </choice> de nostre Infanterie, &amp; pour establir <persName ref="#Turenne">Monsieur de
+            </choice> de nostre Infanterie, &amp; pour establir <persName n="first" ref="#Turenne">Monsieur de
             la Tour</persName> dans ladite place, lequel y a esté reçu <choice>
                <orig>auec</orig>
                <reg>avec</reg>
@@ -1346,7 +1354,7 @@
             </choice> grand applaudissement de tout le monde. <choice>
                <orig>Ie</orig>
                <reg>Je</reg>
-            </choice> croy que le <persName ref="#Louis13">Roy</persName> &amp; Vostre Eminence en
+            </choice> croy que le <persName n="first" ref="#Louis13">Roy</persName> &amp; Vostre Eminence en
           serez bien <choice>
                <orig>seruis</orig>
                <reg>servis</reg>
@@ -1375,7 +1383,7 @@
             </choice> dans tout le mois vn Regiment pour <choice>
                <orig>releuer</orig>
                <reg>relever</reg>
-            </choice> celuy d’Aiguebonne, qui est dans <placeName ref="#Pinerolo">Pignerol</placeName>, il en sortira pour le moins aussi fort que celuy de Nerestan, &amp;
+            </choice> celuy d’Aiguebonne, qui est dans <placeName n="first" ref="#Pinerolo">Pignerol</placeName>, il en sortira pour le moins aussi fort que celuy de Nerestan, &amp;
           pour ce qu’il y <choice>
                <orig>auoit</orig>
                <reg>avoit</reg>
@@ -1468,10 +1476,10 @@
             <choice>
                <orig>I</orig>
                <reg>J</reg>
-            </choice>’escris à Monsieur de <persName ref="#Chavigny">Chauigny</persName> ce que <choice>
+            </choice>’escris à Monsieur de <persName n="first" ref="#Chavigny">Chauigny</persName> ce que <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>’ay appris du decret que le <persName ref="#Maurice">Cardinal de <choice>
+            </choice>’ay appris du decret que le <persName n="first" ref="#Maurice">Cardinal de <choice>
                   <orig>Sauoye</orig>
                   <reg>Savoye</reg>
                </choice>
@@ -1491,7 +1499,7 @@
             </choice> qui est aupres du Roy, pendant que <choice>
                <orig>i</orig>
                <reg>j</reg>
-            </choice>’estois dans le <placeName ref="#Monferrato">Monferrat</placeName>, elle estoit
+            </choice>’estois dans le <placeName n="first" ref="#Monferrato">Monferrat</placeName>, elle estoit
           venuë de Rome.</p>
          <p>Madame ne sçauroit subsister, ny mesme garder ses places, si le Roy ne luy paye les 3000.
           hommes de pied qu’il a accoustumé, Vostre Eminence le pourra <choice>
@@ -1508,7 +1516,7 @@
                <reg>je</reg>
             </choice> ne croy pas que nous ayons rien à craindre, ny qu’ils nous empeschent d’entrer
           dans leurs pays, ainsi que Messieurs de <persName ref="#Palluau">Palluau</persName> &amp;
-            d’<persName ref="#Estrades">Estrade</persName> vous le pourront dire, <choice>
+            d’<persName n="first" ref="#Estrades">Estrade</persName> vous le pourront dire, <choice>
                <orig>i</orig>
                <reg>j</reg>
             </choice>’attends la response des dépesches qu’ils ont portées pour parler à Madame,
@@ -1550,7 +1558,7 @@
                   <orig>MONSEIGNEVR</orig>
                   <reg>Monseigneur</reg>
                </choice>, Vostre, &amp;c.</salute>
-            <dateline>De <placeName ref="#Turin">Turin</placeName> ce 2. <choice>
+            <dateline>De <placeName n="first" ref="#Turin">Turin</placeName> ce 2. <choice>
                   <orig>Féurier</orig>
                   <reg>Février</reg>
                </choice>.</dateline>

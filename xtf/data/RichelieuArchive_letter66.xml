@@ -320,7 +320,7 @@
             <birth when="1599"/>
             <death when="1662"/>
             <note>Son of a printer who entered the military at age 14 and was recognized for his bravery
-          and engineering skill at the Seige of La Rochelle (1627–28) and various other seiges
+          and engineering skill at the Siege of La Rochelle (1627–28) and various other sieges
           throughout the 1630s. He served in the Piedmont regiment, was made governor of Sedan in
           1642 and Marshal of France in 1658, the first commoner to earn that distinction.</note>
          </person>
@@ -395,6 +395,14 @@
             <note>Grand-Duke of Tuscany from 1621 to 1670; friend and protector of Galileo
           Galilei.</note>
          </person>
+         <person sortKey="Ferdinand_III,_Holy_Roman_Emperor" xml:id="Ferdinand3">
+            <persName type="main">Ferdinand III, Holy Roman Emperor</persName>
+            <persName type="presentation">Ferdinand III, Holy Roman Emperor</persName>
+            <idno type="VIAF">267762391</idno>
+            <birth when="1608"/>
+            <death when="1657"/>
+            <note>He reigned from 1637 to 1657.</note>
+         </person>
          <person sortKey="Gonzaga,_Maria,_Duchess_of_Mantua_and_Monferrat"
                  xml:id="MariaG">
             <persName type="main">Maria Gonzaga, duchess of Mantua and Monferrat</persName>
@@ -421,9 +429,9 @@
             <idno type="VIAF"/>
             <birth when="1601"/>
             <death when="1666"/>
-            <note>French nobleman who entered military service in 1620 at the seige of Prague. Along
+            <note>French nobleman who entered military service in 1620 at the siege of Prague. Along
           with the Vicomte de Turenne, he lead the combined Piedmontese-French forces in the
-          Piedmontese Civil War, and would win the city of Turin for France after a triple seige
+          Piedmontese Civil War, and would win the city of Turin for France after a triple siege
           lasting three months.</note>
          </person>
          <person sortKey="Nogaret_de_Candalle,_Henri_de" xml:id="Henri">
@@ -465,7 +473,7 @@
             <death when="1660"/>
             <note>Youngest son in an aristocratic family who renounced the religious life to pursue a
           military career at the age of 15. He would represent Louis XIII at the signing of the
-          articles of capitulation ending the seige of La Rochelle in 1628 and serve in many
+          articles of capitulation ending the siege of La Rochelle in 1628 and serve in many
           campaigns in the Thirty Years’ War.</note>
          </person>
          <person sortKey="Leclerc_du_Tremblay,_François,_père_Joseph" xml:id="Joseph">
@@ -528,7 +536,7 @@
             <death when="1621"/>
             <note>Grand Falconer of France and companion of Louis during the regency, he convinced the
           young king to end the regency in a palace coup in 1617. Named constable of France in 1621,
-          he died of a fever that same year while laying seige to the Huguenot town of
+          he died of a fever that same year while laying siege to the Huguenot town of
           Montauban.</note>
          </person>
          <person sortKey="Maria_Anna,_empress_consort_of_Ferdinand_III,_Holy_Roman_Emperor"
@@ -887,7 +895,7 @@
                <geo>44.85 7.72</geo>
             </location>
             <idno type="GeoNames">3180496</idno>
-            <note>Town outside of modern-day Turin claimed by France in the 16th century, beseiged and
+            <note>Town outside of modern-day Turin claimed by France in the 16th century, besieged and
           conquered by Savoy in 1588, and taken back by France during the Piedmontese Civil
           War.</note>
          </place>
@@ -921,7 +929,7 @@
             </location>
             <idno type="GeoNames">3178745</idno>
             <note>A town about 20 km northeast of Turin that submitted to Prince Thomas after a short
-          seige in late March of 1639.</note>
+          siege in late March of 1639.</note>
          </place>
          <place sortKey="Dauphiné" xml:id="Dauphine" type="region">
             <placeName type="main">Dauphiné</placeName>
@@ -949,7 +957,7 @@
                <geo>44.4 7.54</geo>
             </location>
             <idno type="GeoNames">6541864</idno>
-            <note>Commune in the Piedmont of strategic importance to Savoy and frequently beseiged by
+            <note>Commune in the Piedmont of strategic importance to Savoy and frequently besieged by
           France in the 17th century, about 90 km south-west of Turin.</note>
          </place>
          <place sortKey="Dijon" xml:id="Dijon" type="commune">
@@ -1286,15 +1294,15 @@
          <pb facs="RA_letter66_p_1.jpg"/>
          <opener>
             <salute>
-               <seg>Mon Cousin.<ref type="fnoteref" target="#d1e25087">[1]</ref>
-                  <note type="footnote" xml:id="d1e25087" n="[1]">As Princes of the Church, cardinals were addressed as
+               <seg>Mon Cousin.<ref type="fnoteref" target="#d1e25115">[1]</ref>
+                  <note type="footnote" xml:id="d1e25115" n="[1]">As Princes of the Church, cardinals were addressed as
                 “Mon Cousin” by royalty.</note>
                </seg>
             </salute>
          </opener>
-         <p>Le <persName ref="#Chavigny">Sieur Bouthillier</persName> m’aiant fait dire de vostre
+         <p>Le <persName n="first" ref="#Chavigny">Sieur Bouthillier</persName> m’aiant fait dire de vostre
           part que mes desplaisirs <lb/>vous touchoient sensiblement, et qu’ayant regret de me veoir
-          si long temps <lb/>privee de l’honneur de veoir le <persName ref="#Louis13">Roy</persName>, vostre plus grande satisfaction seroit <lb/>d’emplyer vostre <choice>
+          si long temps <lb/>privee de l’honneur de veoir le <persName n="first" ref="#Louis13">Roy</persName>, vostre plus grande satisfaction seroit <lb/>d’emplyer vostre <choice>
                <orig>pouuoir</orig>
                <reg>pouvoir</reg>
             </choice> à me procurer ce bonheur, J’ay creu estre <lb/>obligee de vous tesmoigner par le
@@ -1310,7 +1318,7 @@
          <div type="instructions">
             <head>Instruction du Sieur de Laleu.</head>
             <p>Le Sieur de Laleu dira à Monsieur le <persName n="first" ref="#Richelieu">Cardinal de
-              Richelieu</persName> que la <persName ref="#MarieM">Royne</persName> a pris <lb/>
+              Richelieu</persName> que la <persName n="first" ref="#MarieM">Royne</persName> a pris <lb/>
                <choice>
                   <orig>vne</orig>
                   <reg>une</reg>
@@ -1386,7 +1394,7 @@
                   <reg>conserver</reg>
                </choice> la libertè d’escrire à Sa Majestè.</p>
             <p>La cognoissance que la Royne a de longtemps de la fidelité du <lb/>
-               <persName ref="#Chanteloube">Pere de Chanteloup</persName>, et a son affection au service de Sa
+               <persName n="first" ref="#Chanteloube">Pere de Chanteloup</persName>, et a son affection au service de Sa
             Majesté fera <lb/>qu’Elle ne consentira jamais à l’esloigner d’aupres d’Elle; Mais
             <lb/>luy qui ne voudroit pour rien du monde apporter obstacle à <lb/>l’union qui doist
             estre entre Leurs Majestéz, non plus qu’a la <lb/>parfaite <choice>
