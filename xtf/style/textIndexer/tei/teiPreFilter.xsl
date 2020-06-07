@@ -96,6 +96,7 @@
   
   <!-- Ignored Elements. -->
   <xsl:template match="*:teiHeader|standOff">
+    <xsl:message select="concat('Debug: I am happy that I just matched a ',name(.))"/>
     <xsl:copy>
       <xsl:copy-of select="@*"/>
       <xsl:attribute name="xtf:index" select="'no'"/>
