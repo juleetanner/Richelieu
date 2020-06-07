@@ -360,7 +360,7 @@
         <birth when="1599"/>
         <death when="1662"/>
         <note>Son of a printer who entered the military at age 14 and was recognized for his bravery
-          and engineering skill at the Seige of La Rochelle (1627-28) and various other seiges
+          and engineering skill at the Siege of La Rochelle (1627-28) and various other sieges
           throughout the 1630s. He served in the Piedmont regiment, was made governor of Sedan in
           1642 and Marshal of France in 1658, the first commoner to earn that distinction.</note>
       </person>
@@ -432,6 +432,14 @@
         <note>Grand-Duke of Tuscany from 1621 to 1670; friend and protector of Galileo
           Galilei.</note>
       </person>
+      <person sortKey="Ferdinand_III,_Holy_Roman_Emperor" xml:id="Ferdinand3">
+        <persName type="main">Ferdinand III, Holy Roman Emperor</persName>
+        <persName type="presentation">Ferdinand III, Holy Roman Emperor</persName>
+        <idno type="VIAF">267762391</idno>
+        <birth when="1608"/>
+        <death when="1657"/>
+        <note>He reigned from 1637 to 1657.</note>
+      </person>
       <person sortKey="Gonzaga,_Maria,_Duchess_of_Mantua_and_Monferrat" xml:id="MariaG">
         <persName type="main">Maria Gonzaga, duchess of Mantua and Monferrat</persName>
         <persName type="presentation">Duchess of Mantua</persName>
@@ -457,9 +465,9 @@
         <idno type="VIAF"/>
         <birth when="1601"/>
         <death when="1666"/>
-        <note>French nobleman who entered military service in 1620 at the seige of Prague. Along
+        <note>French nobleman who entered military service in 1620 at the siege of Prague. Along
           with the Vicomte de Turenne, he lead the combined Piedmontese-French forces in the
-          Piedmontese Civil War, and would win the city of Turin for France after a triple seige
+          Piedmontese Civil War, and would win the city of Turin for France after a triple siege
           lasting three months.</note>
       </person>
       <person sortKey="Nogaret_de_Candalle,_Henri_de" xml:id="Henri">
@@ -501,7 +509,7 @@
         <death when="1660"/>
         <note>Youngest son in an aristocratic family who renounced the religious life to pursue a
           military career at the age of 15. He would represent Louis XIII at the signing of the
-          articles of capitulation ending the seige of La Rochelle in 1628 and serve in many
+          articles of capitulation ending the siege of La Rochelle in 1628 and serve in many
           campaigns in the Thirty Years' War.</note>
       </person>
       <person sortKey="Leclerc_du_Tremblay,_François,_père_Joseph" xml:id="Joseph">
@@ -564,7 +572,7 @@
         <death when="1621"/>
         <note>Grand Falconer of France and companion of Louis during the regency, he convinced the
           young king to end the regency in a palace coup in 1617. Named constable of France in 1621,
-          he died of a fever that same year while laying seige to the Huguenot town of
+          he died of a fever that same year while laying siege to the Huguenot town of
           Montauban.</note>
       </person>
       <person sortKey="Maria_Anna,_empress_consort_of_Ferdinand_III,_Holy_Roman_Emperor"
@@ -917,7 +925,7 @@
           <geo>44.85 7.72</geo>
         </location>
         <idno type="GeoNames">3180496</idno>
-        <note>Town outside of modern-day Turin claimed by France in the 16th century, beseiged and
+        <note>Town outside of modern-day Turin claimed by France in the 16th century, besieged and
           conquered by Savoy in 1588, and taken back by France during the Piedmontese Civil
           War.</note>
       </place>
@@ -951,7 +959,7 @@
         </location>
         <idno type="GeoNames">3178745</idno>
         <note>A town about 20 km northeast of Turin that submitted to Prince Thomas after a short
-          seige in late March of 1639.</note>
+          siege in late March of 1639.</note>
       </place>
       <place sortKey="Dauphiné" xml:id="Dauphine" type="region">
         <placeName type="main">Dauphiné</placeName>
@@ -979,7 +987,7 @@
           <geo>44.4 7.54</geo>
         </location>
         <idno type="GeoNames">6541864</idno>
-        <note>Commune in the Piedmont of strategic importance to Savoy and frequently beseiged by
+        <note>Commune in the Piedmont of strategic importance to Savoy and frequently besieged by
           France in the 17th century, about 90 km south-west of Turin.</note>
       </place>
       <place sortKey="Dijon" xml:id="Dijon" type="commune">
@@ -1360,17 +1368,16 @@
             <placeName/>
             <date/>
           </correspAction>
+          <note>Richelieu assures La Valette that requested funds and munitions have been sent, and
+            that additional troops will arrive in the spring. He also indicates he has sent a letter
+            of advice to Christine of France. Note: A version of this letter is reproduced in the
+            Avenel compilation, vol. 6, p. 265.</note>
           <correspContext>
             <ref type="next" target="#letter10">Next letter of <persName ref="#Valette">Cardinal de
                 La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>:
                 <date when="1639-01-17">17 January 1639</date></ref>
           </correspContext>
           <note resp="#Vialart">In the hand of Cherré</note>
-          <note/>
-          <note>Richelieu assures La Valette that requested funds and munitions have been sent, and
-            that additional troops will arrive in the spring. He also indicates he has sent a letter
-            of advice to Christine of France. Note: A version of this letter is reproduced in the
-            Avenel compilation, vol. 6, p. 265.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -1449,7 +1456,7 @@
         <p><choice>
             <orig>Ie</orig>
             <reg>Je</reg>
-          </choice> m'en vay à <placeName ref="#Paris">Paris</placeName> où <choice>
+          </choice> m'en vay à Paris où <choice>
             <orig>ie</orig>
             <reg>je</reg>
           </choice> feray <choice>
@@ -1637,7 +1644,7 @@
           </choice> pour l'armée, &amp; cent mil <choice>
             <orig>liures</orig>
             <reg>livres</reg>
-          </choice> pour les garnisons de <placeName ref="#Casal">Cazal</placeName> &amp; de
+          </choice> pour les garnisons de <placeName ref="#Casale">Cazal</placeName> &amp; de
             <placeName ref="#Pinerolo">Pignerol</placeName>, nous n'en <choice>
             <orig>auons</orig>
             <reg>avons</reg>
@@ -4060,7 +4067,7 @@
           </choice>'ay <choice>
             <orig>enuoyez</orig>
             <reg>envoyez</reg>
-          </choice> en <placeName ref="#Lyonnais">Lyonnois</placeName> &amp; en <placeName>
+          </choice> en <placeName ref="#Lyonnais">Lyonnois</placeName> &amp; en <placeName
             ref="#Dauphine">Dauphiné</placeName>, j'en dépesche encore <choice>
             <orig>vn</orig>
             <reg>un</reg>
@@ -4605,7 +4612,7 @@
             <date/>
           </correspAction>
           <note>La Valette thanks Richelieu for supporting the war effort and for responding quickly
-            to his letters. Christine is preparing for a seige; French forces are not prepared
+            to his letters. Christine is preparing for a siege; French forces are not prepared
             enough to take the offensive against the Spanish.</note>
         </correspDesc>
       </profileDesc>
@@ -6538,7 +6545,7 @@
               <orig>Chiuas</orig>
               <reg>Chivas</reg>
             </choice></placeName>, &amp; sa negligence extrême, sont cause de la <seg>perte de la
-              place<note>After a short seige, Chivas surrendered to Prince Thomas</note></seg>,
+              place<note>After a short siege, Chivas surrendered to Prince Thomas</note></seg>,
           &amp; m'ont obligé à quitter l'entreprise où <choice>
             <orig>i</orig>
             <reg>j</reg>
@@ -7937,7 +7944,7 @@
             <reg>sçavez</reg>
           </choice> les hommes n'estans pas corbeaux, ainsi que disoit <seg>Monsieur
               Hebron<note>Possibly Friedrich Förner (1568–1630), titular bishop of Hebron,
-              theologian and leader of the Catholic Refrom movement in Bamberg.</note></seg>, il est
+              theologian and leader of the Catholic Reform movement in Bamberg.</note></seg>, il est
           impossible <pb facs="Vialart_letters_Page_30.jpg"/>de les faires voler, <persName
             ref="#Emery">Monsieur d'Hemery</persName> est de <choice>
             <orig>nouueau</orig>
@@ -9433,9 +9440,9 @@
             <date/>
           </correspAction>
           <note>On hearing that Prince Thomas is outside of Turin, Emery has decided not to review
-            troops in Lyon. Instead he is leaving directly for Pignerol, which might be insufficiently
-            defended with troops defending Christine in Turin. He provides the locations of various
-            officers and regiments moving into the Piedmont.</note>
+            troops in Lyon. Instead he is leaving directly for Pignerol, which might be
+            insufficiently defended with troops defending Christine in Turin. He provides the
+            locations of various officers and regiments moving into the Piedmont.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -9633,6 +9640,7 @@
             <placeName/>
             <date/>
           </correspAction>
+          <note>Transcription to come.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -9718,6 +9726,7 @@
             <placeName/>
             <date/>
           </correspAction>
+          <note>Transcription to come.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -9794,7 +9803,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>L'Hospital describes his preparations to return to the front.</note>
+          <note>L'Hospital (Comte du Hallier) describes his preparations to return to the
+            front.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -9906,7 +9916,7 @@
           <lb/>tacheraÿ de m'acquitter le plus dignement <lb/>qui me sera possible. Vraÿ est il Mon-
           <lb/>seigneur que la grandeur de vos bienfaits <lb/>envers moÿ, me font craindre de
           demeurer <lb/>ingrat, touttefois la confidanz que je la <lb/>conceu par vos
-            <orig>faueurs</orig><reg>faveurs</reg> passes me <lb/><choice>
+            <choice><orig>faueurs</orig><reg>faveurs</reg></choice> passes me <lb/><choice>
             <sic>randent</sic>
             <corr>rendent</corr>
           </choice> assure pour l'advenir, en <lb/>me promettant la continuatione <lb/>des mesmes <choice>
@@ -9997,8 +10007,9 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Epinay shares the intelligence that he saw a letter signed by the Infanta Maria Anna
-            sending honors to the Queen Mother, Marie de'Medici.</note>
+          <note>Saint-Luc shares intelligence of a letter signed by Infanta Maria Anna sending
+            honors to Marie de'Medici, then living in exile in the aftermath of the Day of the
+            Dupes.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -10017,8 +10028,7 @@
             <reg>scavoir</reg>
           </choice> plustost ce que Je luy ay apris, que vostre <lb/>amy venoit avec titre
           d'Ambassadeur de <persName ref="#MariaAnna">L'Infante</persName>
-          <lb/>pour <seg>donner part<note>to inform someone of something, to share a
-            secret</note></seg> au <persName ref="#Louis13">Roy</persName> des honneurs qu'elle <choice>
+          <lb/>pour donner part au <persName ref="#Louis13">Roy</persName> des honneurs qu'elle <choice>
             <orig>auoit</orig>
             <reg>avoit</reg>
           </choice>
@@ -10775,14 +10785,17 @@
         <pb facs="MLM99932_136121v_0001-hpr.jpg"/>
         <lb/>
         <opener><salute>Monsieur</salute></opener>
-        <p><lb/>Le Roy <choice>
+        <p><lb/>Le <persName ref="#Louis13">Roy</persName>
+          <choice>
             <orig>escriuant</orig>
             <reg>escrivant</reg>
           </choice> a Vostre Altesse en <lb/><choice>
             <orig>faueur</orig>
             <reg>faveur</reg>
-          </choice> du frere de Monsieur L’<orig>Euesque</orig><reg>Evesque</reg> de <placeName
-            ref="#Beziers">Beziers</placeName>
+          </choice> du frere de Monsieur L’<choice>
+            <orig>Euesque</orig>
+            <reg>Evesque</reg>
+          </choice> de <placeName ref="#Beziers">Beziers</placeName>
           <lb/>sur le <choice>
             <orig>suiet</orig>
             <reg>sujet</reg>
@@ -10809,7 +10822,7 @@
               <reg>serviteur</reg>
             </choice></salute>
           <lb/><signed>Le Cardinal de Richelieu</signed>
-          <lb/><dateline>de Rueil le 19 Januier 1639</dateline>
+          <lb/><dateline>de <placeName ref="#Rueil">Rueil</placeName> le 19 Januier 1639</dateline>
           <lb/>Monsieur le Grand Duc</closer>
       </body>
     </text>
@@ -10818,7 +10831,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title><persName ref="#Richelieu">Cardinal Richelieu</persName> to the <persName
+          <title>Draft of a letter from <persName ref="#Richelieu">Cardinal Richelieu</persName> to the <persName
               ref="#Alvin">Duc d'Alvin</persName>, 27 February 1635</title>
         </titleStmt>
         <publicationStmt>
@@ -11118,7 +11131,7 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Sully asks that Richelieu grant the requests forthcoming from his son, the Duc
+          <note>Sully asks that Richelieu grant requests forthcoming from his son, the Duc
             d'Orval.</note>
         </correspDesc>
       </profileDesc>
@@ -11418,7 +11431,7 @@
           <choice>
             <sic>sanre tournant</sic>
             <corr>sans retournant</corr>
-          </choice>. Je croyrois <lb/>luy faire tort sy je la <choice>
+          </choice>. Je croyrois <lb/><persName ref="#Charles1">luy</persName> faire tort sy je la <choice>
             <sic>lesois</sic>
             <corr>laissois</corr>
           </choice> plus <lb/>longue. C'est pour quoy me <choice>
@@ -11579,7 +11592,7 @@
           Consrs. en la Cour du Parlement de Paris, la <lb/>restitution d'<sic resp="JT"
             cert="medium">electeure</sic><corr>electeur</corr>, et un estat certain des places de
           seureté, pour estre i- <lb/>ceux executez dans 6. mois, pour toute prefixion, sans que
-          l'affaire de <placeName ref="#Bearn">Bear<supplied>n</supplied></placeName>
+          l'affaire de <placeName ref="#Bearn">Bearn</placeName>
           <lb/>y peut apporter aucun accroche, pour lequel il estoit particulierement co<damage><gap
               agent="tear"/><supplied>n-</supplied></damage>
           <lb/><choice>
