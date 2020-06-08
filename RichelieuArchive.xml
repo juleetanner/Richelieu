@@ -702,7 +702,10 @@
         <idno type="VIAF">12314392</idno>
         <birth when="1585-09-09"/>
         <death when="1642-12-04"/>
-        <note/>
+        <note>As first minister to Louis XIII from 1624 to 1642, Richelieu would strengthen the
+          monarchy by reducing the influence of the nobility and disarming the Huguenots; he would
+          also make France the ascendant power in Europe by allying with Protestant nations against
+          the Catholic Hapsburgs.</note>
       </person>
       <person sortKey="Saint-Maurice,_Thomas-François_Chabod,_marquis_de" xml:id="SMaurice">
         <persName type="main">Thomas-François Chabod, marquis de Saint-Maurice</persName>
@@ -9917,8 +9920,10 @@
           </choice> pour cette dernier, augmenta- <lb/>tione de mon Regimente, en la quel je
           <lb/>tacheraÿ de m'acquitter le plus dignement <lb/>qui me sera possible. Vraÿ est il Mon-
           <lb/>seigneur que la grandeur de vos bienfaits <lb/>envers moÿ, me font craindre de
-          demeurer <lb/>ingrat, touttefois la confidanz que je la <lb/>conceu par vos
-            <choice><orig>faueurs</orig><reg>faveurs</reg></choice> passes me <lb/><choice>
+          demeurer <lb/>ingrat, touttefois la confidanz que je la <lb/>conceu par vos <choice>
+            <orig>faueurs</orig>
+            <reg>faveurs</reg>
+          </choice> passes me <lb/><choice>
             <sic>randent</sic>
             <corr>rendent</corr>
           </choice> assure pour l'advenir, en <lb/>me promettant la continuatione <lb/>des mesmes <choice>
@@ -10833,8 +10838,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title>Draft of a letter from <persName ref="#Richelieu">Cardinal Richelieu</persName> to the <persName
-              ref="#Alvin">Duc d'Alvin</persName>, 27 February 1635</title>
+          <title>Draft of a letter from <persName ref="#Richelieu">Cardinal Richelieu</persName> to
+            the <persName ref="#Alvin">Duc d'Alvin</persName>, 27 February 1635</title>
         </titleStmt>
         <publicationStmt>
           <publisher>Julee Tanner</publisher>
@@ -11030,8 +11035,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Richelieu will do all that he can to honor Madam's request and help the Chevalier de Chazueil out of a
-            difficult situation.</note>
+          <note>Richelieu will do all that he can to honor Madam's request and help the Chevalier de
+            Chazueil out of a difficult situation.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
