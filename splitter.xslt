@@ -131,37 +131,37 @@
     </xsl:copy>
   </xsl:template>
 
+  <!-- put an n=first on the first of any given <persName> -->
+  <xsl:template match="body">
+    <xsl:variable name="my_persNames" select=".//persName"/>
+    <xsl:variable name="my_placeNames" select=".//placeName"/>
+    <xsl:copy>
+      <xsl:apply-templates select="@*"/>
+      <xsl:apply-templates select="node()">
+        <xsl:with-param name="persNames_in_this_body" select="$my_persNames" tunnel="yes"/>
+        <xsl:with-param name="placeNames_in_this_body" select="$my_placeNames" tunnel="yes"/>
+      </xsl:apply-templates>
+    </xsl:copy>
+  </xsl:template>
   <!--
-    Note: following two templates have no concern of overwriting an existing
+    Note: following template has no concern of overwriting an existing
     (persName|placeName)/@n, because there are none in the input.
   -->
-  <!-- put an n=first on the first of any given <persName> -->
-  <xsl:template match="body//persName">
-    <xsl:variable name="me" select="."/>
+  <xsl:template match="body//(persName|placeName)">
+    <xsl:param tunnel="yes" name="persNames_in_this_body"/>
+    <xsl:param tunnel="yes" name="placeNames_in_this_body"/>
     <xsl:variable name="myRef" select="normalize-space(@ref)"/>
-    <xsl:variable name="myBody" select="ancestor::body[1]"/>
     <xsl:copy>
-      <xsl:if test="not( some $pN in $myBody//persName[normalize-space(@ref) eq $myRef] satisfies $me >> $pN )">
+      <xsl:if test="
+        . is $persNames_in_this_body[normalize-space(@ref) eq $myRef][1]
+        or
+        . is $placeNames_in_this_body[normalize-space(@ref) eq $myRef][1]">
         <xsl:attribute name="n" select="'first'"/>
       </xsl:if>
       <xsl:apply-templates select="@*|node()"/>
     </xsl:copy>
   </xsl:template>
-     
-  <!-- put an n=first on the first of any given <placeName> -->
-  <xsl:template match="body//placeName">
-    <xsl:variable name="myRef" select="normalize-space(@ref)"/>
-    <xsl:variable name="me" select="."/>
-    <xsl:variable name="myRef" select="normalize-space(@ref)"/>
-    <xsl:variable name="myBody" select="ancestor::body[1]"/>
-    <xsl:copy>
-      <xsl:if test="not( some $pN in $myBody//placeName[normalize-space(@ref) eq $myRef] satisfies $me >> $pN )">
-        <xsl:attribute name="n" select="'first'"/>
-      </xsl:if>
-      <xsl:apply-templates select="@*|node()"/>
-    </xsl:copy>
-  </xsl:template>
-  
+       
   <!--
     Convert <note> (which is encoded where the note is anchored) to a sequence
     of <ref><note>, as XTF expects the <ref>, and does not care where the <note>
