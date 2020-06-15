@@ -877,6 +877,15 @@
         <idno type="GeoNames">3036059</idno>
         <note>Commune in Brittany on the northwestern coast of France.</note>
       </place>
+      <place sortKey="Barau" xml:id="Barau" type="commune">
+        <placeName type="main">Bärau</placeName>
+        <placeName type="presentation">Bärau</placeName>
+        <location>
+          <geo>46.93 7.81</geo>
+        </location>
+        <idno type="GeoNames">2661618</idno>
+        <note>Town outside of Bern, Switzerland.</note>
+      </place>
       <place sortKey="Barcelonnette" xml:id="Barcelonnette" type="commune">
         <placeName>Barcelonnette</placeName>
         <placeName>Barcelonnette</placeName>
@@ -896,6 +905,15 @@
         <idno type="GeoNames">3032833</idno>
         <note>Commune in Southern France, about 10 km from the Mediterranean.</note>
       </place>
+      <place sortKey="Bourg-Saint-Maurice" xml:id="Bourg" type="commune">
+        <placeName type="main">Bourg-Saint-Maurice</placeName>
+        <placeName type="presentation">Bourg-Saint-Maurice</placeName>
+        <location>
+          <geo>45.61 6.77</geo>
+        </location>
+        <idno type="GeoNames">3030949</idno>
+        <note>Town in northeast Savoy.</note>
+      </place>
       <place sortKey="Buzay" xml:id="Buzay" type="commune">
         <placeName type="main">Buzay</placeName>
         <placeName type="presentation">Buzay</placeName>
@@ -913,6 +931,16 @@
         </location>
         <idno type="GeoNames">3034397</idno>
         <note>One of traditional provinces of France, in the southeast along the Pyrenees.</note>
+      </place>
+      <place sortKey="Bresse" xml:id="Bresse" type="region">
+        <placeName type="main">Bresse</placeName>
+        <placeName type="presentation">Bresse</placeName>
+        <location>
+          <geo>46.5 5.25</geo>
+        </location>
+        <idno type="GeoNames">3030316</idno>
+        <note>Lowland region of Savoy that was ceded to France by the 1601 Treaty of Lyon and later
+          became part of Burgundy.</note>
       </place>
       <place sortKey="Brienne" xml:id="Brienne" type="commune">
         <placeName type="main">Brienne-le-Château</placeName>
@@ -945,6 +973,16 @@
         <note>Fortified town in the Piedmont, about 60 km east of Turin. By the 1635 Treaty of
           Rivoli with the dukes of Savoy and Parma, France would occupy Casale and Pinerolo as a
           defense against Spanish encroachment from Milan (Tapié, p. 330).</note>
+      </place>
+      <place sortKey="Chambéry" xml:id="Chambery" type="commune">
+        <placeName type="main">Chambéry</placeName>
+        <placeName type="presentation">Chambéry</placeName>
+        <location>
+          <geo>45.57 5.92</geo>
+        </location>
+        <idno type="GeoNames">3027422</idno>
+        <note>Former capital of Savoy in the northwest of the duchy. The capital was moved to Turin
+          in 1563 as a defense against French encroachment.</note>
       </place>
       <place sortKey="Chancé" xml:id="Chance" type="commune">
         <placeName type="main">Chancé</placeName>
@@ -1192,6 +1230,16 @@
         <idno type="GeoNames">3002683</idno>
         <note>Commune in the Île-de-France region of north-central France.</note>
       </place>
+      <place sortKey="Pragelato" xml:id="Pragelato" type="commune">
+        <placeName type="main">Pragelato</placeName>
+        <placeName type="presentation">Pragelato</placeName>
+        <location>
+          <geo>45.01 6.94</geo>
+        </location>
+        <idno type="GeoNames">3169958</idno>
+        <note>Part of the Escartons Republic, a semi-independent French state that was granted to
+          Savoy by the 1713 Treaty of Utrecht.</note>
+      </place>
       <place sortKey="Provence" xml:id="Provence" type="region">
         <placeName type="main">Provence</placeName>
         <placeName type="presentation">Provence</placeName>
@@ -1217,7 +1265,7 @@
         <location>
           <geo>46.94 -1.51</geo>
         </location>
-        <idno type="geonames">2983221</idno>
+        <idno type="GeoNames">2983221</idno>
         <note>Town in the Vendée, the former province of Poitou, in western France.</note>
       </place>
       <place sortKey="Rueil-Malmaison" xml:id="Rueil" type="commune">
@@ -1260,6 +1308,15 @@
         <idno type="GeoNames">3167314</idno>
         <note>Town in the province of Vercelli, about 50 km northeast of Turin.</note>
       </place>
+      <place sortKey="Susa" xml:id="Susa" type="commune">
+        <placeName type="main">Susa</placeName>
+        <placeName type="presentation">Susa</placeName>
+        <location>
+          <geo>45.14 7.06</geo>
+        </location>
+        <idno type="GeoNames">3166018</idno>
+        <note>Town about 50 km west of Turin.</note>
+      </place>
       <place sortKey="Turin" xml:id="Turin" type="commune">
         <placeName type="main">Turin</placeName>
         <placeName type="presentation">Turin</placeName>
@@ -1269,6 +1326,25 @@
         <idno type="GeoNames">3165524</idno>
         <note>City in the Piedmont and capital of the Duchy of Savoy in the 16th and 17th
           centuries.</note>
+      </place>
+      <place sortKey="Valle_d'Aosta" xml:id="Valledaosta" type="region">
+        <placeName type="main">Valle d'Aosta</placeName>
+        <placeName type="presentation">Valle d'Aosta</placeName>
+        <location>
+          <geo>45.75 7.25</geo>
+        </location>
+        <idno type="GeoNames">3164857</idno>
+        <note>Mountainous region in northwestern Italy, part of Savoy in the 17th century.</note>
+      </place>
+      <place sortKey="Vallery" xml:id="Vallery" type="commune">
+        <placeName type="main">Vallery</placeName>
+        <placeName type="presentation">Vallery</placeName>
+        <location>
+          <geo/>
+        </location>
+        <idno type="GeoNames"/>
+        <note>Town in the Yonne department of Bourgogne-Franche-Comte, belonging to the house of
+          Condé in the 17th century.</note>
       </place>
       <place sortKey="Vercelli" xml:id="Vercelli" type="commune">
         <placeName type="main">Vercelli</placeName>
@@ -9573,6 +9649,655 @@
             <orig>Auril</orig>
             <reg>Avril</reg>
           </choice>, 1639.</dateline>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter33">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Emery">Sieur d'Emery</persName> to <persName ref="#Richelieu"
+              >Cardinal Richelieu</persName>, 20 April 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="35" to="36"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmontese Civil War</term>
+            <term>Reconnaissance/spying</term>
+            <term>Troop movements</term>
+            <term>Preferment</term>
+            <term>Largesse</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Emery"/>
+            <placeName ref="#Grenoble"/>
+            <date when="1639-04-20"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>On his way from Lyon to Pignerol, Emery has stopped in Grenoble, where Dom Fœlix,
+            protector of Christine, duchess of Savoy, showed him letters from the Princes Tomasso
+            and Maurizio, and provided information on preparedness, numbers, and movements of
+            French, Savoyard, Spanish, and Tomasso's troops. Emery promised Fœlix that France would
+            reward the protectors of Christine should Savoy fall.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_36.jpg"/>
+        <p>En <choice>
+            <orig>escriuant</orig>
+            <reg>escrivant</reg>
+          </choice> en cette ville <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay <choice>
+            <orig>trouué</orig>
+            <reg>trouvé</reg>
+          </choice>
+          <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> Gentilhomme de Dom-Fœlix qui demandoit à me voir, cela m'a obligé d'aller <choice>
+            <orig>iusques</orig>
+            <reg>jusques</reg>
+          </choice> à <placeName ref="#Barau">Barau</placeName>, où nous nous sommes veus, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> l'ay <choice>
+            <orig>trouué</orig>
+            <reg>trouvé</reg>
+          </choice> dans les interest de <persName ref="#Christine">Madame</persName> &amp; de
+            <persName ref="#CharlesE2">son fils</persName> qu'il a entre les mains <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> les Princesses. Il a reçeu des Lettres des Princes, <persName ref="#Maurizio"
+            >Cardinal</persName> &amp; <persName ref="#Tommaso">Thomas</persName> que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay leuës, par lesquelles ils luy <choice>
+            <orig>escriuent</orig>
+            <reg>escrivent</reg>
+          </choice> qu'il s'en alloit dans le crime de leze <choice>
+            <orig>Maiesté</orig>
+            <reg>Majesté</reg>
+          </choice> pour tremper dans le dessein de Madame, &amp; partant qu'il les <choice>
+            <orig>deuoit</orig>
+            <reg>devoit</reg>
+          </choice> reconnoistre en cette qualité, &amp; leur obeyr. <choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'ay aussi veu la response qu'il leur a faite, par laquelle il leur escrit qu'en <choice>
+            <orig>conseruant</orig>
+            <reg>conservant</reg>
+          </choice> les Estats, &amp; la personne de son <choice>
+            <orig>Souuerain</orig>
+            <reg>Souverain</reg>
+          </choice>, &amp; obeyssant à Madame, que <choice>
+            <orig>iuridiquement</orig>
+            <reg>juridiquement</reg>
+          </choice>
+          <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> esté instituée tutrice, &amp; Regente, il croyoit ne <choice>
+            <orig>pouuoir</orig>
+            <reg>pouvoir</reg>
+          </choice> encourir aucun crime, mais meriter grande loüange, &amp; que le chemin qu'ils
+          prenoient est celuy de la ruine de l'Estat auquel ils ont grand interest.</p>
+        <p>Cét homme est parent de l'Abbé de la Monta, il est fort hay des freres, &amp; craint de
+          tomber entre leurs mains, l'Abbé d'Aglié est aupres de luy, il y a raison de croire autant
+          qu'on en peut juger que cét homme ne fera point faux bon. <choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> luy ay demandé quel ordre on mettoit à la <choice>
+            <orig>Sauoye</orig>
+            <reg>Savoye</reg>
+          </choice>, parce que <placeName ref="#Valledaosta"><choice>
+              <orig>Laualdost</orig>
+              <reg>Lavaldost</reg>
+            </choice></placeName> s'estant rendüe à ses freres, ils <choice>
+            <orig>peuuent</orig>
+            <reg>peuvent</reg>
+          </choice> du soir au matin faire passer quatre ou cinq mil hommes, &amp; mil <choice>
+            <orig>cheuaux</orig>
+            <reg>chevaux</reg>
+          </choice>.</p>
+        <p>Il a respondu qu'il tenoit 500. hommes de pied d'ordonnances en deux logemens qu'il loge
+          au <placeName ref="#Bourg">Bourg de sainct Maurice</placeName>, &amp; aux <choice>
+            <orig>enuirons</orig>
+            <reg>environs</reg>
+          </choice>, pour s'opposer à leur passage, &amp; qu'il seroit à propos qu'il plût au
+            <persName ref="#Louis13">Roy</persName> de faire <choice>
+            <orig>leuer</orig>
+            <reg>lever</reg>
+          </choice> quatre Regimens; <choice>
+            <orig>sçauoir</orig>
+            <reg>sçavoir</reg>
+          </choice> en <placeName ref="#Dauphine">Dauphiné</placeName>, &amp; deux en <placeName
+            ref="#Lyonnais">Lyonnois</placeName> pour se <choice>
+            <orig>ioindre</orig>
+            <reg>joindre</reg>
+          </choice> à luy, en cas que les ennemis passassent du piedmont dans la <choice>
+            <orig>Sauoye</orig>
+            <reg>Savoye</reg>
+          </choice>.</p>
+        <p><choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'ay voulu <choice>
+            <orig>sçauoir</orig>
+            <reg>sçavoir</reg>
+          </choice> de luy en quelle seureté estoit le <persName ref="#CharlesE2">Duc</persName>
+          &amp; ses sœurs, &amp; ce qu'il en feroit, en cas que les ennemis vinssent si forts dans
+          le pays, qu'il ne les peut repousser.</p>
+        <p>Il m'a dit qu'il ne voyoit point de creatures du Prince Thomas capables de faire aucune
+          chose, qu'il <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> deux mil-hommes de pied pour sa garde, &amp; 100. Carabins dans le Casteau de
+            <placeName ref="#Chambery">Chamberry</placeName>, &amp; que les freres estoient maistres
+          de la campagne, qu'il estoit resolu de s'enfermer <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> le Duc &amp; ses sœurs dans le <placeName ref="#Montmelian">Casteau de
+            Montmelian</placeName>, &amp; qu'il est <choice>
+            <orig>pourueu</orig>
+            <reg>pourveu</reg>
+          </choice> de ce qu'il luy faut pour trois ans.</p>
+        <p><choice>
+            <orig>I</orig>
+            <reg>J</reg>
+          </choice>'ay aussi voulu <choice>
+            <orig>sçauoir</orig>
+            <reg>sçavoir</reg>
+          </choice> de luy si <placeName ref="#Turin">Turin</placeName> estoit assiegé, &amp;
+            <persName ref="#Christine">Madame</persName> enfermée dedans comme elle a resolu, si
+          elle s'effrayoit, &amp; qu'elle traitât <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> les Ennemis pour <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> la liberté, &amp; qu'elle luy ordonna de remettre la <choice>
+            <orig>Sauoye</orig>
+            <reg>Savoye</reg>
+          </choice>, &amp; les places entre les <pb facs="Vialart_letters_Page_37.jpg"/> mains des
+          freres, ce qu'il feroit, &amp; s'il estoit Maistre de Mommelian, il m'a reparty que
+          quelque ordre que Madame donnât pour cela, qu'il n'y obeyroit pas, &amp; qu'il <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> assez de <choice>
+            <orig>pouuoir</orig>
+            <reg>pouvoir</reg>
+          </choice> sur le <choice>
+            <orig>Gouuerneur</orig>
+            <reg>Gourverneur</reg>
+          </choice> de Mommelian, &amp; sur les Troupes qui seront dedans pour en estre le Maistre,
+          toutes-fois &amp; quantes qu'il voudroit, &amp; qu'il le deffendroit tout autant qu'il
+          pourroit, &amp; que s'il estoit forcé de le mettre entre les mains de quelqu'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice>, ce seroit entre celles du Roy, comme Protecteur du Duc son Maistre, &amp; qu'il
+          me supplioit de me rendre <choice>
+            <sic>garend</sic>
+            <corr>garent</corr>
+          </choice> pour luy <choice>
+            <orig>enuers</orig>
+            <reg>envers</reg>
+          </choice> le Roy &amp; Vostre Eminence, &amp; que le <persName ref="#Aglie">Comte
+            Philippes</persName> &amp; l'Abbé d'Aglié respondroient de luy.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> le pressay encore pour <choice>
+            <orig>sçauoir</orig>
+            <reg>sçauoir</reg>
+          </choice> de luy si Turin estoit assiegé, ce qu'il feroit du <persName ref="#Monod">Pere
+            Monot</persName> ; pour la premiere demande il me respondit qu'il n'en <choice>
+            <orig>sçauoit</orig>
+            <reg>sçavoit</reg>
+          </choice> rien, &amp; par la seconde il me dit qu'il faisoit tres-soigneusement garder le
+          Pere Monot, comme y allant de son interest.</p>
+        <p>Ne sçachant point encore si Turin estoit assiegé, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne creus pas luy <choice>
+            <orig>deuoir</orig>
+            <reg>devoir</reg>
+          </choice> remontrer comme il estoit plus à propos de remettre le Duc, ses sœurs, &amp; le
+          Pere Monot, entre les mains du Roy, en cas du siege de Mommelian, que non pas les enfermer
+          dans la place par la crainte que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay eu de donner de l'ombrage à cét esprit, <choice>
+            <orig>ioint</orig>
+            <reg>joint</reg>
+          </choice> que peut-estre Turin ne sera pas assiegé, &amp; il suffira lors d'agir aupres de
+          luy par le moyen de l'Abbé d'Aglié, &amp; de la necessité en laquelle il se <choice>
+            <orig>trouuera</orig>
+            <reg>trouvera</reg>
+          </choice> de ce que le Roy voudra ; seulement <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> me contentay de luy dire que le Roy ne desiroit de luy, sinon qu'il
+            <orig>conseruât</orig><reg>conservât</reg> son affection à Madame, &amp; à son fils,
+          &amp; qui n'apprehendât point l'<choice>
+            <orig>éuenement</orig>
+            <reg>évenement</reg>
+          </choice> des affaires, que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> luy promettois de la part de sa <choice>
+            <orig>Maiesté</orig>
+            <reg>Majesté</reg>
+          </choice>, &amp; de Vostre Eminence, qu'il ne seroit point abandonné, &amp; qu'en cas d'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> succés desesperé, que dans le Royaume il auroit autant d'honneurs, d'employs,
+          &amp; de biens, comme il <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> dans les Estats de Monsieur de <choice>
+            <orig>Sauoye</orig>
+            <reg>Savoye</reg>
+          </choice>, &amp; que sa <choice>
+            <orig>Maiesté</orig>
+            <reg>Majesté</reg>
+          </choice> &amp; Vostre Eminence luy escriroient sur ce <choice>
+            <orig>suiet</orig>
+            <reg>sujet</reg>
+          </choice>.</p>
+        <p>Ce qu'il y a donc à faire pour le regard de Dom Fœlix, c'est de luy <choice>
+            <orig>enuoyer</orig>
+            <reg>envoyer</reg>
+          </choice> des Lettres du Roy, ou de vostre Eminence, par lesquelles on luy <choice>
+            <orig>escriue</orig>
+            <reg>escrive</reg>
+          </choice> qu'on est extremement satis-fait des asseurances qu'il m'a données pour le <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> de Madame &amp; de son fils, &amp; qu'on l'engage par les esperances que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> luy ay données en tout <choice>
+            <orig>éuenement</orig>
+            <reg>évenement</reg>
+          </choice> qu'on aura soin de luy.</p>
+        <p>Ce qu'il y a encore à faire sur ce <choice>
+            <orig>suiet</orig>
+            <reg>sujet</reg>
+          </choice>, est de donner charge à <persName ref="#Lesdiguieres">Monsieur
+            Desdiguieres</persName>, &amp; à Monsieur d'Alincourt, de <choice>
+            <orig>leuer</orig>
+            <reg>lever</reg>
+          </choice> deux Regimens chacun, ce qui leur sera fort facile, puisque c'est pour emmener
+          dans ce pays, mais il faut surseoir cét ordre, <choice>
+            <orig>iusques</orig>
+            <reg>jusques</reg>
+          </choice> à ce que nos Troupes soient passées en Italie, autrement tous nos soldats se <choice>
+            <orig>ietteront</orig>
+            <reg>jetteront</reg>
+          </choice> dans ces Regimens.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> voy ces quatre Regimens necessaires, non seulement à la <choice>
+            <orig>conseruation</orig>
+            <reg>conservation</reg>
+          </choice> de la <choice>
+            <orig>Sauoye</orig>
+            <reg>Savoye</reg>
+          </choice>, mais encore au <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> du Roy, car si durant cette Campagne, apres que nos Troupes seront passées, le
+          Prince Thomas voit ne <choice>
+            <orig>pouuoir</orig>
+            <reg>pouvoir</reg>
+          </choice> pas faire grande chose en Piedmont, peut-estre pourroit-il bien <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> quelques Troupes passer par <placeName ref="#Valledaosta"><choice>
+              <orig>Laualdost</orig>
+              <reg>Lavaldost</reg>
+            </choice></placeName> en la <choice>
+            <orig>Sauoye</orig>
+            <reg>Savoye</reg>
+          </choice>, &amp; donner l'allarme aux <choice>
+            <orig>Prouinces</orig>
+            <reg>Provinces</reg>
+          </choice> de Dauphiné, Lyonnois, &amp; <placeName ref="#Bresse">Bresse</placeName>.</p>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> croirois encores si ces Troupes estoient obligées d'aller en <choice>
+            <orig>Sauoye</orig>
+            <reg>Savoye</reg>
+          </choice> de donner le Commandement de cette petite armée à Dom Fœlix, &amp; mettre
+          quelque bon Mareschal de Camp sous luy, afin de l'obliger de l'acquerir.</p>
+        <p><choice>
+            <orig>Auant</orig>
+            <reg>Avant</reg>
+          </choice> que d'aller à Barault, &amp; voyant que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne <choice>
+            <orig>pouuois</orig>
+            <reg>pouvois</reg>
+          </choice> estre si-tost à <placeName ref="#Pinerolo">Pignerol</placeName>, <pb
+            facs="Vialart_letters_Page_38.jpg"/> j'<choice>
+            <orig>enuoyay</orig>
+            <reg>envoyay</reg>
+          </choice>
+          <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> memoire à Monsieur Malisy &amp; de la Court, pour faire tenir à Monsieur le
+            <persName ref="#Valette">Cardinal de la Valette</persName>, qu'il faut negotier <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice>
+          <persName ref="#Christine">Madame</persName> durant le siege, &amp; <choice>
+            <orig>auant</orig>
+            <reg>avant</reg>
+          </choice> iceluy, duquel memoire <choice>
+            <orig>i'enuoye</orig>
+            <reg>j'envoye</reg>
+          </choice> la coppie à <persName ref="#Chavigny">Monsieur de <choice>
+              <orig>Chauigny</orig>
+              <reg>Chavigny</reg>
+            </choice></persName> sur lequel <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay besoin d'<choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice>
+          <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> commandement de Vostre Eminence <choice>
+            <orig>auant</orig>
+            <reg>avant</reg>
+          </choice> que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'entre en negotiation <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> Madame, aussi <choice>
+            <orig>ay-ie</orig>
+            <reg>ay-je</reg>
+          </choice> crû qu'il estoit à propos que Monsieur le Cardinal de la Valette eût comme de
+          luy ces premieres propositions pour ne paroistre pas <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> esté apportées, ny pensées à la Cour. Ce qui donneroit encore à Madame de <choice>
+            <orig>nouuelles</orig>
+            <reg>nouvelles</reg>
+          </choice> deffiances, ne voyant pas ces rencontres assez pressantes pour luy oster l'<choice>
+            <orig>aueuglement</orig>
+            <reg>aveuglement</reg>
+          </choice> dans lequel elle est, &amp; comme elle a veu que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay <choice>
+            <orig>tousiours</orig>
+            <reg>tousjours</reg>
+          </choice> butté à ce que contient ce memoire ; j'ay apprehendé que si <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> luy en faisois les premieres propositions, qu'elle creut que ce fut encore <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice>
+          <choice>
+            <orig>ouurage</orig>
+            <reg>ouvrage</reg>
+          </choice> de moy, aussi Monsieur, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne commenceray point à negocier <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> elle, si elle est libre <choice>
+            <orig>auant</orig>
+            <reg>avant</reg>
+          </choice> le retour de ce Courrier, qui m'apportera les Commandemens de Vostre Eminence
+          sur ce memoire.</p>
+        <p>Pour l'estat des affaires du Piedmont, <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'en escriray à Vostre Eminence ce que m'en a escrit Dom Fœlix, &amp; ce que j'en
+          ay appris des autres Lettres qui m'ont esté escrites de Pignerol &amp; de <placeName
+            ref="#Vallery">Vallery</placeName>.</p>
+        <p>Les Ennemis estoient au deça, &amp; au delà du <placeName ref="#Pau">Pau</placeName> aux <choice>
+            <orig>enuirons</orig>
+            <reg>environs</reg>
+          </choice> de <placeName ref="#Turin">Turin</placeName>
+          <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> quinze mil hommes de pied, &amp; quatre mil <choice>
+            <orig>cheuaux</orig>
+            <reg>chevaux</reg>
+          </choice>, &amp; quelque canon, le <persName ref="#Tommaso">Prince Thomas</persName> y
+          estoit en personne, le <persName ref="#Leganes">Marquis de Leganez</persName> n'<choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> point encore <choice>
+            <orig>ioint</orig>
+            <reg>joint</reg>
+          </choice> l'armée, &amp; le <persName ref="#Maurizio">Cardinal de <choice>
+              <orig>Sauoye</orig>
+              <reg>Savoye</reg>
+            </choice></persName> estoit à Yurée, il n'y <choice>
+            <orig>auoit</orig>
+            <reg>avoit</reg>
+          </choice> point encore de <choice>
+            <orig>circonualation</orig>
+            <reg>circonvalation</reg>
+          </choice> commencée, ny aucun poste pris pour empescher l'entrée des <choice>
+            <orig>viures</orig>
+            <reg>vivres</reg>
+          </choice>, ny les moulins ruynez, comme il est fort facile.</p>
+        <p>Veillanne tient pour Madame, &amp; le Casteau est muny dans la Citadelle de <placeName
+            ref="#Susa">Suze</placeName>, il y a <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> François qui en est <choice>
+            <orig>Gouuerneur</orig>
+            <reg>Gouverneur</reg>
+          </choice>, &amp; quelques Compagnies de Nerestan, &amp; de Courcelle, la <choice>
+            <orig>Cauallerie</orig>
+            <reg>Cavallerie</reg>
+          </choice> des Ennemis fait des cour ses <choice>
+            <orig>iusques</orig>
+            <reg>jusques</reg>
+          </choice> à Veillanne.</p>
+        <p>Dans Turin y a six mil hommes de guerre, &amp; six cens <choice>
+            <orig>cheuaux</orig>
+            <reg>chevaux</reg>
+          </choice>.</p>
+        <p>Le Marquis d'Aglié, &amp; Sainct Thomas qui estoit à Pignerol ont esté appellez à Turin,
+          le peuple paroit aller mieux à present que l'on n'esperoit.</p>
+        <p>Pour moy Monsieur, contre toutes les Lettres qui viennent de ce pays-là, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> ne voy pas que les Ennemis attaquent Turin, estant muny &amp; fort d'hommes
+          comme il est ; Et <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> pense, ou qu'ils se sont approchez pour effrayer Madame, ou de la faire <choice>
+            <orig>sousleuer</orig>
+            <reg>souslever</reg>
+          </choice> le peuple contre les gens de guerre, ou bien que le Prince Thomas at fait <choice>
+            <orig>aduancer</orig>
+            <reg>advancer</reg>
+          </choice>
+          <choice>
+            <orig>iusques</orig>
+            <reg>jusques</reg>
+          </choice> à Turin les forces du Marquis de Leganez, sous l'esperance de quelques
+          intelligences, mais quand il sera question de commencer <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice>
+          <choice>
+            <orig>circonuallation</orig>
+            <reg>circonvallation</reg>
+          </choice>, asseurément le Marquis de Leganez ne s'y engagera point.</p>
+        <p>Turin n'estant pas attaqué, ou se deffendant, il n'y a pas lieu de douter de Pignerol,
+          n'estant pas croyable que les Ennemis laissent <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> grande place derriere eux, où il y a nombre de gens de guerre.</p>
+        <p>Le Ministre <choice>
+            <orig>Dauid</orig>
+            <reg>David</reg>
+          </choice>
+          <choice>
+            <orig>arriue</orig>
+            <reg>arrive</reg>
+          </choice> presentement de <placeName ref="Pragelato">Pragellas</placeName>, &amp; dit que
+          Monsieur de Malisy leur a <choice>
+            <orig>enuoyé</orig>
+            <reg>envoyé</reg>
+          </choice> deux cens hommes de pied, trois cens qu'ils luy <choice>
+            <orig>auoient</orig>
+            <reg>avoient</reg>
+          </choice>
+          <choice>
+            <orig>enuoyé</orig>
+            <reg>envoyé</reg>
+          </choice> dans Pignerol, nous y <choice>
+            <orig>auons</orig>
+            <reg>avons</reg>
+          </choice> fait passer <choice>
+            <orig>auiourd</orig>
+            <reg>aujourd</reg>
+          </choice>'huy quatre cens hommes de pied pour qu'ils y soient plutost.</p>
+        <p>La seureté de Pignerol m'ayant fait rompre le voyage de <placeName ref="#Languedoc"
+            >Languedoc</placeName> &amp; <placeName ref="#Provence"><choice>
+              <orig>Prouence</orig>
+              <reg>Provence</reg>
+            </choice></placeName> que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> voulois faire pour haster les Troupes, &amp; les choses estant en l'estat que
+            <pb facs="Vialart_letters_Page_39.jpg"/>
+          <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay escrit à Vostre Eminence, j'ay failly à reprendre ce dessein, neantmoins <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> poursuy mon voyage à Pignerol pour voir sur les lieux s'il y a quelque chose à
+          faire pour le <choice>
+            <orig>seruice</orig>
+            <reg>service</reg>
+          </choice> du Roy, ou à l'armée, ou <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> Madame, &amp; si <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'y voy rien de pressant, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> me rendray icy dans le commencement du mois prochain, qu'est le temps que nostre
+          Infanterie commencera à passer pour la haster, &amp; la faire passer plus complette, s'il
+          se peut, apprehendant beaucoup plus le manquement d'Infanterie, que non pas de <choice>
+            <orig>Caualerie</orig>
+            <reg>Cavalerie</reg>
+          </choice>, autant Monsiegneur qu'on peut <choice>
+            <orig>iuger</orig>
+            <reg>juger</reg>
+          </choice> les choses de loing, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> pense qu'il seroit plus à propos que les Ennemis s'attachassent à Turin qu'a
+          quelque autre place, parce que s'ils faisoient autrement ils ne donneroient pas loisir à
+          nostre armée de passer pour la defendre.</p>
+        <p>Parmy les forces &amp; les Chefs de l'armée Ennemie, il commence à paroistre quelque
+          froideur dés que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> seray à Pignerol, <choice>
+            <orig>i'enuoyeray</orig>
+            <reg>j'envoyeray</reg>
+          </choice>
+          <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> autre Courrier à Vostre Eminence pour la <choice>
+            <orig>releuer</orig>
+            <reg>relever</reg>
+          </choice> de la peine où elle peut estre, à laquelle, Monseigneur, <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> voudrois <choice>
+            <orig>pouuoir</orig>
+            <reg>pouvoir</reg>
+          </choice> donner quelque soulagement capable de contenter Vostre Eminence, comme <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'auray, toute ma vie cette passion pour meriter l'honneur de me dire <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> toute sorte de respect.</p>
+        <closer><salute>Vostre, &amp;c.</salute>
+          <dateline>A Grenoble ce 20. <choice>
+              <orig>Auril</orig>
+              <reg>Avril</reg>
+            </choice> 1639.</dateline></closer>
+        <postscript>
+          <p>Je pense, Monseigneur, qu'il faudroit mettre Barault en quelque estat de defense
+            meilleur qu'il n'est pas.</p>
+        </postscript>
       </body>
     </text>
   </TEI>
