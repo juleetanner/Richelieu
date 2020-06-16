@@ -10380,15 +10380,15 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Since Christine dislikes d'Emery, Richelieu is sending France's conditions for increased
-            military assistance to Savoy through Chavigny: that she send her children to France and allow
-            towns in Savoy to be put under French control.</note>
+          <note>Since Christine dislikes d'Emery, Richelieu is sending France's conditions for
+            increased military assistance to Savoy through Chavigny: that she send her children to
+            France and allow towns in Savoy to be put under French control.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
     <text xml:lang="fr-1694acad">
       <body>
-        <pb facs="Vialart_letters_Page_39.jpg"/>
+        <pb facs="Vialart_letters_Page_41.jpg"/>
         <p>Le mal present de l'Italie est pressant, que si l'on n'y met promptement &amp;
           puissamment la main, il <choice>
             <orig>deuiendra</orig>
@@ -10591,6 +10591,139 @@
             <orig>Maiesté</orig>
             <reg>Majesté</reg>
           </choice>.</p>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter35">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Richelieu">Cardinal Richelieu</persName> to <persName
+              ref="#Christine">Christine, duchess of Savoy</persName></title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page">41</biblScope>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmontese Civil War</term>
+            <term>Diplomacy</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Christine"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>Richelieu informs Christine that Chavigny has been sent to provide new assurances of
+            Louis's intentions to protect her in the present crisis.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_41.jpg"/>
+        <opener><salute>Madame,</salute></opener>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> ne suis point en doute que Vostre Altesse ne soit en <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> extrême peine de ce qui se passa en Piedmont, mais elle <choice>
+            <orig>trouuera</orig>
+            <reg>trouvera</reg>
+          </choice> bon s'il luy plaist, que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> luy die qu'elle ne ce doit pas estonner pour cela, ny perdre le courage, puis
+          qu'elle a <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> frere comme le <persName ref="#Louis13">Roy</persName> qui est resolu d'employer
+          toute sa puissance pour la proteger, la secourir &amp; empescher que <persName
+            ref="#Maurizio">
+            <persName ref="#Tommaso">Messieurs ses freres</persName></persName> ne viennent à bout
+          de leur <choice>
+            <orig>mauuais</orig>
+            <reg>mauvais</reg>
+          </choice> desseins, <persName ref="#Chavigny">Monsieur de Chauigny</persName> que le Roy
+          vous <choice>
+            <orig>enuoye</orig>
+            <reg>envoye</reg>
+          </choice> pour vous en donner de <choice>
+            <orig>nouuelles</orig>
+            <reg>nouvelles</reg>
+          </choice> asseurances de sa part, vous pourra dire par le mesme moyen les efforts
+          extraordinaires que l'on fait en France à cette fin, &amp; les Troupes que l'on fait
+          passer en Piedmont pour la defendre, &amp; ce que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay contribué pour faire prendre cette resolution, le tout est que la fidelité de
+          ceux qui sont dans les places leur donnent temps d'y <choice>
+            <orig>arriuer</orig>
+            <reg>arriver</reg>
+          </choice>, me contentant de supplier Vostre Altesse de prendre croyance en luy, comme en <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> personne en qui <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> entiere confiance, &amp; de croire que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'oublieray rien de ce qui dépendra de moy pour luy témoigner que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis,</p>
+        <closer><salute>Madame, Son tres-humble &amp; tres-obeissant <choice>
+              <orig>seruiteur</orig>
+              <reg>serviteur</reg>
+            </choice>,</salute>
+          <signed>Le Card. de Richelieu.</signed></closer>
       </body>
     </text>
   </TEI>
