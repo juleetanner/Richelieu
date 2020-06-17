@@ -942,6 +942,15 @@
         <note>Lowland region of Savoy that was ceded to France by the 1601 Treaty of Lyon and later
           became part of Burgundy.</note>
       </place>
+      <place sortKey="Brézé" xml:id="Breze" type="commune">
+        <placeName type="main">Brézé</placeName>
+        <placeName type="presentation">Brézé</placeName>
+        <location>
+          <geo>47.17 -0.06</geo>
+        </location>
+        <idno type="GeoNames"/>
+        <note>Town in the Loire Valley with a small, dry-moated castle.</note>
+      </place>
       <place sortKey="Brienne" xml:id="Brienne" type="commune">
         <placeName type="main">Brienne-le-Château</placeName>
         <placeName type="presentation">Brienne</placeName>
@@ -950,6 +959,15 @@
         </location>
         <idno type="GeoNames">3030093</idno>
         <note>Commune in north-central France.</note>
+      </place>
+      <place sortKey="Cahors" xml:id="Cahors" type="commune">
+        <placeName type="main">Cahors</placeName>
+        <placeName type="presentation">Cahors</placeName>
+        <location>
+          <geo>44.45 1.44</geo>
+        </location>
+        <idno type="GeoNames">3029213</idno>
+        <note>Town in the western part of Southern France, in the Occitane region.</note>
       </place>
       <place sortKey="Carmagnola" xml:id="Carmagnola" type="commune">
         <placeName type="main">Carmagnola</placeName>
@@ -9682,7 +9700,7 @@
             <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
               princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
               les affaires du Piedmont &amp; du Mont-ferrat.</title>
-            <biblScope unit="page" from="35" to="36"/>
+            <biblScope unit="page" from="36" to="39"/>
             <publisher>no publisher</publisher>
             <pubPlace>no place</pubPlace>
             <date when="1649"/>
@@ -10298,6 +10316,414 @@
           <p>Je pense, Monseigneur, qu'il faudroit mettre Barault en quelque estat de defense
             meilleur qu'il n'est pas.</p>
         </postscript>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter34">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title>Instructions from <persName ref="#Richelieu">Cardinal Richelieu</persName> to
+              <persName ref="#Chavigny">le Comte de Chavigny</persName>, 21 April 1639</title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page" from="39" to="41"/>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmontese Civil War</term>
+            <term>Diplomacy</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date when="1639-04-21"/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Chavigny"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>Since Christine dislikes d'Emery, Richelieu is sending France's conditions for
+            increased military assistance to Savoy through Chavigny: that she send her children to
+            France and allow towns in Savoy to be put under French control.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_41.jpg"/>
+        <p>Le mal present de l'Italie est pressant, que si l'on n'y met promptement &amp;
+          puissamment la main, il <choice>
+            <orig>deuiendra</orig>
+            <reg>deviendra</reg>
+          </choice> irremediable. En l'estat que sont les choses, <persName ref="#Christine"
+            >Madame</persName> doit penser aux extrêmes remedes, se representant que si elle est <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> fois à l'extremité, elle ne sera plus capable d'en <choice>
+            <orig>receuoir</orig>
+            <reg>recevoir</reg>
+          </choice> aucun.</p>
+        <p>Les petits Estats sont comme les maisons, dont les bastimens sont pressez, ils se
+          consomment en <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> instant lors que le feu y prend, si par <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> grande diligence l'on ne separe les lieux ausquels le feu n'est pas encore <choice>
+            <orig>paruenu</orig>
+            <reg>parvenu</reg>
+          </choice> de ceux qu'il a <choice>
+            <orig>desia</orig>
+            <reg>desja</reg>
+          </choice> occupez.</p>
+        <p>Bien que <persName ref="#Emery">Monsieur d'Hemery</persName> soit instruit de tout ce qui
+          se peut faire, &amp; qui se doit dire à Madame en cette occasion, sa personne ne suy
+          estant pas agreable, l'on craint que l'<choice>
+            <orig>aduersion</orig>
+            <reg>adversion</reg>
+          </choice> qu'elle a pour luy ne luy fasse <choice>
+            <orig>receuoir</orig>
+            <reg>recevoir</reg>
+          </choice> comme poison, ce qui est du tout necessaire pour son salut.</p>
+        <p>Pour cét effet, on estime qu'il y faut <choice>
+            <orig>enuoyer</orig>
+            <reg>envoyer</reg>
+          </choice>
+          <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> autre personne qui soit en consideration à Madame, &amp; qui luy puisse proposer
+          adroitement &amp; fortement le seul moyen qu'il a de la <choice>
+            <orig>sauuer</orig>
+            <reg>sauver</reg>
+          </choice>.</p>
+        <p>Ce moyen est d'<choice>
+            <orig>enuoyer</orig>
+            <reg>envoyer</reg>
+          </choice> ses enfans en France, &amp; l'asseurer si bien des principales places de son
+          Estat, qu'elle n'aye point <choice>
+            <orig>suiet</orig>
+            <reg>sujet</reg>
+          </choice> de craindre de les perdre, ou par l'inclination que le Piedmont a pour ses
+          beaux-freres, ou par la crainte qu'elle a de leur puissance.</p>
+        <p>Le seul moyen qu'a Madame pour se mettre en cét Estat, est de mettre des François <pb
+            facs="Vialart_letters_Page_40.jpg"/> dans les places, ce qu'elle peut faire asseurément
+          &amp; honorablement, seurement, à cause de la promesse que le <persName ref="#Louis13"
+            >Roy</persName> luy donnera de les luy remettre, toutes-fois &amp; quantes qu'elle
+          voudra honorablement, à cause de l'<choice>
+            <orig>inuasion</orig>
+            <reg>invasion</reg>
+          </choice> que les Espagnols font de son pays, ce qui l'a doit porter par raison de
+          conscience, consequemment par honneur au seul remede qui l'a peut garentir d'<choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> telle violence.</p>
+        <p>Rien n'est si capable d'arrester l'<choice>
+            <orig>iniuste</orig>
+            <reg>injuste</reg>
+          </choice> ambition du <persName ref="#Maurizio">Cardinal de <choice>
+              <orig>Sauoye</orig>
+              <reg>Savoye</reg>
+            </choice></persName> &amp; du <persName ref="#Tommaso">Prince Thomas</persName>, que
+          l'apprehension qu'ils auront, qu'en voulant <choice>
+            <orig>vsurper</orig>
+            <reg>usurper</reg>
+          </choice> les Estats du <persName ref="#CharlesE2">Duc</persName> leur <choice>
+            <sic>nepueu</sic>
+            <corr>neveu</corr>
+          </choice>, ils ne donnent lieu aux Espagnols, &amp; aux François, de les partager
+          ensemble.</p>
+        <p>Il n'y a point de meilleure, ny d'autre moyen de faire restituer ce que les Espagnols
+          prennent maintenant, que d'en mettre autant entre les mains du Roy, pour obliger le
+            <persName ref="#Urban8">Pape</persName> &amp; les Princes d'Italie de moyenner que
+          chaque choses soient renduës à Madame en contentant raisonnablement ses freres.</p>
+        <p>Si Madame est capable d'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> conseil si salutaire, le Roy redoublera ses efforts en Italie pour la <choice>
+            <orig>sauuer</orig>
+            <reg>sauver</reg>
+          </choice>.</p>
+        <p>Si elle fait difficulté, &amp; qu'elle veuille tousiours nager entre deux eaux, sa
+          Majeste se descharge <choice>
+            <orig>deuant</orig>
+            <reg>devant</reg>
+          </choice> Dieu &amp; les hommes de la protection qu'elle luy veut donner voyant qu'elle
+          seroit inutile.</p>
+        <p>Si Madame dit que ses Sujets <choice>
+            <orig>improuuent</orig>
+            <reg>improuvent</reg>
+          </choice>
+          <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> telle conduite, il luy faut representer qu'il n'est plus temps de s'arrester à
+          ces considerations, &amp; qu'on ne luy propose ce Conseil, qu'apres que sesdits Sujets luy
+          donnent lieu de ce faire par la lascheté <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> laquelle ils abandonnent son party, &amp; ses places.</p>
+        <p>Si Madame prend ces pretextes pour <choice>
+            <orig>couurir</orig>
+            <reg>couvrir</reg>
+          </choice> la méfiance qu'elle aura elle mesme de la France, il luy faut dire franchement
+          qu'elle sçait bien si elle peut <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> confiance en Espagne, &amp; à ses freres, qui ont attenté plusieurs fois à son
+          honneur, à sa liberte, &amp; à sa vie, ainsi qu'elle l'a fait entendre au Roy, mais que si
+          c'est chose impossible, elle n'a pas d'autre remede que celuy qui luy est proposé.</p>
+        <p>Pour conduire cette Negociation à bonne fin, <persName ref="#Chavigny">Monsieur de <choice>
+              <orig>Chauigny</orig>
+              <reg>Chavigny</reg>
+            </choice></persName> ne doit d'abord proposer autre chose à Madame, sinon que sa <choice>
+            <orig>Maiesté</orig>
+            <reg>Majesté</reg>
+          </choice> l'<choice>
+            <orig>enuoye</orig>
+            <reg>envoye</reg>
+          </choice> expressement pour luy témoigner l'excés de son affection, r'asseurer ses <choice>
+            <orig>Suiets</orig>
+            <reg>Sujets</reg>
+          </choice>, en faisant voir à tout le monde la puissante protection qu'elle luy veut
+          donner, employant les remedes plus prompts, &amp; plus puissants pour empescher
+          l'augmentation de son mal, &amp; guerir celuy qui est <choice>
+            <orig>desia</orig>
+            <reg>desja</reg>
+          </choice> venu.</p>
+        <p>Apres <choice>
+            <orig>auoir</orig>
+            <reg>avoir</reg>
+          </choice> fait cette proposition generale, il faut tascher de porter Madame elle mesme à
+          ce qu'on croit du tout necessaire pour son bien, ce qui consiste en trois poincts.</p>
+        <p>Le premier est d'asseurer les places qui asseurent la communication de <placeName
+            ref="#Casale">Cazal</placeName>.</p>
+        <p>Le second est d'asseurer de plus en plus l'entrée que le Roy a dans l'Italie, en mettant
+          entre les mains de sa <choice>
+            <orig>Maiesté</orig>
+            <reg>Majesté</reg>
+          </choice> les Chasteaux qui asseurent l'entrée des vallées, comme <placeName ref="#Cahors"
+            >Cahours</placeName>, <placeName ref="#Rueil">Ruel</placeName>, Cony, les places de la
+          vallée de <placeName ref="#Breze">Brezé</placeName>, comme Remon, &amp; les places qui
+          empeschent que les Ennemis venans du costé du Sanché ne puissent se saisir de l'entrée de
+          toutes les valées, &amp; ainsi oster tout le moyen à la France de secourir le
+          Piedmont.</p>
+        <p>Le troisiéme, que Madame asseure Messieurs ses enfans, &amp; se rende maistresse des
+          places, dont la disposition luy reste dans ses Estats.</p>
+        <p>Sur ce dernier poinct, il luy faut faire connoistre qu'elle ne peut estre maistresse <pb
+            facs="Vialart_letters_Page_41.jpg"/> de ses places, qu'en les remettant entre les mains
+          des François qui soient à elle, &amp; à quoy elle doit penser de bonne heure, parce que
+          plus les prosperitez des freres s'augmentent, plus l'affection &amp; la fidelité de ses
+          Sujets diminuera, ce qu'enfin pourra porter les choses à <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> tel poinct, qu'en cas d'extremité elle ne seroit connuë d'aucun de ses Sujets,
+          au lieu que si elle est maistresse des places qui les brident, elle <choice>
+            <orig>receura</orig>
+            <reg>recevra</reg>
+          </choice> d'eux par consideration les mesmes effets qu'elle feroit s'il luy estoient
+          affectionnez.</p>
+        <p>L'<choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> des principaux poincts que Madame ait à faire, est d'interesser les principaux
+          de son Estat dans ses interests, <choice>
+            <orig>conioinctement</orig>
+            <reg>conjoinctement</reg>
+          </choice>
+          <choice>
+            <orig>auec</orig>
+            <reg>avec</reg>
+          </choice> ceux de la France.</p>
+        <p>Pour cet effect, il luy faut faire connoistre qu'il ne faut pas qu'elle estime les tenir
+          maintenant par belles paroles, ny par l'esperance du futur, qu'en l'estat auquel elle est,
+          il faut des biens-faits qui puissent leur estre asseurez pour <choice>
+            <orig>tousiours</orig>
+            <reg>tousjours</reg>
+          </choice>.</p>
+        <p>Cette esperance de stabilité en fortune ne peut venir que de la creance qu'ils en
+          prendront, de la volonté qu'ils connoistront que la France aura de proteger, Madame, ce
+          qui obligera Madame à leur faire connoistre par effet qu'elle se met tout à fait entre les
+          mains du Roy, &amp; qu'elle desire qu'ils s'attachent à la France pour les biens-faits
+          qu'ils <choice>
+            <orig>receuront</orig>
+            <reg>recevront</reg>
+          </choice> de sa <choice>
+            <orig>Maiesté</orig>
+            <reg>Majesté</reg>
+          </choice>.</p>
+      </body>
+    </text>
+  </TEI>
+  <TEI xml:id="letter35">
+    <teiHeader>
+      <fileDesc>
+        <titleStmt>
+          <title><persName ref="#Richelieu">Cardinal Richelieu</persName> to <persName
+              ref="#Christine">Christine, duchess of Savoy</persName></title>
+        </titleStmt>
+        <publicationStmt>
+          <publisher>Julee Tanner</publisher>
+          <pubPlace>Seattle, WA</pubPlace>
+          <date when="2020"/>
+          <availability status="restricted">
+            <licence target="https://creativecommons.org/licenses/by-sa/4.0/">Distributed under a
+              Creative Commons Attribution--ShareAlike 4.0 International License.</licence>
+            <p>Photo courtesy the Newberry Library.</p>
+          </availability>
+        </publicationStmt>
+        <sourceDesc>
+          <bibl>
+            <author>Vialart, Charles</author>
+            <title>Histoire du ministere d’Armand Jean du Plessis, cardinal duc de Richelieu, sous
+              le regne de Louys le Juste, XIII du nom, roy de <choice>
+                <sic>Fance</sic>
+                <corr>France</corr>
+              </choice> et de Navarre : Avec des reflexions politiques, et diverses lettres,
+              contenant les negociations des affaires de Piedmont et du Montferrat</title>
+            <biblScope unit="part">5</biblScope>
+            <title>Affaires d'Italie de l'annee MDCXXXIX passées entre Madame la Duchesse &amp;
+              princes de la Maison de Sauoye : Contenant plusieurs lettres &amp; negotiations pour
+              les affaires du Piedmont &amp; du Mont-ferrat.</title>
+            <biblScope unit="page">41</biblScope>
+            <publisher>no publisher</publisher>
+            <pubPlace>no place</pubPlace>
+            <date when="1649"/>
+            <idno type="icn">folio F 3923 .945</idno>
+            <note>Not all editions of this book contain section 5, the source for the letters on the
+              Piedmont. The copy used here is held by the Newberry Library in Chicago.</note>
+          </bibl>
+        </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+        <langUsage>
+          <language ident="fr-1694acad">French as written in the 17th century</language>
+        </langUsage>
+        <textClass>
+          <keywords>
+            <term>Piedmontese Civil War</term>
+            <term>Diplomacy</term>
+          </keywords>
+        </textClass>
+        <correspDesc>
+          <correspAction type="sent">
+            <persName ref="#Richelieu"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <correspAction type="received">
+            <persName ref="#Christine"/>
+            <placeName/>
+            <date/>
+          </correspAction>
+          <note>Richelieu informs Christine that Chavigny has been sent to provide new assurances of
+            Louis's intentions to protect her in the present crisis.</note>
+        </correspDesc>
+      </profileDesc>
+    </teiHeader>
+    <text xml:lang="fr-1694acad">
+      <body>
+        <pb facs="Vialart_letters_Page_41.jpg"/>
+        <opener><salute>Madame,</salute></opener>
+        <p><choice>
+            <orig>Ie</orig>
+            <reg>Je</reg>
+          </choice> ne suis point en doute que Vostre Altesse ne soit en <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> extrême peine de ce qui se passa en Piedmont, mais elle <choice>
+            <orig>trouuera</orig>
+            <reg>trouvera</reg>
+          </choice> bon s'il luy plaist, que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> luy die qu'elle ne ce doit pas estonner pour cela, ny perdre le courage, puis
+          qu'elle a <choice>
+            <orig>vn</orig>
+            <reg>un</reg>
+          </choice> frere comme le <persName ref="#Louis13">Roy</persName> qui est resolu d'employer
+          toute sa puissance pour la proteger, la secourir &amp; empescher que <persName
+            ref="#Maurizio">
+            <persName ref="#Tommaso">Messieurs ses freres</persName></persName> ne viennent à bout
+          de leur <choice>
+            <orig>mauuais</orig>
+            <reg>mauvais</reg>
+          </choice> desseins, <persName ref="#Chavigny">Monsieur de Chauigny</persName> que le Roy
+          vous <choice>
+            <orig>enuoye</orig>
+            <reg>envoye</reg>
+          </choice> pour vous en donner de <choice>
+            <orig>nouuelles</orig>
+            <reg>nouvelles</reg>
+          </choice> asseurances de sa part, vous pourra dire par le mesme moyen les efforts
+          extraordinaires que l'on fait en France à cette fin, &amp; les Troupes que l'on fait
+          passer en Piedmont pour la defendre, &amp; ce que <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay contribué pour faire prendre cette resolution, le tout est que la fidelité de
+          ceux qui sont dans les places leur donnent temps d'y <choice>
+            <orig>arriuer</orig>
+            <reg>arriver</reg>
+          </choice>, me contentant de supplier Vostre Altesse de prendre croyance en luy, comme en <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> personne en qui <choice>
+            <orig>i</orig>
+            <reg>j</reg>
+          </choice>'ay <choice>
+            <orig>vne</orig>
+            <reg>une</reg>
+          </choice> entiere confiance, &amp; de croire que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> n'oublieray rien de ce qui dépendra de moy pour luy témoigner que <choice>
+            <orig>ie</orig>
+            <reg>je</reg>
+          </choice> suis,</p>
+        <closer><salute>Madame, Son tres-humble &amp; tres-obeissant <choice>
+              <orig>seruiteur</orig>
+              <reg>serviteur</reg>
+            </choice>,</salute>
+          <signed>Le Card. de Richelieu.</signed></closer>
       </body>
     </text>
   </TEI>
