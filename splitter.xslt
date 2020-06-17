@@ -16,7 +16,7 @@
   -->
   
   <xsl:output method="xml" indent="yes" encoding="UTF-8"/>
-
+  
   <xsl:param name="outDir" select="'xtf/data/'"/>
   <!-- Remove trailing slash, if any: -->
   <xsl:variable name="outPath" select="normalize-space($outDir) => replace('/$','')"/>
@@ -25,6 +25,8 @@
   <xsl:variable name="corpusHeader" select="/teiCorpus/teiHeader" as="element(teiHeader)"/>
   <xsl:variable name="apos" select='"&apos;"'/>
   
+  <xsl:key name="persNames_by_body_and_ref"  match="body//persName"  use="ancestor::body[1]/generate-id()||normalize-space(@ref)"/>
+  <xsl:key name="placeNames_by_body_and_ref" match="body//placeName" use="ancestor::body[1]/generate-id()||normalize-space(@ref)"/>
   <!-- currently unsed keys: -->
   <xsl:key name="persName-by-ref" match="body//persName" use="@ref"/>
   <xsl:key name="placeName-by-ref" match="body//placeName" use="@ref"/>
@@ -131,31 +133,18 @@
     </xsl:copy>
   </xsl:template>
 
-  <!-- put an n=first on the first of any given <persName> -->
-  <xsl:template match="body">
-    <xsl:variable name="my_persNames" select=".//persName"/>
-    <xsl:variable name="my_placeNames" select=".//placeName"/>
-    <xsl:copy>
-      <xsl:apply-templates select="@*"/>
-      <xsl:apply-templates select="node()">
-        <xsl:with-param name="persNames_in_this_body" select="$my_persNames" tunnel="yes"/>
-        <xsl:with-param name="placeNames_in_this_body" select="$my_placeNames" tunnel="yes"/>
-      </xsl:apply-templates>
-    </xsl:copy>
-  </xsl:template>
+  <!-- put an n=first on the first of any given <persName> or <placeName> -->
   <!--
     Note: following template has no concern of overwriting an existing
     (persName|placeName)/@n, because there are none in the input.
   -->
   <xsl:template match="body//(persName|placeName)">
-    <xsl:param tunnel="yes" name="persNames_in_this_body"/>
-    <xsl:param tunnel="yes" name="placeNames_in_this_body"/>
     <xsl:variable name="myRef" select="normalize-space(@ref)"/>
+    <xsl:variable name="key" select="ancestor::body[1]/generate-id()||$myRef"/>
     <xsl:copy>
-      <xsl:if test="
-        . is $persNames_in_this_body[normalize-space(@ref) eq $myRef][1]
-        or
-        . is $placeNames_in_this_body[normalize-space(@ref) eq $myRef][1]">
+      <xsl:if test=". is key('persNames_by_body_and_ref', $key )[1]
+                     or
+                    . is key('placeNames_by_body_and_ref', $key )[1]">
         <xsl:attribute name="n" select="'first'"/>
       </xsl:if>
       <xsl:apply-templates select="@*|node()"/>

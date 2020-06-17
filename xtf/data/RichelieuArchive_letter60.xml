@@ -7,7 +7,8 @@
    <teiHeader>
       <fileDesc><!--from teiHeader/* of TEI-->
          <titleStmt><!--from teiHeader/*/* of TEI-->
-            <title>Draft of a letter from <persName ref="#Richelieu">Cardinal Richelieu</persName> to the <persName ref="#Alvin">Duc d'Alvin</persName>, 27 February 1635</title>
+            <title>Draft of a letter from <persName ref="#Richelieu">Cardinal Richelieu</persName> to
+            the <persName ref="#Alvin">Duc d'Alvin</persName>, 27 February 1635</title>
          </titleStmt>
          <publicationStmt><!--from teiHeader/*/* of TEI-->
             <publisher>Julee Tanner</publisher>
@@ -664,7 +665,10 @@
             <idno type="VIAF">12314392</idno>
             <birth when="1585-09-09"/>
             <death when="1642-12-04"/>
-            <note/>
+            <note>As first minister to Louis XIII from 1624 to 1642, Richelieu would strengthen the
+          monarchy by reducing the influence of the nobility and disarming the Huguenots; he would
+          also make France the ascendant power in Europe by allying with Protestant nations against
+          the Catholic Hapsburgs.</note>
          </person>
          <person sortKey="Saint-Maurice,_Thomas-François_Chabod,_marquis_de"
                  xml:id="SMaurice">
@@ -802,9 +806,11 @@
          </person>
          <person sortKey="Unknown_male_correspondents" xml:id="MX">
             <persName type="presentation">Unknown male correspondents</persName>
+            <note>Identity unknown.</note>
          </person>
          <person sortKey="Unknown_female_correspondents" xml:id="FX">
             <persName type="presentation">Unknown female correspondents</persName>
+            <note>Identity unknown.</note>
          </person>
       </listPerson>
       <listPlace>
@@ -837,6 +843,15 @@
             <idno type="GeoNames">3036059</idno>
             <note>Commune in Brittany on the northwestern coast of France.</note>
          </place>
+         <place sortKey="Barau" xml:id="Barau" type="commune">
+            <placeName type="main">Bärau</placeName>
+            <placeName type="presentation">Bärau</placeName>
+            <location>
+               <geo>46.93 7.81</geo>
+            </location>
+            <idno type="GeoNames">2661618</idno>
+            <note>Town outside of Bern, Switzerland.</note>
+         </place>
          <place sortKey="Barcelonnette" xml:id="Barcelonnette" type="commune">
             <placeName>Barcelonnette</placeName>
             <placeName>Barcelonnette</placeName>
@@ -856,6 +871,15 @@
             <idno type="GeoNames">3032833</idno>
             <note>Commune in Southern France, about 10 km from the Mediterranean.</note>
          </place>
+         <place sortKey="Bourg-Saint-Maurice" xml:id="Bourg" type="commune">
+            <placeName type="main">Bourg-Saint-Maurice</placeName>
+            <placeName type="presentation">Bourg-Saint-Maurice</placeName>
+            <location>
+               <geo>45.61 6.77</geo>
+            </location>
+            <idno type="GeoNames">3030949</idno>
+            <note>Town in northeast Savoy.</note>
+         </place>
          <place sortKey="Buzay" xml:id="Buzay" type="commune">
             <placeName type="main">Buzay</placeName>
             <placeName type="presentation">Buzay</placeName>
@@ -874,6 +898,25 @@
             <idno type="GeoNames">3034397</idno>
             <note>One of traditional provinces of France, in the southeast along the Pyrenees.</note>
          </place>
+         <place sortKey="Bresse" xml:id="Bresse" type="region">
+            <placeName type="main">Bresse</placeName>
+            <placeName type="presentation">Bresse</placeName>
+            <location>
+               <geo>46.5 5.25</geo>
+            </location>
+            <idno type="GeoNames">3030316</idno>
+            <note>Lowland region of Savoy that was ceded to France by the 1601 Treaty of Lyon and later
+          became part of Burgundy.</note>
+         </place>
+         <place sortKey="Brézé" xml:id="Breze" type="commune">
+            <placeName type="main">Brézé</placeName>
+            <placeName type="presentation">Brézé</placeName>
+            <location>
+               <geo>47.17 -0.06</geo>
+            </location>
+            <idno type="GeoNames"/>
+            <note>Town in the Loire Valley with a small, dry-moated castle.</note>
+         </place>
          <place sortKey="Brienne" xml:id="Brienne" type="commune">
             <placeName type="main">Brienne-le-Château</placeName>
             <placeName type="presentation">Brienne</placeName>
@@ -882,6 +925,15 @@
             </location>
             <idno type="GeoNames">3030093</idno>
             <note>Commune in north-central France.</note>
+         </place>
+         <place sortKey="Cahors" xml:id="Cahors" type="commune">
+            <placeName type="main">Cahors</placeName>
+            <placeName type="presentation">Cahors</placeName>
+            <location>
+               <geo>44.45 1.44</geo>
+            </location>
+            <idno type="GeoNames">3029213</idno>
+            <note>Town in the western part of Southern France, in the Occitane region.</note>
          </place>
          <place sortKey="Carmagnola" xml:id="Carmagnola" type="commune">
             <placeName type="main">Carmagnola</placeName>
@@ -905,6 +957,16 @@
             <note>Fortified town in the Piedmont, about 60 km east of Turin. By the 1635 Treaty of
           Rivoli with the dukes of Savoy and Parma, France would occupy Casale and Pinerolo as a
           defense against Spanish encroachment from Milan (Tapié, p. 330).</note>
+         </place>
+         <place sortKey="Chambéry" xml:id="Chambery" type="commune">
+            <placeName type="main">Chambéry</placeName>
+            <placeName type="presentation">Chambéry</placeName>
+            <location>
+               <geo>45.57 5.92</geo>
+            </location>
+            <idno type="GeoNames">3027422</idno>
+            <note>Former capital of Savoy in the northwest of the duchy. The capital was moved to Turin
+          in 1563 as a defense against French encroachment.</note>
          </place>
          <place sortKey="Chancé" xml:id="Chance" type="commune">
             <placeName type="main">Chancé</placeName>
@@ -1156,6 +1218,16 @@
             <idno type="GeoNames">3002683</idno>
             <note>Commune in the Île-de-France region of north-central France.</note>
          </place>
+         <place sortKey="Pragelato" xml:id="Pragelato" type="commune">
+            <placeName type="main">Pragelato</placeName>
+            <placeName type="presentation">Pragelato</placeName>
+            <location>
+               <geo>45.01 6.94</geo>
+            </location>
+            <idno type="GeoNames">3169958</idno>
+            <note>Part of the Escartons Republic, a semi-independent French state that was granted to
+          Savoy by the 1713 Treaty of Utrecht.</note>
+         </place>
          <place sortKey="Provence" xml:id="Provence" type="region">
             <placeName type="main">Provence</placeName>
             <placeName type="presentation">Provence</placeName>
@@ -1181,7 +1253,7 @@
             <location>
                <geo>46.94 -1.51</geo>
             </location>
-            <idno type="geonames">2983221</idno>
+            <idno type="GeoNames">2983221</idno>
             <note>Town in the Vendée, the former province of Poitou, in western France.</note>
          </place>
          <place sortKey="Rueil-Malmaison" xml:id="Rueil" type="commune">
@@ -1224,6 +1296,15 @@
             <idno type="GeoNames">3167314</idno>
             <note>Town in the province of Vercelli, about 50 km northeast of Turin.</note>
          </place>
+         <place sortKey="Susa" xml:id="Susa" type="commune">
+            <placeName type="main">Susa</placeName>
+            <placeName type="presentation">Susa</placeName>
+            <location>
+               <geo>45.14 7.06</geo>
+            </location>
+            <idno type="GeoNames">3166018</idno>
+            <note>Town about 50 km west of Turin.</note>
+         </place>
          <place sortKey="Turin" xml:id="Turin" type="commune">
             <placeName type="main">Turin</placeName>
             <placeName type="presentation">Turin</placeName>
@@ -1233,6 +1314,25 @@
             <idno type="GeoNames">3165524</idno>
             <note>City in the Piedmont and capital of the Duchy of Savoy in the 16th and 17th
           centuries.</note>
+         </place>
+         <place sortKey="Valle_d'Aosta" xml:id="Valledaosta" type="region">
+            <placeName type="main">Valle d’Aosta</placeName>
+            <placeName type="presentation">Valle d’Aosta</placeName>
+            <location>
+               <geo>45.75 7.25</geo>
+            </location>
+            <idno type="GeoNames">3164857</idno>
+            <note>Mountainous region in northwestern Italy, part of Savoy in the 17th century.</note>
+         </place>
+         <place sortKey="Vallery" xml:id="Vallery" type="commune">
+            <placeName type="main">Vallery</placeName>
+            <placeName type="presentation">Vallery</placeName>
+            <location>
+               <geo/>
+            </location>
+            <idno type="GeoNames"/>
+            <note>Town in the Yonne department of Bourgogne-Franche-Comte, belonging to the house of
+          Condé in the 17th century.</note>
          </place>
          <place sortKey="Vercelli" xml:id="Vercelli" type="commune">
             <placeName type="main">Vercelli</placeName>
@@ -1278,7 +1378,8 @@
       <front><!-- This <front> inserted automatically to ensure there is a <titlePage> -->
          <titlePage>
             <titlePart type="main">
-               <title>Draft of a letter from <persName ref="#Richelieu">Cardinal Richelieu</persName> to the <persName ref="#Alvin">Duc d’Alvin</persName>, 27 February 1635</title>
+               <title>Draft of a letter from <persName ref="#Richelieu">Cardinal Richelieu</persName> to
+            the <persName ref="#Alvin">Duc d’Alvin</persName>, 27 February 1635</title>
             </titlePart>
          </titlePage>
          <div type="copyright" xml:id="L60avail">Distributed under a Creative Commons Attribution--ShareAlike 4.0 International License. The Morgan Library &amp; Museum. MA Unassigned. Photo courtesy the Morgan Library &amp; Museum.</div>
