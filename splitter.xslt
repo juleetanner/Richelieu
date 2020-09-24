@@ -32,7 +32,7 @@
   <xsl:key name="placeName-by-ref" match="body//placeName" use="@ref"/>
   
   <xsl:mode name="merge" on-no-match="shallow-copy"/>
-  <xsl:mode on-no-match="shallow-copy"/>
+  <xsl:mode              on-no-match="shallow-copy"/>
 
   <xsl:template match="/teiCorpus">
     <xsl:apply-templates select="TEI"/>
@@ -171,6 +171,12 @@
   </xsl:template>
   
   <xsl:template match="text()">
+    <!-- This converts U+0022 that is the first character of a text
+         node to U+201D. Is that a problem? Sometimes it will be
+         correct (as in “He said "not <emph>now</emph>" quite
+         loudly”), and sometimes it will be incorrect (as in the only
+         occurence in the current data: “<note>"la fonte des canons"
+         in the”.-->
     <xsl:value-of select="
       replace( ., $apos,'’')
       => replace('\s&quot;', ' “')
