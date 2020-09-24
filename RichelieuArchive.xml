@@ -92,6 +92,23 @@
               </imprint>
             </monogr>
           </biblStruct>
+          <biblStruct xml:id="Moote">
+            <monogr>
+              <author>
+                <persName>
+                  <forename type="first">A.</forename>
+                  <forename type="middle">Lloyd</forename>
+                  <surname>Moote</surname>
+                </persName>
+              </author>
+              <title level="m"><hi rend="ital">Louis XIII, the Just</hi></title>
+              <imprint>
+                <publisher>University of California Press</publisher>
+                <pubPlace>Berkeley</pubPlace>
+                <date when="1989"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct>
             <monogr>
               <author>
@@ -265,9 +282,13 @@
         <idno type="VIAF">64281075</idno>
         <birth when="1592"/>
         <death when="1661-07-26"/>
-        <note>French general and brother of Henri de Nogaret, duc de Candalle (d. 1639), and Louis
-          de Nogaret, Cardinal de La Valette. He became duc d'Épernon on his father's death in
-          1642.</note>
+        <note>French general, brother of Cardinal de La Valette, and Richelieu's nephew by marriage.
+          While serving under the Prince de Condé in the Seige of Fuenterrabía of 1638, he refused
+          to lead an attack after the town walls had been breached. For this he was tried and
+          sentenced to death for military negligence in 1639. Bernard had already fled to England,
+          however, where he lived until the end of Louis XIII's reign. He returned to France in
+          1643, when the judgement against him was cancelled by the Parliament of Paris (Moote, p.
+          251; Levi, pp. 383-5.</note>
       </person>
       <person sortKey="Bertier_de_Montrave,_Jean_de" xml:id="Bertier">
         <persName type="main">Jean de Bertier de Montrave</persName>
@@ -354,6 +375,17 @@
           in the name of her second son, Charles-Emmanuel II. Her regency was challenged by her
           brothers-in-law Thomas, prince of Carignano, and Maurice, prince of Savoy, in the
           Piedmontese Civil War.</note>
+      </person>
+      <person sortKey="Condé,_Henri_II_de_Bourbon,_prince_de" xml:id="Conde">
+        <persName type="main">Henri II de Bourbon, prince de Condé</persName>
+        <persName type="presentation">Prince de Condé</persName>
+        <persName type="alternate">Monsieur le Prince</persName>
+        <idno type="VIAF">69084993</idno>
+        <birth when="1588"/>
+        <death when="1646"/>
+        <note>Senior member of the cadette branch of the House of Bourbon during the reign of Louis
+          XIII. From 1611 until the birth of Louis XIV in 1638 he was second in line to the throne
+          of France, behind Louis' brother, Gaston d'Orleans.</note>
       </person>
       <person sortKey="Fabert,_Abraham_de" xml:id="Fabert">
         <persName type="main">Abraham de Fabert</persName>
@@ -572,7 +604,7 @@
         <birth when="1601"/>
         <death when="1643"/>
         <note>The second Bourbon king, Louis ascended the throne at the assassination of his father
-          Henry IV in 1610 and in 1617 forcibly ended the regency of his mother, Marie de'Medici.
+          Henry IV in 1610, and in 1617 forcibly ended the regency of his mother, Marie de'Medici.
           Considered a suspicious and insecure ruler, Louis relied on a succession of competing
           advisors and favorites, most notably Richelieu.</note>
       </person>
@@ -630,13 +662,22 @@
           and his brother Thomas, prince of Carignano, attempted to take the regency from Christine
           of France, inciting the Piedmontese Civil War.</note>
       </person>
-      <person sortKey="Monod,_père" xml:id="Monod">
+      <person sortKey="Monod,_Pierre,_père" xml:id="Monod">
         <persName type="main">Père Monod</persName>
         <persName type="alternate">Père Monot</persName>
         <persName type="presentation">Père Monod</persName>
-        <note>Jesuit priest and Spanish sympathizer at the court of Christine, duchess of Savoy. His
-          arrest and removal to Montmélian by the French aroused Christine's anger against Richelieu
-          (Tapié, p. 390).</note>
+        <idno type="VIAF">24625826</idno>
+        <birth when="1586"/>
+        <death when="1644"/>
+        <note>Jesuit priest appointed ambassador to the court of Louis XIII by Victor Amadeus, duke
+          of Savoy, in 1631. By arguing for the elevation of the duchy to a monarchy and disputing
+          to claims of France to territories within Savoy, Monod aroused the wrath of Richelieu; to
+          preserve relations with France Victor Amadeus recalled the minister and placed him under
+          house arrest in Cuneo (Coni). From there Monod secretly plotted with the Spanish governor
+          of Milan against Richelieu and France and attempted to flee Savoy. In January of 1639 at
+          Richelieu's urging, Christine, duchess and regent of Savoy, resentfully imprisoned Monot
+          in the castle of Montmélian (Tapié, p. 390). At a later date Richelieu would transfer
+          Monod to the fortress-prison of Miolans, where he would remain until his death.</note>
       </person>
       <person sortKey="Montbazon,_Hercule_de_Rohan,_duc_de" xml:id="Montbazon">
         <persName type="main">Hercule de Rohan, duc de Montbazon</persName>
@@ -880,8 +921,8 @@
       </place>
       <place sortKey="Asti" xml:id="Asti" type="commune">
         <placeName type="main">Asti</placeName>
-        <placeName type="alternate">Ast</placeName>
         <placeName type="presentation">Asti</placeName>
+        <placeName type="alternate">Ast</placeName>
         <location>
           <geo>44.9 8.2</geo>
         </location>
@@ -896,6 +937,18 @@
         </location>
         <idno type="GeoNames">3036059</idno>
         <note>Commune in Brittany on the northwestern coast of France.</note>
+      </place>
+      <place sortKey="Avigliana" xml:id="Avigliana" type="commune">
+        <placeName type="main">Avigliana</placeName>
+        <placeName type="presentation">Avigliana</placeName>
+        <placeName type="alternate">Veillane</placeName>
+        <location>
+          <geo>45.08 7.4</geo>
+        </location>
+        <idno type="Geonames">3182634</idno>
+        <note>Town about 30 km west of Turin that would be won by the French in July of 1630.
+          Upstream from the French possession of Casale, Avigliana (Veillane) was considered by
+          Louis XIII to be of great strategic importance to France (Moote, p. 214).</note>
       </place>
       <place sortKey="Barau" xml:id="Barau" type="commune">
         <placeName type="main">Bärau</placeName>
@@ -1064,6 +1117,7 @@
       <place sortKey="Cuneo" xml:id="Cuneo" type="commune">
         <placeName type="main">Cuneo</placeName>
         <placeName type="presentation">Cuneo</placeName>
+        <placeName type="alternate">Coni</placeName>
         <location>
           <geo>44.4 7.54</geo>
         </location>
@@ -1282,8 +1336,8 @@
           <geo>44.92 -.08</geo>
         </location>
         <idno type="GeoNames">3173152</idno>
-        <note>Part of the Piedmont gained by Savoy in the War of the Mantuan Succession,
-          1628-31.</note>
+        <note>A former duchy on the east side of the Piedmont, a portion of which was gained by
+          Savoy in the War of the Mantuan Succession, 1628-31.</note>
       </place>
       <place sortKey="Montmélian,_Château_de" xml:id="MontmelianC" type="building">
         <placeName type="main">Château de Montmélian</placeName>
@@ -1628,10 +1682,10 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Richelieu assures La Valette that requested funds and munitions for the defense of
-            Cazal and Pignerol have been sent, that additional troops will arrive in the spring, and
-            that a letter of advice has been sent to Christine, duchess of Savoy. A version of the
-            letter is reproduced in the Avenel compilation, vol. 6, p. 265.</note>
+          <note>Richelieu assures La Valette that funds and munitions for the defense of Cazal and
+            Pignerol have been sent, that fresh troops will arrive in the spring, and that a letter
+            of advice has been sent to Christine, duchess of Savoy. (A version of the letter is
+            reproduced in the Avenel compilation, vol. 6, p. 265.)</note>
           <correspContext>
             <ref type="next" target="#letter10">Next letter of <persName ref="#Valette">Cardinal de
                 La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>:
@@ -1737,11 +1791,9 @@
           </choice> suis aussi tres-aise que vous fassiez <choice>
             <orig>trauailler</orig>
             <reg>travailler</reg>
-          </choice> à la <seg>fonte<note>The version of this letter reproduced in the Avenel
-              compilation (vol. 6, p. 265) specifies "la fonte des canons"</note></seg> de
-          Cazal.</p>
-        <p>Quant à <persName ref="#Christine">Madame</persName>
-          <choice>
+          </choice> à la <seg>fonte<note>"la fonte des canons" in the version of this letter
+              reproduced in the Avenel compilation (vol. 6, p. 265)</note></seg> de Cazal.</p>
+        <p>Quant à <persName ref="#Christine">Madame</persName>, <choice>
             <orig>i</orig>
             <reg>j</reg>
           </choice>'ay bien peur d'estre en estat de ne me mesler plus de ses affaires estant obligé <choice>
@@ -1753,7 +1805,7 @@
           </choice> elle, par la lettre que <choice>
             <orig>ie</orig>
             <reg>je</reg>
-          </choice> luy ay escrite par le sieur <persName ref="#Estrades">d'Estrade</persName> d'en <choice>
+          </choice> luy ay escrite par le <persName ref="#Estrades">sieur d'Estrade</persName> d'en <choice>
             <orig>vser</orig>
             <reg>user</reg>
           </choice> ainsi, si elle mesprise les conseils que la lumiere naturelle luy doit donner
@@ -1765,7 +1817,8 @@
             <reg>ouvre</reg>
           </choice> les yeux, &amp; luy fasse penser au peril où elle est, comme elle est
           obligée.</p>
-        <p>Monsieur le Prince <orig>arriuera</orig>
+        <p><persName ref="Conde">Monsieur le Prince</persName>
+          <orig>arriuera</orig>
           <reg>arrivera</reg> demain à Paris, <choice>
             <orig>ie</orig>
             <reg>je</reg>
@@ -1865,8 +1918,8 @@
           <note>La Valette informs Richelieu that funding for salaries and maintenance of French
             troops in the Piedmont is two months in arrears, and requests more regular payments in
             the future to secure the region. He suggests Richelieu send a letter of support to
-            Chrisitine, duchess of Savoy, who has imprisoned her advisor Père Monod in the interest
-            of France.</note>
+            Chrisitine, duchess of Savoy, who has consented to the imprisonment of her advisor, Père
+            Monod.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -11917,7 +11970,7 @@
           Il y en a qui luy disent, que bien que les Ennemis n'ayent aucun quartier, ny <choice>
             <orig>trauaux</orig>
             <reg>travaux</reg>
-          </choice> du coste de Veillane, qu'<choice>
+          </choice> du coste de <placeName ref="#Avigliana">Veillane</placeName>, qu'<choice>
             <orig>auant</orig>
             <reg>avant</reg>
           </choice> que les forces du Roy <choice>
@@ -12385,8 +12438,8 @@
             <reg>conserver</reg>
           </choice> le plus que l'on peut les entrées du Piedmont, particulierement la vallée de
           Suze, ce qui se peut faire durant le siege de Turin, si les Ennemis n'ont point encore
-          occupé le Casteau de Veillane, &amp; celuy de Suze, car celuy de Veillane pourroit estre
-          muny &amp; <choice>
+          occupé le Casteau de <placeName ref="#Avigliana">Veillane</placeName>, &amp; celuy de
+          Suze, car celuy de Veillane pourroit estre muny &amp; <choice>
             <orig>pourueu</orig>
             <reg>pourveu</reg>
           </choice> depuis Pignerol, comme celuy de Suze par la <choice>
@@ -14107,7 +14160,7 @@
             <date/>
           </correspAction>
           <note>L'Hospital (Comte du Hallier) describes his preparations to return to the
-            front.</note>
+            front (transcription to come).</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
