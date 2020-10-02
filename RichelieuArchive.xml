@@ -109,6 +109,26 @@
               </imprint>
             </monogr>
           </biblStruct>
+          <biblStruct xml:id="Osborne">
+            <analytic>
+              <author>
+                <persName>
+                  <forename>Toby</forename>
+                  <surname>Osborne</surname>
+                </persName>
+              </author>
+              <title level="a">Delineating Early Modern Factions: A Unique 17th Century
+                Document</title>
+            </analytic>
+            <monogr>
+              <title level="m">A Europe of Courts, a Europe of Factions: Political Groups at Early
+                Modern Centres of Power (1550-1700)</title>
+              <imprint>
+                <date>2017</date>
+                <biblScope unit="page">219-250</biblScope>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct>
             <monogr>
               <author>
@@ -362,7 +382,7 @@
         <death when="1652"/>
         <note>Chavigny was appointed secretary of state by Richelieu in 1628 and superintendant of
           finances in 1632, offices he held until the death of Louis XIII in 1643. He lead many
-          diplomatic missions, often accompanied by Père Joseph.</note>
+          diplomatic missions, often accompanied by Father Joseph.</note>
       </person>
       <person sortKey="Christine,_duchesse_de_Savoie" xml:id="Christine">
         <persName type="main">Christine, duchesse de Savoie</persName>
@@ -370,9 +390,9 @@
         <idno type="VIAF">86438866</idno>
         <birth when="1606"/>
         <death when="1663"/>
-        <note>Sister of Louis XIII and wife of Victor Amadeus I, duke of Savoy. At the duke's death
-          in 1637 she became regent, first in the name of her son Francis Hyacinth (d. 1638), then
-          in the name of her second son, Charles-Emmanuel II. Her regency was challenged by her
+        <note>Sister of Louis XIII and wife of Victor Amadeus I, duke of Savoy. At the death of the
+          duke in 1637 she became regent, first in the name of her son Francis Hyacinth (d. 1638),
+          then in the name of her second son, Charles-Emmanuel II. Her regency was challenged by her
           brothers-in-law Thomas, prince of Carignano, and Maurice, prince of Savoy, in the
           Piedmontese Civil War.</note>
       </person>
@@ -672,12 +692,12 @@
         <note>Jesuit priest appointed ambassador to the court of Louis XIII by Victor Amadeus, duke
           of Savoy, in 1631. By arguing for the elevation of the duchy to a monarchy and disputing
           to claims of France to territories within Savoy, Monod aroused the wrath of Richelieu; to
-          preserve relations with France Victor Amadeus recalled the minister and placed him under
-          house arrest in Cuneo (Coni). From there Monod secretly plotted with the Spanish governor
-          of Milan against Richelieu and France and attempted to flee Savoy. In January of 1639 at
-          Richelieu's urging, Christine, duchess and regent of Savoy, resentfully imprisoned Monot
-          in the castle of Montmélian (Tapié, p. 390). At a later date Richelieu would transfer
-          Monod to the fortress-prison of Miolans, where he would remain until his death.</note>
+          preserve relations with France the minister was recalled and placed under house arrest in
+          Cuneo (Coni). From there Monod secretly plotted against Richelieu with the Spanish
+          governor of Milan, and attempted to flee Savoy. In January of 1639 at Richelieu's urging,
+          Christine, duchess and regent of Savoy, resentfully imprisoned Monot in the castle of
+          Montmélian (Tapié, p. 390). At a later date Richelieu would transfer Monod to the
+          fortress-prison of Miolans, where he would remain until his death.</note>
       </person>
       <person sortKey="Montbazon,_Hercule_de_Rohan,_duc_de" xml:id="Montbazon">
         <persName type="main">Hercule de Rohan, duc de Montbazon</persName>
@@ -702,13 +722,12 @@
           Richelieu executed Montmorency as an example to other members of his class.</note>
       </person>
       <person sortKey="Sublet_de_Noyers,_François,_Baron_de_Dangu" xml:id="Noyers">
-        <persName type="main">François Sublet de Noyers, Baron de Dangu</persName>
+        <persName type="main">François Sublet de Noyers, baron de Dangu</persName>
         <persName type="presentation">Francois de Noyers</persName>
         <idno type="VIAF">172592009</idno>
         <birth when="1588"/>
         <death when="1645"/>
-        <note>Secretary of state for war from 1636 and a loyal creature of Cardinal
-          Richelieu.</note>
+        <note>Secretary of state for war from 1636, noted for his loyalty to Richelieu.</note>
       </person>
       <person sortKey="Orval,_François_de_Béthune,_duc_d'" xml:id="Orval">
         <persName type="main">François de Béthune, duc d'Orval</persName>
@@ -1915,11 +1934,11 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>La Valette informs Richelieu that funding for salaries and maintenance of French
-            troops in the Piedmont is two months in arrears, and requests more regular payments in
-            the future to secure the region. He suggests Richelieu send a letter of support to
-            Chrisitine, duchess of Savoy, who has consented to the imprisonment of her advisor, Père
-            Monod.</note>
+          <note>La Valette informs Richelieu that salaries for French troops in the Piedmont are two
+            months in arrears, and requests more regular payments in the future to secure the
+            region. He also suggests that Richelieu write to Chrisitine, duchess of Savoy, to
+            acknowledge her role in the imprisonment of Father Monod, a former advisor and enemy of
+            Richelieu who attempted to flee house arrest in Cuneo.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -2220,8 +2239,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>La Valette sends condolences on the passing of Father Joseph, thanks Richelieu for
-            sending additional funds, and indicates further information on the situation with Father
+          <note>La Valette offers condolences on the passing of Father Joseph, thanks Richelieu for
+            sending additional funds, and indicates that further information on the situation with Father
             Monod and military operations is forthcoming.</note>
         </correspDesc>
       </profileDesc>
@@ -14159,8 +14178,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>L'Hospital (Comte du Hallier) describes his preparations to return to the
-            front (transcription to come).</note>
+          <note>L'Hospital (Comte du Hallier) describes his preparations to return to the front
+            (transcription to come).</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
