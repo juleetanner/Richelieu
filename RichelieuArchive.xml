@@ -59,6 +59,20 @@
               </imprint>
             </monogr>
           </biblStruct>
+          <biblStruct xml:id="Berni">
+            <monogr>
+              <author>
+                <forename>Francesco</forename>
+                <surname>Berni</surname>
+              </author>
+              <title level="m"><hi rend="ital">Esequie trionfali del marchese Guido
+                Villa</hi></title>
+              <imprint>
+                <publisher>Eredi di Giuseffo Gironi</publisher>
+                <date when="1656"/>
+              </imprint>
+            </monogr>
+          </biblStruct>
           <biblStruct xml:id="Knecht">
             <monogr>
               <author>
@@ -121,10 +135,12 @@
                 Document</title>
             </analytic>
             <monogr>
-              <title level="m">A Europe of Courts, a Europe of Factions: Political Groups at Early
-                Modern Centres of Power (1550-1700)</title>
+              <title level="m"><hi rend="ital">A Europe of Courts, a Europe of Factions: Political
+                  Groups at Early Modern Centres of Power (1550-1700)</hi></title>
               <imprint>
-                <date>2017</date>
+                <publisher>Brill</publisher>
+                <pubPlace>Boston</pubPlace>
+                <date when="2017"/>
                 <biblScope unit="page">219-250</biblScope>
               </imprint>
             </monogr>
@@ -256,8 +272,11 @@
         <idno type="VIAF">62659363</idno>
         <birth when="1604"/>
         <death when="1667"/>
-        <note>The favorite and most trusted advisor of Christine of France, duchess of Savoy, during
-          her regency.</note>
+        <note>The favorite, most trusted advisor, and rumored lover of Christine, duchess of Savoy,
+          during her regency. Though the leading member of the most powerful family in Savoy and
+          closely allied with France, Filippo would be arrested by the French on New Year's Day in
+          1640, on suspicion of colluding with the marquis of Leganes, the Spanish governor of Milan
+          (Osborne, p. 6).</note>
       </person>
       <person sortKey="Schomberg,_Charles_de,_duc_d'Halluin" xml:id="Alvin">
         <persName type="main">Charles de Schomberg, duc d'Halluin</persName>
@@ -383,6 +402,14 @@
         <note>Chavigny was appointed secretary of state by Richelieu in 1628 and superintendant of
           finances in 1632, offices he held until the death of Louis XIII in 1643. He lead many
           diplomatic missions, often accompanied by Father Joseph.</note>
+      </person>
+      <person sortKey="Caffarelli,_Fausto,_arcivescovo_di_Santa_Severina" xml:id="Caffarelli">
+        <persName type="main">Fausto Caffarelli, arcivescovo di Santa Severina</persName>
+        <persName type="presentation">Arcivescovo Fausto Caffarelli</persName>
+        <idno type="URI">https://www.catholic-hierarchy.org/bishop/bcafff.html</idno>
+        <birth when="1595"/>
+        <death when="1651"/>
+        <note>Papal nuncio to Turin from 1634 to 1641. </note>
       </person>
       <person sortKey="Christine,_duchesse_de_Savoie" xml:id="Christine">
         <persName type="main">Christine, duchesse de Savoie</persName>
@@ -669,7 +696,7 @@
         <note>Second wife of Henry IV, crowned queen of France the day before the king's
           assassination in 1610. In 1617 she was forced from power by her son, Louis XIII, and
           expelled to Blois. Though she reconciled with Louis and returned to court in 1621, her
-          attempt to end Richelieu's influence in 1630 on the "Day of the Dupes" would result in her
+          attempt to end Richelieu's influence on the Day of the Dupes in 1630 would result in her
           permanent exile, first to Brussels, then to Amsterdam.</note>
       </person>
       <person sortKey="Maurizio,_prince_and_cardinal_of_Savoy" xml:id="Maurizio">
@@ -691,13 +718,13 @@
         <death when="1644"/>
         <note>Jesuit priest appointed ambassador to the court of Louis XIII by Victor Amadeus, duke
           of Savoy, in 1631. By arguing for the elevation of the duchy to a monarchy and disputing
-          to claims of France to territories within Savoy, Monod aroused the wrath of Richelieu; to
-          preserve relations with France the minister was recalled and placed under house arrest in
-          Cuneo (Coni). From there Monod secretly plotted against Richelieu with the Spanish
-          governor of Milan, and attempted to flee Savoy. In January of 1639 at Richelieu's urging,
-          Christine, duchess and regent of Savoy, resentfully imprisoned Monot in the castle of
-          Montmélian (Tapié, p. 390). At a later date Richelieu would transfer Monod to the
-          fortress-prison of Miolans, where he would remain until his death.</note>
+          to claims of France to territories within Savoy, Monod made an enemy of Richelieu. To
+          preserve relations with France Monod was recalled and placed under house arrest in Cuneo
+          (Coni). From there the priest secretly plotted against Richelieu with the marquis of
+          Leganes, the Spanish governor of Milan, and attempted to flee Savoy. At Richelieu's
+          urging, Christine, regent of Savoy, imprisoned Monod in the castle of Montmélian in
+          January of 1639. (Tapié, p. 390). Richelieu would later transfer Monod to the
+          fortress-prison of Miolans, where he remained until his death.</note>
       </person>
       <person sortKey="Montbazon,_Hercule_de_Rohan,_duc_de" xml:id="Montbazon">
         <persName type="main">Hercule de Rohan, duc de Montbazon</persName>
@@ -788,13 +815,15 @@
           make France the ascendant power in Europe by mid-century by allying with Protestant
           nations against the Catholic Hapsburgs.</note>
       </person>
-      <person sortKey="Saint-Maurice,_Thomas-François_Chabod,_marquis_de" xml:id="SMaurice">
-        <persName type="main">Thomas-François Chabod, marquis de Saint-Maurice</persName>
+      <person sortKey="Saint-Maurice,_Claude-Jérôme_de_Chabod,_marquis_de" xml:id="SMaurice">
+        <persName type="main">Claude-Jérôme de Chabod, marquis de Saint-Maurice</persName>
         <persName type="presentation">Marquis de Saint-Maurice</persName>
-        <idno type="VIAF">10793302</idno>
+        <idno type="VIAF">433159474047827660537</idno>
         <birth when="1583"/>
         <death when="1653"/>
-        <note>Member of an aristocratic Savoyard family.</note>
+        <note>The first marquis of Saint-Maurice, a diplomat and member of the Supreme Order of the
+          Most Holy Annunciation. He was a signator of the Treaty of Westphalia, representing
+          Savoy.</note>
       </person>
       <person sortKey="Sully,_Maximilien_de_Béthune,_duc_de" xml:id="Sully">
         <persName type="main">Maximilien de Béthune, duc de Sully</persName>
@@ -873,16 +902,23 @@
         <persName type="main">Victor Amadeus I, duc de Savoie</persName>
         <persName type="presentation">Victor Amadeus I</persName>
         <idno type="VIAF">76193579</idno>
-        <birth when="1587-05-08"/>
-        <death when="1637-10-07"/>
+        <birth when="1587"/>
+        <death when="1637"/>
         <note>Duke of Savoy from 1630-37, married to Christine of France, sister of Louis XIII. The
           duke's death in 1637 and the death of his eldest son, Francis Hyacinth, in 1639 instigated
           the Piedmontese Civil War, as the regency of Christine was challenged by the late duke's
           brothers, Thomas, prince of Carignano and Maurice, prince of Savoy.</note>
       </person>
-      <person sortKey="Ville,_Guido_Villa,_marquis_de" xml:id="Villa">
-        <persName type="main">Guido Villa, marquis de Ville</persName>
-        <persName type="presentation">Marquis de Ville</persName>
+      <person sortKey="Guido_Villa,_marchese_di_Cigliano" xml:id="Villa">
+        <persName type="main">Guido Villa, marchese di Cigliano</persName>
+        <persName type="presentation">Marchese di Cigliano</persName>
+        <persName type="alternate">Marquis de Ville</persName>
+        <idno type="VIAF">299871496</idno>
+        <birth when="1586"/>
+        <death when="1648"/>
+        <note>Lieutenant general from Ferrara in the service of Victor Amadeus I, duke of Savoy.
+          Villa remained in the court of Christine, duchess of Savoy, during her regency (Berni,
+          title page; Osborne, p. 3).</note>
       </person>
       <person sortKey="Charpentier,_Denis" xml:id="Sc1">
         <persName type="main">Denis Charpentier</persName>
@@ -1548,7 +1584,10 @@
           <geo>45.14 7.06</geo>
         </location>
         <idno type="GeoNames">3166018</idno>
-        <note>Town about 50 km west of Turin.</note>
+        <note>Town about 50 km west of Turin. Connecting the two settlements was the Val di Susa,
+          the southernmost of two possible routes through the Alps which allowed communication
+          between Spain and the Spanish Netherlands. The other route, the Valtellina along the
+          boarder with Switzerland, was frequently contested during the Thirty Years' War.</note>
       </place>
       <place sortKey="Tarentaise,_Vallée_de_la" xml:id="Tarentaise" type="valley">
         <placeName type="main">Vallée de la Tarentaise</placeName>
@@ -1701,10 +1740,10 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Richelieu assures La Valette that funds and munitions for the defense of Cazal and
-            Pignerol have been sent, that fresh troops will arrive in the spring, and that a letter
-            of advice has been sent to Christine, duchess of Savoy. (A version of the letter is
-            reproduced in the Avenel compilation, vol. 6, p. 265.)</note>
+          <note>Richelieu assures Cardinal de La Valette that funds and munitions for the defense of
+            Cazal and Pignerol have been sent, that fresh troops will arrive in the spring, and that
+            a letter of advice has been sent to Duchess Christine of Savoy. (Another version of this
+            letter is reproduced in the Avenel compilation, vol. 6, p. 265.)</note>
           <correspContext>
             <ref type="next" target="#letter10">Next letter of <persName ref="#Valette">Cardinal de
                 La Valette</persName> to <persName ref="#Richelieu">Cardinal Richelieu</persName>:
@@ -1934,11 +1973,11 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>La Valette informs Richelieu that salaries for French troops in the Piedmont are two
-            months in arrears, and requests more regular payments in the future to secure the
-            region. He also suggests that Richelieu write to Chrisitine, duchess of Savoy, to
-            acknowledge her role in the imprisonment of Father Monod, a former advisor and enemy of
-            Richelieu who attempted to flee house arrest in Cuneo.</note>
+          <note>Cardinal de La Valette complains that salaries for French troops in the Piedmont are
+            two months in arrears, and requests more regular payments in the future to secure the
+            region. He also suggests that Richelieu write to Duchess Chrisitine of Savoy to
+            acknowledge her role in the imprisonment of Father Monod, an enemy of Richelieu who
+            attempted to flee house arrest in Cuneo.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -2239,9 +2278,9 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>La Valette offers condolences on the passing of Father Joseph, thanks Richelieu for
-            sending additional funds, and indicates that further information on the situation with Father
-            Monod and military operations is forthcoming.</note>
+          <note>Cardinal de La Valette offers condolences on the passing of Père Joseph, thanks
+            Richelieu for sending additional funds, and indicates that further intelligence on Père
+            Monod and military operations in the Piedmont is forthcoming.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -2397,7 +2436,7 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title>The <persName ref="#Villa">Marquis de Ville</persName> to <persName
+          <title><persName ref="#Villa">Guido Villa, marchese di Cigliano</persName> to <persName
               ref="#Richelieu">Cardinal Richelieu</persName>, 19 January 1639</title>
           <respStmt>
             <resp>Transcription assistance by</resp>
@@ -2459,8 +2498,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Villa indicates his hopes for advancement in the service of Louis XIII will be
-            conveyed to Richelieu through d'Hemery.</note>
+          <note>Marchese Villa conveys his hopes for advancement in the service of Louis XIII in a
+            letter to be delivered by Michel Particelli, sieur d'Hemery.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -2573,8 +2612,10 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Christine insists her service to Louis XIII has been misrepresented by d'Hemery and
-            requests additional French troops for the protection of Savoy.</note>
+          <note>In a letter delivered by her ambassador, the Marquis de Saint-Maurice, Christine
+            insists her service to Louis XIII has been unfairly represented by Michel Particelli,
+            sieur d'Hemery, and requests additional French troops for the protection of
+            Savoy.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -2769,9 +2810,9 @@
               <reg>Monsieur</reg>
             </choice> mon <choice>
               <orig>Covsin</orig>
-              <reg>Cousin </reg>
-            </choice>, Vostre affectionnée Cousine</salute> Chrestienne. <dateline>Du <placeName
-              ref="#Turin">Turin</placeName> ce 14. <choice>
+              <reg>Cousin</reg>
+            </choice>, Vostre affectionnée Cousine</salute>
+          <lb/>Chrestienne. <dateline>Du <placeName ref="#Turin">Turin</placeName> ce 14. <choice>
               <orig>Ianuier</orig>
               <reg>Janvier</reg>
             </choice> 1639.</dateline></closer>
@@ -2782,8 +2823,8 @@
     <teiHeader>
       <fileDesc>
         <titleStmt>
-          <title>The <persName ref="#Aglie">Conte d'Agliè</persName> to <persName ref="#Richelieu"
-              >Cardinal Richelieu</persName>, 14 January 1639</title>
+          <title><persName ref="#Aglie">Filippo San Martino, conte d'Agliè</persName> to <persName
+              ref="#Richelieu">Cardinal Richelieu</persName>, 14 January 1639</title>
           <respStmt>
             <resp>Transcription assistance by</resp>
             <persName ref="#GL">Gloria de Liberali</persName>
@@ -2845,9 +2886,8 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Agliè assures Richelieu that the situation with Father Monod has been resolved
-            according to the cardinal's wishes; the priest has been confined to the castle at
-            Montmélian.</note>
+          <note>The Conte d'Agliè assures Richelieu that Père Monod has been imprisoned in the
+            castle at Montmélian.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -2994,8 +3034,9 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Christine thanks Richelieu for the reassurances he conveyed through Palluau and
-            confirms her desire to act in accordance with the cardinal's wishes.</note>
+          <note>Duchess Christine of Savoy thanks Richelieu for reassurances conveyed through Baron
+            Palluau and confirms him as a fair representative of her intentions and loyalty to
+            France.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -3133,8 +3174,11 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>Christine has sent Estrades and Saint-Maurice to speak on her behalf, and asks
-            Richelieu to convey her wishes to Louis XIII.</note>
+          <note>Duchess Christine of Savoy insists her loyalty to France is demonstrated by her
+            carrying out of a difficult request, possibly her recent arrest and imprisonment of Père
+            Monod, an advisor to the court of Savoy and enemy of Richelieu. She is sending the Comte
+            d'Estrades and her ambassador, the Marquis de Saint-Maurice, to represent her side of
+            the affair to Richelieu.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -3334,10 +3378,11 @@
             <placeName/>
             <date/>
           </correspAction>
-          <note>La Valette confirms that Christine has sent Father Monod to Montmélian and insists
-            on the importance of continuing payments for the French army in Savoy. Turenne has
-            arrived in Casale, where fortifications continue. Through the nuncio, Urban VIII has
-            ordered that accommodations be made for Prince Maurice.</note>
+          <note>Cardinal de La Valette confirms Christine's continued resolve to confine Père Monod
+            at Montmélian. He repeats the necessity of regular disbursements to maintain the king's
+            regiments in Savoy. Turenne has arrived in Casale, where fortifications continue.
+            Through his nuncio, Urban VIII has ordered that accommodations be made for Prince
+            Maurice of Savoy.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -3456,8 +3501,8 @@
             <orig>seruir</orig>
             <reg>servir</reg>
           </choice> en Italie, que le le double de celle qui passera de France.</p>
-        <p>Le Nonce a ordre du <persName ref="#Urban8">Pape</persName> de traiter l'accommodement du
-            <persName ref="#Maurice">Cardinal de <choice>
+        <p>Le <persName ref="#Caffarelli">Nonce</persName> a ordre du <persName ref="#Urban8"
+            >Pape</persName> de traiter l'accommodement du <persName ref="#Maurice">Cardinal de <choice>
               <orig>Sauoye</orig>
               <reg>Savoye</reg>
             </choice></persName>
@@ -3578,9 +3623,10 @@
                 >Cardinal Richelieu</persName> to <persName ref="#Valette">Cardinal de La
                 Valette</persName>: <date when="1639-01-06">6 January 1639</date></ref>
           </correspContext>
-          <note>La Valette insists that his loyalties lie with the cardinal as opposed his brother,
-            Bernard de La Valette. He requests additional funds for fortifications and to maintain
-            the higher numbers of infantry and cavalry now in Savoy.</note>
+          <note>Cardinal de La Valette insists his loyalties lie with Richelieu as opposed his
+            brother, Bernard, who was found guilty of military negligence in 1639. La Valette
+            requests additional funds to build fortifications and to maintain the larger infantry
+            and cavalry now in Savoy.</note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -3939,8 +3985,8 @@
           </correspAction>
           <note>After reviewing troops and estabilshing Turenne at Casale, La Valette updates
             Richelieu on troop numbers and the progress of fortifications in the Piedmont. Maurice
-            has received the title of Duke of Savoy from the Ferdinand III and Span is preparing for
-            conflict. </note>
+            has received the title of Duke of Savoy from the Ferdinand III and Spain is preparing
+            for conflict. </note>
         </correspDesc>
       </profileDesc>
     </teiHeader>
@@ -9067,7 +9113,7 @@
             <reg>pourveu</reg>
           </choice> que nos recreuës passent en deça à peu pres du nombre que les Officiers ont
           promis ; Madame a fait entrer dans <placeName ref="#Turin">Turin</placeName> les Regimens
-          des Lorrains, Senantes, &amp; du <persName ref="#Maurizio">Comte Maurice</persName>, &amp; <choice>
+          des Lorrains, Senantes, &amp; du <persName ref="#SMaurice">Comte Maurice</persName>, &amp; <choice>
             <orig>i</orig>
             <reg>j</reg>
           </choice>'ay dans le Fauxbourg du <placeName ref="#Pau">Pau</placeName> plus de <pb
@@ -12627,7 +12673,8 @@
           </choice> la Copie à Messieurs de <choice>
             <orig>Chauigny</orig>
             <reg>Chavigny</reg>
-          </choice>, &amp; d'Hemery, &amp; leur mande que Monsieur le Comte de Saint Maurice en <choice>
+          </choice>, &amp; d'Hemery, &amp; leur mande que <persName ref="#SMaurice">Monsieur le
+            Comte de Saint Maurice</persName> en <choice>
             <orig>enuoye</orig>
             <reg>envoye</reg>
           </choice> autant aux Ministres de Madame qui sont à <placeName ref="#Pinerolo"
